@@ -1,0 +1,131 @@
+body {
+}
+#wrapper {
+	padding: $col-padding;
+}
+
+/**
+ * Site header
+ */
+.site-header {
+    // Positioning context for the mobile navigation icon
+    // position: relative;
+	width: $col-width;
+	float: left;
+	position: fixed;	
+
+	ul {
+		padding-left: 0px;
+		margin-left: 0px;
+		li {
+			list-style: none;
+		}
+	}
+
+	#imagewrap {
+		width: $col-width;
+		overflow: hidden;
+		margin-bottom: 15px;
+	}
+	#image {
+		background-repeat: none;
+		background-image: url('/css/kyoto-270x150.jpg');
+		background: -webkit-image-set( url('/css/kyoto-270x150.jpg') 1x, url('/css/kyoto-270x150x2.jpg') 2x );
+		width: $col-width;
+		height: 150px / 270px * $col-width;
+	}
+}
+
+/**
+ * Wrapper
+ */
+/* 
+.wrapper {
+    max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
+    max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2));
+    margin-right: auto;
+    margin-left: auto;
+    padding-right: $spacing-unit;
+    padding-left: $spacing-unit;
+    @extend %clearfix;
+
+    @include media-query($on-laptop) {
+        max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit}));
+        max-width:         calc(#{$content-width} - (#{$spacing-unit}));
+        padding-right: $spacing-unit / 2;
+        padding-left: $spacing-unit / 2;
+    }
+}
+ */
+
+
+
+/**
+ * Site footer
+ */
+.site-footer {
+    border-top: 1px solid $grey-color-light;
+    padding: $spacing-unit 0;
+}
+.site-footer {
+	width: $col-width;
+	float: left;
+	position: fixed;
+	bottom: 50px;
+}
+
+/**
+ * Page content
+ */
+.page-content {
+	max-width: $content-width;
+	padding-left: $col-width + $col-padding;
+	padding-bottom: $col-padding;
+}
+//    padding: $spacing-unit 0;
+
+.post-list {
+    margin-left: 0;
+    list-style: none;
+
+    > li {
+        margin-bottom: $spacing-unit;
+    }
+}
+
+.post-meta {
+    font-size: $small-font-size;
+    color: $grey-color;
+}
+
+.post-link {
+    display: block;
+    font-size: 24px;
+}
+
+
+
+/**
+ * Posts
+ */
+.post-header {
+    margin-bottom: $spacing-unit;
+}
+
+.post-title {
+/*     font-size: 42px; */
+    letter-spacing: -1px;
+    line-height: 1;
+
+    @include media-query($on-laptop) {
+        font-size: 36px;
+    }
+}
+
+.post-content {
+    margin-bottom: $spacing-unit;
+
+//        @include media-query($on-laptop) {
+//            font-size: 18px;
+//        }
+}
