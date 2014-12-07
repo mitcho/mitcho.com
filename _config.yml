@@ -13,6 +13,11 @@ markdown:    kramdown
 highlighter: pygments
 exclude:     ["_hidden"]
 timezone:    America/New_York
+gems:
+  - jekyll-redirect-from
+  - jemoji
+
+disqusid: "http://mitcho.com"
 
 # Permalinks
 permalink: pretty
@@ -20,4 +25,4 @@ relative_permalinks: true
 
 # Markdown
 kramdown:
-    input: GFM # github-flavored markdown
+  input: GFM # github-flavored markdown
