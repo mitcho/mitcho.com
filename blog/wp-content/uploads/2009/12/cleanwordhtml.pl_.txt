@@ -1,0 +1,46 @@
+#!/usr/bin/perl
+# clean Word HTML
+# by mitcho, 20091230
+# http://mitcho.com
+
+$_ = `cat ${ARGV[0]}`;
+
+s!\n!\r!gm;
+
+s! class=Section\d+!!gm;
+s! class=Mso\w+!!gm;
+s! class=SpellE!!gm;
+
+s!mso-[^:]+:[^;'"]+;?!!gm;
+s!mso-[^:]+:[^;]+;!!gm;
+s!font-weight:\s*normal;?!!gm;
+s!font-style:\s*normal;?!!gm;
+s!font-family:\s*"Times New Roman";?!!gm;
+s!font-family:\s*TimesNewRomanPSMT;?!!gm;
+s!\s*style=''!!gm;
+s!\s*style=""!!gm;
+
+# there are a bunch of tags with o or v namespaces. get rid of them!
+s!</?[ov]:[^>]+>!!gm;
+
+# omg overlapping id's for style!!
+s!id=!class=!gm;
+
+# remove IE/MS style conditional comments
+s?<!\[if [^\]]+\]>??gm;
+s?<!\[endif\]>??gm;
+
+# don't use blank paragraphs for spacing!
+s!\r<p>(&nbsp;|\s)*</p>\r!\r!gm;
+
+# remove spans with nothing in them anymore.
+s!<span\s*>([^<]*)</span>!$1!gm;
+s!<span\s*>([^<]*)</span>!$1!gm; #twice for good measure
+
+# remove newlines within paragraphs
+s!(\w)\s*\r(\w)!$1 $2!gm;
+
+#m!<body[^>]*>(.*)</body>!m;
+#$_ = $1;
+
+print;

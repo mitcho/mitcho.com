@@ -1,6 +1,7 @@
 ---
 title: Using Templates with YARPP 3
 layout: post
+comments: true
 permalink: /blog/projects/yarpp-3-templates/
 comments: true
 dsq_thread_id:

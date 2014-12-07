@@ -1,6 +1,7 @@
 ---
 title: External orders in WordPress queries
 layout: post
+comments: true
 permalink: /blog/how-to/external-orders-in-wordpress-queries/
 comments: true
 categories:
