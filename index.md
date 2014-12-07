@@ -1,5 +1,4 @@
 ---
-author: mitcho
 layout: page
 ---
 ## Hello!

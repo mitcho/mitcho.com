@@ -1,6 +1,5 @@
 ---
 title: code
-author: mitcho
 layout: page
 permalink: /code/
 ---

@@ -17,3 +17,7 @@ timezone:    America/New_York
 # Permalinks
 permalink: pretty
 relative_permalinks: true
+
+# Markdown
+kramdown:
+    input: GFM # github-flavored markdown
