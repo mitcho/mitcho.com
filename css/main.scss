@@ -29,9 +29,10 @@ $grey-color-dark:  darken($grey-color, 25%);
 $content-width:    800px;
 $col-width:        270px;
 $col-padding:      50px;
+$small-padding:    20px;
 
-$on-palm:          600px;
-$on-laptop:        800px;
+$on-phone:         480px;
+$on-tablet:        960px;
 
 
 
@@ -54,6 +55,6 @@ $on-laptop:        800px;
 @import
         "base",
         "layout",
-//        "mobile",
+        "layout-responsive",
         "syntax-highlighting"
 ;
