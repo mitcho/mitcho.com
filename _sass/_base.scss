@@ -219,3 +219,25 @@ pre {
 	padding: 10px;
 	background: #fee;
 }
+
+.files {
+	margin: 0.4em 0 2em 0em;
+	line-height: normal;
+
+	.specs{ color: #999; font-size: 80%; padding-top: 0em; }
+
+	.file {
+		padding-left: 40px;
+		background: url(file.png) no-repeat;
+
+		&.pdf {
+			background-image: url(pdf.png);
+		}
+		&.zip {
+			background-image: url(zip.png);
+		}
+		&.rss {
+			background-image: url(rss.png);
+		}
+	}
+}
