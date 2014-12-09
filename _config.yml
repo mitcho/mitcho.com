@@ -26,3 +26,7 @@ relative_permalinks: true
 # Markdown
 kramdown:
   input: GFM # github-flavored markdown
+
+# SASS
+sass:
+    style: :compressed
