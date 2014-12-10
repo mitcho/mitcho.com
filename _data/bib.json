@@ -1,0 +1,384 @@
+[
+    {
+        "citationKey": "voice-oup",
+        "entryType": "incollection",
+        "keywords": [
+            "project:voice",
+            "Austronesian",
+            "Austronesian voice",
+            "case",
+            "agreement",
+            "ergativity"
+        ],
+        "author": "Erlewine, Michael Yoshitaka and Levin, Theodore and van Urk, Coppe",
+        "title": "Ergativity and Austronesian-type voice systems",
+        "year": "under review"
+    },
+    {
+        "citationKey": "voice-afla",
+        "entryType": "inproceedings",
+        "keywords": [
+            "project:voice",
+            "Austronesian",
+            "Austronesian voice",
+            "A'",
+            "case",
+            "agreement"
+        ],
+        "author": "Erlewine, Michael Yoshitaka and Levin, Theodore and van Urk, Coppe",
+        "title": "What makes a voice system?",
+        "year": "to appear"
+    },
+    {
+        "citationKey": "squliq",
+        "entryType": "inproceedings",
+        "keywords": [
+            "Squliq Atayal",
+            "syntax",
+            "A'",
+            "case",
+            "topic",
+            "subject"
+        ],
+        "author": "Erlewine, Michael Yoshitaka",
+        "title": "Subject marking on non-subjects in Squliq Atayal",
+        "year": "to appear"
+    },
+    {
+        "citationKey": "that-trace",
+        "entryType": "unpublished",
+        "keywords": [
+            "subject",
+            "project:that-trace",
+            "A'",
+            "anti-locality"
+        ],
+        "author": "Erlewine, Michael Yoshitaka",
+        "title": "Why the null complementizer is special in the English <em>that</em>-trace effect",
+        "note": "Manuscript, MIT",
+        "year": "2014"
+    },
+    {
+        "citationKey": "leftward",
+        "entryType": "inproceedings",
+        "keywords": [
+            "project:dissertation",
+            "focus",
+            "only",
+            "even",
+            "Association with Focus",
+            "copy theory"
+        ],
+        "author": "Erlewine, Michael Yoshitaka",
+        "editor": "Urtzi Etxeberria and Anamaria F{\\u a}l{\\u a}u{\\c s} and Aritz Irurtzun and Bryan Leferman",
+        "title": "Explaining leftward focus association with <em>even</em> but not <em>only</em>",
+        "year": "2014"
+    },
+    {
+        "citationKey": "af-wccfl",
+        "entryType": "inproceedings",
+        "keywords": [
+            "project:af",
+            "Kaqchikel",
+            "Agent Focus",
+            "subject",
+            "ergativity",
+            "A'",
+            "agreement",
+            "anti-locality"
+        ],
+        "author": "Erlewine, Michael Yoshitaka",
+        "title": "Anti-Locality and Kaqchikel Agent Focus",
+        "year": "2014"
+    },
+    {
+        "citationKey": "dissertation",
+        "entryType": "phdthesis",
+        "keywords": [
+            "project:dissertation",
+            "focus",
+            "only",
+            "even",
+            "Association with Focus",
+            "copy theory",
+            "presupposition",
+            "movement",
+            "reconstruction",
+            "English"
+        ],
+        "author": "Erlewine, Michael Yoshitaka",
+        "title": "Movement Out of Focus",
+        "year": "2014"
+    },
+    {
+        "citationKey": "hirc",
+        "entryType": "inproceedings",
+        "keywords": [
+            "semantics",
+            "project:hirc",
+            "quantification",
+            "copy theory",
+            "relative clause"
+        ],
+        "author": "Erlewine, Michael Yoshitaka and Gould, Isaac",
+        "title": "Interpreting Japanese Head-Internal Relative Clauses",
+        "url": "http://semanticsarchive.net/Archive/WRmNWMxY/",
+        "year": "2014"
+    },
+    {
+        "citationKey": "blocking",
+        "entryType": "unpublished",
+        "keywords": [
+            "project:blocking",
+            "morphology",
+            "syntax",
+            "Distributed Morphology",
+            "causative"
+        ],
+        "author": "Kotek, Hadas and Erlewine, Michael Yoshitaka",
+        "title": "Blocking effects in English causatives",
+        "url": "http://ling.auf.net/lingbuzz/001896",
+        "note": "Manuscript, MIT",
+        "year": "2013"
+    },
+    {
+        "citationKey": "af",
+        "entryType": "article",
+        "keywords": [
+            "project:af",
+            "Kaqchikel",
+            "Agent Focus",
+            "A'",
+            "agreement",
+            "anti-locality",
+            "Optimality Theory",
+            "anti-agreement",
+            "subject",
+            "ergativity"
+        ],
+        "author": "Erlewine, Michael Yoshitaka",
+        "title": "Anti-locality and optimality in Kaqchikel Agent Focus",
+        "year": "to appear"
+    },
+    {
+        "citationKey": "bi",
+        "entryType": "unpublished",
+        "keywords": [
+            "project:bi",
+            "comparative",
+            "Mandarin Chinese",
+            "ellipsis",
+            "syntax",
+            "semantics"
+        ],
+        "author": "Erlewine, Michael Yoshitaka",
+        "title": "Degree comparison without degree abstraction",
+        "url": "http://lingbuzz.auf.net/lingbuzz/001687",
+        "note": "Manuscript, MIT",
+        "year": "2013"
+    },
+    {
+        "citationKey": "turktools",
+        "entryType": "article",
+        "keywords": [
+            "experiment",
+            "tools",
+            "project:turktools"
+        ],
+        "author": "Erlewine, Michael Yoshitaka and Kotek, Hadas",
+        "title": "A streamlined approach to online linguistic surveys",
+        "url": "http://ling.auf.net/lingbuzz/001802/",
+        "year": "to appear"
+    },
+    {
+        "citationKey": "dake",
+        "entryType": "inproceedings",
+        "keywords": [
+            "only",
+            "Japanese",
+            "semantics"
+        ],
+        "author": "Erlewine, Michael Yoshitaka",
+        "title": "The effect of `only' on quantifier scope: the <em>dake</em> blocking effect",
+        "url": "http://faculty.human.mie-u.ac.jp/~glow_mie/Workshop_Proceedings/06Erlewine.pdf",
+        "year": "2012"
+    },
+    {
+        "citationKey": "talk-glow2012",
+        "entryType": "unpublished",
+        "keywords": [
+            
+        ],
+        "author": "Erlewine, Michael Yoshitaka",
+        "title": "Assocation with traces and the copy theory of movement",
+        "url": "http://mitcho.com/academic/handout-glow2012.pdf",
+        "note": "Presented at {GLOW 35} Workshop on Association with Focus",
+        "year": "2012"
+    },
+    {
+        "citationKey": "focus-piedpiping",
+        "entryType": "inproceedings",
+        "keywords": [
+            "project:pied-piping",
+            "pied-piping",
+            "covert movement",
+            "intervention effects",
+            "focus",
+            "Association with Focus",
+            "only",
+            "cleft",
+            "semantics",
+            "syntax"
+        ],
+        "author": "Erlewine, Michael Yoshitaka and Kotek, Hadas",
+        "editor": "Huang, Hsin-Lun and Poole, Ethan and Rysling, Amanda",
+        "title": "Intervention in focus pied-piping",
+        "url": "http://semanticsarchive.net/Archive/WIzNzViN/",
+        "year": "2014"
+    },
+    {
+        "citationKey": "piedpiping",
+        "entryType": "article",
+        "keywords": [
+            "project:covert-pied-piping",
+            "pied-piping",
+            "covert movement",
+            "wh-questions",
+            "English",
+            "intervention effects",
+            "syntax",
+            "semantics"
+        ],
+        "author": "Kotek, Hadas and Erlewine, Michael Yoshitaka",
+        "title": "Covert pied-piping in English multiple <em>wh</em>-questions",
+        "year": "to appear"
+    },
+    {
+        "citationKey": "af-mitwpl",
+        "entryType": "incollection",
+        "keywords": [
+            "Kaqchikel",
+            "project:af",
+            "morphology",
+            "syntax",
+            "Agent Focus"
+        ],
+        "author": "Erlewine, Michael Yoshitaka",
+        "editor": "Kenstowicz, Michael",
+        "title": "Dissociating the syntax and morphological realization of Kaqchikel Agent Focus",
+        "year": "2013"
+    },
+    {
+        "citationKey": "talk-aimm2012",
+        "entryType": "unpublished",
+        "keywords": [
+            "af",
+            "hidden"
+        ],
+        "author": "Erlewine, Michael Yoshitaka",
+        "title": "Dissociating the syntax and morphological realization of Mayan Agent Focus",
+        "url": "http://mitcho.com/academic/handout-aimm2012.pdf",
+        "note": "Presented at the First American International Morphology Meeting, UMass Amherst",
+        "year": "2012"
+    },
+    {
+        "citationKey": "haishi",
+        "entryType": "inproceedings",
+        "keywords": [
+            "project:haishi",
+            "alternative questions",
+            "focus",
+            "Mandarin Chinese",
+            "intervention effects",
+            "syntax",
+            "semantics",
+            "islands"
+        ],
+        "author": "Erlewine, Michael Yoshitaka",
+        "editor": "Beltrama, Andrea and Chatzikonstantinou, Tasos and Lee, Jackson L. and Pham, Mike and Rak, Diane",
+        "title": "Alternative questions through focus alternatives in Mandarin Chinese",
+        "url": "http://mitcho.com/academic/erlewine-cls48-preprint.pdf",
+        "year": "2014"
+    },
+    {
+        "citationKey": "bi-ncl",
+        "entryType": "inproceedings",
+        "keywords": [
+            "comparative",
+            "Mandarin Chinese",
+            "syntax",
+            "semantics",
+            "project:bi"
+        ],
+        "author": "Erlewine, Michael Yoshitaka",
+        "title": "The verbal nature of Mandarin comparative <em>bǐ</em>",
+        "year": "2008"
+    },
+    {
+        "citationKey": "bi-wccfl",
+        "entryType": "inproceedings",
+        "keywords": [
+            "comparative",
+            "Mandarin Chinese",
+            "syntax",
+            "semantics",
+            "project:bi",
+            "multidominance"
+        ],
+        "author": "Erlewine, Michael Yoshitaka",
+        "editor": "Choi, Jaehoon and Hogue, E. Alan and Punske, Jeffrey and Tat, Deniz and Schertz, Jessamyn and Trueman, Alex",
+        "title": "Share to Compare: the Mandarin <em>bǐ</em> Comparative",
+        "year": "2012"
+    },
+    {
+        "citationKey": "talk-isle2",
+        "entryType": "unpublished",
+        "keywords": [
+            
+        ],
+        "author": "Erlewine, Michael Yoshitaka",
+        "title": "The Constituency of Hyperlinks in a Hypertext Corpus",
+        "url": "http://mitcho.com/academic/slides-isle2.pdf",
+        "note": "Presented at the International Society for the Linguistics of English (IsLE 2), Boston University",
+        "year": "2011"
+    },
+    {
+        "citationKey": "eryi",
+        "entryType": "inproceedings",
+        "keywords": [
+            "Mandarin Chinese",
+            "semantics",
+            "only",
+            "project:sfp"
+        ],
+        "author": "Erlewine, Michael Yoshitaka",
+        "title": "Sentence-final <em>only</em> and the interpretation of focus in {Mandarin Chinese}",
+        "url": "http://naccl.osu.edu/files/NACCL-22_2_33_erlewine.pdf",
+        "year": "2010"
+    },
+    {
+        "citationKey": "naturalsyntax",
+        "entryType": "url",
+        "keywords": [
+            
+        ],
+        "author": "Erlewine, Michael Yoshitaka",
+        "title": "How natural should a natural interface be?",
+        "url": "http://mitcho.com/blog/projects/how-natural-should-a-natural-interface-be/"
+    },
+    {
+        "citationKey": "thesis",
+        "entryType": "mastersthesis",
+        "keywords": [
+            "comparative",
+            "Mandarin Chinese",
+            "syntax",
+            "semantics",
+            "project:bi"
+        ],
+        "author": "Erlewine, Michael Yoshitaka",
+        "title": "A New Syntax-Semantics for the Mandarin <em>bǐ</em> Comparative",
+        "url": "http://mitcho.com/academic/erlewine-thesis.pdf",
+        "year": "2007"
+    }
+]
