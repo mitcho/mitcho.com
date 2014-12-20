@@ -7,10 +7,16 @@
 		
 	<div id='nav'>
 		<ul>
-			<li><a href="/research">research</a> (<a href="/academic/erlewine-cv.pdf">PDF cv</a>)</li>
-			<li><a href="/code/">code</a> (<a href="https://github.com/mitcho">GitHub</a>)</li>
-			<li>photos: <a href="https://secure.flickr.com/photos/themitcho">flickr</a>, <a href="https://instagram.com/mitcho">Instagram</a></li>
-			<li class="twitter"><a href="https://twitter.com/themitcho">twitter</a></li>
+		{% for item in site.data.nav %}
+			<li>{% if item.href != null %}<a href='{{item.href}}'>{{item.title}}</a>{% else %}{{item.title}}{% endif %}
+				
+				{% if item.sub != null %}
+					({% for subitem in item.sub %}
+					{% if subitem.href != null %}<a href='{{subitem.href}}'>{{subitem.title}}</a>{% else %}{{subitem.title}}{% endif %}
+					{% endfor %})
+				{% endif %}
+			</li>
+		{% endfor %}
 		</ul>
 	</div>
 </header>

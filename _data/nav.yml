@@ -1,0 +1,21 @@
+- title: "research"
+  href: "/research"
+  sub:
+  - title: "PDF cv"
+    href: "/academic/erlewine-cv.pdf"
+
+- title: "code"
+  href: "/code"
+  sub:
+  - title: "GitHub"
+    href: "https://github.com/mitcho"
+
+- title: "photos"
+  sub:
+  - title: "flickr"
+    href: "https://secure.flickr.com/photos/themitcho"
+  - title: "Instagram"
+    href: "https://instagram.com/mitcho"
+
+- title: "twitter"
+  href: "https://twitter.com/themitcho"
