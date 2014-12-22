@@ -29,7 +29,7 @@ with {% for author in paper.authors %}
 {% endif %}
 
 {% if paper.journal != null %}
-In <em>{{paper.journal}}</em>{{pages}}.
+In <em>{{paper.journal}}</em>{% if paper.volume != null %} {{paper.volume}}{% endif %}{{pages}}.
 {% endif %}
 
 {% if paper.booktitle != null %}
