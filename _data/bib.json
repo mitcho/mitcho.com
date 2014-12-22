@@ -1,5 +1,23 @@
 [
     {
+        "citationKey": "talk:teal9",
+        "entryType": "unpublished",
+        "keywords": [
+            
+        ],
+        "authors": [
+            {
+                "name": "Erlewine, Michael Yoshitaka",
+                "lastName": "Erlewine",
+                "displayName": "Michael Yoshitaka Erlewine"
+            }
+        ],
+        "author": "Erlewine, Michael Yoshitaka",
+        "title": "On the position of focus adverbs",
+        "note": "Presented at Theoretical East Asian Linguistics (TEAL 9), University of Nantes",
+        "year": "2014"
+    },
+    {
         "citationKey": "voice-oup",
         "entryType": "incollection",
         "keywords": [
@@ -10,24 +28,64 @@
             "agreement",
             "ergativity"
         ],
+        "authors": [
+            {
+                "name": "Erlewine, Michael Yoshitaka",
+                "lastName": "Erlewine",
+                "displayName": "Michael Yoshitaka Erlewine"
+            },
+            {
+                "name": "Levin, Theodore",
+                "lastName": "Levin",
+                "displayName": "Theodore Levin",
+                "url": "https://sites.google.com/site/tfranklevin/"
+            },
+            {
+                "name": "van Urk, Coppe",
+                "lastName": "van Urk",
+                "displayName": "Coppe van Urk",
+                "url": "http://web.mit.edu/cvanurk/www/"
+            }
+        ],
         "author": "Erlewine, Michael Yoshitaka and Levin, Theodore and van Urk, Coppe",
         "title": "Ergativity and Austronesian-type voice systems",
-        "year": "under review"
+        "year": "under review",
+        "booktitle": "Oxford Handbook of Ergativity"
     },
     {
         "citationKey": "voice-afla",
         "entryType": "inproceedings",
         "keywords": [
-            "project:voice",
+            "project:dinka-austronesian",
             "Austronesian",
             "Austronesian voice",
             "A'",
             "case",
             "agreement"
         ],
+        "authors": [
+            {
+                "name": "Erlewine, Michael Yoshitaka",
+                "lastName": "Erlewine",
+                "displayName": "Michael Yoshitaka Erlewine"
+            },
+            {
+                "name": "Levin, Theodore",
+                "lastName": "Levin",
+                "displayName": "Theodore Levin",
+                "url": "https://sites.google.com/site/tfranklevin/"
+            },
+            {
+                "name": "van Urk, Coppe",
+                "lastName": "van Urk",
+                "displayName": "Coppe van Urk",
+                "url": "http://web.mit.edu/cvanurk/www/"
+            }
+        ],
         "author": "Erlewine, Michael Yoshitaka and Levin, Theodore and van Urk, Coppe",
         "title": "What makes a voice system?",
-        "year": "to appear"
+        "year": "to appear",
+        "booktitle": "Proceedings of AFLA 21"
     },
     {
         "citationKey": "squliq",
@@ -40,9 +98,17 @@
             "topic",
             "subject"
         ],
+        "authors": [
+            {
+                "name": "Erlewine, Michael Yoshitaka",
+                "lastName": "Erlewine",
+                "displayName": "Michael Yoshitaka Erlewine"
+            }
+        ],
         "author": "Erlewine, Michael Yoshitaka",
         "title": "Subject marking on non-subjects in Squliq Atayal",
-        "year": "to appear"
+        "year": "to appear",
+        "booktitle": "Proceedings of AFLA 20"
     },
     {
         "citationKey": "that-trace",
@@ -52,6 +118,13 @@
             "project:that-trace",
             "A'",
             "anti-locality"
+        ],
+        "authors": [
+            {
+                "name": "Erlewine, Michael Yoshitaka",
+                "lastName": "Erlewine",
+                "displayName": "Michael Yoshitaka Erlewine"
+            }
         ],
         "author": "Erlewine, Michael Yoshitaka",
         "title": "Why the null complementizer is special in the English <em>that</em>-trace effect",
@@ -69,16 +142,25 @@
             "Association with Focus",
             "copy theory"
         ],
+        "authors": [
+            {
+                "name": "Erlewine, Michael Yoshitaka",
+                "lastName": "Erlewine",
+                "displayName": "Michael Yoshitaka Erlewine"
+            }
+        ],
         "author": "Erlewine, Michael Yoshitaka",
         "editor": "Urtzi Etxeberria and Anamaria F{\\u a}l{\\u a}u{\\c s} and Aritz Irurtzun and Bryan Leferman",
         "title": "Explaining leftward focus association with <em>even</em> but not <em>only</em>",
-        "year": "2014"
+        "year": "2014",
+        "booktitle": "Proceedings of {Sinn und Bedeutung} 18",
+        "pages": "128--145"
     },
     {
         "citationKey": "af-wccfl",
         "entryType": "inproceedings",
         "keywords": [
-            "project:af",
+            "project:kaqchikel",
             "Kaqchikel",
             "Agent Focus",
             "subject",
@@ -87,9 +169,20 @@
             "agreement",
             "anti-locality"
         ],
+        "authors": [
+            {
+                "name": "Erlewine, Michael Yoshitaka",
+                "lastName": "Erlewine",
+                "displayName": "Michael Yoshitaka Erlewine"
+            }
+        ],
         "author": "Erlewine, Michael Yoshitaka",
+        "editor": "Santana-LaBarge, Robert E.",
         "title": "Anti-Locality and Kaqchikel Agent Focus",
-        "year": "2014"
+        "url": "http://www.lingref.com/cpp/wccfl/31/paper3017.pdf",
+        "year": "2014",
+        "abstract": "In many Mayan languages, A-bar extraction of subjects of transitive clauses triggers a change to that verb's morphology, known as Agent Focus. Previous researchers have assumed an exceptionless correlation between AF and the A-bar extraction of a transitive subject. In this paper new data from Kaqchikel (Mayan, Guatemala) shows that AF is a response to A-bar movement of a transitive subject that is too short. Movement of a transitive subject does not trigger AF if the movement chain is made longer by adding intervening material. An anti-locality constraint is proposed: \"Spec-to-Spec Anti-Locality,\" which bans movement between successive specifier positions. Spec-to-Spec Anti-Locality explains the full distributional pattern of AF in Kaqchikel. ",
+        "booktitle": "Proceedings of WCCFL 31"
     },
     {
         "citationKey": "dissertation",
@@ -106,9 +199,17 @@
             "reconstruction",
             "English"
         ],
+        "authors": [
+            {
+                "name": "Erlewine, Michael Yoshitaka",
+                "lastName": "Erlewine",
+                "displayName": "Michael Yoshitaka Erlewine"
+            }
+        ],
         "author": "Erlewine, Michael Yoshitaka",
         "title": "Movement Out of Focus",
-        "year": "2014"
+        "year": "2014",
+        "school": "Massachusetts Institute of Technology"
     },
     {
         "citationKey": "hirc",
@@ -120,10 +221,26 @@
             "copy theory",
             "relative clause"
         ],
+        "authors": [
+            {
+                "name": "Erlewine, Michael Yoshitaka",
+                "lastName": "Erlewine",
+                "displayName": "Michael Yoshitaka Erlewine"
+            },
+            {
+                "name": "Gould, Isaac",
+                "lastName": "Gould",
+                "displayName": "Isaac Gould"
+            }
+        ],
         "author": "Erlewine, Michael Yoshitaka and Gould, Isaac",
+        "editor": "Santana-LaBarge, Robert E.",
         "title": "Interpreting Japanese Head-Internal Relative Clauses",
-        "url": "http://semanticsarchive.net/Archive/WRmNWMxY/",
-        "year": "2014"
+        "url": "http://www.lingref.com/cpp/wccfl/31/paper3018.pdf",
+        "year": "2014",
+        "abstract": "This paper proposes a new kind of semantic analysis for Japanese head-internal relative clauses (HIRCs), based on new empirical observations concerning the interpretation of HIRCs with quantificational heads. The analysis involves abstraction over the domain of the HIRC's head quantifier via null operator movement. The entire HIRC is then interpreted as a definite description, using a maximal informativeness semantics for definiteness (von Fintel, Fox, and Iatridou 2012) and an assumption about the role of context in the interpretation of referential expressions. This analysis accounts for the new data, the island sensitivity of HIRCs, and the fact that quantificational heads take scope within the HIRC. Finally, previous analyses for the semantics of Japanese HIRC are discussed in relation to the new data presented. ",
+        "booktitle": "Proceedings of WCCFL 31",
+        "pages": "160--169"
     },
     {
         "citationKey": "blocking",
@@ -135,6 +252,19 @@
             "Distributed Morphology",
             "causative"
         ],
+        "authors": [
+            {
+                "name": "Kotek, Hadas",
+                "lastName": "Kotek",
+                "displayName": "Hadas Kotek",
+                "url": "http://hkotek.com"
+            },
+            {
+                "name": "Erlewine, Michael Yoshitaka",
+                "lastName": "Erlewine",
+                "displayName": "Michael Yoshitaka Erlewine"
+            }
+        ],
         "author": "Kotek, Hadas and Erlewine, Michael Yoshitaka",
         "title": "Blocking effects in English causatives",
         "url": "http://ling.auf.net/lingbuzz/001896",
@@ -145,7 +275,7 @@
         "citationKey": "af",
         "entryType": "article",
         "keywords": [
-            "project:af",
+            "project:kaqchikel",
             "Kaqchikel",
             "Agent Focus",
             "A'",
@@ -156,9 +286,18 @@
             "subject",
             "ergativity"
         ],
+        "authors": [
+            {
+                "name": "Erlewine, Michael Yoshitaka",
+                "lastName": "Erlewine",
+                "displayName": "Michael Yoshitaka Erlewine"
+            }
+        ],
         "author": "Erlewine, Michael Yoshitaka",
         "title": "Anti-locality and optimality in Kaqchikel Agent Focus",
-        "year": "to appear"
+        "year": "to appear",
+        "abstract": "Many Mayan languages show a syntactically ergative extraction asymmetry whereby the A-bar-extraction of subjects of transitive verbs requires special verbal morphology, known as Agent Focus. In this paper I investigate the syntax of Agent Focus in Kaqchikel, a Mayan language spoken in Guatemala. I argue that this extraction asymmetry in Kaqchikel is the result of a particular anti-locality constraint which bans movement that is too close. Support for this claim comes from new data on the distribution of Agent Focus in Kaqchikel that show this locality-sensitivity.\r\rThe distribution and realization of Agent Focus will then be modeled using a system of ranked, violable constraints operating over competing derivations. This theoretical choice will be supported by details in the pattern of agreement in Agent Focus. I will then show how rerankings of the proposed constraints can model the attested distribution of Agent Focus in a number of other Mayan languages. I also discuss extensions of this approach to other patterns of anti-agreement.",
+        "journal": "Natural Language &amp; Linguistic Theory"
     },
     {
         "citationKey": "bi",
@@ -170,6 +309,13 @@
             "ellipsis",
             "syntax",
             "semantics"
+        ],
+        "authors": [
+            {
+                "name": "Erlewine, Michael Yoshitaka",
+                "lastName": "Erlewine",
+                "displayName": "Michael Yoshitaka Erlewine"
+            }
         ],
         "author": "Erlewine, Michael Yoshitaka",
         "title": "Degree comparison without degree abstraction",
@@ -185,10 +331,24 @@
             "tools",
             "project:turktools"
         ],
+        "authors": [
+            {
+                "name": "Erlewine, Michael Yoshitaka",
+                "lastName": "Erlewine",
+                "displayName": "Michael Yoshitaka Erlewine"
+            },
+            {
+                "name": "Kotek, Hadas",
+                "lastName": "Kotek",
+                "displayName": "Hadas Kotek",
+                "url": "http://hkotek.com"
+            }
+        ],
         "author": "Erlewine, Michael Yoshitaka and Kotek, Hadas",
         "title": "A streamlined approach to online linguistic surveys",
         "url": "http://ling.auf.net/lingbuzz/001802/",
-        "year": "to appear"
+        "year": "to appear",
+        "journal": "Natural Language &amp; Linguistic Theory"
     },
     {
         "citationKey": "dake",
@@ -198,16 +358,31 @@
             "Japanese",
             "semantics"
         ],
+        "authors": [
+            {
+                "name": "Erlewine, Michael Yoshitaka",
+                "lastName": "Erlewine",
+                "displayName": "Michael Yoshitaka Erlewine"
+            }
+        ],
         "author": "Erlewine, Michael Yoshitaka",
         "title": "The effect of `only' on quantifier scope: the <em>dake</em> blocking effect",
         "url": "http://faculty.human.mie-u.ac.jp/~glow_mie/Workshop_Proceedings/06Erlewine.pdf",
-        "year": "2012"
+        "year": "2012",
+        "booktitle": "Proceedings of the GLOW in Asia workshop for young scholars"
     },
     {
-        "citationKey": "talk-glow2012",
+        "citationKey": "talk:glow2012",
         "entryType": "unpublished",
         "keywords": [
             
+        ],
+        "authors": [
+            {
+                "name": "Erlewine, Michael Yoshitaka",
+                "lastName": "Erlewine",
+                "displayName": "Michael Yoshitaka Erlewine"
+            }
         ],
         "author": "Erlewine, Michael Yoshitaka",
         "title": "Assocation with traces and the copy theory of movement",
@@ -230,11 +405,26 @@
             "semantics",
             "syntax"
         ],
+        "authors": [
+            {
+                "name": "Erlewine, Michael Yoshitaka",
+                "lastName": "Erlewine",
+                "displayName": "Michael Yoshitaka Erlewine"
+            },
+            {
+                "name": "Kotek, Hadas",
+                "lastName": "Kotek",
+                "displayName": "Hadas Kotek",
+                "url": "http://hkotek.com"
+            }
+        ],
         "author": "Erlewine, Michael Yoshitaka and Kotek, Hadas",
         "editor": "Huang, Hsin-Lun and Poole, Ethan and Rysling, Amanda",
         "title": "Intervention in focus pied-piping",
         "url": "http://semanticsarchive.net/Archive/WIzNzViN/",
-        "year": "2014"
+        "year": "2014",
+        "booktitle": "Proceedings of NELS 43",
+        "pages": "117--130"
     },
     {
         "citationKey": "piedpiping",
@@ -249,31 +439,60 @@
             "syntax",
             "semantics"
         ],
+        "authors": [
+            {
+                "name": "Kotek, Hadas",
+                "lastName": "Kotek",
+                "displayName": "Hadas Kotek",
+                "url": "http://hkotek.com"
+            },
+            {
+                "name": "Erlewine, Michael Yoshitaka",
+                "lastName": "Erlewine",
+                "displayName": "Michael Yoshitaka Erlewine"
+            }
+        ],
         "author": "Kotek, Hadas and Erlewine, Michael Yoshitaka",
         "title": "Covert pied-piping in English multiple <em>wh</em>-questions",
-        "year": "to appear"
+        "year": "to appear",
+        "journal": "Linguistic Inquiry"
     },
     {
         "citationKey": "af-mitwpl",
         "entryType": "incollection",
         "keywords": [
             "Kaqchikel",
-            "project:af",
+            "project:kaqchikel",
             "morphology",
             "syntax",
             "Agent Focus"
         ],
+        "authors": [
+            {
+                "name": "Erlewine, Michael Yoshitaka",
+                "lastName": "Erlewine",
+                "displayName": "Michael Yoshitaka Erlewine"
+            }
+        ],
         "author": "Erlewine, Michael Yoshitaka",
         "editor": "Kenstowicz, Michael",
         "title": "Dissociating the syntax and morphological realization of Kaqchikel Agent Focus",
-        "year": "2013"
+        "year": "2013",
+        "booktitle": "Studies in Kaqchikel Grammar"
     },
     {
-        "citationKey": "talk-aimm2012",
+        "citationKey": "talk:aimm2012",
         "entryType": "unpublished",
         "keywords": [
             "af",
             "hidden"
+        ],
+        "authors": [
+            {
+                "name": "Erlewine, Michael Yoshitaka",
+                "lastName": "Erlewine",
+                "displayName": "Michael Yoshitaka Erlewine"
+            }
         ],
         "author": "Erlewine, Michael Yoshitaka",
         "title": "Dissociating the syntax and morphological realization of Mayan Agent Focus",
@@ -294,11 +513,20 @@
             "semantics",
             "islands"
         ],
+        "authors": [
+            {
+                "name": "Erlewine, Michael Yoshitaka",
+                "lastName": "Erlewine",
+                "displayName": "Michael Yoshitaka Erlewine"
+            }
+        ],
         "author": "Erlewine, Michael Yoshitaka",
         "editor": "Beltrama, Andrea and Chatzikonstantinou, Tasos and Lee, Jackson L. and Pham, Mike and Rak, Diane",
         "title": "Alternative questions through focus alternatives in Mandarin Chinese",
         "url": "http://mitcho.com/academic/erlewine-cls48-preprint.pdf",
-        "year": "2014"
+        "year": "2014",
+        "booktitle": "Proceedings of CLS 48",
+        "pages": "221--234"
     },
     {
         "citationKey": "bi-ncl",
@@ -310,9 +538,17 @@
             "semantics",
             "project:bi"
         ],
+        "authors": [
+            {
+                "name": "Erlewine, Michael Yoshitaka",
+                "lastName": "Erlewine",
+                "displayName": "Michael Yoshitaka Erlewine"
+            }
+        ],
         "author": "Erlewine, Michael Yoshitaka",
         "title": "The verbal nature of Mandarin comparative <em>bǐ</em>",
-        "year": "2008"
+        "year": "2008",
+        "booktitle": "Proceedings of the National Conference on Linguistics 2008"
     },
     {
         "citationKey": "bi-wccfl",
@@ -325,16 +561,34 @@
             "project:bi",
             "multidominance"
         ],
+        "authors": [
+            {
+                "name": "Erlewine, Michael Yoshitaka",
+                "lastName": "Erlewine",
+                "displayName": "Michael Yoshitaka Erlewine"
+            }
+        ],
         "author": "Erlewine, Michael Yoshitaka",
         "editor": "Choi, Jaehoon and Hogue, E. Alan and Punske, Jeffrey and Tat, Deniz and Schertz, Jessamyn and Trueman, Alex",
         "title": "Share to Compare: the Mandarin <em>bǐ</em> Comparative",
-        "year": "2012"
+        "url": "http://www.lingref.com/cpp/wccfl/29/paper2687.pdf",
+        "year": "2012",
+        "abstract": "This paper argues against Direct Analysis approaches to the Mandarin bǐ comparative construction. Instead, I propose that the derivation of a b{\\v \\i} comparative involves the construction of two full TPs: one for the target and one for the standard. This view is motivated by comparatives where material has moved simultaneously from the predicate into the target and into the standard, which are difficult to capture within a Direct Analysis. A technical implementation of this proposal is presented in which common material in the two TPs' predicates is obligatorily multidominated. ",
+        "booktitle": "Proceedings of the 29th West Coast Conference on Formal Linguistics",
+        "pages": "54--62"
     },
     {
-        "citationKey": "talk-isle2",
+        "citationKey": "talk:isle2",
         "entryType": "unpublished",
         "keywords": [
             
+        ],
+        "authors": [
+            {
+                "name": "Erlewine, Michael Yoshitaka",
+                "lastName": "Erlewine",
+                "displayName": "Michael Yoshitaka Erlewine"
+            }
         ],
         "author": "Erlewine, Michael Yoshitaka",
         "title": "The Constituency of Hyperlinks in a Hypertext Corpus",
@@ -351,16 +605,32 @@
             "only",
             "project:sfp"
         ],
+        "authors": [
+            {
+                "name": "Erlewine, Michael Yoshitaka",
+                "lastName": "Erlewine",
+                "displayName": "Michael Yoshitaka Erlewine"
+            }
+        ],
         "author": "Erlewine, Michael Yoshitaka",
         "title": "Sentence-final <em>only</em> and the interpretation of focus in {Mandarin Chinese}",
         "url": "http://naccl.osu.edu/files/NACCL-22_2_33_erlewine.pdf",
-        "year": "2010"
+        "year": "2010",
+        "booktitle": "The Proceedings of the 22nd North American Conference of Chinese Linguistics (NACCL-22) and the 18th Annual Meeting of the International Association of Chinese Linguistics (IACL-18)"
     },
     {
         "citationKey": "naturalsyntax",
         "entryType": "url",
         "keywords": [
-            
+            "ubiquity",
+            "hidden"
+        ],
+        "authors": [
+            {
+                "name": "Erlewine, Michael Yoshitaka",
+                "lastName": "Erlewine",
+                "displayName": "Michael Yoshitaka Erlewine"
+            }
         ],
         "author": "Erlewine, Michael Yoshitaka",
         "title": "How natural should a natural interface be?",
@@ -376,9 +646,17 @@
             "semantics",
             "project:bi"
         ],
+        "authors": [
+            {
+                "name": "Erlewine, Michael Yoshitaka",
+                "lastName": "Erlewine",
+                "displayName": "Michael Yoshitaka Erlewine"
+            }
+        ],
         "author": "Erlewine, Michael Yoshitaka",
         "title": "A New Syntax-Semantics for the Mandarin <em>bǐ</em> Comparative",
         "url": "http://mitcho.com/academic/erlewine-thesis.pdf",
-        "year": "2007"
+        "year": "2007",
+        "school": "University of Chicago"
     }
 ]
