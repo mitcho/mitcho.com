@@ -5,7 +5,7 @@ module Jekyll
       @site = site
       @base = base
       @dir = dir
-      @name = sanitize_filename(slug) + '.html'
+      @name = slug + '.html'
       
       self.process(@name)
       self.read_yaml(File.join(base, '_layouts'), 'paper.html')
@@ -19,14 +19,6 @@ module Jekyll
 #       path = File.join(path, "index.html") if self.url =~ /\/$/
       path
     end     
-
-    private
-    # copied from Jekyll
-    def sanitize_filename(name)
-      name = name.gsub(/[^\w\s_-]+/, '')
-      name = name.gsub(/(^|\b\s)\s+($|\s?\b)/, '\\1\\2')
-      name = name.gsub(/\s+/, '_')
-    end
   end
 
   class PaperPageGenerator < Generator
@@ -36,7 +28,7 @@ module Jekyll
       if site.layouts.key? 'paper'
         dir = 'research'
         site.data['bib'].each do |bibdata|
-          slug = bibdata['citationKey'].sub(':','-')
+          slug = Utils.slugify(bibdata['citationKey'])
           site.pages << PaperPage.new(site, site.source, dir, slug, bibdata)
         end
       end
