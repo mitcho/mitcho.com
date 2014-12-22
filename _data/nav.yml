@@ -1,8 +1,10 @@
 - title: "research"
   href: "/research"
   sub:
+  - title: "projects"
+    href: "/projects"
   - title: "PDF cv"
-    href: "/academic/erlewine-cv.pdf"
+    href: "/erlewine-cv.pdf"
 
 - title: "code"
   href: "/code"

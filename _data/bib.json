@@ -149,7 +149,7 @@
         "citationKey": "voice-afla",
         "entryType": "inproceedings",
         "keywords": [
-            "project:dinka-austronesian",
+            "project:voice",
             "Austronesian",
             "Austronesian voice",
             "A'",
@@ -179,7 +179,7 @@
         "title": "What makes a voice system? On the relationship between voice marking and case",
         "year": "to appear",
         "booktitle": "Proceedings of <a href=\"https://sites.google.com/a/hawaii.edu/afla21/home\">AFLA 21</a>",
-        "project": "dinka-austronesian"
+        "project": "voice"
     },
     {
         "citationKey": "squliq",
