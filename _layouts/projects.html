@@ -14,7 +14,7 @@ layout: default
 		{% assign projects = (site.data.bib | sort:'year' | group_by:'project') %}
 
 		{% for project in projects %}
-			{% include research-group.html title=project.name papers = project.items %}
+			{% include project-group.html title=project.name papers = project.items %}
 		{% endfor %}
 
 		{{ content }}

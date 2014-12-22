@@ -1,0 +1,11 @@
+{% if include.title != null %}
+<h2>{{include.title}}</h2>
+{% endif %}
+
+<ul>
+{% for paper in include.papers %}
+	{% unless paper.keywords contains 'hidden' %}
+	<li>{% include research-single-formal.html paper = paper %}</li>
+	{% endunless %}
+{% endfor %}
+</ul>
