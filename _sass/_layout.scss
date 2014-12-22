@@ -29,8 +29,8 @@ body {
 	}
 	#image {
 		background-repeat: none;
-		background-image: url('/css/kyoto-270x150.jpg');
-		background: -webkit-image-set( url('/css/kyoto-270x150.jpg') 1x, url('/css/kyoto-270x150x2.jpg') 2x );
+		background-image: url('../images/kyoto-270x150.jpg');
+		background: -webkit-image-set( url('../images/kyoto-270x150.jpg') 1x, url('../images/kyoto-270x150x2.jpg') 2x );
 		width: $col-width;
 		height: 150px / 270px * $col-width;
 	}
