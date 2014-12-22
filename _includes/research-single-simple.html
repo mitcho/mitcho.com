@@ -1,0 +1,49 @@
+{% assign paper = include.paper %}
+
+{% capture title %}“{{paper.title}}{% unless paper.authors.size > 1 %}.{% endunless %}”{% endcapture %}
+
+{% if paper.entryType == 'phdthesis' %}
+	{% capture title %}<em>{{paper.title}}</em>.{% endcapture %}
+{% endif %}
+
+{% capture pages %}{% if paper.pages != null %}, pages {{ paper.pages | replace:'--','&ndash;' }}{% endif %}{% endcapture %}
+
+{{paper.year}}:
+	{% if paper.url != null %}<a href='{{paper.url}}'>{{title}}</a>
+	{% else %}{{title}}
+	{% endif %}
+
+{% if paper.authors.size > 1 %}
+with {% for author in paper.authors %}
+	{% if author.name != 'Erlewine, Michael Yoshitaka' %}
+		{% if paper.authors.size > 2 %}
+		{% if forloop.last %} and {% endif %}
+		{% endif %}
+			{% if author.url != null %}<a href='{{author.url}}'>{{author.displayName}}</a>{% else %}{{author.displayName}}{% endif %}
+		{% if paper.authors.size > 3 %}
+		{% unless forloop.last %}, {% endunless %}
+		{% endif %}
+	{% endif %}
+{% endfor %}.
+{% else %}
+{% endif %}
+
+{% if paper.journal != null %}
+In <em>{{paper.journal}}</em>{{pages}}.
+{% endif %}
+
+{% if paper.booktitle != null %}
+In <em>{{paper.booktitle}}</em>{{pages}}.
+{% endif %}
+
+{% if paper.note != null %}
+{{paper.note}}.
+{% endif %}
+
+{% if paper.entryType == 'phdthesis' %}
+{{paper.school}} dissertation.
+{% endif %}
+
+{% if paper.entryType == 'mastersthesis' %}
+{{paper.school}} MA thesis.
+{% endif %}
