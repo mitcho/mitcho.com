@@ -28,6 +28,13 @@ small {
 	font-size: $small-font-size;
 }
 
+em {
+	font-style: italics;
+}
+
+strong {
+	font-weight: bold;
+}
 
 
 
@@ -131,6 +138,26 @@ a {
     }
 }
 
+/**
+ * Pills
+ */
+
+/* <a/span class='pill'></a> */
+
+.pill {
+	font-size: $small-font-size;
+	color: $grey-color;
+	background-color: lighten($brand-color, 45%);
+	display: inline-block;
+	text-decoration: none;
+	border-radius: 6px;
+	padding: 4px;
+	
+	&:hover, &:focus, &:active {
+		color: $grey-color-dark;
+		background-color: lighten($brand-color, 35%);
+	}
+}
 
 
 /**
