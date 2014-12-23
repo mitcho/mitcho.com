@@ -21,7 +21,7 @@ layout: default
 		{% endif %}
 		
 		{% if paper.abstract %}
-		<blockquote>{{paper.abstract}}</blockquote>
+		<blockquote>{{paper.abstract | newline_to_br}}</blockquote>
 		{% endif %}
 
 		<ul class='keywords'>
