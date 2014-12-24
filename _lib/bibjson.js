@@ -74,6 +74,15 @@ function convertItem(item) {
 				newItem.project = newItem.keywords[i].replace(/^project:/,'');
 		}
 	}
+	
+	if ('url' in newItem) {
+		newItem.files = [{
+			title: newItem.title,
+			url: newItem.url,
+			type: (newItem.url.search(/\.pdf$/) > -1 ? 'pdf' : null)
+		}];
+	}
+	
 	return newItem;
 }
 

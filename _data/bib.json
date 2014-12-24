@@ -3,7 +3,11 @@
         "citationKey": "talk:blocking",
         "entryType": "unpublished",
         "keywords": [
-            
+            "project:blocking",
+            "morphology",
+            "syntax",
+            "Distributed Morphology",
+            "causative"
         ],
         "authors": [
             {
@@ -21,7 +25,8 @@
         "author": "Erlewine, Michael Yoshitaka and Kotek, Hadas",
         "title": "Morphological blocking in English causatives",
         "note": "Presented at LSA 88",
-        "year": "2014"
+        "year": "2014",
+        "project": "blocking"
     },
     {
         "citationKey": "haplology",
@@ -42,7 +47,14 @@
         "year": "2012",
         "journal": "Snippets",
         "volume": "26",
-        "pages": "7--8"
+        "pages": "7--8",
+        "files": [
+            {
+                "title": "Structurally distant haplology",
+                "url": "http://www.ledonline.it/snippets/allegati/snippets26002.pdf",
+                "type": "pdf"
+            }
+        ]
     },
     {
         "citationKey": "sfp",
@@ -190,7 +202,8 @@
             "A'",
             "case",
             "topic",
-            "subject"
+            "subject",
+            "project:atayal"
         ],
         "authors": [
             {
@@ -202,7 +215,8 @@
         "author": "Erlewine, Michael Yoshitaka",
         "title": "Subject marking on non-subjects in Squliq Atayal",
         "year": "to appear",
-        "booktitle": "Proceedings of <a href=\"http://www.uta.edu/faculty/sabbagh/afla20/\">AFLA 20</a>"
+        "booktitle": "Proceedings of <a href=\"http://www.uta.edu/faculty/sabbagh/afla20/\">AFLA 20</a>",
+        "project": "atayal"
     },
     {
         "citationKey": "that-trace",
@@ -253,7 +267,14 @@
         "year": "2014",
         "booktitle": "Proceedings of <a href=\"https://sites.google.com/site/sub18bc/\">Sinn und Bedeutung 18</a>",
         "pages": "128--145",
-        "project": "dissertation"
+        "project": "dissertation",
+        "files": [
+            {
+                "title": "Explaining leftward focus association with <em>even</em> but not <em>only</em>",
+                "url": "http://semanticsarchive.net/sub2013/SeparateArticles/Erlewine.pdf",
+                "type": "pdf"
+            }
+        ]
     },
     {
         "citationKey": "af-wccfl",
@@ -283,7 +304,14 @@
         "year": "2014",
         "abstract": "In many Mayan languages, A-bar extraction of subjects of transitive clauses triggers a change to that verb's morphology, known as Agent Focus. Previous researchers have assumed an exceptionless correlation between AF and the A-bar extraction of a transitive subject. In this paper new data from Kaqchikel (Mayan, Guatemala) shows that AF is a response to A-bar movement of a transitive subject that is too short. Movement of a transitive subject does not trigger AF if the movement chain is made longer by adding intervening material. An anti-locality constraint is proposed: \"Spec-to-Spec Anti-Locality,\" which bans movement between successive specifier positions. Spec-to-Spec Anti-Locality explains the full distributional pattern of AF in Kaqchikel. ",
         "booktitle": "Proceedings of WCCFL 31",
-        "project": "kaqchikel"
+        "project": "kaqchikel",
+        "files": [
+            {
+                "title": "Anti-Locality and Kaqchikel Agent Focus",
+                "url": "http://www.lingref.com/cpp/wccfl/31/paper3017.pdf",
+                "type": "pdf"
+            }
+        ]
     },
     {
         "citationKey": "dissertation",
@@ -313,7 +341,14 @@
         "year": "2014",
         "abstract": "This dissertation investigates the consequences of overt and covert movement on association with focus. The interpretation of focus-sensitive operators such as 'only' and 'even' depends on the presence of a focused constituent in their scope. I document the complex conditions under which operators are able to associate with a focused constituent which has moved out of their scope. In particular, I concentrate on the ability of English 'even' but not 'only' to associate \"backwards\" in this configuration.\n\nI propose a theory based on the Copy Theory of movement which predicts the attested patterns of backwards association. When an operator gives the appearance of associating backwards, it is in fact associating with focus in the lower copy of the movement chain, within its scope. This is possible with 'even' but not 'only' due to independent differences in their compositional semantics: 'only' uses focus alternatives to compute new truth conditions, whereas 'even' uses the alternatives to introduce a presupposition without modifying the truth conditions. I furthermore argue that neither syntactic reconstruction nor covert movement of 'even' (the scope theory) are adequate as a general solution to the problem of backwards association. This analysis supports a view where focus is represented in the narrow syntax and then interpreted at the interfaces.\n\nThe analysis is built upon a general framework for focus interpretation based on Kratzer (1991) which I apply to structures involving copy chains, combined with new facts regarding the projection behavior of the scalar inference of 'even'. After presenting my proposal, I discuss its implications for the internal structure of DPs and show that it offers a new structural diagnostic for the derivational path of movement. Moreover, the inability of scope reconstruction to feed focus association in English motivates a new approach to syntactic reconstruction. The proposal developed here explains a range constraints on patterns of focus association, and more generally contributes to our understanding of the interaction of syntactic operations such as movement with the semantic and information-structural notion of focus.",
         "school": "Massachusetts Institute of Technology",
-        "project": "dissertation"
+        "project": "dissertation",
+        "files": [
+            {
+                "title": "Movement Out of Focus",
+                "url": "http://ling.auf.net/lingbuzz/002210",
+                "type": null
+            }
+        ]
     },
     {
         "citationKey": "hirc",
@@ -345,7 +380,14 @@
         "abstract": "This paper proposes a new kind of semantic analysis for Japanese head-internal relative clauses (HIRCs), based on new empirical observations concerning the interpretation of HIRCs with quantificational heads. The analysis involves abstraction over the domain of the HIRC's head quantifier via null operator movement. The entire HIRC is then interpreted as a definite description, using a maximal informativeness semantics for definiteness (von Fintel, Fox, and Iatridou 2012) and an assumption about the role of context in the interpretation of referential expressions. This analysis accounts for the new data, the island sensitivity of HIRCs, and the fact that quantificational heads take scope within the HIRC. Finally, previous analyses for the semantics of Japanese HIRC are discussed in relation to the new data presented. ",
         "booktitle": "Proceedings of WCCFL 31",
         "pages": "160--169",
-        "project": "hirc"
+        "project": "hirc",
+        "files": [
+            {
+                "title": "Interpreting Japanese Head-Internal Relative Clauses",
+                "url": "http://www.lingref.com/cpp/wccfl/31/paper3018.pdf",
+                "type": "pdf"
+            }
+        ]
     },
     {
         "citationKey": "blocking",
@@ -376,7 +418,14 @@
         "note": "Manuscript, MIT",
         "year": "2013",
         "abstract": "This paper presents a previously unobserved pattern of morphological blocking in English causatives, which parallels a well-studied pattern of morphological blocking in Japanese causatives (Kuroda, 1965, a.o.). We present evidence of deep parallels between the English and Japanese causatives along with a detailed syntax/semantics for these structures within the framework of Distributed Morphology. We argue that the blocking effect is sensitive not to structural adjacency, as previously argued for Japanese (Harley, 2008), but instead to linear adjacency. Our findings constitute a strong argument for the post-syntactic resolution of derivational morphology, pace Distributed Morphology and contra the Lexicalist Hypothesis. In particular, the sensitivity to linear adjacency shows that the operations relevant to the blocking effect must occur post-linearization, and therefore contributes to our understanding of the timing of post-syntactic operations.",
-        "project": "blocking"
+        "project": "blocking",
+        "files": [
+            {
+                "title": "Blocking effects in English causatives",
+                "url": "http://ling.auf.net/lingbuzz/001896",
+                "type": null
+            }
+        ]
     },
     {
         "citationKey": "af",
@@ -406,7 +455,14 @@
         "year": "to appear",
         "abstract": "Many Mayan languages show a syntactically ergative extraction asymmetry whereby the A-bar-extraction of subjects of transitive verbs requires special verbal morphology, known as Agent Focus. In this paper I investigate the syntax of Agent Focus in Kaqchikel, a Mayan language spoken in Guatemala. I argue that this extraction asymmetry in Kaqchikel is the result of a particular anti-locality constraint which bans movement that is too close. Support for this claim comes from new data on the distribution of Agent Focus in Kaqchikel that show this locality-sensitivity.\n\nThe distribution and realization of Agent Focus will then be modeled using a system of ranked, violable constraints operating over competing derivations. This theoretical choice will be supported by details in the pattern of agreement in Agent Focus. I will then show how rerankings of the proposed constraints can model the attested distribution of Agent Focus in a number of other Mayan languages. I also discuss extensions of this approach to other patterns of anti-agreement.",
         "journal": "Natural Language &amp; Linguistic Theory",
-        "project": "kaqchikel"
+        "project": "kaqchikel",
+        "files": [
+            {
+                "title": "Anti-locality and optimality in Kaqchikel Agent Focus",
+                "url": "http://ling.auf.net/lingbuzz/001841/current.pdf",
+                "type": "pdf"
+            }
+        ]
     },
     {
         "citationKey": "bi",
@@ -432,7 +488,14 @@
         "note": "Manuscript, MIT",
         "year": "2013",
         "abstract": "This paper argues that Mandarin Chinese fills a gap in the typology of comparative constructions in natural language. Beck (2004) proposes that languages may vary in whether or not they allow for degree abstraction, and Kennedy (2007) proposes a distinction between comparative constructions with degree-denoting standards and individual-denoting standards. Based on these parameters, we expect to find languages that lack degree abstraction yet allow for degree comparison, but such languages have not been attested in the literature. I argue that Mandarin Chinese instantiates such a language.\n\nI show that the derivation of the Mandarin bǐ comparative involves two instances of the predicate in syntax—one which composes with the target and one which composes with the standard—in order to form two degree descriptions. I posit an obligatory ellipsis operation to yield the final word order, and show that various properties of bǐ comparatives fall out of general constraints on ellipsis parallelism. Finally, I argue that the computation of bǐ comparatives does not—and cannot—involve abstraction over a degree argument. Gradable predicates in Mandarin take their degree argument last, allowing for degree comparison without using degree abstraction.",
-        "project": "bi"
+        "project": "bi",
+        "files": [
+            {
+                "title": "Degree comparison without degree abstraction",
+                "url": "http://lingbuzz.auf.net/lingbuzz/001687",
+                "type": null
+            }
+        ]
     },
     {
         "citationKey": "turktools",
@@ -462,7 +525,14 @@
         "year": "to appear",
         "abstract": "More and more researchers in linguistics use large-scale experiments to test hypotheses about the data they research, in addition to more traditional informant work. In this paper we describe a new set of free, open-source tools that allow linguists with little background in programming or experimental methods to post studies online. These tools allow for the creation of a wide range of linguistic tasks, including linguistic grammaticality surveys, sentence completion tasks, and picture-matching tasks. Our tools further help streamline the design of such experiments and assist in the extraction and analysis of the resulting data. Surveys created using the tools described in this paper can be posted on Amazon.com's Mechanical Turk, a popular crowdsourcing platform which mediates between `Requesters' who can post surveys online and `Workers' who complete them. This allows many linguistic surveys to be completed within hours or days and at low costs of $50 or less. Alternatively, researchers can host these randomized experiments on their own servers using a supplied server-side component.",
         "journal": "Natural Language &amp; Linguistic Theory",
-        "project": "turktools"
+        "project": "turktools",
+        "files": [
+            {
+                "title": "A streamlined approach to online linguistic surveys",
+                "url": "http://ling.auf.net/lingbuzz/001802/",
+                "type": null
+            }
+        ]
     },
     {
         "citationKey": "dake",
@@ -486,7 +556,14 @@
         "year": "2012",
         "booktitle": "Proceedings of <a href=\"http://faculty.human.mie-u.ac.jp/~glow_mie/glow_workshop_index.html\">the GLOW in Asia workshop for young scholars</a>",
         "pages": "72--86",
-        "project": "dakeshika"
+        "project": "dakeshika",
+        "files": [
+            {
+                "title": "The effect of `only' on quantifier scope: the <em>dake</em> blocking effect",
+                "url": "http://faculty.human.mie-u.ac.jp/~glow_mie/Workshop_Proceedings/06Erlewine.pdf",
+                "type": "pdf"
+            }
+        ]
     },
     {
         "citationKey": "talk:glow2012",
@@ -505,7 +582,14 @@
         "title": "Assocation with traces and the copy theory of movement",
         "url": "http://mitcho.com/academic/handout-glow2012.pdf",
         "note": "Presented at GLOW 35 Workshop on Association with Focus",
-        "year": "2012"
+        "year": "2012",
+        "files": [
+            {
+                "title": "Assocation with traces and the copy theory of movement",
+                "url": "http://mitcho.com/academic/handout-glow2012.pdf",
+                "type": "pdf"
+            }
+        ]
     },
     {
         "citationKey": "focus-piedpiping",
@@ -544,7 +628,14 @@
         "booktitle": "Proceedings of NELS 43",
         "volume": "1",
         "pages": "117--130",
-        "project": "piedpiping"
+        "project": "piedpiping",
+        "files": [
+            {
+                "title": "Intervention in focus pied-piping",
+                "url": "http://semanticsarchive.net/Archive/WIzNzViN/",
+                "type": null
+            }
+        ]
     },
     {
         "citationKey": "piedpiping",
@@ -579,7 +670,14 @@
         "year": "to appear",
         "abstract": "In this paper we argue for the existence of covert pied-piping in wh-questions through a previously unnoticed pattern of intervention effects in superiority-obeying English multiple wh-questions. We show that the preference of covert pied-piping is for movement of larger constituents, unlike overt pied-piping. We argue that this discrepancy stems from conflicting requirements of PF and LF: overt pied-piping feeds both LF and PF, but covert pied-piping feeds LF only. The study of covert pied-piping thus reveals the true preference of LF and Core Syntax with regard to pied-piping: larger pied-piping constituents are preferred over smaller ones. This preference can be overridden by certain PF constraints that apply to overt pied-piping.",
         "journal": "Linguistic Inquiry",
-        "project": "piedpiping"
+        "project": "piedpiping",
+        "files": [
+            {
+                "title": "Covert pied-piping in English multiple <em>wh</em>-questions",
+                "url": "http://ling.auf.net/lingbuzz/001736/current.pdf",
+                "type": "pdf"
+            }
+        ]
     },
     {
         "citationKey": "af-mitwpl",
@@ -606,7 +704,14 @@
         "abstract": "A common property of many Mayan languages is a change to transitive verb morphology when the subject has been extracted, known as Agent Focus (AF) (Aissen, 1999; Stiebels, 2006; Norcliffe, 2009; Coon et al., 2011, a.o.). AF is traditionally described as obligatory whenever the subject (ergative argument) is A'-extracted. In this paper I will discuss the morphological realization of AF in Kaqchikel. I argue that the realization of AF in Kaqchikel must be governed by a morphological process which is independent of the syntax of AF. Specifically, I argue that AF morphology is the realization of an abstract [AF] feature which spreads downwards within a certain domain, following Bjorkman's (ms) feature-spreading approach to Affix Hopping-type verbal morphology.",
         "booktitle": "<a href=\"http://mitwpl.mit.edu/catalog/mpel08/\">Studies in Kaqchikel Grammar</a>",
         "pages": "25--50",
-        "project": "kaqchikel"
+        "project": "kaqchikel",
+        "files": [
+            {
+                "title": "Dissociating the syntax and morphological realization of Kaqchikel Agent Focus",
+                "url": "ling.auf.net/lingbuzz/001685/current.pdf",
+                "type": "pdf"
+            }
+        ]
     },
     {
         "citationKey": "talk:aimm2012",
@@ -626,7 +731,14 @@
         "title": "Dissociating the syntax and morphological realization of Mayan Agent Focus",
         "url": "http://mitcho.com/academic/handout-aimm2012.pdf",
         "note": "Presented at the First American International Morphology Meeting, UMass Amherst",
-        "year": "2012"
+        "year": "2012",
+        "files": [
+            {
+                "title": "Dissociating the syntax and morphological realization of Mayan Agent Focus",
+                "url": "http://mitcho.com/academic/handout-aimm2012.pdf",
+                "type": "pdf"
+            }
+        ]
     },
     {
         "citationKey": "haishi",
@@ -655,7 +767,14 @@
         "year": "2014",
         "booktitle": "Proceedings of CLS 48",
         "pages": "221--234",
-        "project": "haishi"
+        "project": "haishi",
+        "files": [
+            {
+                "title": "Alternative questions through focus alternatives in Mandarin Chinese",
+                "url": "http://mitcho.com/academic/erlewine-cls48-preprint.pdf",
+                "type": "pdf"
+            }
+        ]
     },
     {
         "citationKey": "bi-ncl",
@@ -706,7 +825,14 @@
         "abstract": "This paper argues against Direct Analysis approaches to the Mandarin <em>bǐ</em> comparative construction. Instead, I propose that the derivation of a <em>bǐ</em> comparative involves the construction of two full TPs: one for the target and one for the standard. This view is motivated by comparatives where material has moved simultaneously from the predicate into the target and into the standard, which are difficult to capture within a Direct Analysis. A technical implementation of this proposal is presented in which common material in the two TPs' predicates is obligatorily multidominated. ",
         "booktitle": "Proceedings of the 29th West Coast Conference on Formal Linguistics",
         "pages": "54--62",
-        "project": "bi"
+        "project": "bi",
+        "files": [
+            {
+                "title": "Share to Compare: the Mandarin <em>bǐ</em> Comparative",
+                "url": "http://www.lingref.com/cpp/wccfl/29/paper2687.pdf",
+                "type": "pdf"
+            }
+        ]
     },
     {
         "citationKey": "talk:isle2",
@@ -728,7 +854,14 @@
         "url": "http://mitcho.com/academic/slides-isle2.pdf",
         "note": "Presented at <a href=\"http://bu.edu/isle\">the International Society for the Linguistics of English (IsLE 2)</a>, Boston University",
         "year": "2011",
-        "project": "hyperlinks"
+        "project": "hyperlinks",
+        "files": [
+            {
+                "title": "The Constituency of Hyperlinks in a Hypertext Corpus",
+                "url": "http://mitcho.com/academic/slides-isle2.pdf",
+                "type": "pdf"
+            }
+        ]
     },
     {
         "citationKey": "eryi",
@@ -753,7 +886,14 @@
         "abstract": "In this paper I document the complex interactions between the Mandarin sentence-final <em>only</em> item <em>éryǐ</em> and the focus marker <em>shì</em>. Following work on Chinese Sentence-Final Particles (SFP), <em>éryǐ</em> syntactically is in the CP-domain and thus should scope above TP-level operators such as negation, and this is indeed normally the case. However, the introduction of the focus marker <em>shì</em> can force the sentence-final <em>éryǐ</em> to take scope below the TP-level negation, creating a problem for the theory of Mandarin SFP.\n\rI propose that <em>shì</em> unambiguously marks the semantic scope of Mandarin focus-sensitive operators which involve Association With Focus. I show how this analysis preserves the expected syntactic cartography while computing the correct semantic scope. A compositional syntax/semantics utilizing focus movement is also presented.",
         "booktitle": "The Proceedings of the 22nd North American Conference of Chinese Linguistics (NACCL-22) and the 18th Annual Meeting of the International Association of Chinese Linguistics (IACL-18)",
         "pages": "18--35",
-        "project": "sfp"
+        "project": "sfp",
+        "files": [
+            {
+                "title": "Sentence-final <em>only</em> and the interpretation of focus in Mandarin Chinese",
+                "url": "http://naccl.osu.edu/files/NACCL-22_2_33_erlewine.pdf",
+                "type": "pdf"
+            }
+        ]
     },
     {
         "citationKey": "naturalsyntax",
@@ -771,7 +911,14 @@
         ],
         "author": "Erlewine, Michael Yoshitaka",
         "title": "How natural should a natural interface be?",
-        "url": "http://mitcho.com/blog/projects/how-natural-should-a-natural-interface-be/"
+        "url": "http://mitcho.com/blog/projects/how-natural-should-a-natural-interface-be/",
+        "files": [
+            {
+                "title": "How natural should a natural interface be?",
+                "url": "http://mitcho.com/blog/projects/how-natural-should-a-natural-interface-be/",
+                "type": null
+            }
+        ]
     },
     {
         "citationKey": "thesis",
@@ -795,6 +942,13 @@
         "url": "http://mitcho.com/academic/erlewine-thesis.pdf",
         "year": "2007",
         "school": "University of Chicago",
-        "project": "bi"
+        "project": "bi",
+        "files": [
+            {
+                "title": "A New Syntax-Semantics for the Mandarin <em>bǐ</em> Comparative",
+                "url": "http://mitcho.com/academic/erlewine-thesis.pdf",
+                "type": "pdf"
+            }
+        ]
     }
 ]
