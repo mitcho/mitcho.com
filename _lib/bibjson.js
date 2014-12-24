@@ -20,11 +20,6 @@ var authorUrls = {
 };
 
 function cleanup(text) {
-	// todo: it would be great if this could be automated somehow:
- 	text = text.replace('{\\v \\i}','ǐ'); // for bǐ
- 	text = text.replace('{\\u \\a}','ă');
- 	text = text.replace('{\\c \\s}','ş');
-
  	text = text.replace('\\&','&amp;');
  	
 	text = text.replace('\\VAN{Urk}', 'van Urk'); // for Coppe
