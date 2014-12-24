@@ -300,3 +300,11 @@ del {
 		cursor: pointer;
 	}
 }
+
+.fourohfour {
+	width: 560px;
+	height: 315px;
+	@include media-query($on-phone) {
+		width: 100%;
+	}
+}
