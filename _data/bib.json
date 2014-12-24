@@ -237,10 +237,18 @@
         ],
         "author": "Erlewine, Michael Yoshitaka",
         "title": "Why the null complementizer is special in the English <em>that</em>-trace effect",
+        "url": "http://ling.auf.net/lingbuzz/002029/current.pdf",
         "note": "Manuscript, MIT",
         "year": "2014",
         "abstract": "As first noted by Perlmutter (1968), long-distance subject extraction in English must proceed across a null local complementizer, rather than the pronounced (\"that\") variant. In this squib, I present a brief proposal for the that-trace effect which explains the direction of this asymmetry, using the Spec-to-Spec Anti-Locality constraint on A'-movement proposed in my previous work and Fox & Pesetsky's Cyclic Linearization view of successive-cyclicity. I propose that the asymmetry is not accidental and reflects a property of unpronounced terminals in linearization.",
-        "project": "that-trace"
+        "project": "that-trace",
+        "files": [
+            {
+                "title": "Why the null complementizer is special in the English <em>that</em>-trace effect",
+                "url": "http://ling.auf.net/lingbuzz/002029/current.pdf",
+                "type": "pdf"
+            }
+        ]
     },
     {
         "citationKey": "leftward",
@@ -264,7 +272,7 @@
         "editor": "Urtzi Etxeberria and Anamaria Fălăuş and Aritz Irurtzun and Bryan Leferman",
         "title": "Explaining leftward focus association with <em>even</em> but not <em>only</em>",
         "url": "http://semanticsarchive.net/sub2013/SeparateArticles/Erlewine.pdf",
-        "note": "(Superseded by <a href=\"http://ling.auf.net/lingbuzz/002210\">my dissertation</a>.)",
+        "note": "(Superseded by <a href=\"http://mitcho.com/research/dissertation.html\">my dissertation</a>.)",
         "year": "2014",
         "booktitle": "Proceedings of <a href=\"https://sites.google.com/site/sub18bc/\">Sinn und Bedeutung 18</a>",
         "pages": "128--145",
@@ -301,7 +309,7 @@
         "editor": "Santana-LaBarge, Robert E.",
         "title": "Anti-Locality and Kaqchikel Agent Focus",
         "url": "http://www.lingref.com/cpp/wccfl/31/paper3017.pdf",
-        "note": "(Superseded by <a href=\"http://mitcho.com/research/af\">``Anti-locality and optimality in Kaqchikel Agent Focus''</a> to appear in NLLT.)",
+        "note": "(Superseded by <a href=\"http://mitcho.com/research/af.html\">``Anti-locality and optimality in Kaqchikel Agent Focus''</a> to appear in NLLT.)",
         "year": "2014",
         "abstract": "In many Mayan languages, A-bar extraction of subjects of transitive clauses triggers a change to that verb's morphology, known as Agent Focus. Previous researchers have assumed an exceptionless correlation between AF and the A-bar extraction of a transitive subject. In this paper new data from Kaqchikel (Mayan, Guatemala) shows that AF is a response to A-bar movement of a transitive subject that is too short. Movement of a transitive subject does not trigger AF if the movement chain is made longer by adding intervening material. An anti-locality constraint is proposed: \"Spec-to-Spec Anti-Locality,\" which bans movement between successive specifier positions. Spec-to-Spec Anti-Locality explains the full distributional pattern of AF in Kaqchikel. ",
         "booktitle": "Proceedings of WCCFL 31",
