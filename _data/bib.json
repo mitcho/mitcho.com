@@ -154,6 +154,7 @@
         "author": "Erlewine, Michael Yoshitaka and Levin, Theodore and van Urk, Coppe",
         "title": "Ergativity and Austronesian-type voice systems",
         "year": "under review",
+        "abstract": "It has been suggested that ergativity plays a crucial role in Austronesian-type voice systems. In this paper, we argue that voice marking and case reflect separate but interacting systems, which can be dissociated from each other, based on the behavior of voice in Dinka (Nilotic; South Sudan) and Balinese (Austronesian; Indonesia). These languages exhibit familiar voice morphology, but can clearly be shown to not involve any ergativity. Instead, we propose that what unifies “voice” system behavior is a lack of structural licensing for the agent argument in non-actor voices. We show that different voice systems solve this problem in different ways: Dinka allows for the Last Resort insertion of a silent preposition, Balinese employs pseudo-noun incorporation of the agent, while many Austronesian languages of the Philippines and of Taiwan license the agent through ergative case marking.\n\nInvited contribution.",
         "booktitle": "Oxford Handbook of Ergativity",
         "project": "voice"
     },
@@ -337,7 +338,7 @@
         ],
         "author": "Erlewine, Michael Yoshitaka",
         "title": "Movement Out of Focus",
-        "url": "http://ling.auf.net/lingbuzz/002210",
+        "url": "http://ling.auf.net/lingbuzz/002210/current.pdf",
         "year": "2014",
         "abstract": "This dissertation investigates the consequences of overt and covert movement on association with focus. The interpretation of focus-sensitive operators such as 'only' and 'even' depends on the presence of a focused constituent in their scope. I document the complex conditions under which operators are able to associate with a focused constituent which has moved out of their scope. In particular, I concentrate on the ability of English 'even' but not 'only' to associate \"backwards\" in this configuration.\n\nI propose a theory based on the Copy Theory of movement which predicts the attested patterns of backwards association. When an operator gives the appearance of associating backwards, it is in fact associating with focus in the lower copy of the movement chain, within its scope. This is possible with 'even' but not 'only' due to independent differences in their compositional semantics: 'only' uses focus alternatives to compute new truth conditions, whereas 'even' uses the alternatives to introduce a presupposition without modifying the truth conditions. I furthermore argue that neither syntactic reconstruction nor covert movement of 'even' (the scope theory) are adequate as a general solution to the problem of backwards association. This analysis supports a view where focus is represented in the narrow syntax and then interpreted at the interfaces.\n\nThe analysis is built upon a general framework for focus interpretation based on Kratzer (1991) which I apply to structures involving copy chains, combined with new facts regarding the projection behavior of the scalar inference of 'even'. After presenting my proposal, I discuss its implications for the internal structure of DPs and show that it offers a new structural diagnostic for the derivational path of movement. Moreover, the inability of scope reconstruction to feed focus association in English motivates a new approach to syntactic reconstruction. The proposal developed here explains a range constraints on patterns of focus association, and more generally contributes to our understanding of the interaction of syntactic operations such as movement with the semantic and information-structural notion of focus.",
         "school": "Massachusetts Institute of Technology",
@@ -345,8 +346,8 @@
         "files": [
             {
                 "title": "Movement Out of Focus",
-                "url": "http://ling.auf.net/lingbuzz/002210",
-                "type": null
+                "url": "http://ling.auf.net/lingbuzz/002210/current.pdf",
+                "type": "pdf"
             }
         ]
     },
@@ -414,7 +415,7 @@
         ],
         "author": "Kotek, Hadas and Erlewine, Michael Yoshitaka",
         "title": "Blocking effects in English causatives",
-        "url": "http://ling.auf.net/lingbuzz/001896",
+        "url": "http://ling.auf.net/lingbuzz/001896/current.pdf",
         "note": "Manuscript, MIT",
         "year": "2013",
         "abstract": "This paper presents a previously unobserved pattern of morphological blocking in English causatives, which parallels a well-studied pattern of morphological blocking in Japanese causatives (Kuroda, 1965, a.o.). We present evidence of deep parallels between the English and Japanese causatives along with a detailed syntax/semantics for these structures within the framework of Distributed Morphology. We argue that the blocking effect is sensitive not to structural adjacency, as previously argued for Japanese (Harley, 2008), but instead to linear adjacency. Our findings constitute a strong argument for the post-syntactic resolution of derivational morphology, pace Distributed Morphology and contra the Lexicalist Hypothesis. In particular, the sensitivity to linear adjacency shows that the operations relevant to the blocking effect must occur post-linearization, and therefore contributes to our understanding of the timing of post-syntactic operations.",
@@ -422,8 +423,8 @@
         "files": [
             {
                 "title": "Blocking effects in English causatives",
-                "url": "http://ling.auf.net/lingbuzz/001896",
-                "type": null
+                "url": "http://ling.auf.net/lingbuzz/001896/current.pdf",
+                "type": "pdf"
             }
         ]
     },
@@ -484,7 +485,7 @@
         ],
         "author": "Erlewine, Michael Yoshitaka",
         "title": "Degree comparison without degree abstraction",
-        "url": "http://lingbuzz.auf.net/lingbuzz/001687",
+        "url": "http://lingbuzz.auf.net/lingbuzz/001687/current.pdf",
         "note": "Manuscript, MIT",
         "year": "2013",
         "abstract": "This paper argues that Mandarin Chinese fills a gap in the typology of comparative constructions in natural language. Beck (2004) proposes that languages may vary in whether or not they allow for degree abstraction, and Kennedy (2007) proposes a distinction between comparative constructions with degree-denoting standards and individual-denoting standards. Based on these parameters, we expect to find languages that lack degree abstraction yet allow for degree comparison, but such languages have not been attested in the literature. I argue that Mandarin Chinese instantiates such a language.\n\nI show that the derivation of the Mandarin bǐ comparative involves two instances of the predicate in syntax—one which composes with the target and one which composes with the standard—in order to form two degree descriptions. I posit an obligatory ellipsis operation to yield the final word order, and show that various properties of bǐ comparatives fall out of general constraints on ellipsis parallelism. Finally, I argue that the computation of bǐ comparatives does not—and cannot—involve abstraction over a degree argument. Gradable predicates in Mandarin take their degree argument last, allowing for degree comparison without using degree abstraction.",
@@ -492,8 +493,8 @@
         "files": [
             {
                 "title": "Degree comparison without degree abstraction",
-                "url": "http://lingbuzz.auf.net/lingbuzz/001687",
-                "type": null
+                "url": "http://lingbuzz.auf.net/lingbuzz/001687/current.pdf",
+                "type": "pdf"
             }
         ]
     },
@@ -520,7 +521,7 @@
         ],
         "author": "Erlewine, Michael Yoshitaka and Kotek, Hadas",
         "title": "A streamlined approach to online linguistic surveys",
-        "url": "http://ling.auf.net/lingbuzz/001802/",
+        "url": "http://ling.auf.net/lingbuzz/001802/current.pdf",
         "note": "Tools available at <a href=\"http://turktools.net\">turktools.net</a>",
         "year": "to appear",
         "abstract": "More and more researchers in linguistics use large-scale experiments to test hypotheses about the data they research, in addition to more traditional informant work. In this paper we describe a new set of free, open-source tools that allow linguists with little background in programming or experimental methods to post studies online. These tools allow for the creation of a wide range of linguistic tasks, including linguistic grammaticality surveys, sentence completion tasks, and picture-matching tasks. Our tools further help streamline the design of such experiments and assist in the extraction and analysis of the resulting data. Surveys created using the tools described in this paper can be posted on Amazon.com's Mechanical Turk, a popular crowdsourcing platform which mediates between `Requesters' who can post surveys online and `Workers' who complete them. This allows many linguistic surveys to be completed within hours or days and at low costs of $50 or less. Alternatively, researchers can host these randomized experiments on their own servers using a supplied server-side component.",
@@ -529,8 +530,8 @@
         "files": [
             {
                 "title": "A streamlined approach to online linguistic surveys",
-                "url": "http://ling.auf.net/lingbuzz/001802/",
-                "type": null
+                "url": "http://ling.auf.net/lingbuzz/001802/current.pdf",
+                "type": "pdf"
             }
         ]
     },
@@ -623,7 +624,7 @@
         "author": "Erlewine, Michael Yoshitaka and Kotek, Hadas",
         "editor": "Huang, Hsin-Lun and Poole, Ethan and Rysling, Amanda",
         "title": "Intervention in focus pied-piping",
-        "url": "http://semanticsarchive.net/Archive/WIzNzViN/",
+        "url": "http://semanticsarchive.net/Archive/WIzNzViN/erlewine-kotek-nels2013-preprint.pdf",
         "year": "2014",
         "booktitle": "Proceedings of NELS 43",
         "volume": "1",
@@ -632,8 +633,8 @@
         "files": [
             {
                 "title": "Intervention in focus pied-piping",
-                "url": "http://semanticsarchive.net/Archive/WIzNzViN/",
-                "type": null
+                "url": "http://semanticsarchive.net/Archive/WIzNzViN/erlewine-kotek-nels2013-preprint.pdf",
+                "type": "pdf"
             }
         ]
     },
@@ -699,7 +700,7 @@
         "author": "Erlewine, Michael Yoshitaka",
         "editor": "Kenstowicz, Michael",
         "title": "Dissociating the syntax and morphological realization of Kaqchikel Agent Focus",
-        "url": "ling.auf.net/lingbuzz/001685/current.pdf",
+        "url": "http://ling.auf.net/lingbuzz/001685/current.pdf",
         "year": "2013",
         "abstract": "A common property of many Mayan languages is a change to transitive verb morphology when the subject has been extracted, known as Agent Focus (AF) (Aissen, 1999; Stiebels, 2006; Norcliffe, 2009; Coon et al., 2011, a.o.). AF is traditionally described as obligatory whenever the subject (ergative argument) is A'-extracted. In this paper I will discuss the morphological realization of AF in Kaqchikel. I argue that the realization of AF in Kaqchikel must be governed by a morphological process which is independent of the syntax of AF. Specifically, I argue that AF morphology is the realization of an abstract [AF] feature which spreads downwards within a certain domain, following Bjorkman's (ms) feature-spreading approach to Affix Hopping-type verbal morphology.",
         "booktitle": "<a href=\"http://mitwpl.mit.edu/catalog/mpel08/\">Studies in Kaqchikel Grammar</a>",
@@ -708,7 +709,7 @@
         "files": [
             {
                 "title": "Dissociating the syntax and morphological realization of Kaqchikel Agent Focus",
-                "url": "ling.auf.net/lingbuzz/001685/current.pdf",
+                "url": "http://ling.auf.net/lingbuzz/001685/current.pdf",
                 "type": "pdf"
             }
         ]
