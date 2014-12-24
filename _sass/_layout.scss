@@ -63,7 +63,7 @@
 }
 .col2.overlayed {
 	overflow: hidden;
-	animation-duration: 2s;
+	animation-duration: 1.5s;
 	animation-name: overlayed;
 	height: 100%;
 }
@@ -73,10 +73,11 @@
 	margin-left: $body-padding + ($col-padding * 2) + $nav-width + 10px; // just a slight offset
 	background-color: $overlay-color;
 	min-height: 100%;
-	animation-duration: 2s;
+	animation-duration: 1.5s;
 	animation-name: slideup;
 	box-shadow: 0px 0px 10px #ccc;
 }
+// todo: make col3 extend all the way to the right
 
 /* Overlay animation */
 

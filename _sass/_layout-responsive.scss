@@ -1,10 +1,24 @@
 @include media-query($on-tablet) {
 	.col1, .col2, .col3 {
-		padding: $col-padding !important;
 		float: none;
 		position: static;
 		width: auto;
 		background-color: $background-color;
+	}
+	.col1 {
+		padding: $col-padding !important;
+	}
+	.col2.overlayed {
+		animation: none;
+		display: none;
+		// todo: make overlay work in responsive view
+	}
+	.col2, .col3 {
+		box-shadow: none;
+		animation: none;
+		> .wrapper {
+			padding: $col-padding !important;
+		}
 	}
 	
 	.narrow-hide {
@@ -56,8 +70,13 @@
 }
 
 @include media-query($on-phone) {
-	.col1, .col2, .col3 {
+	.col1 {
 		padding: $small-padding;
+	}
+	.col2, .col3 {
+		> .wrapper {
+			padding: $small-padding;
+		}
 	}
 
 	h1.name span {
