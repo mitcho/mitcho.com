@@ -246,7 +246,7 @@
             }
         ],
         "author": "Erlewine, Michael Yoshitaka",
-        "editor": "Urtzi Etxeberria and Anamaria F\\u al\\u au\\c s and Aritz Irurtzun and Bryan Leferman",
+        "editor": "Urtzi Etxeberria and Anamaria Fălăuş and Aritz Irurtzun and Bryan Leferman",
         "title": "Explaining leftward focus association with <em>even</em> but not <em>only</em>",
         "url": "http://semanticsarchive.net/sub2013/SeparateArticles/Erlewine.pdf",
         "note": "(Superseded by <a href=\"http://ling.auf.net/lingbuzz/002210\">my dissertation</a>.)",
@@ -375,6 +375,7 @@
         "url": "http://ling.auf.net/lingbuzz/001896",
         "note": "Manuscript, MIT",
         "year": "2013",
+        "abstract": "This paper presents a previously unobserved pattern of morphological blocking in English causatives, which parallels a well-studied pattern of morphological blocking in Japanese causatives (Kuroda, 1965, a.o.). We present evidence of deep parallels between the English and Japanese causatives along with a detailed syntax/semantics for these structures within the framework of Distributed Morphology. We argue that the blocking effect is sensitive not to structural adjacency, as previously argued for Japanese (Harley, 2008), but instead to linear adjacency. Our findings constitute a strong argument for the post-syntactic resolution of derivational morphology, pace Distributed Morphology and contra the Lexicalist Hypothesis. In particular, the sensitivity to linear adjacency shows that the operations relevant to the blocking effect must occur post-linearization, and therefore contributes to our understanding of the timing of post-syntactic operations.",
         "project": "blocking"
     },
     {
@@ -430,6 +431,7 @@
         "url": "http://lingbuzz.auf.net/lingbuzz/001687",
         "note": "Manuscript, MIT",
         "year": "2013",
+        "abstract": "This paper argues that Mandarin Chinese fills a gap in the typology of comparative constructions in natural language. Beck (2004) proposes that languages may vary in whether or not they allow for degree abstraction, and Kennedy (2007) proposes a distinction between comparative constructions with degree-denoting standards and individual-denoting standards. Based on these parameters, we expect to find languages that lack degree abstraction yet allow for degree comparison, but such languages have not been attested in the literature. I argue that Mandarin Chinese instantiates such a language.\n\nI show that the derivation of the Mandarin bǐ comparative involves two instances of the predicate in syntax—one which composes with the target and one which composes with the standard—in order to form two degree descriptions. I posit an obligatory ellipsis operation to yield the final word order, and show that various properties of bǐ comparatives fall out of general constraints on ellipsis parallelism. Finally, I argue that the computation of bǐ comparatives does not—and cannot—involve abstraction over a degree argument. Gradable predicates in Mandarin take their degree argument last, allowing for degree comparison without using degree abstraction.",
         "project": "bi"
     },
     {
@@ -575,6 +577,7 @@
         "title": "Covert pied-piping in English multiple <em>wh</em>-questions",
         "url": "http://ling.auf.net/lingbuzz/001736/current.pdf",
         "year": "to appear",
+        "abstract": "In this paper we argue for the existence of covert pied-piping in wh-questions through a previously unnoticed pattern of intervention effects in superiority-obeying English multiple wh-questions. We show that the preference of covert pied-piping is for movement of larger constituents, unlike overt pied-piping. We argue that this discrepancy stems from conflicting requirements of PF and LF: overt pied-piping feeds both LF and PF, but covert pied-piping feeds LF only. The study of covert pied-piping thus reveals the true preference of LF and Core Syntax with regard to pied-piping: larger pied-piping constituents are preferred over smaller ones. This preference can be overridden by certain PF constraints that apply to overt pied-piping.",
         "journal": "Linguistic Inquiry",
         "project": "piedpiping"
     },
@@ -700,7 +703,7 @@
         "title": "Share to Compare: the Mandarin <em>bǐ</em> Comparative",
         "url": "http://www.lingref.com/cpp/wccfl/29/paper2687.pdf",
         "year": "2012",
-        "abstract": "This paper argues against Direct Analysis approaches to the Mandarin bǐ comparative construction. Instead, I propose that the derivation of a b\\v \\i comparative involves the construction of two full TPs: one for the target and one for the standard. This view is motivated by comparatives where material has moved simultaneously from the predicate into the target and into the standard, which are difficult to capture within a Direct Analysis. A technical implementation of this proposal is presented in which common material in the two TPs' predicates is obligatorily multidominated. ",
+        "abstract": "This paper argues against Direct Analysis approaches to the Mandarin <em>bǐ</em> comparative construction. Instead, I propose that the derivation of a <em>bǐ</em> comparative involves the construction of two full TPs: one for the target and one for the standard. This view is motivated by comparatives where material has moved simultaneously from the predicate into the target and into the standard, which are difficult to capture within a Direct Analysis. A technical implementation of this proposal is presented in which common material in the two TPs' predicates is obligatorily multidominated. ",
         "booktitle": "Proceedings of the 29th West Coast Conference on Formal Linguistics",
         "pages": "54--62",
         "project": "bi"
@@ -747,6 +750,7 @@
         "title": "Sentence-final <em>only</em> and the interpretation of focus in Mandarin Chinese",
         "url": "http://naccl.osu.edu/files/NACCL-22_2_33_erlewine.pdf",
         "year": "2010",
+        "abstract": "In this paper I document the complex interactions between the Mandarin sentence-final <em>only</em> item <em>éryǐ</em> and the focus marker <em>shì</em>. Following work on Chinese Sentence-Final Particles (SFP), <em>éryǐ</em> syntactically is in the CP-domain and thus should scope above TP-level operators such as negation, and this is indeed normally the case. However, the introduction of the focus marker <em>shì</em> can force the sentence-final <em>éryǐ</em> to take scope below the TP-level negation, creating a problem for the theory of Mandarin SFP.\n\rI propose that <em>shì</em> unambiguously marks the semantic scope of Mandarin focus-sensitive operators which involve Association With Focus. I show how this analysis preserves the expected syntactic cartography while computing the correct semantic scope. A compositional syntax/semantics utilizing focus movement is also presented.",
         "booktitle": "The Proceedings of the 22nd North American Conference of Chinese Linguistics (NACCL-22) and the 18th Annual Meeting of the International Association of Chinese Linguistics (IACL-18)",
         "pages": "18--35",
         "project": "sfp"
