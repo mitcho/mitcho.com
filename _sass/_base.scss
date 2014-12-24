@@ -265,20 +265,38 @@ del {
 	line-height: normal;
 
 	.specs{ color: #999; font-size: 80%; padding-top: 0em; }
+}
+.file {
+	min-height: 32px;
+	padding-left: 40px;
+	background: url(file.png) no-repeat;
 
-	.file {
-		min-height: 32px;
-		padding-left: 40px;
-		background: url(file.png) no-repeat;
+	&.small {
+		background-size: 16px 16px;
+		padding: 0px 2px;
+		width: 17px;
+		display: inline-block;
+		min-height: none;
+		margin-bottom: -10px;
+	}
 
-		&.pdf {
-			background-image: url(pdf.png);
-		}
-		&.zip {
-			background-image: url(zip.png);
-		}
-		&.rss {
-			background-image: url(rss.png);
-		}
+	&.pdf {
+		background-image: url(pdf.png);
+	}
+	&.zip {
+		background-image: url(zip.png);
+	}
+	&.rss {
+		background-image: url(rss.png);
+	}
+}
+
+
+.research-group li {
+	padding: 5px;
+	transition: background-color 1s ease;
+	&:hover {
+		background-color: #ddd;
+		cursor: pointer;
 	}
 }
