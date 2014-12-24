@@ -2,10 +2,10 @@
 <h2>{{include.title}}</h2>
 {% endif %}
 
-<ul>
+<ul class='research-group'>
 {% for paper in include.papers %}
 	{% unless paper.keywords contains 'hidden' %}
-	<li>{% include research-single-simple.html paper = paper %}</li>
+	<li>{% include research-single-simple.html paper = paper projectlink = true %}</li>
 	{% endunless %}
 {% endfor %}
 </ul>

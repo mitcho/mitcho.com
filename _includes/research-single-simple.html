@@ -9,8 +9,14 @@
 {% capture pages %}{% if paper.pages != null %}, pages {{ paper.pages | replace:'--','&ndash;' }}{% endif %}{% endcapture %}
 
 {{paper.year}}:
-	{% if paper.url != null %}<a href='{{paper.url}}'>{{title}}</a>
-	{% else %}{{title}}
+	{% if include.projectlink != null %}
+		<a class='title' href='/research/{{paper.citationKey | slugify}}.html'>{{title}}</a>
+		{% if paper.url != null %}<a href='{{paper.url}}'><span alt='download' class='file pdf small'>&nbsp;</span></a>
+		{% endif %}
+	{% else %}
+		{% if paper.url != null %}<a href='{{paper.url}}'>{{title}}</a>
+		{% else %}{{title}}
+		{% endif %}
 	{% endif %}
 
 {% if paper.authors.size > 1 %}
