@@ -17,7 +17,7 @@
 		{% assign authorDisplay = author.displayName %}
 	{% endif %}
 
-	{% if author.name != 'Erlewine, Michael Yoshitaka' %}
+	{% if paper.authors.size > 1 and author.name == 'Erlewine, Michael Yoshitaka' %}
 		<strong>{{authorDisplay}}</strong>
 	{% else %}
 		{% if author.url != null %}<a href='{{author.url}}'>{{authorDisplay}}</a>{% else %}{{authorDisplay}}{% endif %}
