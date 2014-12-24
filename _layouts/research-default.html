@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+
+	{% include head.html %}
+
+	<body>
+		{% include header.html %}
+
+		<section class="col2 narrow-hide">
+			<div class="post">
+				<header class="post-header">
+					<h1 class="post-title">Research</h1>
+				</header>
+				{% include research-list.html %}
+			</div>
+		</section>
+
+		<section class="col3">
+			{{ content }}
+		</section>
+
+		{% include footer.html %}
+
+	</body>
+
+</html>

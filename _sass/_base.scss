@@ -46,8 +46,10 @@ p, blockquote, pre,
 ul, ol, dl, figure,
 %vertical-rhythm {
     margin-bottom: $spacing-unit / 2;
+	&:last-child {
+		margin-bottom: 0px;
+	}
 }
-
 
 
 /**
@@ -152,6 +154,7 @@ a {
 	text-decoration: none;
 	border-radius: 6px;
 	padding: 4px;
+	margin-right: 5px;
 	
 	&:hover, &:focus, &:active {
 		color: $grey-color-dark;

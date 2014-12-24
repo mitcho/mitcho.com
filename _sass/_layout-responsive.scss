@@ -1,29 +1,47 @@
-@include media-query($on-tablet) {
-	.wrapper {
-		width:auto;
-		margin:0;
+@include media-query($no-multicol) {
+	.col2, .narrow-hide {
+		display: none;
 	}
+}
 
-	.site-header, section, .site-footer {
+@include media-query($on-tablet) {
+	.col1, .col2, .col3 {
+		padding: $col-padding !important;
 		float: none;
 		position: static;
 		width: auto;
+		background-color: $background-color;
+	}
+	
+	.narrow-hide {
+		display: none;
 	}
 
 	.site-header {
-		margin-right: $col-width; // to avoid collision with image
+		margin-right: $nav-width; // to avoid collision with image
+		// todo: instead move part of the head info to the bottom of the page when too narrow.
 	}
 	
 	.site-header a small {
 		display: inline;
 	}
 
+	h1.name span {
+		display: inline;
+		font-size: 0.8em;
+	}
+	h1.name span:before {
+		content: '(';
+	}
+	h1.name span:after {
+		content: ')';
+	}
+
 	#imagewrap {
 		position: absolute;
-		right: $col-padding;
-		top: 52px;
-		max-width: 39%;
-		padding-bottom: 15px;
+		top: 15px;
+		right: 15px;
+		max-width: 50%;
 	}
 	
 	.site-header ul {
@@ -34,34 +52,22 @@
 		}
 	}	
 
-	.site-footer, .page-content {
+	.site-footer, .col2, .col3 {
 		border-top: 1px solid #e5e5e5;
 	}
 
-	.page-content {
-		padding: 20px 0 0 0;
-		margin: 0;
-	}
-	
-	.site-footer {
-		padding: 20px 0 0 0;
+	.col2, .col3 {
+		margin: 0px !important;
 	}
 }
 
 @include media-query($on-phone) {
-	#wrapper {
+	.col1, .col2, .col3 {
 		padding: $small-padding;
 	}
 
 	h1.name span {
-		display: inline;
 		font-size: 0.5em;
-	}
-	h1.name span:before {
-		content: '(';
-	}
-	h1.name span:after {
-		content: ')';
 	}
 
 	.site-header {

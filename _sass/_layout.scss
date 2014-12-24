@@ -1,29 +1,31 @@
-body {
-}
-#wrapper {
-	padding: $col-padding;
-}
-
-/**
- * Site header
+/* 
+  COLUMN 1
  */
-.site-header {
+
+.col1 {
 	// Positioning context for the mobile navigation icon
 	// position: relative;
-	width: $col-width;
+	width: $nav-width;
 	float: left;
-	position: fixed;	
+	position: fixed;
+	
+	padding: $col-padding + $body-padding;
+	padding-right: $col-padding;
+}
+
+.site-header {
+	@extend .col1;
 
 	ul {
 		padding-left: 0px;
-		margin-left: 0px;
+		margin: 0px;
 		li {
 			list-style: none;
 		}
 	}
 
 	#imagewrap {
-		width: $col-width;
+		width: $nav-width;
 		overflow: hidden;
 		margin-bottom: 15px;
 	}
@@ -31,58 +33,43 @@ body {
 		background-repeat: none;
 		background-image: url('../images/kyoto-270x150.jpg');
 		background: -webkit-image-set( url('../images/kyoto-270x150.jpg') 1x, url('../images/kyoto-270x150x2.jpg') 2x );
-		width: $col-width;
-		height: 150px / 270px * $col-width;
+		width: $nav-width;
+		height: 150px / 270px * $nav-width;
 	}
 }
 
-/**
- * Wrapper
- */
-/* 
-.wrapper {
-	max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
-	max-width:		 calc(#{$content-width} - (#{$spacing-unit} * 2));
-	margin-right: auto;
-	margin-left: auto;
-	padding-right: $spacing-unit;
-	padding-left: $spacing-unit;
-	@extend %clearfix;
-
-	@include media-query($on-laptop) {
-		max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit}));
-		max-width:		 calc(#{$content-width} - (#{$spacing-unit}));
-		padding-right: $spacing-unit / 2;
-		padding-left: $spacing-unit / 2;
-	}
-}
- */
-
-
-
-/**
- * Site footer
- */
 .site-footer {
-	border-top: 1px solid $grey-color-light;
-	padding: $spacing-unit 0;
-}
-.site-footer {
-	width: $col-width;
-	float: left;
-	position: fixed;
+	@extend .col1;
+
+//	border-top: 1px solid $grey-color-light;
+//	padding: $spacing-unit 0;
 	bottom: $col-padding;
+}
+
+/* COLUMN 2 + 3 */
+
+.col2, .col3 {
+	max-width: $content-width;
+	padding: $col-padding + $body-padding;
+	padding-left: $col-padding;
+	position: absolute;
+}
+
+// position the columns:
+.col2 {
+	margin-left: $body-padding + ($col-padding * 2) + $nav-width;
+}
+.col3 {
+	margin-left: $body-padding + ($col-padding * 4) + $nav-width + $content-width;
+	background-color: $col3-color;
+}
+.col2 + .col3 {
+	padding-right: $col-padding;
 }
 
 /**
  * Page content
  */
-.page-content {
-	max-width: $content-width;
-	padding-left: $col-width + $col-padding;
-	padding-bottom: $col-padding;
-}
-//	padding: $spacing-unit 0;
 
 .post-list {
 	margin-left: 0;
@@ -108,9 +95,5 @@ body {
  * Posts
  */
 .post-header {
-	margin-bottom: $spacing-unit;
-}
-
-.post-content {
 	margin-bottom: $spacing-unit;
 }

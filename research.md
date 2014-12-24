@@ -1,7 +1,9 @@
 ---
 title: Research
-layout: research
+layout: page
 ---
+
+{% include research-list.html %}
 
 ## Software
 
