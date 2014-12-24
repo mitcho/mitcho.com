@@ -1,9 +1,3 @@
-@include media-query($no-multicol) {
-	.col2, .narrow-hide {
-		display: none;
-	}
-}
-
 @include media-query($on-tablet) {
 	.col1, .col2, .col3 {
 		padding: $col-padding !important;

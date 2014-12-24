@@ -174,7 +174,10 @@ blockquote {
         margin-bottom: 0;
     }
 }
-
+.col3 blockquote {
+    color: darken($grey-color, 10%);
+    border-left: 4px solid darken($grey-color-light, 10%);
+}
 
 
 /**

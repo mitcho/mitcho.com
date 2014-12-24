@@ -6,18 +6,18 @@
 	<body>
 		{% include header.html %}
 
-		<section class="col2 narrow-hide">
+		<section class="col2 overlayed"><div class="wrapper">
 			<div class="post">
 				<header class="post-header">
 					<h1 class="post-title">Research</h1>
 				</header>
 				{% include research-list.html %}
 			</div>
-		</section>
+		</div></section>
 
-		<section class="col3">
+		<section class="col3"><div class="wrapper">
 			{{ content }}
-		</section>
+		</div></section>
 
 		{% include footer.html %}
 
