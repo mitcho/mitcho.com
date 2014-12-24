@@ -1,0 +1,8 @@
+<div class="files">
+	{% for file in include.files %}
+	<div class="file {% if file.type != null %}{{file.type}}{% endif %}">
+	<a href="{{file.url}}">{{file.title}}</a>
+	{% if file.specs != null %}<br /><span class="specs">{{file.specs}}</span>{% endif %}
+	</div>
+	{% endfor %}
+</div>

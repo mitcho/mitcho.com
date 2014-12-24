@@ -24,6 +24,8 @@ layout: overlay-default
 		<blockquote>{{paper.abstract | newline_to_br}}</blockquote>
 		{% endif %}
 
+		{% include files.html files=paper.files %}
+
 		<p class='post-meta'><strong>Keywords:</strong> 
 		{% for keyword in paper.keywords %}
 			<a class='pill' href='//google.com/search?q={{ keyword | prepend: '"' | append: '"' | uri_escape }}%20site:mitcho.com'>{{ keyword }}</a>
