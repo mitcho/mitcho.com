@@ -1,0 +1,60 @@
+backwards-association:
+  title: "Backwards focus association"
+  description: "The interpretation of focus-sensitive operators such as 'only' and 'even' depends on the presence of a focused constituent in their scope. I document the complex conditions under which operators are able to associate with a focused constituent which has moved out of their scope. In particular, I concentrate on the ability of English 'even' but not 'only' to associate \"backwards\" in this configuration. I propose a theory based on the Copy Theory of movement which predicts the attested patterns of backwards association. When an operator gives the appearance of associating backwards, it is in fact associating with focus in the lower copy of the movement chain, within its scope. Differences in the availability of backwards association between 'only,' 'even,' and 'also' are shown to follow from independent semantic differences. The proposal explains a range constraints on patterns of focus association, and more generally contributes to our understanding of the interaction of syntactic operations such as movement with the semantic and information-structural notion of focus.
+  
+  Although my dissertation work looks primarily at English data, my interest in this theoretical problem originates from an earlier project of mine looking at interactions of quantifiers with the Japanese 'only' particles *dake* and *shika*."
+
+piedpiping:
+  title: "Covert pied-piping"
+  description: "Many previous theories have proposed *covert movement* for both syntactic and interpretational purposes. In cases of overt movement, we often observe *pied-piping*---additional material dislocated together with the logically attracted material. In joint work with Hadas Kotek, I have investigated the question of whether covert movement also triggers pied-piping. Following previous work on the interpretation of overtly pied-piped constituents (Krifka, 2006; Cable, 2010), we propose the use of focus intervention effects (Beck, 2006) to diagnose the existence and size of covert pied-piping. The results show that covert pied-piping does exist, and that the constituent covertly pied-piped is the *largest* among those options for overt pied-piping. Our work investigating the status of the in-situ *wh*-word in English multiple *wh*-questions using this diagnostic has been accepted for publication with *Linguistic Inquiry*.
+  
+  This joint project on the syntax/semantics of covert dependencies also has clear touch points with my own work on focus constructions. In particular, our diagnostic shows that focused constituents which are pronounced in-situ in English undergo covert focus movement with pied-piping, as proposed previously in Drubig (1994), Krifka (2006), and Wagner (2006), contra Rooth (1985, 1992). This work is reported in a NELS proceedings paper. In current work, we are extending this work to the study of relative pronoun pied-piping in relative clauses."
+
+focus-adverbs:
+  title: "The position of focus adverbs"
+  description: "I am currently studying the structural placement of adverbial focus operators. I have observed that in languages that allow adverbial focus operators at different attachment heights on the clausal spine, it is always the *lowest* position available for the focus operator (often VP-adjoined) that must be used for such long-distance association. I hypothesize that this pattern is a corollary of a more general restriction that, within each clausal domain, a focus operator must be *as low as possible* while c-commanding its associate. Jacobs (1983) and Büring & Hartmann (2001) describe the distribution of German focus adverbs in similar terms, but its cross-linguistic generality has not been explored. I support this restriction with my own work on Mandarin Chinese and Vietnamese, focusing on the structural distribution of adverbial \"only\" words, and draw on secondary typological literature to refine this hypothesis."
+
+kaqchikel:
+  title: "Agent Focus in Kaqchikel (Mayan; Guatemala)"
+  description: "Kaqchikel is a morphologically ergative Mayan language where the A'-extraction of subjects of transitives (ergative arguments) requires special verbal morphology, known as *Agent Focus* (AF). Through my fieldwork on Kaqchikel, I discovered cases where the extraction of an ergative subject does *not* require AF. In particular, when additional clausal material is projected between the base position of the ergative subject and its landing site, AF becomes unnecessary and in fact impossible. In my *Natural Language & Linguistic Theory* paper, I propose that AF is a strategy which rescues movement which would otherwise be *too short*---the effect of an anti-locality constraint on \xbar{A}-movement---rather than a simple response to movement of an ergative argument. I motivate an Optimality-Theoretic system of ranked, violable constraints to arrive at the correct AF forms.
+  
+  In related work, I have also investigated a type of non-finite embedding in Kaqchikel, which I analyze as a form of restructuring, and its interaction with AF morphology."
+
+voice:
+  title: "Austronesian-type voice systems"
+  description: "I am currently working with [Theodore Levin](https://sites.google.com/site/tfranklevin/) and [Coppe van Urk](http://web.mit.edu/cvanurk/www/) on developing a new approach to Austronesian voice systems. Austronesian \"voice\" systems commonly exhibit a one-to-one correspondence between \"voice\" morphology on the verb, morphological case on nominals, and the availability of A'-movement. Based on cases where this correspondance breaks down, as well as on variation across Austronesian in the realization of this voice system, we argue that voice morphology is extraction marking, reflecting the choice of argument moved to a particular position. We explain the effects of voice on case marking by proposing that the relevant position is a mixed A/A'-position, where the subject can receive Case. Voices where the subject does not move to this position, then, require a separate mechanism to license the subject."
+
+atayal:
+  title: "Case and topic marking in Atayal (Austronesian; Taiwan)"
+  description: "I began studying Squliq Atayal, an endangered Atayalic language of Taiwan, while on a Fulbright fellowship in Taiwan in 2007–2008, and then have returned to Taiwan to continue my research, funded by an NSF East Asian/Pacific Institute award.
+  
+  In published work, I have investigated the sentence-final \"subject\" position in Atayal, which is optionally marked with *qu* which is traditionally described as a Case marker. I document certain cases where the subject of the clause (as determined by Voice morphology on the verb) has been displaced, allowing for another, specific, non-subject argument to be marked by *qu*. I argue that the *qu* marker on sentence-final arguments is an information-structual marker of topic, rather than a case marker. I furthermore show that the extraction restriction is sensitive to subjecthood itself, not to the ability of an argument to be *qu*-marked."
+
+bi:
+  title: "The Mandarin Chinese *bǐ* comparative"
+  description: "Previous work on the syntax/semantics of comparatives with clausal standards proposes the use of A'-movement of a degree operator in the standard, following early work on English comparatives (Bresnan, 1973; Chomsky, 1977). In my most recent work on the subject, I argue that the Mandarin Chinese exhibiting a comparative with a clausal standard that does not involve degree abstraction. Crucial evidence comes from movement and ellipsis which shows that the standard in the Mandarin *bǐ* comparative is indeed clausal, despite surface appearances."
+
+haishi:
+  title: "Alternative questions in Mandarin Chinese"
+  description: "While the syntax of *wh*-in-situ in Mandarin Chinese has been central to discussions of the linguistic theory of covert movement (Huang, 1982), little attention has been paid to the syntax and semantics of alternative questions in Mandarin. I argue that alternative-question-triggering disjunctions in Mandarin are interpreted *in-situ* at LF using a process of alternative computation, supported by evidence from island sensitivity and focus intervention effects. I offer a proposal for the different semantics of alternative-question-triggering disjunction and logical disjunction, in languages such as Mandarin which lexicalize this difference, and show that it can explain the distribution of question \"force\" in Mandarin clauses involving disjunction."
+
+sfp:
+  title: "Sentence-final particles in Mandarin Chinese"
+
+haplology:
+  title: "Structurally distant haplology"
+
+hirc:
+  title: "Head-internal relative clauses in Japanese"
+  description: "In joint work with Isaac Gould, we investigate the semantic interpretation of head-internal relative clauses (HIRCs) with quantificational heads in Japanese. We observe that in certain contexts, the denotation of a HIRC corresponds to the domain of the head noun's quantifier. We offer a new movement-based syntax/semantics for Japanese HIRC and a proposal for the role of context in the evaluation of definite descriptions which can together model the readings of HIRC under different contexts, and also predict the island-sensitivity of HIRC."
+
+ubiquity:
+  title: "A lightweight, easily localizable parser for Mozilla Ubiquity, a natural language command line interface"
+
+turktools:
+  title: "Tools for online linguistic surveys"
+  description: "In joint work with [Hadas Kotek](//hkotek.com), I developed [turktools](//turktools.net), a set of free, open-source tools that allow linguists with little background in programming to post linguistic surveys online, for example on Amazon's [Mechanical Turk](//mturk.com) crowdsourcing platform. Hadas Kotek and I taught a workshop series on the design of online experiments and the use of these tools at MIT."
+
+hyperlinks:
+  title: "The constituency of hypertext corpora"
+  description: "A unique property of the hypertext medium is that authors naturally identify certain stretches of text as units, in the form of <span style='text-decoration: underline'>inline hyperlinks</span>. What kind of linguistic objects are inline hyperlinks? I have investigated this question through a 5.7M word corpus of English hypertext, which includes 375k links. Manual annotation of a sample of 5,000 links in the corpus found that 94% of inline links are constituents in their host sentences, with the exceptions largely clustering into other kinds of linguistic objects, e.g. constituents modulo a large adjunct not included at the right edge. I am pursuing the hypothesis that hyperlinking is a process constrained by the author's knowledge of the text's underlying linguistic structure, and therefore could ultimately be used as a test for syntactic constituency, once we better understand the possible range of exceptions."

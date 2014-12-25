@@ -32,7 +32,9 @@
         "citationKey": "haplology",
         "entryType": "article",
         "keywords": [
-            
+            "project:haplology",
+            "linearization",
+            "haplology"
         ],
         "authors": [
             {
@@ -48,6 +50,7 @@
         "journal": "Snippets",
         "volume": "26",
         "pages": "7--8",
+        "project": "haplology",
         "files": [
             {
                 "title": "Structurally distant haplology",
@@ -254,7 +257,7 @@
         "citationKey": "leftward",
         "entryType": "inproceedings",
         "keywords": [
-            "project:dissertation",
+            "project:backwards-association",
             "focus",
             "only",
             "even",
@@ -276,7 +279,7 @@
         "year": "2014",
         "booktitle": "Proceedings of <a href=\"https://sites.google.com/site/sub18bc/\">Sinn und Bedeutung 18</a>",
         "pages": "128--145",
-        "project": "dissertation",
+        "project": "backwards-association",
         "files": [
             {
                 "title": "Explaining leftward focus association with <em>even</em> but not <em>only</em>",
@@ -326,7 +329,7 @@
         "citationKey": "dissertation",
         "entryType": "phdthesis",
         "keywords": [
-            "project:dissertation",
+            "project:backwards-association",
             "focus",
             "only",
             "even",
@@ -350,7 +353,7 @@
         "year": "2014",
         "abstract": "This dissertation investigates the consequences of overt and covert movement on association with focus. The interpretation of focus-sensitive operators such as 'only' and 'even' depends on the presence of a focused constituent in their scope. I document the complex conditions under which operators are able to associate with a focused constituent which has moved out of their scope. In particular, I concentrate on the ability of English 'even' but not 'only' to associate \"backwards\" in this configuration.\n\nI propose a theory based on the Copy Theory of movement which predicts the attested patterns of backwards association. When an operator gives the appearance of associating backwards, it is in fact associating with focus in the lower copy of the movement chain, within its scope. This is possible with 'even' but not 'only' due to independent differences in their compositional semantics: 'only' uses focus alternatives to compute new truth conditions, whereas 'even' uses the alternatives to introduce a presupposition without modifying the truth conditions. I furthermore argue that neither syntactic reconstruction nor covert movement of 'even' (the scope theory) are adequate as a general solution to the problem of backwards association. This analysis supports a view where focus is represented in the narrow syntax and then interpreted at the interfaces.\n\nThe analysis is built upon a general framework for focus interpretation based on Kratzer (1991) which I apply to structures involving copy chains, combined with new facts regarding the projection behavior of the scalar inference of 'even'. After presenting my proposal, I discuss its implications for the internal structure of DPs and show that it offers a new structural diagnostic for the derivational path of movement. Moreover, the inability of scope reconstruction to feed focus association in English motivates a new approach to syntactic reconstruction. The proposal developed here explains a range constraints on patterns of focus association, and more generally contributes to our understanding of the interaction of syntactic operations such as movement with the semantic and information-structural notion of focus.",
         "school": "Massachusetts Institute of Technology",
-        "project": "dissertation",
+        "project": "backwards-association",
         "files": [
             {
                 "title": "Movement Out of Focus",
@@ -550,7 +553,7 @@
             "only",
             "Japanese",
             "semantics",
-            "project:dakeshika"
+            "project:backwards-association"
         ],
         "authors": [
             {
@@ -565,7 +568,7 @@
         "year": "2012",
         "booktitle": "Proceedings of <a href=\"http://faculty.human.mie-u.ac.jp/~glow_mie/glow_workshop_index.html\">the GLOW in Asia workshop for young scholars</a>",
         "pages": "72--86",
-        "project": "dakeshika",
+        "project": "backwards-association",
         "files": [
             {
                 "title": "The effect of `only' on quantifier scope: the <em>dake</em> blocking effect",

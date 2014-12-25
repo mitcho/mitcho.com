@@ -1,5 +1,9 @@
-{% if include.title != null %}
-<h2>{{include.title}}</h2>
+{% if include.project.title != null %}
+<h2>{{include.project.title | markdownify}}</h2>
+{% endif %}
+
+{% if include.project.description != null %}
+<p>{{include.project.description | markdownify}}</p>
 {% endif %}
 
 <ul class='research-group'>
