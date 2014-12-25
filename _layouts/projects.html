@@ -16,7 +16,7 @@ layout: default
 			{% assign key = project[0] %}
 			{% assign value = project[1] %}
 			{% assign items = (site.data.bib | where: "project", key | order: "year" | reverse) %}
-			{% include project-group.html project = value papers = items %}		
+			{% include project-group.html key = key project = value papers = items %}		
 		{% endfor %}
 	</article>
 

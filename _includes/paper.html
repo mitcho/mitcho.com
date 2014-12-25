@@ -14,18 +14,18 @@
 		</div>
 		
 		{% if paper.project != null %}
-		<p class='post-meta'><strong>Project:</strong> <a class='pill' href='/projects/{{ paper.project | uri_escape }}.html'>{{ paper.project }}</a></p>
+		<p class='post-meta'><strong>Project:</strong> <a class='pill' href='/projects/#{{ paper.project | uri_escape }}'>{{ site.data.projects[paper.project]['title'] }}</a></p>
 		{% endif %}
 		
 		{% if paper.abstract %}
-		<blockquote>{{paper.abstract | newline_to_br}}</blockquote>
+		<blockquote>{{paper.abstract | newline_to_br }}</blockquote>
 		{% endif %}
 
 		{% include files.html files=paper.files %}
 
 		<p class='post-meta'><strong>Keywords:</strong> 
 		{% for keyword in paper.keywords %}
-			<a class='pill' href='//google.com/search?q={{ keyword | prepend: '"' | append: '"' | uri_escape }}%20site:mitcho.com'>{{ keyword }}</a>
+			<a class='pill' href='//google.com/search?q={{ keyword | prepend: '"' | append: '"' | uri_escape }}%20site:mitcho.com%20inurl:/research/'>{{ keyword }}</a>
 		{% endfor %}
 		</p>
 	</article>

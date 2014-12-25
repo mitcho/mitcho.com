@@ -1,9 +1,10 @@
+<a name='{{ include.key | uri_escape }}'></a>
 {% if include.project.title != null %}
 <h2>{{include.project.title | markdownify}}</h2>
 {% endif %}
 
 {% if include.project.description != null %}
-<p>{{include.project.description | markdownify}}</p>
+{{ include.project.description | markdownify | replace: "<br />", "</p><p>" }}
 {% endif %}
 
 <ul class='research-group'>
