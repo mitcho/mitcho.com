@@ -1,5 +1,6 @@
 var states = [];
 function maybeOverlay(url) {
+	var $ = Zepto;
 	// todo: detect whether HTML5 History exists. If not, skip all this.
 
 	var match = url.match(/^(http:\/\/mitcho.com|http:\/\/127.0.0.1:4000)?\/research\/(.*)\.html/);
@@ -26,6 +27,16 @@ function maybeOverlay(url) {
 	}, 'html');
 }
 
+function resizeCol3() {
+	var $ = Zepto;
+	var offset = $('.col3').offset();
+	var needed = $(window).width() - offset.left - 880;
+	if (needed > 0)
+		$('.col3').css('padding-right', needed);
+	else
+		$('.col3').css('padding-right', 0);
+}
+
 Zepto(function($) {
 	// make the entire research entry a tap target:
 	$('.research-group li').on('click', function(e) {
@@ -49,5 +60,8 @@ Zepto(function($) {
 	$(window).on('pushstate', function(e) {
 		console.log(e);
 	});
+	
+	resizeCol3();
+	$(window).on('resize', resizeCol3);
 });
 
