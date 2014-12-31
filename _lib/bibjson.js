@@ -70,8 +70,10 @@ function convertItem(item) {
 	if ('KEYWORDS' in item.entryTags) {
 		newItem.keywords = item.entryTags.KEYWORDS.split(/, */);
 		for (i in newItem.keywords) {
-			if (newItem.keywords[i].search(/^project:/) > -1)
+			if (newItem.keywords[i].search(/^project:/) > -1) {
 				newItem.project = newItem.keywords[i].replace(/^project:/,'');
+				newItem.keywords.splice(i, 1);
+			}
 		}
 	}
 	

@@ -3,7 +3,6 @@
         "citationKey": "talk:blocking",
         "entryType": "unpublished",
         "keywords": [
-            "project:blocking",
             "morphology",
             "syntax",
             "Distributed Morphology",
@@ -32,7 +31,6 @@
         "citationKey": "haplology",
         "entryType": "article",
         "keywords": [
-            "project:haplology",
             "linearization",
             "haplology"
         ],
@@ -64,7 +62,6 @@
         "entryType": "inproceedings",
         "keywords": [
             "Mandarin Chinese",
-            "project:sfp",
             "FOFC",
             "syntax"
         ],
@@ -85,7 +82,6 @@
         "citationKey": "ubiquity",
         "entryType": "inproceedings",
         "keywords": [
-            "project:ubiquity",
             "computational"
         ],
         "authors": [
@@ -106,7 +102,6 @@
         "citationKey": "talk:teal9",
         "entryType": "unpublished",
         "keywords": [
-            "project:focus-adverbs",
             "only",
             "Mandarin Chinese",
             "Vietnamese"
@@ -128,7 +123,6 @@
         "citationKey": "voice-oup",
         "entryType": "incollection",
         "keywords": [
-            "project:voice",
             "Austronesian",
             "Austronesian voice",
             "case",
@@ -165,7 +159,6 @@
         "citationKey": "voice-afla",
         "entryType": "inproceedings",
         "keywords": [
-            "project:voice",
             "Austronesian",
             "Austronesian voice",
             "A'",
@@ -206,8 +199,7 @@
             "A'",
             "case",
             "topic",
-            "subject",
-            "project:atayal"
+            "subject"
         ],
         "authors": [
             {
@@ -227,7 +219,6 @@
         "entryType": "unpublished",
         "keywords": [
             "subject",
-            "project:that-trace",
             "A'",
             "anti-locality"
         ],
@@ -257,7 +248,6 @@
         "citationKey": "leftward",
         "entryType": "inproceedings",
         "keywords": [
-            "project:backwards-association",
             "focus",
             "only",
             "even",
@@ -292,7 +282,6 @@
         "citationKey": "af-wccfl",
         "entryType": "inproceedings",
         "keywords": [
-            "project:kaqchikel",
             "Kaqchikel",
             "Agent Focus",
             "subject",
@@ -329,7 +318,6 @@
         "citationKey": "dissertation",
         "entryType": "phdthesis",
         "keywords": [
-            "project:backwards-association",
             "focus",
             "only",
             "even",
@@ -367,7 +355,6 @@
         "entryType": "inproceedings",
         "keywords": [
             "semantics",
-            "project:hirc",
             "quantification",
             "copy theory",
             "relative clause"
@@ -405,7 +392,6 @@
         "citationKey": "blocking",
         "entryType": "unpublished",
         "keywords": [
-            "project:blocking",
             "morphology",
             "syntax",
             "Distributed Morphology",
@@ -443,7 +429,6 @@
         "citationKey": "af",
         "entryType": "article",
         "keywords": [
-            "project:kaqchikel",
             "Kaqchikel",
             "Agent Focus",
             "A'",
@@ -480,7 +465,6 @@
         "citationKey": "bi",
         "entryType": "unpublished",
         "keywords": [
-            "project:bi",
             "comparative",
             "Mandarin Chinese",
             "ellipsis",
@@ -514,8 +498,7 @@
         "entryType": "article",
         "keywords": [
             "experiment",
-            "tools",
-            "project:turktools"
+            "tools"
         ],
         "authors": [
             {
@@ -552,8 +535,7 @@
         "keywords": [
             "only",
             "Japanese",
-            "semantics",
-            "project:backwards-association"
+            "semantics"
         ],
         "authors": [
             {
@@ -607,7 +589,6 @@
         "citationKey": "focus-piedpiping",
         "entryType": "inproceedings",
         "keywords": [
-            "project:piedpiping",
             "pied-piping",
             "covert pied-piping",
             "covert movement",
@@ -653,7 +634,6 @@
         "citationKey": "piedpiping",
         "entryType": "article",
         "keywords": [
-            "project:piedpiping",
             "pied-piping",
             "covert movement",
             "covert pied-piping",
@@ -696,7 +676,6 @@
         "entryType": "incollection",
         "keywords": [
             "Kaqchikel",
-            "project:kaqchikel",
             "morphology",
             "syntax",
             "Agent Focus"
@@ -756,7 +735,6 @@
         "citationKey": "haishi",
         "entryType": "inproceedings",
         "keywords": [
-            "project:haishi",
             "alternative questions",
             "focus",
             "Mandarin Chinese",
@@ -795,8 +773,7 @@
             "comparative",
             "Mandarin Chinese",
             "syntax",
-            "semantics",
-            "project:bi"
+            "semantics"
         ],
         "authors": [
             {
@@ -819,7 +796,6 @@
             "Mandarin Chinese",
             "syntax",
             "semantics",
-            "project:bi",
             "multidominance"
         ],
         "authors": [
@@ -850,7 +826,6 @@
         "citationKey": "talk:isle2",
         "entryType": "unpublished",
         "keywords": [
-            "project:hyperlinks",
             "corpus",
             "computational"
         ],
@@ -881,8 +856,7 @@
         "keywords": [
             "Mandarin Chinese",
             "semantics",
-            "only",
-            "project:sfp"
+            "only"
         ],
         "authors": [
             {
@@ -939,8 +913,7 @@
             "comparative",
             "Mandarin Chinese",
             "syntax",
-            "semantics",
-            "project:bi"
+            "semantics"
         ],
         "authors": [
             {
