@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<div class="post">
+<div class="post research">
 
 	{% if page.title %}
 	<header class="post-header">
@@ -10,42 +10,7 @@ layout: default
 	{% endif %}
 
 	<article class="post-content">
-
-		{% assign papers = (site.data.bib | where: 'entryType', 'phdthesis') %}
-		{% include research-group.html title='Dissertation' papers = papers %}
-
-		{% assign papers = (site.data.bib | where: 'entryType', 'article' | sort: 'year' | reverse) %}				
-		{% include research-group.html title='Journal articles' papers = papers %}
-
-		{% assign papers = (site.data.bib | where: 'entryType', 'incollection' | sort: 'year' | reverse) %}
-		{% include research-group.html title='Papers in edited volumes' papers = papers %}
-
-		{% assign papers = (site.data.bib | where: 'entryType', 'inproceedings' | sort: 'year' | reverse) %}
-		{% include research-group.html title='Proceedings papers' papers = papers %}
-
-		<h2>Manuscripts</h2>
-		<ul>
-		{% for paper in site.data.bib sort_by:year order:descending %}
-			{% if paper.entryType == 'unpublished' %}
-			{% unless paper.keywords contains 'hidden' or paper.citationKey contains 'talk:' %}
-			<li>{% include research-single-simple.html paper = paper %}</li>
-			{% endunless %}
-			{% endif %}
-		{% endfor %}
-		</ul>
-
-		<h2>Selected talks</h2>
-		<ul>
-		{% for paper in site.data.bib sort_by:year order:descending %}
-			{% if paper.entryType == 'unpublished' and paper.citationKey contains 'talk:' %}
-			{% unless paper.keywords contains 'hidden' %}
-			<li>{% include research-single-simple.html paper = paper %}</li>
-			{% endunless %}
-			{% endif %}
-		{% endfor %}
-		</ul>
-
-		{{ content }}
+		{% include research-list.html %}
 	</article>
 
 </div>
