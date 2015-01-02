@@ -4,10 +4,11 @@
 var parser = require('bibtex-parser-js'),
 	format = require('jsonf'),
 	fs = require('fs'),
-	util = require('util');
+	util = require('util'),
+	path = require('path');
 
-var path = '/Users/mitcho/Dropbox/academic/paperarchive/paperarchive.bib';
-var paperarchive = fs.readFileSync(path).toString();
+var bibpath = '/Users/mitcho/Dropbox/academic/paperarchive/paperarchive.bib';
+var paperarchive = fs.readFileSync(bibpath).toString();
 
 paperarchive = paperarchive.replace(/@comment{BibDesk Static Groups{(.|\n)*}}/m, '');
 
@@ -87,7 +88,7 @@ function convertItem(item) {
 		keywords: [],
 		authors: []
 	};
-	var keys = ['AUTHOR', 'EDITOR', 'TITLE', 'URL', 'NOTE', 'YEAR', 'ABSTRACT', 'BOOKTITLE', 'JOURNAL', 'VOLUME', 'PAGES', 'SCHOOL'];
+	var keys = ['AUTHOR', 'EDITOR', 'TITLE', 'URL', 'NOTE', 'YEAR', 'ABSTRACT', 'BOOKTITLE', 'JOURNAL', 'VOLUME', 'PAGES', 'SCHOOL', 'PAPER', 'HANDOUT', 'SLIDES'];
 	for (i in keys) {
 		if (keys[i] in item.entryTags)
 			newItem[keys[i].toLowerCase()] = cleanup(item.entryTags[keys[i]], keys[i]);
@@ -108,13 +109,45 @@ function convertItem(item) {
 		}
 	}
 	
+	newItem.files = [];
 	if ('url' in newItem) {
-		newItem.files = [{
+		newItem.files.push({
 			title: newItem.title,
 			url: newItem.url,
-			type: (newItem.url.search(/\.pdf$/) > -1 ? 'pdf' : null)
-		}];
+			type: path.extname(newItem.url).replace(/^\./,'')
+		});
 	}
+	
+	// find local files
+	var fileKeys = ['paper','handout','slides'];
+	var associated = ('url' in newItem);
+	for ( i in fileKeys ) {
+		var fileType = fileKeys[i];
+		if (fileType in newItem) {
+			var source = newItem[fileType].replace('file://', '');
+		
+			if ( fs.existsSync(source) ) {
+				newItem[fileType] = {
+					source: source,
+					target: '/research/' + (fileType != 'paper' ? fileType + '-' : '') + newItem.citationKey.replace('talk:', '') + path.extname(source)
+				}
+				
+				var fileTitle = (associated ? 'Associated ' : '') + fileType;
+				// Capitalize initial:
+				fileTitle = fileTitle.replace(/^(\w)/, function(x) {return x.toUpperCase();});
+				
+				newItem.files.push({
+					title: fileTitle,
+					url: newItem[fileType].target,
+					type: path.extname(source).replace(/^\./,'')
+				});
+			}
+		}
+	}
+	
+	// for now, setting both a paper and url is unsupported.
+	if ( !('url' in newItem) && newItem.files.length )
+		newItem.url = newItem.files[0].url;
 	
 	return newItem;
 }

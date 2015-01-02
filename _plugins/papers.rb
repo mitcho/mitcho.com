@@ -12,6 +12,24 @@ module Jekyll
       self.data['title'] = bibdata['title']
       self.data['paper'] = bibdata
     end
+    
+    def write(dest)
+      path = destination(dest)
+      FileUtils.mkdir_p(File.dirname(path))
+
+      ['paper','handout','slides'].each do |type|
+        if data['paper'].key? type
+          source = data['paper'][type]['source']
+          target = File.join(site.dest, data['paper'][type]['target'])
+          FileUtils.cp(source, target)
+          puts "cp #{source} #{target}"
+        end
+      end
+
+      File.open(path, 'wb') do |f|
+        f.write(output)
+      end
+    end
 
     # Override so that we can control where the destination file goes
     def destination(dest)

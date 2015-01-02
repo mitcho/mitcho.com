@@ -1,6 +1,82 @@
 [
     {
-        "citationKey": "talk:blocking",
+        "citationKey": "talk:blocking-cns2014",
+        "entryType": "unpublished",
+        "keywords": [
+            "experiment",
+            "English",
+            "Japanese"
+        ],
+        "authors": [
+            {
+                "name": "Hisagi, Miwako",
+                "lastName": "Hisagi",
+                "displayName": "Miwako Hisagi"
+            },
+            {
+                "name": "Erlewine, Michael Yoshitaka",
+                "lastName": "Erlewine",
+                "displayName": "Michael Yoshitaka Erlewine"
+            },
+            {
+                "name": "Kato, Sachiko",
+                "lastName": "Kato",
+                "displayName": "Sachiko Kato"
+            },
+            {
+                "name": "Kotek, Hadas",
+                "lastName": "Kotek",
+                "displayName": "Hadas Kotek",
+                "url": "http://hkotek.com"
+            },
+            {
+                "name": "Sugawara, Ayaka",
+                "lastName": "Sugawara",
+                "displayName": "Ayaka Sugawara"
+            },
+            {
+                "name": "Yasunaga, Daichi",
+                "lastName": "Yasunaga",
+                "displayName": "Daichi Yasunaga"
+            },
+            {
+                "name": "Pantazis, Dimitrios",
+                "lastName": "Pantazis",
+                "displayName": "Dimitrios Pantazis"
+            },
+            {
+                "name": "Koizumi, Masatoshi",
+                "lastName": "Koizumi",
+                "displayName": "Masatoshi Koizumi"
+            },
+            {
+                "name": "Miyagawa, Shigeru",
+                "lastName": "Miyagawa",
+                "displayName": "Shigeru Miyagawa"
+            }
+        ],
+        "author": "Hisagi, Miwako and Erlewine, Michael Yoshitaka and Kato, Sachiko and Kotek, Hadas and Sugawara, Ayaka and Yasunaga, Daichi and Pantazis, Dimitrios and Koizumi, Masatoshi and Miyagawa, Shigeru",
+        "title": "Exploring the Cross-linguistic Nature of Simple and Complex Words and Expressions in Human Language Through Event-Related Potentials",
+        "note": "Poster presented at Cognitive Neuroscience Society (CNS) 2014",
+        "year": "2014",
+        "authorsHtml": [
+            "Hisagi, Miwako",
+            "<strong>Michael Yoshitaka Erlewine</strong>",
+            "Sachiko Kato",
+            "<a href=\"http://hkotek.com\">Hadas Kotek</a>",
+            "Ayaka Sugawara",
+            "Daichi Yasunaga",
+            "Dimitrios Pantazis",
+            "Masatoshi Koizumi",
+            "Shigeru Miyagawa"
+        ],
+        "project": "blocking",
+        "files": [
+            
+        ]
+    },
+    {
+        "citationKey": "talk:blocking-lsa2014",
         "entryType": "unpublished",
         "keywords": [
             "morphology",
@@ -25,11 +101,23 @@
         "title": "Morphological blocking in English causatives",
         "note": "Presented at LSA 88",
         "year": "2014",
+        "slides": {
+            "source": "/Users/mitcho/Dropbox/academic/projects/blocking/slides/slides-lsa2014.pdf",
+            "target": "/research/slides-blocking-lsa2014.pdf"
+        },
         "authorsHtml": [
             "<strong>Erlewine, Michael Yoshitaka</strong>",
             "<a href=\"http://hkotek.com\">Hadas Kotek</a>"
         ],
-        "project": "blocking"
+        "project": "blocking",
+        "files": [
+            {
+                "title": "Slides",
+                "url": "/research/slides-blocking-lsa2014.pdf",
+                "type": "pdf"
+            }
+        ],
+        "url": "/research/slides-blocking-lsa2014.pdf"
     },
     {
         "citationKey": "haplology",
@@ -86,7 +174,10 @@
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
         ],
-        "project": "sfp"
+        "project": "sfp",
+        "files": [
+            
+        ]
     },
     {
         "citationKey": "ubiquity",
@@ -106,10 +197,22 @@
         "year": "2009",
         "booktitle": "Proceedings of the <a href=\"http://www.sics.se/events/clir2009\">ACM SIGIR 2009 Workshop on Information Access in a Multilingual World</a>",
         "pages": "45--48",
+        "paper": {
+            "source": "/Users/mitcho/Dropbox/academic/projects/ubiquity/erlewine-sigir.pdf",
+            "target": "/research/ubiquity.pdf"
+        },
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
         ],
-        "project": "ubiquity"
+        "project": "ubiquity",
+        "files": [
+            {
+                "title": "Paper",
+                "url": "/research/ubiquity.pdf",
+                "type": "pdf"
+            }
+        ],
+        "url": "/research/ubiquity.pdf"
     },
     {
         "citationKey": "talk:teal9",
@@ -130,10 +233,23 @@
         "title": "On the position of focus adverbs",
         "note": "Presented at <a href=\"http://www.teal9.univ-nantes.fr/\">Theoretical East Asian Linguistics (TEAL 9)</a>, University of Nantes",
         "year": "2014",
+        "abstract": "Focus-sensitive operators must associate with a focused constituent (the associate) in their c-command domain (Jackendoff, 1972; Rooth, 1985, 1992; Tancredi, 1990). However, I show that this c-command requirement is insufficient to capture the distribution of focus adverbs (e.g. <em>only</em>) in Mandarin Chinese and Vietnamese. I show that focus adverbs must be as low as possible while c-commanding their focus associate, within a particular extended vP domain. The generalization is similar to what has been described for German by Büring and Hartmann (2001), but without an explanation. I propose a syntax for focus adverbs which, together with the standard Roothian semantics of focus, derives this behavior.",
+        "handout": {
+            "source": "/Users/mitcho/Dropbox/academic/projects/focus-adverbs/teal/handout-teal2014.pdf",
+            "target": "/research/handout-teal9.pdf"
+        },
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
         ],
-        "project": "focus-adverbs"
+        "project": "focus-adverbs",
+        "files": [
+            {
+                "title": "Handout",
+                "url": "/research/handout-teal9.pdf",
+                "type": "pdf"
+            }
+        ],
+        "url": "/research/handout-teal9.pdf"
     },
     {
         "citationKey": "voice-oup",
@@ -174,7 +290,10 @@
             "<a href=\"https://sites.google.com/site/tfranklevin/\">Theodore Levin</a>",
             "<a href=\"http://web.mit.edu/cvanurk/www/\">Coppe van Urk</a>"
         ],
-        "project": "voice"
+        "project": "voice",
+        "files": [
+            
+        ]
     },
     {
         "citationKey": "voice-afla",
@@ -214,7 +333,10 @@
             "<a href=\"https://sites.google.com/site/tfranklevin/\">Theodore Levin</a>",
             "<a href=\"http://web.mit.edu/cvanurk/www/\">Coppe van Urk</a>"
         ],
-        "project": "voice"
+        "project": "voice",
+        "files": [
+            
+        ]
     },
     {
         "citationKey": "squliq",
@@ -241,7 +363,10 @@
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
         ],
-        "project": "atayal"
+        "project": "atayal",
+        "files": [
+            
+        ]
     },
     {
         "citationKey": "that-trace",
@@ -267,7 +392,7 @@
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
         ],
-        "project": "that-trace",
+        "project": "kaqchikel",
         "files": [
             {
                 "title": "Why the null complementizer is special in the English <em>that</em>-trace effect",
@@ -461,6 +586,10 @@
         "note": "Manuscript, MIT",
         "year": "2013",
         "abstract": "This paper presents a previously unobserved pattern of morphological blocking in English causatives, which parallels a well-studied pattern of morphological blocking in Japanese causatives (Kuroda, 1965, a.o.). We present evidence of deep parallels between the English and Japanese causatives along with a detailed syntax/semantics for these structures within the framework of Distributed Morphology. We argue that the blocking effect is sensitive not to structural adjacency, as previously argued for Japanese (Harley, 2008), but instead to linear adjacency. Our findings constitute a strong argument for the post-syntactic resolution of derivational morphology, pace Distributed Morphology and contra the Lexicalist Hypothesis. In particular, the sensitivity to linear adjacency shows that the operations relevant to the blocking effect must occur post-linearization, and therefore contributes to our understanding of the timing of post-syntactic operations.",
+        "slides": {
+            "source": "/Users/mitcho/Dropbox/academic/projects/blocking/slides/slides-lsa2014.pdf",
+            "target": "/research/slides-blocking.pdf"
+        },
         "authorsHtml": [
             "<a href=\"http://hkotek.com\">Kotek, Hadas</a>",
             "<strong>Michael Yoshitaka Erlewine</strong>"
@@ -470,6 +599,11 @@
             {
                 "title": "Blocking effects in English causatives",
                 "url": "http://ling.auf.net/lingbuzz/001896/current.pdf",
+                "type": "pdf"
+            },
+            {
+                "title": "Associated slides",
+                "url": "/research/slides-blocking.pdf",
                 "type": "pdf"
             }
         ]
@@ -636,19 +770,24 @@
         ],
         "author": "Erlewine, Michael Yoshitaka",
         "title": "Assocation with traces and the copy theory of movement",
-        "url": "http://mitcho.com/academic/handout-glow2012.pdf",
         "note": "Presented at GLOW 35 Workshop on Association with Focus",
         "year": "2012",
+        "handout": {
+            "source": "/Users/mitcho/Dropbox/academic/projects/focus/glow/handout-glow2012.pdf",
+            "target": "/research/handout-glow2012.pdf"
+        },
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
         ],
+        "project": "backwards-association",
         "files": [
             {
-                "title": "Assocation with traces and the copy theory of movement",
-                "url": "http://mitcho.com/academic/handout-glow2012.pdf",
+                "title": "Handout",
+                "url": "/research/handout-glow2012.pdf",
                 "type": "pdf"
             }
-        ]
+        ],
+        "url": "/research/handout-glow2012.pdf"
     },
     {
         "citationKey": "focus-piedpiping",
@@ -781,11 +920,12 @@
         ]
     },
     {
-        "citationKey": "talk:aimm2012",
+        "citationKey": "talk:af-aimm",
         "entryType": "unpublished",
         "keywords": [
-            "af",
-            "hidden"
+            "hidden",
+            "Kaqchikel",
+            "morphology"
         ],
         "authors": [
             {
@@ -796,18 +936,14 @@
         ],
         "author": "Erlewine, Michael Yoshitaka",
         "title": "Dissociating the syntax and morphological realization of Mayan Agent Focus",
-        "url": "http://mitcho.com/academic/handout-aimm2012.pdf",
         "note": "Presented at the First American International Morphology Meeting, UMass Amherst",
         "year": "2012",
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
         ],
+        "project": "kaqchikel",
         "files": [
-            {
-                "title": "Dissociating the syntax and morphological realization of Mayan Agent Focus",
-                "url": "http://mitcho.com/academic/handout-aimm2012.pdf",
-                "type": "pdf"
-            }
+            
         ]
     },
     {
@@ -871,7 +1007,10 @@
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
         ],
-        "project": "bi"
+        "project": "bi",
+        "files": [
+            
+        ]
     },
     {
         "citationKey": "bi-wccfl",
@@ -926,20 +1065,24 @@
         ],
         "author": "Erlewine, Michael Yoshitaka",
         "title": "The Constituency of Hyperlinks in a Hypertext Corpus",
-        "url": "http://mitcho.com/academic/slides-isle2.pdf",
         "note": "Presented at <a href=\"http://bu.edu/isle\">the International Society for the Linguistics of English (IsLE 2)</a>, Boston University",
         "year": "2011",
+        "slides": {
+            "source": "/Users/mitcho/Dropbox/academic/projects/hyperlinks/isle2/isle-presentation.pdf",
+            "target": "/research/slides-isle2.pdf"
+        },
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
         ],
         "project": "hyperlinks",
         "files": [
             {
-                "title": "The Constituency of Hyperlinks in a Hypertext Corpus",
-                "url": "http://mitcho.com/academic/slides-isle2.pdf",
+                "title": "Slides",
+                "url": "/research/slides-isle2.pdf",
                 "type": "pdf"
             }
-        ]
+        ],
+        "url": "/research/slides-isle2.pdf"
     },
     {
         "citationKey": "eryi",
@@ -999,7 +1142,7 @@
             {
                 "title": "How natural should a natural interface be?",
                 "url": "http://mitcho.com/blog/projects/how-natural-should-a-natural-interface-be/",
-                "type": null
+                "type": ""
             }
         ]
     },

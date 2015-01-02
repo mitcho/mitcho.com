@@ -18,7 +18,9 @@ kaqchikel:
   title: "Agent Focus in Kaqchikel (Mayan; Guatemala)"
   description: "Kaqchikel is a morphologically ergative Mayan language where the A'-extraction of subjects of transitives (ergative arguments) requires special verbal morphology, known as *Agent Focus* (AF). Through my fieldwork on Kaqchikel, I discovered cases where the extraction of an ergative subject does *not* require AF. In particular, when additional clausal material is projected between the base position of the ergative subject and its landing site, AF becomes unnecessary and in fact impossible. In my *Natural Language & Linguistic Theory* paper, I propose that AF is a strategy which rescues movement which would otherwise be *too short*---the effect of an anti-locality constraint on A'-movement---rather than a simple response to movement of an ergative argument. I motivate an Optimality-Theoretic system of ranked, violable constraints to arrive at the correct AF forms.
   
-  In related work, I have also investigated a type of non-finite embedding in Kaqchikel, which I analyze as a form of restructuring, and its interaction with AF morphology."
+  In related work, I have also investigated a type of non-finite embedding in Kaqchikel, which I analyze as a form of restructuring, and its interaction with AF morphology.
+  
+  I am also currently exploring applications of the anti-locality constraint which I propose for Kaqchikel to other extraction asymmetries, including other cases of so-called \"anti-agreement\" and the English *that*-trace effect."
 
 voice:
   title: "Austronesian-type voice systems"
@@ -37,6 +39,12 @@ bi:
 haishi:
   title: "Alternative questions in Mandarin Chinese"
   description: "While the syntax of *wh*-in-situ in Mandarin Chinese has been central to discussions of the linguistic theory of covert movement (Huang, 1982), little attention has been paid to the syntax and semantics of alternative questions in Mandarin. I argue that alternative-question-triggering disjunctions in Mandarin are interpreted *in-situ* at LF using a process of alternative computation, supported by evidence from island sensitivity and focus intervention effects. I offer a proposal for the different semantics of alternative-question-triggering disjunction and logical disjunction, in languages such as Mandarin which lexicalize this difference, and show that it can explain the distribution of question \"force\" in Mandarin clauses involving disjunction."
+
+blocking:
+  title: "Morphological blocking in causatives"
+  description: "\"Blocking\" of productive, analytic causative forms by the existence of listed, lexical causative forms has been well studied in Japanese, but has been previously thought to not exist in English. In joint work with Hadas Kotek, we have identified an environment where such effects do in fact appear in English. We argue that the blocking effect is sensitive not to structural adjacency, as previously argued for Japanese (Harley, 2008), but instead to linear adjacency. The sensitivity to linear adjacency shows that the operations relevant to the blocking effect must occur post-linearization, and therefore contributes to our understanding of the timing of post-syntactic operations.
+  
+  In addition, in a collaboration led by PIs [Shigeru Miyagawa](http://web.mit.edu/miyagawa/www/) (MIT) and [Masa Koizumi](http://db.tohoku.ac.jp/whois/e_detail/c20f69c4fa34a7748d206cd4730370a9.html) (Tōhoku University), I have contributed to the development of experiments to test different theories of morphological blocking as applied to causative constructions, in both English and Japanese."
 
 sfp:
   title: "Sentence-final particles in Mandarin Chinese"
