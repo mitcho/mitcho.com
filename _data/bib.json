@@ -200,7 +200,7 @@
         "project": "sfp",
         "files": [
             {
-                "title": "Paper",
+                "title": "Sentence-final particles at the <em>v</em>P phase edge",
                 "url": "/research/sfp.pdf",
                 "type": "pdf"
             }
@@ -238,7 +238,7 @@
         "project": "ubiquity",
         "files": [
             {
-                "title": "Paper",
+                "title": "Ubiquity: Designing a Multilingual Natural Language Interface",
                 "url": "/research/ubiquity.pdf",
                 "type": "pdf"
             }
@@ -366,7 +366,10 @@
         "title": "What makes a voice system? On the relationship between voice marking and case",
         "year": "to appear",
         "booktitle": "Proceedings of <a href=\"https://sites.google.com/a/hawaii.edu/afla21/home\">AFLA 21</a>",
-        "paper": "file:///Users/mitcho/Dropbox/academic/projects/voice/AFLA%20Proceedings/preprint.pdf",
+        "paper": {
+            "source": "/Users/mitcho/Dropbox/academic/projects/voice/AFLA Proceedings/preprint.pdf",
+            "target": "/research/voice-afla.pdf"
+        },
         "authorsHtml": [
             "<strong>Erlewine, Michael Yoshitaka</strong>",
             "<a href=\"https://sites.google.com/site/tfranklevin/\">Theodore Levin</a>",
@@ -378,8 +381,13 @@
         ],
         "project": "voice",
         "files": [
-            
-        ]
+            {
+                "title": "What makes a voice system? On the relationship between voice marking and case",
+                "url": "/research/voice-afla.pdf",
+                "type": "pdf"
+            }
+        ],
+        "url": "/research/voice-afla.pdf"
     },
     {
         "citationKey": "squliq",
@@ -416,7 +424,7 @@
         "project": "atayal",
         "files": [
             {
-                "title": "Paper",
+                "title": "Subject marking on non-subjects in Squliq Atayal",
                 "url": "/research/squliq.pdf",
                 "type": "pdf"
             }

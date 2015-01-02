@@ -144,7 +144,7 @@ function convertItem(item) {
 	for ( i in fileKeys ) {
 		var fileType = fileKeys[i];
 		if (fileType in newItem) {
-			var source = newItem[fileType].replace('file://', '');
+			var source = newItem[fileType].replace('file://', '').replace('%20', ' ');
 		
 			if ( fs.existsSync(source) ) {
 				newItem[fileType] = {
