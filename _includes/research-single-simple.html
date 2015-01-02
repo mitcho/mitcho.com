@@ -20,17 +20,7 @@
 	{% endif %}
 
 {% if paper.authors.size > 1 %}
-with {% for author in paper.authors %}
-	{% if author.name != 'Erlewine, Michael Yoshitaka' %}
-		{% if paper.authors.size > 2 %}
-		{% if forloop.last %} and {% endif %}
-		{% endif %}
-			{% if author.url != null %}<a href='{{author.url}}'>{{author.displayName}}</a>{% else %}{{author.displayName}}{% endif %}
-		{% if paper.authors.size > 3 %}
-		{% unless forloop.last %}, {% endunless %}
-		{% endif %}
-	{% endif %}
-{% endfor %}.
+with {{ paper.othersHtml | array_to_sentence_string }}.
 {% else %}
 {% endif %}
 

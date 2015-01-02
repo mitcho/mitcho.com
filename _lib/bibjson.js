@@ -81,6 +81,25 @@ function authorsHtml(authors) {
 	return html;
 }
 
+function othersHtml(authors) {
+	var html = [];
+	var first = true;
+	for ( i in authors ) {
+		var author = authors[i];
+		if ( author.name == 'Erlewine, Michael Yoshitaka' )
+			continue;
+
+		var item = author.displayName;
+		
+		if ( 'url' in author )
+			item = '<a href="' + encodeURI(author.url) + '">' + item + '</a>';
+		
+		html.push(item);
+	}
+	return html;
+}
+
+
 function convertItem(item) {
 	var newItem = {
 		citationKey: item.citationKey.toLowerCase(),
@@ -97,6 +116,7 @@ function convertItem(item) {
 	if ('AUTHOR' in item.entryTags) {
 		newItem['authors'] = parseAuthors(cleanup(item.entryTags['AUTHOR']));
 		newItem['authorsHtml'] = authorsHtml(newItem['authors']);
+		newItem['othersHtml'] = othersHtml(newItem['authors']);
 	}
 	
 	if ('KEYWORDS' in item.entryTags) {
@@ -135,6 +155,9 @@ function convertItem(item) {
 				var fileTitle = (associated ? 'Associated ' : '') + fileType;
 				// Capitalize initial:
 				fileTitle = fileTitle.replace(/^(\w)/, function(x) {return x.toUpperCase();});
+				
+				if ( !associated && fileType == 'paper' )
+					fileTitle = newItem.title;
 				
 				newItem.files.push({
 					title: fileTitle,
