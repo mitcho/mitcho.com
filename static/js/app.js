@@ -1,40 +1,74 @@
-var states = [];
-function maybeOverlay(url) {
+function closeOverlay(part) {
+	// part: research | projects
+	console.log(part);
+	
 	var $ = Zepto;
-	// todo: detect whether HTML5 History exists. If not, skip all this.
 
-	var match = url.match(/^(http:\/\/mitcho.com|http:\/\/127.0.0.1:4000)?\/research\/(.*)\.html/);
+	// if the desired 'part' is not what is present, reload it:
+	if ( !$('.col2').find('.post.' + part).length ) {
+		$('.col2').remove();
+		load('/' + part + '/index.overlay.html', 'col2');
+	}
 
-	if ( !match.length )
-		return window.location = url;
+	var overlay = $('.col3').addClass('lower slidedown');
+	setTimeout(function() {
+		overlay.remove();
+	}, 1.5 * 1000)
+	$('body').removeClass('overlayed');
+}
 
-	// it's overlay time:
-	var slug = match[2];
-	$.get('/research/' + slug + '.overlay.html', function (data, status, xhr) {
+function load(overlayUrl, type, cb) {
+	if (type != 'col2' && type != 'col3')
+		throw Error('load: type must be col2 or col3');
+
+	var $ = Zepto;
+	$.get(overlayUrl, function (data, status, xhr) {
+		console.log('load');
 		var parsed = $(data);
 		var title = parsed.find('title').text();
 		
-		// todo: make old overlay disappear more elegantly
-		$('.col3').remove();
-		
-		// save state:
-		states.push({title: window.title, url: window.location});
 		// transition!
-		$('.col2').after(parsed.find('.col3'));
-		$('.col2').addClass('overlayed');
-		history.pushState(null, title, '/research/' + slug + '.html');
+		var section = parsed.find('overlay > section');
+		section.addClass('slideup ' + type);
 		
+		if (type == 'col2') {
+			$('.site-header').after(section);
+		} else { // col3
+			$('.site-footer').before(section);
+			$('body').addClass('overlayed');			
+		}
+
+		cb();
 	}, 'html');
+}
+
+function loadOverlay(slug) {
+	var $ = Zepto;
+
+	var overlayUrl = '/research/' + slug + '.overlay.html';
+	console.log('loadOverlay');
+
+	var oldOverlay = $('.col3').addClass('lower');
+
+	load(overlayUrl, 'col3', function() {
+		setTimeout(function() {
+			console.log('remove overlay');
+			oldOverlay.remove();
+		}, 1.5 * 1000);
+	});
 }
 
 function resizeCol3() {
 	var $ = Zepto;
-	var offset = $('.col3').offset();
+	var col3 = $('.col3');
+	if ( !col3.length )
+		return;
+	var offset = col3.offset();
 	var needed = $(window).width() - offset.left - 880;
 	if (needed > 0)
-		$('.col3').css('padding-right', needed);
+		col3.css('padding-right', needed);
 	else
-		$('.col3').css('padding-right', 0);
+		col3.css('padding-right', 0);
 }
 
 Zepto(function($) {
@@ -42,23 +76,35 @@ Zepto(function($) {
 	$('.research-group li').on('click', function(e) {
 		// find the closest target:
 		var target = $(e.target).closest('a,li');
-		if ( target.index(this) > -1 )
-			maybeOverlay(target.find('.title').attr('href'));
+		if ( target.index(this) > -1 ) {
+			var a = target.find('.title');
+			History.pushState(null, a.text(), a.attr('href'));
+		}
 		e.preventDefault();
 	});
 	
-	$('a').on('click', function() {
-		var url = $(e.target).attr('href');
-		maybeOverlay(url);
+	// reroute 'a' in sections through History.pushState
+	$('section').on('click', 'a', function(e) {
+		var a = $(e.currentTarget);
+		History.pushState(null, a.text(), a.attr('href'));
 	});
 	
-	$(window).on('popstate', function(e) {
-		console.log(e);
-		$('.col3').remove();
-		$('.col2').removeClass('overlayed');
-	});
-	$(window).on('pushstate', function(e) {
-		console.log(e);
+	// catch the actual pushState
+	History.Adapter.bind(window, 'statechange', function(e) {
+		var State = History.getState();
+		console.log(State.url);
+		var match = State.url.match(/^(http:\/\/mitcho.com|http:\/\/127.0.0.1:4000)?\/(research|projects)\/((.*)\.html)?$/);
+		if ( match == null || !match.length )
+			return;
+
+		var part = match[2];
+		var slug = match[4];
+		if (part == 'research' && slug != null)
+			loadOverlay(slug);
+		else if (slug == null)
+			closeOverlay(part);
+		else
+			return;
 	});
 	
 	resizeCol3();
