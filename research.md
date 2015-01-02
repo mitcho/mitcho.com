@@ -9,12 +9,13 @@ layout: page
 
 ## Software
 
-*   [turktools][http://turktools.net]: tools to simplify the development of experimental stimuli for running linguistic experiments on [Amazon Mechanical Turk][http://mturk.com]. Described in [this paper][http://ling.auf.net/lingbuzz/001802/current.pdf].
-*   [turkserver][http://turktools.net/use/server.html]: host your Turk-style experiments on your own server.
-*   [LingBuzz RSS feed][https://github.com/mitcho/lingbuzzrss/]
-*   [Better Linguist List RSS feeds][http://mitcho.com/blog/projects/better-linguist-list-rss-feeds/]
+{: .research-group}
+*   [turktools](http://turktools.net): tools to simplify the development of experimental stimuli for running linguistic experiments on [Amazon Mechanical Turk](http://mturk.com). Described in [this paper](http://ling.auf.net/lingbuzz/001802/current.pdf).
+*   [turkserver](http://turktools.net/use/server.html): host your Turk-style experiments on your own server.
+*   [LingBuzz RSS feed](https://github.com/mitcho/lingbuzzrss/)
+*   [Better Linguist List RSS feeds](http://mitcho.com/blog/projects/better-linguist-list-rss-feeds/)
 *   [The Antisymmetrizer][51]: an online tool which linearizes trees according to the Linear Correspondance Axiom (Kayne, 1994).
-*   A universal natural language parser for [Ubiquity][https://en.wikipedia.org/wiki/Ubiquity_%28Firefox%29], an experimental multilingual natural language interface, as described in [this paper][/academic/erlewine-sigir.pdf].
+*   A universal natural language parser for [Ubiquity](https://en.wikipedia.org/wiki/Ubiquity_%28Firefox%29), an experimental multilingual natural language interface, as described in [this paper](/academic/erlewine-sigir.pdf).
 
  [1]: http://ling.auf.net/lingbuzz/002210
  

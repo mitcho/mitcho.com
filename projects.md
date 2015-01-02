@@ -3,4 +3,4 @@ title: Projects
 layout: projects
 ---
 
-*List [publications](/research).*
+*List [publications](/research) by type and chronological order.*
