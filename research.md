@@ -3,6 +3,8 @@ title: Research
 layout: page
 ---
 
+*List research [by project](/projects).*
+
 {% include research-list.html %}
 
 ## Software
