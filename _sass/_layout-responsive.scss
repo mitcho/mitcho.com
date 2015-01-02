@@ -8,7 +8,7 @@
 	.col1 {
 		padding: $col-padding !important;
 	}
-	.col2.overlayed {
+	body.overlayed .col2 {
 		animation: none;
 		display: none;
 		// todo: make overlay work in responsive view

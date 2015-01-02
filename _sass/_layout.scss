@@ -61,7 +61,7 @@
 .col2 {
 	margin-left: $body-padding + ($col-padding * 2) + $nav-width;
 }
-.col2.overlayed {
+body.overlayed .col2 {
 	overflow: hidden;
 	animation-duration: 1.5s;
 	animation-name: overlayed;
@@ -73,9 +73,24 @@
 	margin-left: $body-padding + ($col-padding * 2) + $nav-width + 10px; // just a slight offset
 	background-color: $overlay-color;
 	min-height: 100%;
-	animation-duration: 1.5s;
-	animation-name: slideup;
 	box-shadow: 0px 0px 10px #ccc;
+	z-index: 2;
+
+	&.slideup {
+		animation-duration: 1.5s;
+		animation-name: slideup;
+	}
+	&.slidedown {
+		animation-duration: 1.5s;
+		animation-name: slidedown;
+		top: 100%;
+	}
+
+	&.lower {
+		z-index: 1;
+		box-shadow: none;
+		transition: box-shadow 1.5s ease;
+	}
 }
 // todo: make col3 extend all the way to the right
 
@@ -87,6 +102,14 @@
 	}
 	to {
 		top: 0%;
+	}
+}
+@keyframes slidedown {
+	from {
+		top: 0%;
+	}
+	to {
+		top: 100%;
 	}
 }
 

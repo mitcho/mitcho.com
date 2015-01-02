@@ -294,9 +294,9 @@ del {
 
 .research-group li {
 	padding: 5px;
-	transition: background-color 1s ease;
+	transition: background-color 0.4s ease;
 	&:hover {
-		background-color: #ddd;
+		background-color: #eee;
 		cursor: pointer;
 	}
 }
