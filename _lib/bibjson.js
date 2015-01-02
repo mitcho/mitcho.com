@@ -55,6 +55,31 @@ function parseAuthors(text) {
 	return authors;
 }
 
+function authorsHtml(authors) {
+	var html = [];
+	var first = true;
+	for ( i in authors ) {
+		var author = authors[i];
+		var item = '';
+		
+		if ( first ) {
+			item = author.name;
+			first = false;
+		} else {
+			item = author.displayName;
+		}
+		
+		if ( authors.length > 1 && author.name == 'Erlewine, Michael Yoshitaka' )
+			item = '<strong>' + item + '</strong>';
+		
+		if ( 'url' in author )
+			item = '<a href="' + encodeURI(author.url) + '">' + item + '</a>';
+		
+		html.push(item);
+	}
+	return html;
+}
+
 function convertItem(item) {
 	var newItem = {
 		citationKey: item.citationKey.toLowerCase(),
@@ -70,6 +95,7 @@ function convertItem(item) {
 	
 	if ('AUTHOR' in item.entryTags) {
 		newItem['authors'] = parseAuthors(cleanup(item.entryTags['AUTHOR']));
+		newItem['authorsHtml'] = authorsHtml(newItem['authors']);
 	}
 	
 	if ('KEYWORDS' in item.entryTags) {
