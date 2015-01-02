@@ -1,5 +1,5 @@
 @include media-query($on-tablet) {
-	.col1, .col2, .col3 {
+	.col1, .col2 {
 		float: none;
 		position: static;
 		width: auto;
@@ -8,12 +8,7 @@
 	.col1 {
 		padding: $col-padding !important;
 	}
-	body.overlayed .col2 {
-		animation: none;
-		display: none;
-		// todo: make overlay work in responsive view
-	}
-	.col2, .col3 {
+	.col2 {
 		box-shadow: none;
 		animation: none;
 		> .wrapper {
@@ -60,11 +55,11 @@
 		}
 	}	
 
-	.site-footer, .col2, .col3 {
+	.site-footer, .col2 {
 		border-top: 1px solid #e5e5e5;
 	}
 
-	.col2, .col3 {
+	.col2 {
 		margin: 0px !important;
 	}
 }
@@ -73,7 +68,7 @@
 	.col1 {
 		padding: $small-padding;
 	}
-	.col2, .col3 {
+	.col2 {
 		> .wrapper {
 			padding: $small-padding;
 		}

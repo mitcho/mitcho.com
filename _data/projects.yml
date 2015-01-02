@@ -26,7 +26,7 @@ voice:
 
 atayal:
   title: "Case and topic marking in Atayal (Austronesian; Taiwan)"
-  description: "I began studying Squliq Atayal, an endangered Atayalic language of Taiwan, while on a Fulbright fellowship in Taiwan in 2007–2008, and then have returned to Taiwan to continue my research, funded by an NSF East Asian/Pacific Institute award.
+  description: "I began studying Squliq Atayal, an endangered Atayalic language of Taiwan, while on a Fulbright fellowship in Taiwan in 2007–2008. I have since returned to Taiwan to continue research on Atayal, in summer 2012 funded by an NSF East Asian/Pacific Institute award.
   
   In published work, I have investigated the sentence-final \"subject\" position in Atayal, which is optionally marked with *qu* which is traditionally described as a Case marker. I document certain cases where the subject of the clause (as determined by Voice morphology on the verb) has been displaced, allowing for another, specific, non-subject argument to be marked by *qu*. I argue that the *qu* marker on sentence-final arguments is an information-structual marker of topic, rather than a case marker. I furthermore show that the extraction restriction is sensitive to subjecthood itself, not to the ability of an argument to be *qu*-marked."
 
@@ -40,16 +40,15 @@ haishi:
 
 sfp:
   title: "Sentence-final particles in Mandarin Chinese"
-
-haplology:
-  title: "Structurally distant haplology"
+  description: "Most of the clausal spine in Mandarin Chinese is rigidly head-initial, with the apparent exception of the set of sentence-final particles (SFPs). Previous work has analyzed SFPs as being head-final heads in the CP domain above a head-initial TP---an important apparent counterexample to Biberauer, Holmberg, and Roberts' \"Final Over Final Constraint.\" I contribute new data on the semantic scope of SFPs, leading to the conclusion that a class of sentence-final particles must be lower in the clause, at the *v*P edge. This work is important not only for our understanding of Chinese clause structure, but also for our understanding of the shape of exceptions to the Final Over Final Constraint."
 
 hirc:
   title: "Head-internal relative clauses in Japanese"
   description: "In joint work with Isaac Gould, I investigate the semantic interpretation of head-internal relative clauses (HIRCs) with quantificational heads in Japanese. We observe that in certain contexts, the denotation of a HIRC corresponds to the domain of the head noun's quantifier. We offer a new movement-based syntax/semantics for Japanese HIRC and a proposal for the role of context in the evaluation of definite descriptions which can together model the readings of HIRC under different contexts, and also predict the island-sensitivity of HIRC."
 
 ubiquity:
-  title: "A lightweight, easily localizable parser for Mozilla Ubiquity, a natural language command line interface"
+  title: "Multilingual command parsing for Mozilla Ubiquity"
+  description: "In 2009, I worked as a researcher at the Mozilla Labs division of Mozilla, the organization behind the Firefox web browser. I contributed to the development of [Ubiquity](//en.wikipedia.org/wiki/Ubiquity_%28Firefox%29), an open-source, text-based natural language interface for the browser. I led the design and development of a lightweight parser which could then be easily localized by the community."
 
 turktools:
   title: "Tools for online linguistic surveys"
@@ -58,3 +57,6 @@ turktools:
 hyperlinks:
   title: "The constituency of hypertext corpora"
   description: "A unique property of the hypertext medium is that authors naturally identify certain stretches of text as units, in the form of <span style='text-decoration: underline'>inline hyperlinks</span>. What kind of linguistic objects are inline hyperlinks? I have investigated this question through a 5.7M word corpus of English hypertext, which includes 375k links. Manual annotation of a sample of 5,000 links in the corpus found that 94% of inline links are constituents in their host sentences, with the exceptions largely clustering into other kinds of linguistic objects, e.g. constituents modulo a large adjunct not included at the right edge. I am pursuing the hypothesis that hyperlinking is a process constrained by the author's knowledge of the text's underlying linguistic structure, and therefore could ultimately be used as a test for syntactic constituency, once we better understand the possible range of exceptions."
+
+haplology:
+  title: "Structurally distant haplology"

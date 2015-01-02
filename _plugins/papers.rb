@@ -22,28 +22,6 @@ module Jekyll
     end     
   end
 
-  class PaperOverlayPage < Page
-    def initialize(site, base, dir, slug, bibdata)
-      @site = site
-      @base = base
-      @dir = dir
-      @name = slug + '.overlay.html'
-      
-      self.process(@name)
-      self.read_yaml(File.join(base, '_layouts'), 'overlay-paper.html')
-      self.data['title'] = bibdata['title']
-      self.data['paper'] = bibdata
-    end
-
-    # Override so that we can control where the destination file goes
-    def destination(dest)
-      # The url needs to be unescaped in order to preserve the correct filename.
-      path = File.join(dest, @dir, @name )
-#       path = File.join(path, "index.html") if self.url =~ /\/$/
-      path
-    end     
-  end
-
   class PaperPageGenerator < Generator
     safe true
 
@@ -53,7 +31,6 @@ module Jekyll
         site.data['bib'].each do |bibdata|
           slug = Utils.slugify(bibdata['citationKey'])
           site.pages << PaperPage.new(site, site.source, dir, slug, bibdata)
-          site.pages << PaperOverlayPage.new(site, site.source, dir, slug, bibdata)
         end
       end
     end

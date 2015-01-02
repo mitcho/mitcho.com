@@ -48,7 +48,7 @@
 
 /* COLUMN 2 + 3 */
 
-.col2, .col3 {
+.col2 {
 	position: absolute;
 	
 	> .wrapper {
@@ -60,68 +60,6 @@
 
 .col2 {
 	margin-left: $body-padding + ($col-padding * 2) + $nav-width;
-}
-body.overlayed .col2 {
-	overflow: hidden;
-	animation-duration: 1.5s;
-	animation-name: overlayed;
-	height: 100%;
-}
-
-// col3 is used as an overlay:
-.col3 {
-	margin-left: $body-padding + ($col-padding * 2) + $nav-width + 10px; // just a slight offset
-	background-color: $overlay-color;
-	min-height: 100%;
-	box-shadow: 0px 0px 10px #ccc;
-	z-index: 2;
-
-	&.slideup {
-		animation-duration: 1.5s;
-		animation-name: slideup;
-	}
-	&.slidedown {
-		animation-duration: 1.5s;
-		animation-name: slidedown;
-		top: 100%;
-	}
-
-	&.lower {
-		z-index: 1;
-		box-shadow: none;
-		transition: box-shadow 1.5s ease;
-	}
-}
-// todo: make col3 extend all the way to the right
-
-/* Overlay animation */
-
-@keyframes slideup {
-	from {
-		top: 100%;
-	}
-	to {
-		top: 0%;
-	}
-}
-@keyframes slidedown {
-	from {
-		top: 0%;
-	}
-	to {
-		top: 100%;
-	}
-}
-
-@keyframes overlayed {
-	from {
-		height: 1000px;
-		// larger than necessary, to start.
-		// adding a bunch at the beginning does not hurt.
-	}
-	to {
-		height: 100%;
-	}
 }
 
 

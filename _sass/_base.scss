@@ -174,10 +174,6 @@ blockquote {
         margin-bottom: 0;
     }
 }
-.col3 blockquote {
-    color: darken($grey-color, 10%);
-    border-left: 4px solid darken($grey-color-light, 10%);
-}
 
 
 /**
@@ -307,4 +303,8 @@ del {
 	@include media-query($on-phone) {
 		width: 100%;
 	}
+}
+
+.citation {
+	@extend %vertical-rhythm;
 }

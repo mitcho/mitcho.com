@@ -1,3 +1,4 @@
+{% if include.files.size > 0 %}
 <div class="files">
 	{% for file in include.files %}
 	<div class="file {% if file.type != null %}{{file.type}}{% endif %}">
@@ -6,3 +7,4 @@
 	</div>
 	{% endfor %}
 </div>
+{% endif %}
