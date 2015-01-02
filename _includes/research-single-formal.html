@@ -8,25 +8,7 @@
 
 {% capture pages %}{% if paper.pages != null %}, pages {{ paper.pages | replace:'--','&ndash;' }}{% endif %}{% endcapture %}
 
-{% for author in paper.authors %}
-	{% if paper.authors.size > 1 and forloop.last %} and {% endif %}
-
-	{% if forloop.first %}
-		{% assign authorDisplay = author.name %}
-	{% else %}
-		{% assign authorDisplay = author.displayName %}
-	{% endif %}
-
-	{% if paper.authors.size > 1 and author.name == 'Erlewine, Michael Yoshitaka' %}
-		<strong>{{authorDisplay}}</strong>
-	{% else %}
-		{% if author.url != null %}<a href='{{author.url}}'>{{authorDisplay}}</a>{% else %}{{authorDisplay}}{% endif %}
-	{% endif %}
-
-	{% if paper.authors.size > 2 %}
-	{% unless forloop.last %}, {% endunless %}
-	{% endif %}
-{% endfor %}, {{paper.year}}.
+{{ paper.authorsHtml | array_to_sentence_string }}, {{paper.year}}.
 
 {% if include.projectlink != null %}
 	<a class='title' href='/research/{{paper.citationKey | slugify}}.html'>{{title}}</a>
