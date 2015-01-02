@@ -70,6 +70,16 @@
             "Masatoshi Koizumi",
             "Shigeru Miyagawa"
         ],
+        "othersHtml": [
+            "Miwako Hisagi",
+            "Sachiko Kato",
+            "<a href=\"http://hkotek.com\">Hadas Kotek</a>",
+            "Ayaka Sugawara",
+            "Daichi Yasunaga",
+            "Dimitrios Pantazis",
+            "Masatoshi Koizumi",
+            "Shigeru Miyagawa"
+        ],
         "project": "blocking",
         "files": [
             
@@ -109,6 +119,9 @@
             "<strong>Erlewine, Michael Yoshitaka</strong>",
             "<a href=\"http://hkotek.com\">Hadas Kotek</a>"
         ],
+        "othersHtml": [
+            "<a href=\"http://hkotek.com\">Hadas Kotek</a>"
+        ],
         "project": "blocking",
         "files": [
             {
@@ -143,6 +156,9 @@
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
         ],
+        "othersHtml": [
+            
+        ],
         "project": "haplology",
         "files": [
             {
@@ -171,13 +187,25 @@
         "title": "Sentence-final particles at the <em>v</em>P phase edge",
         "year": "to appear",
         "booktitle": "Proceedings of 25th North American Conference on Chinese Linguistics (NACCL 25)",
+        "paper": {
+            "source": "/Users/mitcho/Dropbox/academic/projects/sfp/naccl-proceedings/erlewine-naccl25-preprint.pdf",
+            "target": "/research/sfp.pdf"
+        },
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
         ],
+        "othersHtml": [
+            
+        ],
         "project": "sfp",
         "files": [
-            
-        ]
+            {
+                "title": "Paper",
+                "url": "/research/sfp.pdf",
+                "type": "pdf"
+            }
+        ],
+        "url": "/research/sfp.pdf"
     },
     {
         "citationKey": "ubiquity",
@@ -203,6 +231,9 @@
         },
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
+        ],
+        "othersHtml": [
+            
         ],
         "project": "ubiquity",
         "files": [
@@ -240,6 +271,9 @@
         },
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
+        ],
+        "othersHtml": [
+            
         ],
         "project": "focus-adverbs",
         "files": [
@@ -290,6 +324,10 @@
             "<a href=\"https://sites.google.com/site/tfranklevin/\">Theodore Levin</a>",
             "<a href=\"http://web.mit.edu/cvanurk/www/\">Coppe van Urk</a>"
         ],
+        "othersHtml": [
+            "<a href=\"https://sites.google.com/site/tfranklevin/\">Theodore Levin</a>",
+            "<a href=\"http://web.mit.edu/cvanurk/www/\">Coppe van Urk</a>"
+        ],
         "project": "voice",
         "files": [
             
@@ -328,8 +366,13 @@
         "title": "What makes a voice system? On the relationship between voice marking and case",
         "year": "to appear",
         "booktitle": "Proceedings of <a href=\"https://sites.google.com/a/hawaii.edu/afla21/home\">AFLA 21</a>",
+        "paper": "file:///Users/mitcho/Dropbox/academic/projects/voice/AFLA%20Proceedings/preprint.pdf",
         "authorsHtml": [
             "<strong>Erlewine, Michael Yoshitaka</strong>",
+            "<a href=\"https://sites.google.com/site/tfranklevin/\">Theodore Levin</a>",
+            "<a href=\"http://web.mit.edu/cvanurk/www/\">Coppe van Urk</a>"
+        ],
+        "othersHtml": [
             "<a href=\"https://sites.google.com/site/tfranklevin/\">Theodore Levin</a>",
             "<a href=\"http://web.mit.edu/cvanurk/www/\">Coppe van Urk</a>"
         ],
@@ -360,13 +403,25 @@
         "title": "Subject marking on non-subjects in Squliq Atayal",
         "year": "to appear",
         "booktitle": "Proceedings of <a href=\"http://www.uta.edu/faculty/sabbagh/afla20/\">AFLA 20</a>",
+        "paper": {
+            "source": "/Users/mitcho/Dropbox/academic/projects/squliq/afla/erlewine-afla20-proceedings.pdf",
+            "target": "/research/squliq.pdf"
+        },
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
         ],
+        "othersHtml": [
+            
+        ],
         "project": "atayal",
         "files": [
-            
-        ]
+            {
+                "title": "Paper",
+                "url": "/research/squliq.pdf",
+                "type": "pdf"
+            }
+        ],
+        "url": "/research/squliq.pdf"
     },
     {
         "citationKey": "that-trace",
@@ -391,6 +446,9 @@
         "abstract": "As first noted by Perlmutter (1968), long-distance subject extraction in English must proceed across a null local complementizer, rather than the pronounced (\"that\") variant. In this squib, I present a brief proposal for the that-trace effect which explains the direction of this asymmetry, using the Spec-to-Spec Anti-Locality constraint on A&#8217;-movement proposed in my previous work and Fox & Pesetsky's Cyclic Linearization view of successive-cyclicity. I propose that the asymmetry is not accidental and reflects a property of unpronounced terminals in linearization.",
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
+        ],
+        "othersHtml": [
+            
         ],
         "project": "kaqchikel",
         "files": [
@@ -428,6 +486,9 @@
         "pages": "128--145",
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
+        ],
+        "othersHtml": [
+            
         ],
         "project": "backwards-association",
         "files": [
@@ -468,6 +529,9 @@
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
         ],
+        "othersHtml": [
+            
+        ],
         "project": "kaqchikel",
         "files": [
             {
@@ -506,6 +570,9 @@
         "school": "Massachusetts Institute of Technology",
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
+        ],
+        "othersHtml": [
+            
         ],
         "project": "backwards-association",
         "files": [
@@ -547,6 +614,9 @@
         "pages": "160--169",
         "authorsHtml": [
             "<strong>Erlewine, Michael Yoshitaka</strong>",
+            "Isaac Gould"
+        ],
+        "othersHtml": [
             "Isaac Gould"
         ],
         "project": "hirc",
@@ -594,6 +664,9 @@
             "<a href=\"http://hkotek.com\">Kotek, Hadas</a>",
             "<strong>Michael Yoshitaka Erlewine</strong>"
         ],
+        "othersHtml": [
+            "<a href=\"http://hkotek.com\">Hadas Kotek</a>"
+        ],
         "project": "blocking",
         "files": [
             {
@@ -638,6 +711,9 @@
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
         ],
+        "othersHtml": [
+            
+        ],
         "project": "kaqchikel",
         "files": [
             {
@@ -672,6 +748,9 @@
         "abstract": "This paper argues that Mandarin Chinese fills a gap in the typology of comparative constructions in natural language. Beck (2004) proposes that languages may vary in whether or not they allow for degree abstraction, and Kennedy (2007) proposes a distinction between comparative constructions with degree-denoting standards and individual-denoting standards. Based on these parameters, we expect to find languages that lack degree abstraction yet allow for degree comparison, but such languages have not been attested in the literature. I argue that Mandarin Chinese instantiates such a language.\n\nI show that the derivation of the Mandarin bǐ comparative involves two instances of the predicate in syntax—one which composes with the target and one which composes with the standard—in order to form two degree descriptions. I posit an obligatory ellipsis operation to yield the final word order, and show that various properties of bǐ comparatives fall out of general constraints on ellipsis parallelism. Finally, I argue that the computation of bǐ comparatives does not—and cannot—involve abstraction over a degree argument. Gradable predicates in Mandarin take their degree argument last, allowing for degree comparison without using degree abstraction.",
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
+        ],
+        "othersHtml": [
+            
         ],
         "project": "bi",
         "files": [
@@ -713,6 +792,9 @@
             "<strong>Erlewine, Michael Yoshitaka</strong>",
             "<a href=\"http://hkotek.com\">Hadas Kotek</a>"
         ],
+        "othersHtml": [
+            "<a href=\"http://hkotek.com\">Hadas Kotek</a>"
+        ],
         "project": "turktools",
         "files": [
             {
@@ -746,6 +828,9 @@
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
         ],
+        "othersHtml": [
+            
+        ],
         "project": "backwards-association",
         "files": [
             {
@@ -778,6 +863,9 @@
         },
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
+        ],
+        "othersHtml": [
+            
         ],
         "project": "backwards-association",
         "files": [
@@ -829,6 +917,9 @@
             "<strong>Erlewine, Michael Yoshitaka</strong>",
             "<a href=\"http://hkotek.com\">Hadas Kotek</a>"
         ],
+        "othersHtml": [
+            "<a href=\"http://hkotek.com\">Hadas Kotek</a>"
+        ],
         "project": "piedpiping",
         "files": [
             {
@@ -874,6 +965,9 @@
             "<a href=\"http://hkotek.com\">Kotek, Hadas</a>",
             "<strong>Michael Yoshitaka Erlewine</strong>"
         ],
+        "othersHtml": [
+            "<a href=\"http://hkotek.com\">Hadas Kotek</a>"
+        ],
         "project": "piedpiping",
         "files": [
             {
@@ -910,6 +1004,9 @@
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
         ],
+        "othersHtml": [
+            
+        ],
         "project": "kaqchikel",
         "files": [
             {
@@ -940,6 +1037,9 @@
         "year": "2012",
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
+        ],
+        "othersHtml": [
+            
         ],
         "project": "kaqchikel",
         "files": [
@@ -975,6 +1075,9 @@
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
         ],
+        "othersHtml": [
+            
+        ],
         "project": "haishi",
         "files": [
             {
@@ -1006,6 +1109,9 @@
         "booktitle": "Proceedings of the National Conference on Linguistics 2008",
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
+        ],
+        "othersHtml": [
+            
         ],
         "project": "bi",
         "files": [
@@ -1040,6 +1146,9 @@
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
         ],
+        "othersHtml": [
+            
+        ],
         "project": "bi",
         "files": [
             {
@@ -1073,6 +1182,9 @@
         },
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
+        ],
+        "othersHtml": [
+            
         ],
         "project": "hyperlinks",
         "files": [
@@ -1109,6 +1221,9 @@
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
         ],
+        "othersHtml": [
+            
+        ],
         "project": "sfp",
         "files": [
             {
@@ -1137,6 +1252,9 @@
         "url": "http://mitcho.com/blog/projects/how-natural-should-a-natural-interface-be/",
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
+        ],
+        "othersHtml": [
+            
         ],
         "files": [
             {
@@ -1169,6 +1287,9 @@
         "school": "University of Chicago",
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
+        ],
+        "othersHtml": [
+            
         ],
         "project": "bi",
         "files": [
