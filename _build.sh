@@ -16,5 +16,4 @@ jekyll build
 if [ -f $CV ]; then
 	echo 'cp cv...'
 	cp $CV _site/erlewine-cv.pdf
-	echo 'if ( $request_uri = /academic/erlewine-cv.pdf ) { return 301 /erlewine-cv.pdf; }' >> _site/redirects.conf
 fi
