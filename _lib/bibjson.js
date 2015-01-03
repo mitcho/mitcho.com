@@ -143,29 +143,41 @@ function convertItem(item) {
 	var associated = ('url' in newItem);
 	for ( i in fileKeys ) {
 		var fileType = fileKeys[i];
-		if (fileType in newItem) {
-			var source = newItem[fileType].replace('file://', '').replace('%20', ' ');
-		
-			if ( fs.existsSync(source) ) {
-				newItem[fileType] = {
-					source: source,
-					target: '/research/' + (fileType != 'paper' ? fileType + '-' : '') + newItem.citationKey.replace('talk:', '') + path.extname(source)
-				}
-				
-				var fileTitle = (associated ? 'Associated ' : '') + fileType;
-				// Capitalize initial:
-				fileTitle = fileTitle.replace(/^(\w)/, function(x) {return x.toUpperCase();});
-				
-				if ( !associated && fileType == 'paper' )
-					fileTitle = newItem.title;
-				
-				newItem.files.push({
-					title: fileTitle,
-					url: newItem[fileType].target,
-					type: path.extname(source).replace(/^\./,'')
-				});
-			}
+		if ( !(fileType in newItem) )
+			continue;
+
+		var newFile = {}
+
+		// if there's a local file:
+		if ( newItem[fileType].search('file://') > -1 ) {
+			newFile.source = newItem[fileType].replace('file://', '').replace('%20', ' ');
+			newFile.target = '/research/' + (fileType != 'paper' ? fileType + '-' : '') + newItem.citationKey.replace('talk:', '') + path.extname(newItem[fileType]);
+	
+			if ( !fs.existsSync(newFile.source) ) {
+				console.error('Could not find ' + fileType + ': ' + newFile.source);
+				continue;
+			}			
+		} else {
+			newFile.target = newItem[fileType];
 		}
+		
+		newItem[fileType] = newFile;
+				
+		var fileTitle = (associated ? 'Associated ' : '') + fileType;
+		// Capitalize initial:
+		fileTitle = fileTitle.replace(/^(\w)/, function(x) {return x.toUpperCase();});
+		
+		if ( !associated && fileType == 'paper' ) {
+			fileTitle = newItem.title;
+			associated = true;
+		}
+		
+		newItem.files.push({
+			title: fileTitle,
+			url: newFile.target,
+			type: path.extname(newFile.target).replace(/^\./,'')
+		});
+
 	}
 	
 	// for now, setting both a paper and url is unsupported.
