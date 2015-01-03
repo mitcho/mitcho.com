@@ -2,7 +2,7 @@
 title: YARPP SQL fix
 layout: post
 comments: true
-redirect_from: /code/yarpp/sql.php
+redirect_from: /code/yarpp/sql.php/index.html
 permalink: /blog/projects/yarpp-sql-fix/
 categories:
   - projects
