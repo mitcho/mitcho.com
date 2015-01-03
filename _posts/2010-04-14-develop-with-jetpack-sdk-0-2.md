@@ -13,7 +13,7 @@ tags:
   - Windows
 ---
 
-*This article is a translation of a [recent article in Japanese][1] by fellow Jetpack Ambassador [Gomita][2] which was published [on the Mozilla Labs Jetpack blog][3]. I&#8217;m cross-posting it here for posterity. *
+*This article is a translation of a [recent article in Japanese][1] by fellow Jetpack Ambassador [Gomita][2] which was published [on the Mozilla Labs Jetpack blog][3]. I&#8217;m cross-posting it here for posterity.*
 
 Mozilla Labs recently released [version 0.2][4] of the Jetpack SDK, which fixes some issues of the 0.1 release such as a glitch regarding development with Windows. SDK 0.2 doesn&#8217;t include the planned APIs for rapid development of new browser functionality, but you can still play with SDK 0.2 to get a flavor for development with the Jetpack SDK.
 
@@ -194,13 +194,13 @@ Total time: 1.531000 seconds
 Program terminated unsuccessfully.
 {% endhighlight %}
 
-After Firefox loads, confirm that the command prompt reads <code>info: Hello, World!</code> When you quit Firefox, the testing will end.
+After Firefox loads, confirm that the command prompt reads `info: Hello, World!` When you quit Firefox, the testing will end.
 
 ### Using a standard library
 
-Now we&#8217;ll edit our code to invoke the timer library which is one of the Jetpack SDK&#8217;s standard libraries. The timer library is a module which abstracts various timer-related functionality, similar to the DOM&#8217;s <code>window.setTimeout</code>, <code>window.clearTimeout</code>. Details on this library are available in the <a href="https://jetpack.mozillalabs.com/sdk/0.2/docs/#module/jetpack-core/timer">SDK documentation</a>. Moreover, although not in the documentation, <code>timer.setInterval</code> and <code>timer.clearInterval</code> also work in this version.
+Now we&#8217;ll edit our code to invoke the timer library which is one of the Jetpack SDK&#8217;s standard libraries. The timer library is a module which abstracts various timer-related functionality, similar to the DOM&#8217;s `window.setTimeout`, `window.clearTimeout`. Details on this library are available in the <a href="https://jetpack.mozillalabs.com/sdk/0.2/docs/#module/jetpack-core/timer">SDK documentation</a>. Moreover, although not in the documentation, `timer.setInterval` and `timer.clearInterval` also work in this version.
 
-To use this library in our main program code, we first must invoke this library with the CommonJS require function. We modify the <code>main.js</code> file as follows:
+To use this library in our main program code, we first must invoke this library with the CommonJS require function. We modify the `main.js` file as follows:
 
 {% highlight javascript %}
 var timer = require("timer");
@@ -211,7 +211,7 @@ exports.main = function(options, callbacks) {
 };
 {% endhighlight %}
 
-After this change, run <code>cfx run -a firefox</code> in the command prompt to test it. Check to make sure that the current time is being printed to the command prompt once a second:
+After this change, run `cfx run -a firefox` in the command prompt to test it. Check to make sure that the current time is being printed to the command prompt once a second:
 
 {% highlight console %}
 (C:\jetpack-sdk-0.2) C:\jetpack-sdk-0.2\packages\hello-world&gt;cfx run -a firefox
@@ -226,7 +226,7 @@ info: 10:37:25
 
 Next we&#8217;ll create a custom library to add some functionality not currently included in the Jetpack standard library. Implementing advanced functionality in add-ons, like filesystem access, involves using <a href="https://developer.mozilla.org/en/XPCOM">XPCOM</a> components. Jetpack encourages seprarating the use of XPCOM components into separate modules which are then used by the main program code. The Jetpack SDK doesn&#8217;t currently disallow direct XPCOM access within Jetpack add-on code, but such a restriction is forthcoming. Modularizing XPCOM code into separate libraries now allow you to easily migrate to equivalent standard libraries in the future.
 
-Let&#8217;s create a <code>simple-dialog</code> library to display a modal dialog much like <code>window.alert</code> does. The Jetpack code&#8217;s runtime environment doesn&#8217;t include access to the regular <code>window</code> or <code>document</code> objects, so just calling <code>window.alert</code> doesn&#8217;t work. To create an alert from this context, we use the <code>&lt;a href="https://developer.mozilla.org/en/nsIPromptService"&gt;nsIPromptService&lt;/a&gt;</code> XPCOM component. In our package&#8217;s <code>lib</code> folder, create a <code>simple-dialog.js</code> file. Just like our main program code, we implement this library as a CommonJS module using <code>exports.&lt;em&gt;methodname&lt;/em&gt; = function(...){...}</code>.
+Let&#8217;s create a `simple-dialog` library to display a modal dialog much like `window.alert` does. The Jetpack code&#8217;s runtime environment doesn&#8217;t include access to the regular `window` or `document` objects, so just calling `window.alert` doesn&#8217;t work. To create an alert from this context, we use the `&lt;a href="https://developer.mozilla.org/en/nsIPromptService"&gt;nsIPromptService&lt;/a&gt;` XPCOM component. In our package&#8217;s `lib` folder, create a `simple-dialog.js` file. Just like our main program code, we implement this library as a CommonJS module using `exports.&lt;em&gt;methodname&lt;/em&gt; = function(...){...}`.
 
 The simple-dialog library will have these two methods:
 
@@ -247,12 +247,12 @@ The simple-dialog library will have these two methods:
   
   <tr>
     <td>
-      <code>alert(&lt;em>text&lt;/em>)</code>
+      `alert(&lt;em>text&lt;/em>)`
     </td>
     
     
     <td>
-      Displays an alert dialog with the string in <em>text</em> and an OK button. Equivalent to the DOM&#8217;s <code>window.alert</code>.
+      Displays an alert dialog with the string in <em>text</em> and an OK button. Equivalent to the DOM&#8217;s `window.alert`.
     </td>
     
   </tr>
@@ -260,12 +260,12 @@ The simple-dialog library will have these two methods:
   
   <tr>
     <td>
-      <code>confirmYesNo(&lt;em>text&lt;/em>)</code>
+      `confirmYesNo(&lt;em>text&lt;/em>)`
     </td>
     
     
     <td>
-      Displays a confirmation dialog with the string in <em>text</em> and Yes and No buttons. The method returns <code>true</code> if the user presses &#8220;yes&#8221; and <code>false</code> if &#8220;no.&#8221;
+      Displays a confirmation dialog with the string in <em>text</em> and Yes and No buttons. The method returns `true` if the user presses &#8220;yes&#8221; and `false` if &#8220;no.&#8221;
     </td>
     
   </tr>
@@ -273,7 +273,7 @@ The simple-dialog library will have these two methods:
   
 </table>
 
-Here is the code for <code>simple-dialog.js</code>:
+Here is the code for `simple-dialog.js`:
 
 {% highlight javascript %}
 var promptSvc = Cc["@mozilla.org/embedcomp/prompt-service;1"].
@@ -292,12 +292,12 @@ exports.confirmYesNo = function(text) {
 };
 {% endhighlight %}
 
-Lines 1-2 are for calling <code>nsIPromptService</code>. Note that <code>Cc</code>, <code>Ci</code> are aliases for <code>Components.classes</code> and <code>Components.interfaces</code>, respectively, and are made available by Jetpack as global variables. Lines 4-6 implement the alert method for showing alert dialogs using <code>nsIPromptService</code>&#8217;s <code>alert</code> method. Lines 8-14 implement <code>simple-dialog</code>&#8217;s <code>confirmYesNo</code> method using <code>nsIPromptService</code>&#8217;s <code>confirmEx</code> method to display the dialog with yes and no buttons. <code>nsIPromptservice</code>&#8217;s <code>confirmEx</code> method returns 0 if the user presses &#8220;yes&#8221; and 1 if &#8220;no&#8221;, so we modify this value and return it.
+Lines 1-2 are for calling `nsIPromptService`. Note that `Cc`, `Ci` are aliases for `Components.classes` and `Components.interfaces`, respectively, and are made available by Jetpack as global variables. Lines 4-6 implement the alert method for showing alert dialogs using `nsIPromptService`&#8217;s `alert` method. Lines 8-14 implement `simple-dialog`&#8217;s `confirmYesNo` method using `nsIPromptService`&#8217;s `confirmEx` method to display the dialog with yes and no buttons. `nsIPromptservice`&#8217;s `confirmEx` method returns 0 if the user presses &#8220;yes&#8221; and 1 if &#8220;no&#8221;, so we modify this value and return it.
 
 
 ### Using our custom library
 
-Let&#8217;s call this new custom library from our main program code and verify that it works. Here&#8217;s our updated <code>main.js</code> file:
+Let&#8217;s call this new custom library from our main program code and verify that it works. Here&#8217;s our updated `main.js` file:
 
 
 {% highlight javascript %}
@@ -314,18 +314,18 @@ exports.main = function(options, callbacks) {
 };
 {% endhighlight %}
 
-Run <code>cfx run -a firefox</code> and confirm that a confirmation dialog is displayed. Pressing &#8220;yes&#8221; and &#8220;no&#8221; should give you the appropriate alert dialogs as well.
+Run `cfx run -a firefox` and confirm that a confirmation dialog is displayed. Pressing &#8220;yes&#8221; and &#8220;no&#8221; should give you the appropriate alert dialogs as well.
 
 
 ### Implementing a network status observer
 
 
 
-Now let&#8217;s use this hello-world package as a foundation for a more practical add-on. Using the <code>&lt;a href="https://jetpack.mozillalabs.com/sdk/0.2/docs/#module/jetpack-core/observer-service"&gt;observer-service&lt;/a&gt;</code> module included with the Jetpack SDK, we can monitor Firefox&#8217;s online/offline network status changes.
+Now let&#8217;s use this hello-world package as a foundation for a more practical add-on. Using the `&lt;a href="https://jetpack.mozillalabs.com/sdk/0.2/docs/#module/jetpack-core/observer-service"&gt;observer-service&lt;/a&gt;` module included with the Jetpack SDK, we can monitor Firefox&#8217;s online/offline network status changes.
 
 
 
-Firefox internally broadcasts various application events to observers via the <code>&lt;a href="https://developer.mozilla.org/ja/NsIObserverService"&gt;nsIObserverService&lt;/a&gt;</code> XPCOM component. When Firefox goes offline, a <code>network:offline-status-changed</code> notification is broadcast. To subscribe this notification and act on it, we use the <code>observer-service</code> library&#8217;s <code>add</code> method. <code>add</code>&#8217;s first argument is the name of the notification we want to subscribe to and the second argument is a callback function. The callback function is given two arguments, of which the second is a string equal to either &#8220;online&#8221; or &#8220;offline.&#8221; In our add-on, we&#8217;ll check this value and display an appropriate alert using <code>simple-dialog</code>.
+Firefox internally broadcasts various application events to observers via the `&lt;a href="https://developer.mozilla.org/ja/NsIObserverService"&gt;nsIObserverService&lt;/a&gt;` XPCOM component. When Firefox goes offline, a `network:offline-status-changed` notification is broadcast. To subscribe this notification and act on it, we use the `observer-service` library&#8217;s `add` method. `add`&#8217;s first argument is the name of the notification we want to subscribe to and the second argument is a callback function. The callback function is given two arguments, of which the second is a string equal to either &#8220;online&#8221; or &#8220;offline.&#8221; In our add-on, we&#8217;ll check this value and display an appropriate alert using `simple-dialog`.
 
 {% highlight javascript %}
 var simpleDialog = require("simple-dialog");
@@ -343,14 +343,14 @@ exports.main = function(options, callbacks) {
 };
 {% endhighlight %}
 
-Launch Firefox by running <code>cfx run -a firefox</code> and then choose &#8220;File&#8221; > &#8220;Work Offline&#8221; and you should get a notification:
+Launch Firefox by running `cfx run -a firefox` and then choose &#8220;File&#8221; > &#8220;Work Offline&#8221; and you should get a notification:
 
 <a href="http://mozillalabs.com/jetpack/files/2010/04/offline-en.png"><img class="alignnone size-medium wp-image-270" title="offline-en" src="http://mozillalabs.com/jetpack/files/2010/04/offline-en-300x225.png" alt="" width="300" height="225" /></a>
 
 
 ### Adding documentation
 
-If you add documentation to a package, you can view it by clicking that package in the SDK Documentation. To add documentation, create a <code>README.md</code> file in the package root directory. <code>README.md</code> is written in Markdown format which looks like this:
+If you add documentation to a package, you can view it by clicking that package in the SDK Documentation. To add documentation, create a `README.md` file in the package root directory. `README.md` is written in Markdown format which looks like this:
 
 {% highlight text %}
 This is my *first* package.
@@ -359,18 +359,18 @@ This is my *first* package.
 * baz
 {% endhighlight %}
 
-Now if you load the SDK documentation using <code>cfx docs</code> and click on the &#8220;hello-world&#8221; link, you&#8217;ll see this documentation together with the package metadata.
+Now if you load the SDK documentation using `cfx docs` and click on the &#8220;hello-world&#8221; link, you&#8217;ll see this documentation together with the package metadata.
 
 ### Exporting an install package
 
-Jetpack add-ons which are created in this way can then be exported into Firefox-standard XPI files. To export an XPI, go to the package&#8217;s root directory in the command prompt and run <code>cfx xpi</code>.
+Jetpack add-ons which are created in this way can then be exported into Firefox-standard XPI files. To export an XPI, go to the package&#8217;s root directory in the command prompt and run `cfx xpi`.
 
 {% highlight console %}
 (C:\jetpack-sdk-0.2) C:\jetpack-sdk-0.2\packages\hello-world&gt;cfx xpi
 Exporting extension to hello-world.xpi.
 {% endhighlight %}
 
-This creates an XPI file called <code>hello-world.xpi</code>. Opening this file in any Firefox profile will let you install it using the regular add-on install mechanism.
+This creates an XPI file called `hello-world.xpi`. Opening this file in any Firefox profile will let you install it using the regular add-on install mechanism.
 
  [1]: http://www.xuldev.org/blog/?p=513
  [2]: http://www.xuldev.org/blog/

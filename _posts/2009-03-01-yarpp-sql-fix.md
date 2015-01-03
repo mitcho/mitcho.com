@@ -16,9 +16,8 @@ tags:
 
 If you receive an error like "The YARPP database has an error which could not be fixed." after installing YARPP, it is likely that your database user doesn't have the proper permissions to make the necessary changes to your database. Edit the database prefix below and execute the following four SQL queries. (It is possible that the first two will return errors as they have already been executed correctly.)
 
-<label for='wp_prefix'>database prefix:</label> <input id='wp_prefix' value='wp_' type='text'></input>
+<label for='wp_prefix'>database prefix:</label> <input id='wp_prefix' value='wp_' type='text'/>
 
-<script src='http://code.jquery.com/jquery-2.1.1.min.js'></script>
 <script language='javascript'>
 function setprefix () {
 	$('.wp_prefix').text($('#wp_prefix').val());
