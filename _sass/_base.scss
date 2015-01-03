@@ -264,8 +264,21 @@ del {
 }
 .file {
 	min-height: 32px;
+	padding: 4px;
 	padding-left: 40px;
 	background: url(file.png) no-repeat;
+	background-position: 0px 4px;
+
+	transition: background-color 0.4s ease;
+	&:hover {
+		background-color: #eee;
+		cursor: pointer;
+	}
+
+	.title:last-child {
+		top: 6px;
+		position: relative;
+	}
 
 	&.small {
 		background-size: 16px 16px;
@@ -274,6 +287,10 @@ del {
 		display: inline-block;
 		min-height: none;
 		margin-bottom: -10px;
+		&:hover {
+			background-color: inherit;
+			cursor: inherit;
+		}
 	}
 
 	&.pdf {
@@ -307,4 +324,8 @@ del {
 
 .citation {
 	@extend %vertical-rhythm;
+}
+
+.vcard {
+	display: none;
 }
