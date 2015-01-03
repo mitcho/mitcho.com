@@ -1,6 +1,20 @@
 ---
 layout: page
 ---
+<div class="vcard">
+<span class="fn">Michael Yoshitaka Erlewine</span>
+<span class="nickname">mitcho</span>
+<span class="photo"><img src="/images/kyoto-270x150.jpg"/></span>
+<span class="adr">
+	<span class="locality">Montréal</span>,
+	<span class="region">Québec</span>
+	<span class="country">Canada</span>
+</span>
+
+<span class="title">Postdoctoral Fellow</span>
+<span class="org">McGill University</span>.
+</div>
+
 ## Hello!
 
 I am a linguist broadly interested in the structure of sentences (syntax) and how these structures map to meaning (semantics). I am currently a postdoctoral fellow at the [Department of Linguistics][1] at [McGill University][2]. In a previous life, I was an active coder in the [Mozilla (Firefox)][3] and [WordPress][4] open-source communities.
