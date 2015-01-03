@@ -191,6 +191,10 @@
             "source": "/Users/mitcho/Dropbox/academic/projects/sfp/naccl-proceedings/erlewine-naccl25-preprint.pdf",
             "target": "/research/sfp.pdf"
         },
+        "handout": {
+            "source": "/Users/mitcho/Dropbox/academic/projects/sfp/naccl-handout/naccl-handout-2up.pdf",
+            "target": "/research/handout-sfp.pdf"
+        },
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
         ],
@@ -202,6 +206,11 @@
             {
                 "title": "Sentence-final particles at the <em>v</em>P phase edge",
                 "url": "/research/sfp.pdf",
+                "type": "pdf"
+            },
+            {
+                "title": "Associated handout",
+                "url": "/research/handout-sfp.pdf",
                 "type": "pdf"
             }
         ],
@@ -229,6 +238,10 @@
             "source": "/Users/mitcho/Dropbox/academic/projects/ubiquity/erlewine-sigir.pdf",
             "target": "/research/ubiquity.pdf"
         },
+        "slides": {
+            "source": "/Users/mitcho/Dropbox/academic/projects/ubiquity/erlewine-sigir-slides.pdf",
+            "target": "/research/slides-ubiquity.pdf"
+        },
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
         ],
@@ -240,6 +253,11 @@
             {
                 "title": "Ubiquity: Designing a Multilingual Natural Language Interface",
                 "url": "/research/ubiquity.pdf",
+                "type": "pdf"
+            },
+            {
+                "title": "Associated slides",
+                "url": "/research/slides-ubiquity.pdf",
                 "type": "pdf"
             }
         ],
@@ -365,10 +383,14 @@
         "author": "Erlewine, Michael Yoshitaka and Levin, Theodore and van Urk, Coppe",
         "title": "What makes a voice system? On the relationship between voice marking and case",
         "year": "to appear",
-        "booktitle": "Proceedings of <a href=\"https://sites.google.com/a/hawaii.edu/afla21/home\">AFLA 21</a>",
+        "booktitle": "Proceedings of <a href=\"https://sites.google.com/a/hawaii.edu/afla21/home\">the 21st meeting of the Austronesian Formal Linguistics Association (AFLA 21)</a>",
         "paper": {
             "source": "/Users/mitcho/Dropbox/academic/projects/voice/AFLA Proceedings/preprint.pdf",
             "target": "/research/voice-afla.pdf"
+        },
+        "handout": {
+            "source": "/Users/mitcho/Dropbox/academic/projects/voice/handouts/handout-2up.pdf",
+            "target": "/research/handout-voice-afla.pdf"
         },
         "authorsHtml": [
             "<strong>Erlewine, Michael Yoshitaka</strong>",
@@ -384,6 +406,11 @@
             {
                 "title": "What makes a voice system? On the relationship between voice marking and case",
                 "url": "/research/voice-afla.pdf",
+                "type": "pdf"
+            },
+            {
+                "title": "Associated handout",
+                "url": "/research/handout-voice-afla.pdf",
                 "type": "pdf"
             }
         ],
@@ -410,10 +437,14 @@
         "author": "Erlewine, Michael Yoshitaka",
         "title": "Subject marking on non-subjects in Squliq Atayal",
         "year": "to appear",
-        "booktitle": "Proceedings of <a href=\"http://www.uta.edu/faculty/sabbagh/afla20/\">AFLA 20</a>",
+        "booktitle": "Proceedings of <a href=\"http://www.uta.edu/faculty/sabbagh/afla20/\">the 20th meeting of the Austronesian Formal Linguistics Association (AFLA 20)</a>",
         "paper": {
             "source": "/Users/mitcho/Dropbox/academic/projects/squliq/afla/erlewine-afla20-proceedings.pdf",
             "target": "/research/squliq.pdf"
+        },
+        "handout": {
+            "source": "/Users/mitcho/Dropbox/academic/projects/squliq/afla/handout-afla2013.pdf",
+            "target": "/research/handout-squliq.pdf"
         },
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
@@ -426,6 +457,11 @@
             {
                 "title": "Subject marking on non-subjects in Squliq Atayal",
                 "url": "/research/squliq.pdf",
+                "type": "pdf"
+            },
+            {
+                "title": "Associated handout",
+                "url": "/research/handout-squliq.pdf",
                 "type": "pdf"
             }
         ],
@@ -492,6 +528,10 @@
         "year": "2014",
         "booktitle": "Proceedings of <a href=\"https://sites.google.com/site/sub18bc/\">Sinn und Bedeutung 18</a>",
         "pages": "128--145",
+        "handout": {
+            "source": "/Users/mitcho/Dropbox/academic/projects/focus/sub/sub2013-handout-2up.pdf",
+            "target": "/research/handout-leftward.pdf"
+        },
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
         ],
@@ -503,6 +543,11 @@
             {
                 "title": "Explaining leftward focus association with <em>even</em> but not <em>only</em>",
                 "url": "http://semanticsarchive.net/sub2013/SeparateArticles/Erlewine.pdf",
+                "type": "pdf"
+            },
+            {
+                "title": "Associated handout",
+                "url": "/research/handout-leftward.pdf",
                 "type": "pdf"
             }
         ]
@@ -533,7 +578,7 @@
         "note": "(Superseded by <a href=\"http://mitcho.com/research/af.html\">&#8220;Anti-locality and optimality in Kaqchikel Agent Focus&#8221;</a> to appear in NLLT.)",
         "year": "2014",
         "abstract": "In many Mayan languages, A-bar extraction of subjects of transitive clauses triggers a change to that verb&#8217;s morphology, known as Agent Focus. Previous researchers have assumed an exceptionless correlation between AF and the A-bar extraction of a transitive subject. In this paper new data from Kaqchikel (Mayan, Guatemala) shows that AF is a response to A-bar movement of a transitive subject that is too short. Movement of a transitive subject does not trigger AF if the movement chain is made longer by adding intervening material. An anti-locality constraint is proposed: \"Spec-to-Spec Anti-Locality,\" which bans movement between successive specifier positions. Spec-to-Spec Anti-Locality explains the full distributional pattern of AF in Kaqchikel. ",
-        "booktitle": "Proceedings of WCCFL 31",
+        "booktitle": "Proceedings of the 31st West Coast Conference on Formal Linguistics (WCCFL 31)",
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
         ],
@@ -618,7 +663,7 @@
         "url": "http://www.lingref.com/cpp/wccfl/31/paper3018.pdf",
         "year": "2014",
         "abstract": "This paper proposes a new kind of semantic analysis for Japanese head-internal relative clauses (HIRCs), based on new empirical observations concerning the interpretation of HIRCs with quantificational heads. The analysis involves abstraction over the domain of the HIRC&#8217;s head quantifier via null operator movement. The entire HIRC is then interpreted as a definite description, using a maximal informativeness semantics for definiteness (von Fintel, Fox, and Iatridou 2012) and an assumption about the role of context in the interpretation of referential expressions. This analysis accounts for the new data, the island sensitivity of HIRCs, and the fact that quantificational heads take scope within the HIRC. Finally, previous analyses for the semantics of Japanese HIRC are discussed in relation to the new data presented. ",
-        "booktitle": "Proceedings of WCCFL 31",
+        "booktitle": "Proceedings of the 31st West Coast Conference on Formal Linguistics (WCCFL 31)",
         "pages": "160--169",
         "authorsHtml": [
             "<strong>Erlewine, Michael Yoshitaka</strong>",
@@ -665,8 +710,7 @@
         "year": "2013",
         "abstract": "This paper presents a previously unobserved pattern of morphological blocking in English causatives, which parallels a well-studied pattern of morphological blocking in Japanese causatives (Kuroda, 1965, a.o.). We present evidence of deep parallels between the English and Japanese causatives along with a detailed syntax/semantics for these structures within the framework of Distributed Morphology. We argue that the blocking effect is sensitive not to structural adjacency, as previously argued for Japanese (Harley, 2008), but instead to linear adjacency. Our findings constitute a strong argument for the post-syntactic resolution of derivational morphology, pace Distributed Morphology and contra the Lexicalist Hypothesis. In particular, the sensitivity to linear adjacency shows that the operations relevant to the blocking effect must occur post-linearization, and therefore contributes to our understanding of the timing of post-syntactic operations.",
         "slides": {
-            "source": "/Users/mitcho/Dropbox/academic/projects/blocking/slides/slides-lsa2014.pdf",
-            "target": "/research/slides-blocking.pdf"
+            "target": "/research/slides-blocking-lsa2014.pdf"
         },
         "authorsHtml": [
             "<a href=\"http://hkotek.com\">Kotek, Hadas</a>",
@@ -684,7 +728,7 @@
             },
             {
                 "title": "Associated slides",
-                "url": "/research/slides-blocking.pdf",
+                "url": "/research/slides-blocking-lsa2014.pdf",
                 "type": "pdf"
             }
         ]
@@ -831,8 +875,12 @@
         "title": "The effect of &#8216;only&#8217; on quantifier scope: the <em>dake</em> blocking effect",
         "url": "http://faculty.human.mie-u.ac.jp/~glow_mie/Workshop_Proceedings/06Erlewine.pdf",
         "year": "2012",
-        "booktitle": "Proceedings of <a href=\"http://faculty.human.mie-u.ac.jp/~glow_mie/glow_workshop_index.html\">the GLOW in Asia workshop for young scholars</a>",
+        "booktitle": "Proceedings of <a href=\"http://faculty.human.mie-u.ac.jp/~glow_mie/glow_workshop_index.html\">the GLOW in Asia Workshop for Young Scholars</a>",
         "pages": "72--86",
+        "handout": {
+            "source": "/Users/mitcho/Dropbox/academic/projects/dakeshika/glowyoungscholars/glowyoungscholars-handout-2up.pdf",
+            "target": "/research/handout-dake.pdf"
+        },
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
         ],
@@ -844,6 +892,11 @@
             {
                 "title": "The effect of &#8216;only&#8217; on quantifier scope: the <em>dake</em> blocking effect",
                 "url": "http://faculty.human.mie-u.ac.jp/~glow_mie/Workshop_Proceedings/06Erlewine.pdf",
+                "type": "pdf"
+            },
+            {
+                "title": "Associated handout",
+                "url": "/research/handout-dake.pdf",
                 "type": "pdf"
             }
         ]
@@ -921,6 +974,14 @@
         "booktitle": "Proceedings of NELS 43",
         "volume": "1",
         "pages": "117--130",
+        "handout": {
+            "source": "/Users/mitcho/Dropbox/academic/projects/piedpiping/handouts/nels/handout-nels2012.pdf",
+            "target": "/research/handout-focus-piedpiping.pdf"
+        },
+        "slides": {
+            "source": "/Users/mitcho/Dropbox/academic/projects/piedpiping/handouts/nels/slides-nels.pdf",
+            "target": "/research/slides-focus-piedpiping.pdf"
+        },
         "authorsHtml": [
             "<strong>Erlewine, Michael Yoshitaka</strong>",
             "<a href=\"http://hkotek.com\">Hadas Kotek</a>"
@@ -933,6 +994,16 @@
             {
                 "title": "Intervention in focus pied-piping",
                 "url": "http://semanticsarchive.net/Archive/WIzNzViN/erlewine-kotek-nels2013-preprint.pdf",
+                "type": "pdf"
+            },
+            {
+                "title": "Associated handout",
+                "url": "/research/handout-focus-piedpiping.pdf",
+                "type": "pdf"
+            },
+            {
+                "title": "Associated slides",
+                "url": "/research/slides-focus-piedpiping.pdf",
                 "type": "pdf"
             }
         ]
@@ -969,6 +1040,12 @@
         "year": "to appear",
         "abstract": "In this paper we argue for the existence of covert pied-piping in wh-questions through a previously unnoticed pattern of intervention effects in superiority-obeying English multiple wh-questions. We show that the preference of covert pied-piping is for movement of larger constituents, unlike overt pied-piping. We argue that this discrepancy stems from conflicting requirements of PF and LF: overt pied-piping feeds both LF and PF, but covert pied-piping feeds LF only. The study of covert pied-piping thus reveals the true preference of LF and Core Syntax with regard to pied-piping: larger pied-piping constituents are preferred over smaller ones. This preference can be overridden by certain PF constraints that apply to overt pied-piping.",
         "journal": "Linguistic Inquiry",
+        "handout": {
+            "target": "/research/handout-focus-piedpiping.pdf"
+        },
+        "slides": {
+            "target": "/research/slides-focus-piedpiping.pdf"
+        },
         "authorsHtml": [
             "<a href=\"http://hkotek.com\">Kotek, Hadas</a>",
             "<strong>Michael Yoshitaka Erlewine</strong>"
@@ -981,6 +1058,16 @@
             {
                 "title": "Covert pied-piping in English multiple <em>wh</em>-questions",
                 "url": "http://ling.auf.net/lingbuzz/001736/current.pdf",
+                "type": "pdf"
+            },
+            {
+                "title": "Associated handout",
+                "url": "/research/handout-focus-piedpiping.pdf",
+                "type": "pdf"
+            },
+            {
+                "title": "Associated slides",
+                "url": "/research/slides-focus-piedpiping.pdf",
                 "type": "pdf"
             }
         ]
@@ -1076,10 +1163,17 @@
         "author": "Erlewine, Michael Yoshitaka",
         "editor": "Beltrama, Andrea and Chatzikonstantinou, Tasos and Lee, Jackson L. and Pham, Mike and Rak, Diane",
         "title": "Alternative questions through focus alternatives in Mandarin Chinese",
-        "url": "http://mitcho.com/academic/erlewine-cls48-preprint.pdf",
         "year": "2014",
-        "booktitle": "Proceedings of CLS 48",
+        "booktitle": "Proceedings of the 48th Meeting of the Chicago Linguistic Society (CLS 48)",
         "pages": "221--234",
+        "paper": {
+            "source": "/Users/mitcho/Dropbox/academic/projects/haishi/cls48-proceedings/erlewine-cls48-preprint.pdf",
+            "target": "/research/haishi.pdf"
+        },
+        "handout": {
+            "source": "/Users/mitcho/Dropbox/academic/projects/haishi/cls48/handout-cls2012.pdf",
+            "target": "/research/handout-haishi.pdf"
+        },
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
         ],
@@ -1090,10 +1184,16 @@
         "files": [
             {
                 "title": "Alternative questions through focus alternatives in Mandarin Chinese",
-                "url": "http://mitcho.com/academic/erlewine-cls48-preprint.pdf",
+                "url": "/research/haishi.pdf",
+                "type": "pdf"
+            },
+            {
+                "title": "Associated handout",
+                "url": "/research/handout-haishi.pdf",
                 "type": "pdf"
             }
-        ]
+        ],
+        "url": "/research/haishi.pdf"
     },
     {
         "citationKey": "bi-ncl",
@@ -1113,6 +1213,7 @@
         ],
         "author": "Erlewine, Michael Yoshitaka",
         "title": "The verbal nature of Mandarin comparative <em>bǐ</em>",
+        "note": "Linguistic Society of Taiwan",
         "year": "2008",
         "booktitle": "Proceedings of the National Conference on Linguistics 2008",
         "authorsHtml": [
@@ -1149,8 +1250,12 @@
         "url": "http://www.lingref.com/cpp/wccfl/29/paper2687.pdf",
         "year": "2012",
         "abstract": "This paper argues against Direct Analysis approaches to the Mandarin <em>bǐ</em> comparative construction. Instead, I propose that the derivation of a <em>bǐ</em> comparative involves the construction of two full TPs: one for the target and one for the standard. This view is motivated by comparatives where material has moved simultaneously from the predicate into the target and into the standard, which are difficult to capture within a Direct Analysis. A technical implementation of this proposal is presented in which common material in the two TPs&#8217; predicates is obligatorily multidominated. ",
-        "booktitle": "Proceedings of the 29th West Coast Conference on Formal Linguistics",
+        "booktitle": "Proceedings of the 29th West Coast Conference on Formal Linguistics (WCCFL 29)",
         "pages": "54--62",
+        "handout": {
+            "source": "/Users/mitcho/Dropbox/academic/projects/bi/wccfl-20110422/handout-20110422-2up.pdf",
+            "target": "/research/handout-bi-wccfl.pdf"
+        },
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
         ],
@@ -1162,6 +1267,11 @@
             {
                 "title": "Share to Compare: the Mandarin <em>bǐ</em> Comparative",
                 "url": "http://www.lingref.com/cpp/wccfl/29/paper2687.pdf",
+                "type": "pdf"
+            },
+            {
+                "title": "Associated handout",
+                "url": "/research/handout-bi-wccfl.pdf",
                 "type": "pdf"
             }
         ]
@@ -1224,7 +1334,7 @@
         "url": "http://naccl.osu.edu/files/NACCL-22_2_33_erlewine.pdf",
         "year": "2010",
         "abstract": "In this paper I document the complex interactions between the Mandarin sentence-final <em>only</em> item <em>éryǐ</em> and the focus marker <em>shì</em>. Following work on Chinese Sentence-Final Particles (SFP), <em>éryǐ</em> syntactically is in the CP-domain and thus should scope above TP-level operators such as negation, and this is indeed normally the case. However, the introduction of the focus marker <em>shì</em> can force the sentence-final <em>éryǐ</em> to take scope below the TP-level negation, creating a problem for the theory of Mandarin SFP.\n\nI propose that <em>shì</em> unambiguously marks the semantic scope of Mandarin focus-sensitive operators which involve Association With Focus. I show how this analysis preserves the expected syntactic cartography while computing the correct semantic scope. A compositional syntax/semantics utilizing focus movement is also presented.",
-        "booktitle": "The Proceedings of the 22nd North American Conference of Chinese Linguistics (NACCL-22) and the 18th Annual Meeting of the International Association of Chinese Linguistics (IACL-18)",
+        "booktitle": "The Proceedings of the 22nd North American Conference of Chinese Linguistics (NACCL 22) and the 18th Annual Meeting of the International Association of Chinese Linguistics (IACL 18)",
         "pages": "18--35",
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
@@ -1290,9 +1400,12 @@
         ],
         "author": "Erlewine, Michael Yoshitaka",
         "title": "A New Syntax-Semantics for the Mandarin <em>bǐ</em> Comparative",
-        "url": "http://mitcho.com/academic/erlewine-thesis.pdf",
         "year": "2007",
         "school": "University of Chicago",
+        "paper": {
+            "source": "/Users/mitcho/Dropbox/academic/projects/bi/thesis revision/erlewine-thesis.pdf",
+            "target": "/research/thesis.pdf"
+        },
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
         ],
@@ -1303,9 +1416,10 @@
         "files": [
             {
                 "title": "A New Syntax-Semantics for the Mandarin <em>bǐ</em> Comparative",
-                "url": "http://mitcho.com/academic/erlewine-thesis.pdf",
+                "url": "/research/thesis.pdf",
                 "type": "pdf"
             }
-        ]
+        ],
+        "url": "/research/thesis.pdf"
     }
 ]
