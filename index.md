@@ -36,8 +36,8 @@ See the new [Projects](/projects) page for descriptions of projects and download
 ## Recent
 
 *   My dissertation: [*Movement Out of Focus*](/research/dissertation.html)
-*   I presented [&#8220;On the position of focus adverbs&#8221;][/research/talk-teal9.html] at [Theoretical East Asian Linguistics][http://www.teal9.univ-nantes.fr/] (TEAL 9) at the University of Nantes and at [NELS 45][http://nels45.mit.edu] at MIT.
-*   [&#8220;Anti-locality and optimality in Kaqchikel Agent Focus&#8221;][16] has been accepted for publication (pending minor revisions) in [*Natural Language & Linguistic Theory*][17]!
+*   I presented [&#8220;On the position of focus adverbs&#8221;](/research/talk-teal9.html) at [Theoretical East Asian Linguistics](http://www.teal9.univ-nantes.fr/) (TEAL 9) at the University of Nantes and at [NELS 45](http://nels45.mit.edu) at MIT.
+*   [&#8220;Anti-locality and optimality in Kaqchikel Agent Focus&#8221;](/research/af.html) has been accepted for publication (pending minor revisions) in [*Natural Language & Linguistic Theory*](https://www.springer.com/education+%26+language/linguistics/journal/11049)!
 
 ## Upcoming
 
@@ -45,14 +45,9 @@ See the new [Projects](/projects) page for descriptions of projects and download
 	* &#8220;On the position of focus adverbs,&#8221; in the Friday poster session;
 	* &#8220;Restructuring and Agent Focus in Kaqchikel&#8221; at the Society for the Study of the Indigenous Languages of the Americas (SSILA), Saturday morning;
 	* &#8220;Voice morphology as extraction marking&#8221; with [Theodore Levin](https://sites.google.com/site/tfranklevin/) and [Coppe van Urk](http://web.mit.edu/cvanurk/www/), in the Saturday poster session.
-*	*January 2015:* I will be traveling to Germany and speaking:
+*	**January 2015:** I will be traveling to Germany and speaking:
 	* January 20: Zentrum für Allgemeine Sprachwissenschaft (ZAS), Berlin
 	* January 21: University of Leipzig colloquium talk
 	* January 23: University of Potsdam
-* 	*February 13, 2015:* University of Minnesota colloquium talk
-* 	*March 20, 2015:* Concordia University colloquium talk
-
- [12]: /academic/elu-afla21-preprint.pdf
- [15]: https://sites.google.com/a/hawaii.edu/afla21/home
- [16]: http://ling.auf.net/lingbuzz/001841/current.pdf
- [17]: https://www.springer.com/education+%26+language/linguistics/journal/11049
+* 	**February 13, 2015:** University of Minnesota colloquium talk
+* 	**March 20, 2015:** Concordia University colloquium talk
