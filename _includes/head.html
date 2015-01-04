@@ -9,10 +9,13 @@
 	<link rel="stylesheet" href="/static/css/main.css">
 	<link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url | replace: 'http://mitcho.com/', '/' }}">
 	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+{% if page.paper != null and page.paper.entryType != 'unpublished' %}
+{% include paper-meta.html paper = page.paper %}
+{% endif %}
 	<!--[if lt IE 9]>
 	<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 	<![endif]-->
-
 	<script src="/static/js/zepto.min.js"></script>
 	<script src="/static/js/app.js"></script>
 

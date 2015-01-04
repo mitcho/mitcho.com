@@ -1,0 +1,32 @@
+{% assign paper = include.paper %}
+
+	<meta name="citation_title" content="{{ paper.title | strip_html | escape }}">
+
+{% for author in paper.authors %}
+	<meta name="citation_author" content="{{ author.name | escape }}">
+{% endfor %}
+
+	<meta name="citation_publication_date" content="{{ paper.year }}">
+
+{% if paper.journal != null %}
+	<meta name="citation_journal_title" content="{{ paper.journal | escape }}">
+{% endif %}
+{% if paper.volume != null %}
+	<meta name="citation_volume" content="{{ paper.volume }}">
+{% endif %}
+{% if paper.volume != null %}
+	<meta name="citation_issue" content="{{ paper.number }}">
+{% endif %}
+
+{% if paper.pageRange != null %}
+	<meta name="citation_firstpage" content="{{ paper.pageRange[0] }}">
+	<meta name="citation_lastpage" content="{{ paper.pageRange[1] }}">
+{% endif %}
+
+{% if paper.url != null %}
+	<meta name="citation_pdf_url" content="{{ paper.url }}">
+{% endif %}
+
+{% if paper.school != null %}
+	<meta name="citation_dissertation_institution" content="{{ paper.school | escape }}">
+{% endif %}
