@@ -11,6 +11,11 @@ module Jekyll
       self.read_yaml(File.join(base, '_layouts'), 'paper.html')
       self.data['title'] = bibdata['title']
       self.data['paper'] = bibdata
+      if bibdata.key? 'abstract'
+        self.data['excerpt'] = bibdata['abstract']
+      else
+        self.data['excerpt'] = ''
+      end
     end
     
     def write(dest)
