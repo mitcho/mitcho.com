@@ -184,6 +184,9 @@ function convertItem(item) {
 	if ( !('url' in newItem) && newItem.files.length )
 		newItem.url = newItem.files[0].url;
 	
+	if ( 'pages' in newItem && newItem.pages.search(/-+/) > -1 )
+		newItem.pageRange = newItem.pages.split(/-+/);
+	
 	return newItem;
 }
 

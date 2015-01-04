@@ -166,6 +166,10 @@
                 "url": "http://www.ledonline.it/snippets/allegati/snippets26002.pdf",
                 "type": "pdf"
             }
+        ],
+        "pageRange": [
+            "7",
+            "8"
         ]
     },
     {
@@ -261,7 +265,11 @@
                 "type": "pdf"
             }
         ],
-        "url": "/research/ubiquity.pdf"
+        "url": "/research/ubiquity.pdf",
+        "pageRange": [
+            "45",
+            "48"
+        ]
     },
     {
         "citationKey": "talk:teal9",
@@ -550,6 +558,10 @@
                 "url": "/research/handout-leftward.pdf",
                 "type": "pdf"
             }
+        ],
+        "pageRange": [
+            "128",
+            "145"
         ]
     },
     {
@@ -679,6 +691,10 @@
                 "url": "http://www.lingref.com/cpp/wccfl/31/paper3018.pdf",
                 "type": "pdf"
             }
+        ],
+        "pageRange": [
+            "160",
+            "169"
         ]
     },
     {
@@ -899,6 +915,10 @@
                 "url": "/research/handout-dake.pdf",
                 "type": "pdf"
             }
+        ],
+        "pageRange": [
+            "72",
+            "86"
         ]
     },
     {
@@ -1006,6 +1026,10 @@
                 "url": "/research/slides-focus-piedpiping.pdf",
                 "type": "pdf"
             }
+        ],
+        "pageRange": [
+            "117",
+            "130"
         ]
     },
     {
@@ -1109,6 +1133,10 @@
                 "url": "http://ling.auf.net/lingbuzz/001685/current.pdf",
                 "type": "pdf"
             }
+        ],
+        "pageRange": [
+            "25",
+            "50"
         ]
     },
     {
@@ -1193,7 +1221,11 @@
                 "type": "pdf"
             }
         ],
-        "url": "/research/haishi.pdf"
+        "url": "/research/haishi.pdf",
+        "pageRange": [
+            "221",
+            "234"
+        ]
     },
     {
         "citationKey": "bi-ncl",
@@ -1274,6 +1306,10 @@
                 "url": "/research/handout-bi-wccfl.pdf",
                 "type": "pdf"
             }
+        ],
+        "pageRange": [
+            "54",
+            "62"
         ]
     },
     {
@@ -1349,6 +1385,10 @@
                 "url": "http://naccl.osu.edu/files/NACCL-22_2_33_erlewine.pdf",
                 "type": "pdf"
             }
+        ],
+        "pageRange": [
+            "18",
+            "35"
         ]
     },
     {
