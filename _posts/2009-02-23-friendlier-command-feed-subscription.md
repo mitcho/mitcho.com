@@ -17,7 +17,7 @@ tags:
   - useability
   - verbs
 ---
-<img src="http://mitcho.com/blog/wp-content/uploads/2009/02/doom.png" alt="doom.png" border="0" />
+<img src="/static/uploads/2009/02/doom.png" alt="doom.png" border="0" />
 
 If you&#8217;ve ever subscribed to a new Ubiquity command before, you know the red screen of doom. Ubiquity currently takes users to this page every time they wish to subscribe to a new command. The current design is meant to encourage users to be aware of the possible security implications of enabling and executing a command, to avoid getting a [[trojan horse]].
 
@@ -26,7 +26,7 @@ The current screen, however, does not make subscribing to commands foolproof. I 
 Today I did a quick mockup of what a friendlier command feed subscription page might look like. Take a look at this screenshot with some of the features marked:
 
 <center>
-  <a rel='lightbox[friendlierfeed]' href='http://mitcho.com/blog/wp-content/uploads/2009/02/new-subscription-page.png'><img src="http://mitcho.com/blog/wp-content/uploads/2009/02/new-subscription-page-small.png" alt="new-subscription-page-small.png" class='limages' /></a>
+  <a rel='lightbox[friendlierfeed]' href='/static/uploads/2009/02/new-subscription-page.png'><img src="/static/uploads/2009/02/new-subscription-page-small.png" alt="new-subscription-page-small.png" class='limages' /></a>
 </center>
 
 You can also check out [the page itself][2]. If you&#8217;d like to visualize it without the &#8220;trust&#8221; warning, you can also view [the trusted version][3].

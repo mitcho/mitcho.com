@@ -23,7 +23,7 @@ tags:
 ---
 This past Saturday was [Tokyo BarCamp 2009][1] at [Sun&#8217;s Yoga offices][2]. I of course gave a presentation on Ubiquity and our recent [localization efforts][3], including [Parser 2][4]. As you can see, I signed up quickly:
 
-<img src="http://mitcho.com/blog/wp-content/uploads/2009/05/ubiquity-wall-650.jpg" alt="ubiquity-wall-650.jpg" border="0" width="650" height="504" />  
+<img src="/static/uploads/2009/05/ubiquity-wall-650.jpg" alt="ubiquity-wall-650.jpg" border="0" width="650" height="504" />  
 <small>CC-BY-NC <a href='http://www.flickr.com/photos/sfj/3535231830/'>iMorpheus</a></small>
 
 Here are the slides I used in that session. There are two &#8220;demo&#8221; sections in the slides&#8230; the first was a simple demo of Ubiquity 0.1.x showing off the `translate`, `map`, and `edit-page` commands. The second demo was of [Ubiquity Parser 2][5] and showing off how little code it takes to [add your language to Ubiquity with Parser 2][6].
@@ -40,7 +40,7 @@ My impetus for doing this discussion is probably clear to many—as I go back to
 
 I also found a great photo from the discussion—I&#8217;m right there on the left edge.
 
-<img src="http://mitcho.com/blog/wp-content/uploads/2009/05/open-ideas-discussion.jpg" alt="open-ideas-discussion.jpg" border="0" width="650" height="283" />  
+<img src="/static/uploads/2009/05/open-ideas-discussion.jpg" alt="open-ideas-discussion.jpg" border="0" width="650" height="283" />  
 <small>CC-BY-SA <a href='http://www.flickr.com/photos/lostininaka/3535388674/'>LostInInaka</a></small>
 
 Sun&#8217;s facilities had a combination of different styles of rooms (lecture/presentation, this large seminar-style, a small-group one) which was very nice for different styles of sessions.

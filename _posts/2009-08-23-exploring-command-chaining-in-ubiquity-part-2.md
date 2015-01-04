@@ -29,7 +29,7 @@ A few days ago I penned some initial [technical considerations regarding command
 
 When it comes to creating a natural language interface, there&#8217;s always a decision to make between requiring a certain kind of input, or working a little harder to understand the user&#8217;s natural input. From an implementation point of view, adopting certain programmatic conventions is of course simpler and to this end, there have been a couple different &#8220;unnatural&#8221; command chaining syntaxes suggested. While these both go against Ubiquity&#8217;s basic tenet of [natural syntax][2] — that is, to not introduce rules which contradict the user&#8217;s natural language — which gives Ubiquity its strengths of usability and memorability, I&#8217;ll entertain them here as they illustrate two different structural relationships that we will want to consider.
 
-[<img src="http://mitcho.com/blog/wp-content/uploads/2009/08/not-pipe.gif" alt="not-pipe.gif" border="0" width="480" height="329" />][3]
+[<img src="/static/uploads/2009/08/not-pipe.gif" alt="not-pipe.gif" border="0" width="480" height="329" />][3]
 
 The first suggestion is to adopt the \[[Pipeline_(Unix)|shell pipe]\] (|), which would lead to input such as
 

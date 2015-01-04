@@ -130,7 +130,7 @@ How does a human learn language? Without getting into any [[language acquisition
               </td>
               
               <td>
-                <img src="http://mitcho.com/blog/wp-content/uploads/2009/03/eattaiyaki.jpg" alt="eattaiyaki.jpg" border="0" width="300" height="225" />
+                <img src="/static/uploads/2009/03/eattaiyaki.jpg" alt="eattaiyaki.jpg" border="0" width="300" height="225" />
               </td>
             </tr>
             
@@ -140,7 +140,7 @@ How does a human learn language? Without getting into any [[language acquisition
               </td>
               
               <td>
-                <img src="http://mitcho.com/blog/wp-content/uploads/2009/03/eatcat.jpg" alt="eatcat.jpg" border="0" width="300" height="225" />
+                <img src="/static/uploads/2009/03/eatcat.jpg" alt="eatcat.jpg" border="0" width="300" height="225" />
               </td>
             </tr>
           </table>

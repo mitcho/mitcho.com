@@ -101,7 +101,7 @@ search-it
 The current Ubiquity handling of anaphora (aka &#8220;magic words&#8221;) involves a display of the selection (replacement) text in a stylized way. One problem with clitics may be how to visually present this replacement to the user.
 
 <center>
-  <img src="http://mitcho.com/blog/wp-content/uploads/2009/05/picture-11.png" alt="Picture 1.png" border="0" width="284" height="160" />
+  <img src="/static/uploads/2009/05/picture-11.png" alt="Picture 1.png" border="0" width="284" height="160" />
 </center>
 
 For languages with a delimiter such as French we could simply present the selection as an object right after the verb, without the hyphen.

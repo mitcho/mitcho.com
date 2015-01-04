@@ -27,7 +27,7 @@ Version 3 of [Yet Another Related Posts Plugin][3] is a major rewrite which adds
 
 Previously with YARPP you were relatively limited in the ways you could present related posts. You were able to set some HTML tags to wrap your posts in and choose how much of an excerpt (if any) to display. This limited interface worked great for many users&#8212;indeed, these options still exists in YARPP 3.0. However, there&#8217;s also a new option for those of you who want to put your PHP skills to work and have complete control over your related posts display. The option will let you choose any files in the `templates` subdirectory of YARPP.
 
-<img src="http://mitcho.com/blog/wp-content/uploads/2009/01/e38394e382afe38381e383a3-1.png" alt="templates interface" title="templates interface" width="410" height="163" class="alignnone size-full wp-image-1273" />
+<img src="/static/uploads/2009/01/e38394e382afe38381e383a3-1.png" alt="templates interface" title="templates interface" width="410" height="163" class="alignnone size-full wp-image-1273" />
 
 ### The structure of a YARPP template
 

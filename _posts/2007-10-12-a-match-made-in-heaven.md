@@ -13,7 +13,7 @@ tags:
 ---
 From [the U of C Development page][1]:
 
-> [<img src="http://mitcho.com/blog/wp-content/uploads/2007/10/sally-mitcho.png" border="0" alt="Paul Sally and mitcho" />][2]
+> [<img src="/static/uploads/2007/10/sally-mitcho.png" border="0" alt="Paul Sally and mitcho" />][2]
 Together, at last. I feel so honored.
 
  [1]: http://participate.uchicago.edu

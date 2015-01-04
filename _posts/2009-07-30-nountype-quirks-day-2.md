@@ -39,7 +39,7 @@ To test this nountype, I made sure I had logged into [Twitter][5] once with the 
     </th>
     
     <th>
-      <img src="http://mitcho.com/blog/wp-content/uploads/2009/07/tuner-top.png" alt="tuner-top.png" border="0" width="500" height="30" />
+      <img src="/static/uploads/2009/07/tuner-top.png" alt="tuner-top.png" border="0" width="500" height="30" />
     </th>
   </tr>
   
@@ -147,7 +147,7 @@ To test this nountype, I made sure I had logged into [Twitter][5] once with the 
 
 [As nountypes go][3], this is looking pretty good. For usernames which look like logins we&#8217;ve saved before, we&#8217;re using `matchScore` to get decent differential scores.[^1] It&#8217;s even ruling out impossible twitter username strings, according to Twitter&#8217;s own restriction:
 
-<img src="http://mitcho.com/blog/wp-content/uploads/2009/07/twitter-usernames.png" alt="twitter-usernames.png" border="0" width="574" height="75" />
+<img src="/static/uploads/2009/07/twitter-usernames.png" alt="twitter-usernames.png" border="0" width="574" height="75" />
 
 One possible improvement we could make is to let @ strings be accepted. I [went ahead and made this improvement][7]. The initial @ will be stripped off and then will be checked as normal, but the final score will receive a slight boost using an [[nth_root|*n*th root]] formula. The `twitter` command was also updated to deal with inputs with and without the initial @.
 
@@ -162,7 +162,7 @@ One possible improvement we could make is to let @ strings be accepted. I [went 
     </th>
     
     <th>
-      <img src="http://mitcho.com/blog/wp-content/uploads/2009/07/tuner-top.png" alt="tuner-top.png" border="0" width="500" height="30" />
+      <img src="/static/uploads/2009/07/tuner-top.png" alt="tuner-top.png" border="0" width="500" height="30" />
     </th>
   </tr>
   
@@ -258,7 +258,7 @@ Although the `noun_type_twitter_user` nountype is currently most used by the bui
     </th>
     
     <th>
-      <img src="http://mitcho.com/blog/wp-content/uploads/2009/07/tuner-top.png" alt="tuner-top.png" border="0" width="500" height="30" />
+      <img src="/static/uploads/2009/07/tuner-top.png" alt="tuner-top.png" border="0" width="500" height="30" />
     </th>
   </tr>
   
@@ -324,7 +324,7 @@ This nountype has an incredibly simple job and does it with ease. I&#8217;m goin
     </th>
     
     <th>
-      <img src="http://mitcho.com/blog/wp-content/uploads/2009/07/tuner-top.png" alt="tuner-top.png" border="0" width="250" height="15" />
+      <img src="/static/uploads/2009/07/tuner-top.png" alt="tuner-top.png" border="0" width="250" height="15" />
     </th>
   </tr>
   
@@ -478,7 +478,7 @@ Here&#8217;s what some of the inputs give now:
     </th>
     
     <th>
-      <img src="http://mitcho.com/blog/wp-content/uploads/2009/07/tuner-top.png" alt="tuner-top.png" border="0" width="500" height="30" />
+      <img src="/static/uploads/2009/07/tuner-top.png" alt="tuner-top.png" border="0" width="500" height="30" />
     </th>
   </tr>
   
@@ -706,7 +706,7 @@ The first thing to note is that I&#8217;ve often found the GMail contact lookup 
     </th>
     
     <th>
-      <img src="http://mitcho.com/blog/wp-content/uploads/2009/07/tuner-top.png" alt="tuner-top.png" border="0" width="500" height="30" />
+      <img src="/static/uploads/2009/07/tuner-top.png" alt="tuner-top.png" border="0" width="500" height="30" />
     </th>
   </tr>
   
@@ -766,7 +766,7 @@ In general, we see that these scores all look pretty poor. In particular, though
     </th>
     
     <th>
-      <img src="http://mitcho.com/blog/wp-content/uploads/2009/07/tuner-top.png" alt="tuner-top.png" border="0" width="500" height="30" />
+      <img src="/static/uploads/2009/07/tuner-top.png" alt="tuner-top.png" border="0" width="500" height="30" />
     </th>
   </tr>
   
@@ -814,7 +814,7 @@ Now let&#8217;s consider the suggestions from `noun_type_email`. Here are what t
     </th>
     
     <th>
-      <img src="http://mitcho.com/blog/wp-content/uploads/2009/07/tuner-top.png" alt="tuner-top.png" border="0" width="500" height="30" />
+      <img src="/static/uploads/2009/07/tuner-top.png" alt="tuner-top.png" border="0" width="500" height="30" />
     </th>
   </tr>
   
@@ -875,7 +875,7 @@ I [just committed a change][15] so that this behavior is improved. The new versi
     </th>
     
     <th>
-      <img src="http://mitcho.com/blog/wp-content/uploads/2009/07/tuner-top.png" alt="tuner-top.png" border="0" width="500" height="30" />
+      <img src="/static/uploads/2009/07/tuner-top.png" alt="tuner-top.png" border="0" width="500" height="30" />
     </th>
   </tr>
   

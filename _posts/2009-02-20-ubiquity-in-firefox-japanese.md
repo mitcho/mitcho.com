@@ -108,7 +108,7 @@ Fortunately, however, in [&#8220;Solving the &#8216;It&#8217; Problem&#8221;][7]
 Parsing a sentence into words, in the limited context of Ubiquity, is really about identifying the particles which mark the end of each argument. Here&#8217;s a mockup of an application of the Sammet-Raskin Method to this problem:
 
 <center>
-  <img src="http://mitcho.com/blog/wp-content/uploads/2009/02/particle-id.png" alt="particle-id.png" border="0" />
+  <img src="/static/uploads/2009/02/particle-id.png" alt="particle-id.png" border="0" />
 </center>
 
 **Pros:** This completely takes care of the word-breaking problem, with minimal arbitration from the user. The parser knows *exactly* what arguments it&#8217;s dealing with and the visual feedback means the user won&#8217;t be surprised by the parse.
@@ -136,7 +136,7 @@ Instead of seeing this as a disadvantage, however, let&#8217;s see what verb-fin
 Not all verbs allow for every different kind of particle. For example, it doesn&#8217;t make sense to have a -に (*-ni*, &#8220;to&#8221; or dative) argument for a verb like 検索して (*kensaku-shite*, &#8220;search for&#8221;). In English we used this to suggest different types of arguments given a specific verb. In a verb-final language, we could do this *backwards*.
 
 <center>
-  <img src="http://mitcho.com/blog/wp-content/uploads/2009/02/verb-suggestion.png" alt="verb-suggestion.png" border="0" />
+  <img src="/static/uploads/2009/02/verb-suggestion.png" alt="verb-suggestion.png" border="0" />
 </center>
 
 **Pros:** This makes verbs highly discoverable, given a certain argument structure. For example, if you enter a few arguments, like a direct object, a &#8220;to&#8221; argument, and a &#8220;from&#8221; argument, it&#8217;ll suggest verbs that will do something to an object from somewhere to somewhere else. This way, you can easily try out verbs you didn&#8217;t even know existed. It&#8217;ll only give you verbs appropriate for your arguments, reducing the chance of writing a an infelicitous command.

@@ -20,7 +20,7 @@ tags:
 ---
 It&#8217;s often hard to remember Ubiquity&#8217;s presence and keystroke without a visual reminder—even I often forget that I could use Ubiquity and end up going to a search engine or using the search bar for some quick lookup task. **What if the Ubiquity input were in the toolbar and always visible?** How would that affect people&#8217;s use of Ubiquity? And what could we make that look like and how would it behave? Today we&#8217;re kicking off the Ubiquity Persistence Project, a new Ubiquity initiative to explore what a persistent Ubiquity might look like in the Firefox toolbar.
 
-<a rel='lightbox' href="http://mitcho.com/blog/wp-content/uploads/2009/08/Screen-shot-2009-08-20-at-12.48.43-PM.png" alt="The Persistence tool"><img src="http://mitcho.com/blog/wp-content/uploads/2009/08/persistence-small.png" alt="persistence-small.png" border="0" width="650" height="484" /></a>
+<a rel='lightbox' href="/static/uploads/2009/08/Screen-shot-2009-08-20-at-12.48.43-PM.png" alt="The Persistence tool"><img src="/static/uploads/2009/08/persistence-small.png" alt="persistence-small.png" border="0" width="650" height="484" /></a>
 
 In order to facilitate this discussion, we created the Persistence tool. With the Persistence tool you can quickly try out new design and interaction ideas, mocking things up with some simple [jQuery][1]-powered JavaScript and CSS and see your changes live. The Persistence tool is bundled with our [latest Ubiquity beta][2] (install link).
 

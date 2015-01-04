@@ -46,7 +46,7 @@ If there are no possible normalizations, `normalizeArgument()` should simply ret
 Here, for example, is how the inactive prefix &#8220;l&#8217;&#8221; is displayed in [the parser demo][3]. This way the user is told that the &#8220;l&#8217;&#8221; prefix is being ignored, and the nountype detection and verb action can act on the argument &#8220;English&#8221;.[^3] (In the future, of course, we could teach this nountype to accept the Catalan &#8220;anglès&#8221;.)
 
 <center>
-  <img src="http://mitcho.com/blog/wp-content/uploads/2009/05/picture-1.png" alt="Picture 1.png" border="0" width="320" height="29" />
+  <img src="/static/uploads/2009/05/picture-1.png" alt="Picture 1.png" border="0" width="320" height="29" />
 </center>
 
 The easiest way to produce this output is to use the [`String.match()`][4] method. For example `normalizeArgument()` code, I refer you to the [Catalan][5] and [French][6] parser files.

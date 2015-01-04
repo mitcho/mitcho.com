@@ -19,7 +19,7 @@ Panorama went through a pretty rapid development cycle, making it into [Firefox 
 
 Check out the final result, the [Panorama test coverage report][4]. The good news: our code coverage is 86%! (Some notes on what improvements can be made are in [the bug][1].)
 
-[<img src="http://mitcho.com/blog/wp-content/uploads/2011/03/Screen-shot-2011-03-22-at-6.59.26-PM.png" alt="code coverage report" border="0" width="600" height="260" />][4]
+[<img src="/static/uploads/2011/03/Screen-shot-2011-03-22-at-6.59.26-PM.png" alt="code coverage report" border="0" width="600" height="260" />][4]
 
 PhiliKON had previously worked on hooking into the [JS Debugger service][5]&#8217;s `interruptHook` to test [`xpcshell` tests][6]. I modified this code to run instead in the [Mochitest browser chrome tests][7]. This code can be found [on the bug][1].
 

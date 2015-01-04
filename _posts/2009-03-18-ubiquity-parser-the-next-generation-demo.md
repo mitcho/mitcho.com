@@ -22,7 +22,7 @@ tags:
   - verb-final
   - verbs
 ---
-<a href='http://mitcho.com/blog/wp-content/uploads/2009/03/parserdesign.jpg' rel='lightbox[parser]'><img src="http://mitcho.com/blog/wp-content/uploads/2009/03/parserdesign.jpg" alt="parserdesign" title="parserdesign" width="600" height="450" class="limages" /></a>
+<a href='/static/uploads/2009/03/parserdesign.jpg' rel='lightbox[parser]'><img src="/static/uploads/2009/03/parserdesign.jpg" alt="parserdesign" title="parserdesign" width="600" height="450" class="limages" /></a>
 
 A week or two ago while visiting California, [Jono][1] and I had a productive charrette, resulting in a new architecture proposal for the Ubiquity parser, as laid out in [Ubiquity Parser: The Next Generation][2]. The new architecture is designed to support (1) the use of [overlord verbs][3], (2) [writing verbs by semantic roles][4], and (3) better suggestions for [verb-final languages][5] and other argument-first contexts. I&#8217;m happy to say that I&#8217;ve spent some time putting a proof-of-concept together.
 

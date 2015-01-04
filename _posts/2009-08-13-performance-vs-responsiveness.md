@@ -102,7 +102,7 @@ var parseGenerator = _yieldingParse();</p>
 
 
 <p>
-  <a href='http://twitter.com/progrium/status/3273910705'><img src="http://mitcho.com/blog/wp-content/uploads/2009/08/Screen-shot-2009-08-12-at-4.38.50-PM.png" alt="Screen shot 2009-08-12 at 4.38.50 PM.png" border="0" width="641" height="206" /></a>
+  <a href='http://twitter.com/progrium/status/3273910705'><img src="/static/uploads/2009/08/Screen-shot-2009-08-12-at-4.38.50-PM.png" alt="Screen shot 2009-08-12 at 4.38.50 PM.png" border="0" width="641" height="206" /></a>
 </p>
 
 
@@ -114,7 +114,7 @@ var parseGenerator = _yieldingParse();</p>
 
 
 <p>
-  <img src="http://mitcho.com/blog/wp-content/uploads/2009/08/notes1.jpg" alt="notes.jpg" border="0" width="649" height="327" />
+  <img src="/static/uploads/2009/08/notes1.jpg" alt="notes.jpg" border="0" width="649" height="327" />
 </p>
 
 
@@ -126,7 +126,7 @@ var parseGenerator = _yieldingParse();</p>
 
 
 <p>
-  <img src="http://mitcho.com/blog/wp-content/uploads/2009/08/beforeafter1.png" alt="beforeafter.png" border="0" width="576" height="344" />
+  <img src="/static/uploads/2009/08/beforeafter1.png" alt="beforeafter.png" border="0" width="576" height="344" />
 </p>
 
 

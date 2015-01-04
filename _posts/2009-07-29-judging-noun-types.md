@@ -40,21 +40,21 @@ With this in mind, you may be tempted to make your nountype return a score of 1 
 
 The Nountype Tuner is a new tool I&#8217;ve been building to help both Ubiquity core developers and command authors to check their nountypes against others and to &#8220;tune&#8221; their behavior and scores. The nountype tuner will take your input and throw it against all of the nountypes referenced in your active verbs and display the suggestions returned with their scores. You can think of it as [the Playpen][4]&#8217;s little sister.
 
-<img src="http://mitcho.com/blog/wp-content/uploads/2009/07/tuner.png" alt="tuner.png" border="0" width="650" height="646" />
+<img src="/static/uploads/2009/07/tuner.png" alt="tuner.png" border="0" width="650" height="646" />
 
 The Nountype Tuner can be found at <chrome://ubiquity/content/tuner.html>, though I am pretty sure it is broken in Ubiquity 0.5 and 0.5.1. It has been fixed now and I will make sure it&#8217;s in good shape for 0.5.2.
 
 The heart and soul of the Nountype Tuner is this scale:
 
 <center>
-  <img src="http://mitcho.com/blog/wp-content/uploads/2009/07/tuner-top.png" alt="tuner-top.png" border="0" width="500" height="30" />
+  <img src="/static/uploads/2009/07/tuner-top.png" alt="tuner-top.png" border="0" width="500" height="30" />
 </center>
 
 This scale tells you, *in plain English*, what different scores represent and correspond to, in two sets of vocabulary: &#8220;in terms of a guess&#8221; and &#8220;in terms of a match.&#8221; While still subjective, this scale helps developers just different input/output pairs and their scores. For example, &#8220;lian&#8221; → &#8220;http://lian&#8221; is given 0.5, so it&#8217;s an okay guess or a possible match&#8230; does that seem right to you? Or &#8220;lian&#8221; → &#8220;Italian&#8221; being between &#8220;okay&#8221; and &#8220;good.&#8221; Appropriate? We can look at such statements, decide how we feel about them, and tweak if necessary.
 
 ### Good nountype scores have roots
 
-<img src="http://mitcho.com/blog/wp-content/uploads/2009/07/roots.jpg" alt="roots.jpg" border="0" width="650" height="300" />
+<img src="/static/uploads/2009/07/roots.jpg" alt="roots.jpg" border="0" width="650" height="300" />
 
 <small>CC-BY <a href="http://www.flickr.com/photos/aaronescobar/2569091622/">Aaron Escobar</a></small>
 
@@ -159,7 +159,7 @@ One could say the most trivial score function then is the linear one. For a seri
   
   <p>
     <center>
-      <img src="http://mitcho.com/blog/wp-content/uploads/2009/07/nth-roots.png" alt="nth-roots.png" border="0" width="299" height="262" />
+      <img src="/static/uploads/2009/07/nth-roots.png" alt="nth-roots.png" border="0" width="299" height="262" />
     </center>
   </p>
   

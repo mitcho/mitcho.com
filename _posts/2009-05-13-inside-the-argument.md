@@ -15,7 +15,7 @@ tags:
 ---
 Here&#8217;s a little picture of the different sections of text in a single parsed argument and which properties of the resultant argument object they are assigned to.
 
-<img src="http://mitcho.com/blog/wp-content/uploads/2009/05/insidetheargument.jpg" alt="insidetheargument.jpg" border="0" width="650" height="350" />
+<img src="/static/uploads/2009/05/insidetheargument.jpg" alt="insidetheargument.jpg" border="0" width="650" height="350" />
 
 You&#8217;ll see, from left to right, `outerSpace`, `modifier`, `innerSpace`, `inactivePrefix`, `input`/`data`, `inactiveSuffix`.
 

@@ -21,7 +21,7 @@ Unfortunately, the key phrase in this passage was widely mistranscribed in the m
 
 Chris Carey of [Bailout Sleuth][1] writes:
 
-<a href="/blog/wp-content/uploads/2008/10/thebaldteam.jpg" title="The Bald Team for a Bald Approach<br/>left to right: Neel Kashkari, James H. Lambright, and Henry M. Paulson, Jr." rel="lightbox[bald-moves]"><img class='limages' src="http://mitcho.com/blog/wp-content/uploads/2008/10/thebaldteam.jpg" title="The Bald Team" width="530" height="205" /></a>
+<a href="/blog/wp-content/uploads/2008/10/thebaldteam.jpg" title="The Bald Team for a Bald Approach<br/>left to right: Neel Kashkari, James H. Lambright, and Henry M. Paulson, Jr." rel="lightbox[bald-moves]"><img class='limages' src="/static/uploads/2008/10/thebaldteam.jpg" title="The Bald Team" width="530" height="205" /></a>
 
 > The Treasury Department tapped James H. Lambright [above center], head of the Export-Import Bank, as the interim chief investment officer for the $700 billion Troubled Asset Relief Program&#8230; The bailout program is being directed by Neel Kashkari [above left], who had been senior advisor to Treasury Secretary Henry M. Paulson Jr [above right].
 

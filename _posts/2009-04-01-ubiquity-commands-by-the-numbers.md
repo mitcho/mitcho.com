@@ -30,7 +30,7 @@ As we look to [move forward][3] with incorporating [the next generation parser][
 A: The vast majority (>85%) of commands take one or no arguments, requiring no modifiers. Only those remaining 15% will require a switch to refer to different arguments by [semantic role][2].
 
 <center>
-  <img src="http://mitcho.com/blog/wp-content/uploads/2009/03/herdcommands.png" alt="herdcommands.png" border="0" width="500" height="355" />
+  <img src="/static/uploads/2009/03/herdcommands.png" alt="herdcommands.png" border="0" width="500" height="355" />
 </center>
 
 ### Q: Do many commands introduce custom noun types?
@@ -39,7 +39,7 @@ A: 147 different noun types (lumping anonymous inline objects as one type) were 
 
 <div style='overflow-y: auto; max-height: 300px;'>
   <center>
-    <img src="http://mitcho.com/blog/wp-content/uploads/2009/03/herdnountypes1.png" alt="herdnountypes.png" border="0" width="550" height="846" />
+    <img src="/static/uploads/2009/03/herdnountypes1.png" alt="herdnountypes.png" border="0" width="550" height="846" />
   </center>
 </div>
 

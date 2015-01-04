@@ -16,7 +16,7 @@ tags:
 ---
 I uploaded [Ubiquity][1] to [BabelZilla][2], an online community and tool for localizing Mozilla-style strings, just a couple days ago and we already have French and Polish complete.[^2] WOW!
 
-<a href="http://mitcho.com/blog/wp-content/uploads/2009/08/babelzilla-status.png" rel='lightbox'><img src="http://mitcho.com/blog/wp-content/uploads/2009/08/babelzilla-status.png" alt="babelzilla-status.png" border="0" width="492" height="210" /></a>
+<a href="/static/uploads/2009/08/babelzilla-status.png" rel='lightbox'><img src="/static/uploads/2009/08/babelzilla-status.png" alt="babelzilla-status.png" border="0" width="492" height="210" /></a>
 
 Granted, these are only Ubiquity&#8217;s interface strings (for example, the about and settings pages)&#8230; the [parser localization][3] and [command localization][4] have their own processes.[^1] But this is still a tremendous accomplishment!
 

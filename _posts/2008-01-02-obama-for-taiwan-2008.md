@@ -19,5 +19,5 @@ Oh my god, it&#8217;s [Obama][2]! The banner is actually for the [[Taiwan Solida
 
 <a rel="lightbox" href="http://mitcho.com/photos/taiwan/image/600/IMG_0145.jpg"><img class="images" alt="IMG_0145" title="IMG_0145" src="http://mitcho.com/photos/taiwan/image/thumb/IMG_0145.jpg" /></a>
 
- [1]: http://mitcho.com/blog/wp-content/uploads/2008/01/obamafortaiwan.jpg
+ [1]: /static/uploads/2008/01/obamafortaiwan.jpg
  [2]: http://www.barackobama.com

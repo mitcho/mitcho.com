@@ -47,7 +47,7 @@ The `weather` command could then accept `noun_type_geo_town` but, as some munici
     </th>
     
     <th>
-      <img src="http://mitcho.com/blog/wp-content/uploads/2009/07/tuner-top.png" alt="tuner-top.png" border="0" width="500" height="30" />
+      <img src="/static/uploads/2009/07/tuner-top.png" alt="tuner-top.png" border="0" width="500" height="30" />
     </th>
   </tr>
   
@@ -130,7 +130,7 @@ Look forward to one (or maybe two?) more episode(s) of Nountype Quirks where I h
 
 It turns out that `noun_type_async_address` was recognizing &#8220;Jono&#8221; as an address because Jono is actually a location afterall! Not only that, but Jono is in Japan!!
 
-<img src="http://mitcho.com/blog/wp-content/uploads/2009/08/Picture-31.png" alt="Picture 3.png" border="0" width="594" height="525" />
+<img src="/static/uploads/2009/08/Picture-31.png" alt="Picture 3.png" border="0" width="594" height="525" />
 
 You clearly [can&#8217;t take Japan out of Jono][13], but it turns out you can&#8217;t take Jono out of Japan either.
 

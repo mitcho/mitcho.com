@@ -25,7 +25,7 @@ tags:
   - ubiquity
   - video
 ---
-<img src="http://mitcho.com/blog/wp-content/uploads/2009/06/t2p01.png" alt="T2P0.PNG" border="0" width="211" height="120" />
+<img src="/static/uploads/2009/06/t2p01.png" alt="T2P0.PNG" border="0" width="211" height="120" />
 
 This past Monday I presented at [Tokyo 2.0][1], Japan&#8217;s largest bilingual web/tech community. I presented as part of a session on The Web and Language, which I also helped organize. Other presenters included Junji Tomita from [goo Labs][2], Shinjyou Sunao of [Knowledge Creation][3], developers of the [Voice Delivery System][4] API, and [Chris Salzberg][5] of [Global Voices Online][6] on community translation.
 

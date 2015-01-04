@@ -16,7 +16,7 @@ tags:
   - linguistics
   - Mandarin
 ---
-<img src="http://mitcho.com/blog/wp-content/uploads/2008/05/google-code.png" alt="google code" title="google-code" width="156" height="57" />
+<img src="/static/uploads/2008/05/google-code.png" alt="google code" title="google-code" width="156" height="57" />
 
 As [Google adds ten more languages to its machine translation service][1], it seems to be on its way to becoming the most convenient [[universal translator]] of the world&#8217;s popular languages. Google&#8217;s handling of languages of course isn&#8217;t perfect, however—in particular, I&#8217;ve been complaining to friends for a while about the weaknesses of Google&#8217;s handling of queries in Chinese character ([[Chinese characters|漢字/汉字]]) scripts. In this post, I run some tests using Google&#8217;s [Language Detection service][2] to try to better understand its handling of Chinese character queries.
 
@@ -293,7 +293,7 @@ First, I took some Chinese character strings and ran them through the detection 
 For each token type, the detection service made up its mind quite quickly. Its confidence, however, was more interesting.
 
 <center>
-  <img src="http://mitcho.com/blog/wp-content/uploads/2008/05/picture-7.png" alt="" title="repetition vs. confidence" />
+  <img src="/static/uploads/2008/05/picture-7.png" alt="" title="repetition vs. confidence" />
 </center>
 
 Each of the confidence values dips sharply after three, five, or ten repetitions. Note, however, the length of the tokens which dipped at each of those points. I interpret this to mean that **there is a different parser for less than ten characters and ten or more characters.** However, the detection service did not change its answer after this point on any of the tokens.
@@ -834,7 +834,7 @@ As a trivial aside, it seems that Google&#8217;s algorithm is slightly different
 
 [^1]:    
     Just to complicate matters further, there&#8217;s also the issue of where you&#8217;re accessing Google from. For example, accessing from the US (or via my friend [VPN][4]), a query for the Japanese-simplified &#8220;天気&#8221; seems to only return Japanese pages. However, accessing from Taiwan, Google assumes you may have meant the full-form &#8220;天氣&#8221;, giving you pages with both &#8220;天気&#8221; and &#8220;天氣&#8221;. As a result, Yahoo Japan weather is the first result from the US and third from Taiwan, while Yahoo Taiwan weather is first in Taiwan and doesn&#8217;t even show up from the US. This default character substitution in Taiwan is one of my least-favorite Google &#8220;features.&#8221;  
-    <a rel="lightbox[google]" href='http://mitcho.com/blog/wp-content/uploads/2008/05/picture-1.png'><img class="images" src="http://mitcho.com/blog/wp-content/uploads/2008/05/picture-1-300x256.png" alt="" title="picture-1" /></a><a rel="lightbox[google]" href='http://mitcho.com/blog/wp-content/uploads/2008/05/picture-2.png'><img class="images" src="http://mitcho.com/blog/wp-content/uploads/2008/05/picture-2-300x256.png" alt="" title="picture-2" /></a>  
+    <a rel="lightbox[google]" href='/static/uploads/2008/05/picture-1.png'><img class="images" src="/static/uploads/2008/05/picture-1-300x256.png" alt="" title="picture-1" /></a><a rel="lightbox[google]" href='/static/uploads/2008/05/picture-2.png'><img class="images" src="/static/uploads/2008/05/picture-2-300x256.png" alt="" title="picture-2" /></a>  
     Similar effects can most likely be seen between the US and China. In the rest of this post, all queries will be made from the US.
 
  [1]: http://googleblog.blogspot.com/2008/05/google-translate-adds-10-new-languages.html

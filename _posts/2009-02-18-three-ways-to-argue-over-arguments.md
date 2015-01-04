@@ -37,7 +37,7 @@ When we execute a command in Ubiquity, in very simple terms, we&#8217;re hoping 
 As speakers of English, you can read sentence (1) above and know exactly who is doing the seeing and who is being seen and speakers of Japanese can get the same information from (2). **How do different languages code for arguments in different roles?** There are, broadly speaking, three different ways:
 
 <center>
-  <img src="http://mitcho.com/blog/wp-content/uploads/2009/02/threeways.png" alt="three ways to code for arguments in different roles" border="0" width="536" height="284" />
+  <img src="/static/uploads/2009/02/threeways.png" alt="three ways to code for arguments in different roles" border="0" width="536" height="284" />
 </center>
 
 We&#8217;ll take a brief look today at these three different strategies, all of which [a localizeable natural language interface][2] will surely encounter.
@@ -184,7 +184,7 @@ Notice that in sentence (12) (glossed in (13)) the verb for &#8220;see&#8221; is
 
 ### All of the above
 
-[<img src="http://mitcho.com/blog/wp-content/uploads/2009/02/whom.gif" alt="whom.gif" border="0" width="650" height="442" />][3]
+[<img src="/static/uploads/2009/02/whom.gif" alt="whom.gif" border="0" width="650" height="442" />][3]
 
 Most languages do not use only one of these strategies, but a combination of them. English is a very good example. In a sentence like (12) below the main coding of grammatical roles seems to be word order alone. By reversing the word order into (13), we can effectively swap the argument&#8217;s roles.
 

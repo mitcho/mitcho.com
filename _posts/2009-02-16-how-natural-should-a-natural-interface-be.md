@@ -22,7 +22,7 @@ Every day, more users are trying out Ubiquity, the Mozilla Labs experiment that 
 
 But what exactly do we mean by a &#8220;natural language interface&#8221;? Is it just another programming language with lots of English keywords? Should the final goal be a computer that understands everything we tell it?
 
-<img src="http://mitcho.com/blog/wp-content/uploads/2009/02/ubiqhal2.jpg" alt="Ubiquity is not HAL" title="I'm sorry Dave, I'm afraid I can't do that." width="650" height="220" />
+<img src="/static/uploads/2009/02/ubiqhal2.jpg" alt="Ubiquity is not HAL" title="I'm sorry Dave, I'm afraid I can't do that." width="650" height="220" />
 
 As we think about the future directions and possibilities of Ubiquity, we need to go back to our roots and understand the project&#8217;s motivations. With that in mind, here are some initial thoughts on the advantages of a natural language interface. The ultimate goal here is to refine the notion of natural language interface and to come up with a set of principles that we can follow in pushing Ubiquity further, into other languages and beyond.
 

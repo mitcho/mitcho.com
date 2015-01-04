@@ -114,11 +114,11 @@ I&#8217;ve laid out three reasons why processing strongly case-marked languages 
 
 From a formal/theoretical perspective, adpositions sit above the noun phrase proper, while modifiers like adjectives live within the noun phrase. This reflects the fact that, with few exceptions, adpositions mark an edge of the noun phrase, which is crucial to our parsing strategy. (Here, PP is a prepositional phrase and NP is a noun phrase.) Note also that for languages such as German which marks case on determiners (D), the same logic holds.
 
-<img src="http://mitcho.com/blog/wp-content/uploads/2009/05/dcaa2cd9-4c7b-45fd-8a44-75c25b1b5561.jpg" alt="DCAA2CD9-4C7B-45FD-8A44-75C25B1B5561.jpg" border="0" width="126" height="106" style='vertical-align:middle;padding:5px;' /><img src="http://mitcho.com/blog/wp-content/uploads/2009/05/936098e0-425b-43e1-8cec-d188d43cc942.jpg" alt="936098E0-425B-43E1-8CEC-D188D43CC942.jpg" border="0" width="170" height="134" style='vertical-align:middle;padding:5px;' />
+<img src="/static/uploads/2009/05/dcaa2cd9-4c7b-45fd-8a44-75c25b1b5561.jpg" alt="DCAA2CD9-4C7B-45FD-8A44-75C25B1B5561.jpg" border="0" width="126" height="106" style='vertical-align:middle;padding:5px;' /><img src="/static/uploads/2009/05/936098e0-425b-43e1-8cec-d188d43cc942.jpg" alt="936098E0-425B-43E1-8CEC-D188D43CC942.jpg" border="0" width="170" height="134" style='vertical-align:middle;padding:5px;' />
 
 Note also that, as long as the case-marking is phrase-marking (i.e. marking the edge of the noun phrase) rather than just affixing to the head noun, our parsing strategy will work. This means we could possibly in the future write a simple RegExp to split off the Basque dative suffix, as it marks the end of the entire noun phrase. This can be seen in the following data from [Tseng (2004)][8], where the suffix *-(r)i* affixes to the last word in the noun phrase, no matter the type of speech of that last word. (Basque is crazy cool!)
 
-<img src="http://mitcho.com/blog/wp-content/uploads/2009/05/picture-2.png" alt="Picture 2.png" border="0" width="539" height="66" />
+<img src="/static/uploads/2009/05/picture-2.png" alt="Picture 2.png" border="0" width="539" height="66" />
 
 ### Conclusion
 

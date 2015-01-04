@@ -13,7 +13,7 @@ tags:
   - video
   - WordPress
 ---
-<img src="http://mitcho.com/blog/wp-content/uploads/2010/01/4096077627_c6d3035124_o.jpg" alt="4096077627_c6d3035124_o.jpg" border="0" width="470" height="246" />
+<img src="/static/uploads/2010/01/4096077627_c6d3035124_o.jpg" alt="4096077627_c6d3035124_o.jpg" border="0" width="470" height="246" />
 
 This past weekend I gave a couple talks at the inaugural [WordCamp Boston][1]. [WordCamps][2] are local, community-organized events for [WordPress][3] users and enthusiasts. We had about 400 people at the Microsoft Cambridge campus.
 

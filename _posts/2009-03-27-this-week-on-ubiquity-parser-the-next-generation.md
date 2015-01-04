@@ -20,7 +20,7 @@ tags:
   - ubiquity
   - update
 ---
-<img src="http://mitcho.com/blog/wp-content/uploads/2009/03/parsertng.png" alt="parsertng.png" border="0" width="649" height="277" />
+<img src="/static/uploads/2009/03/parsertng.png" alt="parsertng.png" border="0" width="649" height="277" />
 
 [Last week][1] I released [a proof-of-concept demo][2] of the [next generation Ubiquity parser design][3] and it was also the focus of discussion in [our weekly internationalization meeting][4].[^1] Christian Sonne even wrote a Danish plugin for it during the meeting—a testament to the pluggability and of the new parser design.
 

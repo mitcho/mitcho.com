@@ -17,7 +17,7 @@ tags:
   - ubiquity
   - verb
 ---
-<img src="http://mitcho.com/blog/wp-content/uploads/2009/09/close-encounters.jpg" alt="close-encounters.jpg" border="0" width="640" height="300" />
+<img src="/static/uploads/2009/09/close-encounters.jpg" alt="close-encounters.jpg" border="0" width="640" height="300" />
 
 This week [I implemented][1] a new way to customize and extend Ubiquity commands: `CmdUtils.CreateAlias`.
 
@@ -44,7 +44,7 @@ As you see, this syntax is incredibly straightforward. There are two required pr
 
 The alias can also have a `givenArgs` property which is a hash of pre-specified arguments with their [semantic roles][4]. Because `translate` takes three arguments (an `object` text, a `goal` language, and a `source` language) but we have pre-specified a `goal` in the `givenArgs`, the new `anglicize` command will only take two arguments: the `object` text and a `source` language. Of course, if you specify no `givenArgs`, you&#8217;ll get a simple synonym without having access to the original verb&#8217;s code.
 
-<img src="http://mitcho.com/blog/wp-content/uploads/2009/09/anglicize1.png" alt="anglicize.png" border="0" width="650" height="152" />
+<img src="/static/uploads/2009/09/anglicize1.png" alt="anglicize.png" border="0" width="650" height="152" />
 
 As you see, the preview of this command is simply the preview of the `translate` verb. Its preview and execution is just as if you had entered `translate こんにちは to English`.
 

@@ -26,21 +26,21 @@ A few important design decisions have already been made in implementing command 
 
 Second, in order to simplify the matching of localizations and commands, we require that each command feed have one localization po file, rather than splitting the localizations of different commands across multiple po files.
 
-<img src="http://mitcho.com/blog/wp-content/uploads/2009/07/dist.png" alt="dist.png" border="0" width="650" height="250" />
+<img src="/static/uploads/2009/07/dist.png" alt="dist.png" border="0" width="650" height="250" />
 
 Finding the appropriate localization po file for a JavaScript command feed is very simple with bundled commands as the files are managed in our main repository so we know exactly where to find them. We just take the command feed&#8217;s filename sans extension—the *feed key*—and look for `localizations/`*lang*`/`*feed key*`.po`, where *lang* is the active language code. This gives us a simple one to one relationship between the JavaScript command feed source and the appropriate localization.
 
-<img src="http://mitcho.com/blog/wp-content/uploads/2009/07/local.png" alt="local.png" border="0" width="650" height="218" />
+<img src="/static/uploads/2009/07/local.png" alt="local.png" border="0" width="650" height="218" />
 
 ### Background
 
 The ability of users to [easily write their own Ubiquity commands][4] has always been a huge strength of the Ubiquity platform. Users can also &#8220;subscribe&#8221; to commands written by other users on other servers. In this case, local copies of those command sources are made.
 
-<img src="http://mitcho.com/blog/wp-content/uploads/2009/07/distcmds.png" alt="distcmds.png" border="0" width="650" height="420" />
+<img src="/static/uploads/2009/07/distcmds.png" alt="distcmds.png" border="0" width="650" height="420" />
 
 The [herd][5] was developed as a dynamic aggregator of community Ubiquity commands. The herd keeps its own copy of each command source. The herd groups mirrors of command feeds on multiple servers together as well, giving each unique command feed a unique ID.
 
-<img src="http://mitcho.com/blog/wp-content/uploads/2009/07/herd.png" alt="herd.png" border="0" width="650" height="240" />
+<img src="/static/uploads/2009/07/herd.png" alt="herd.png" border="0" width="650" height="240" />
 
 ### Localizing distributed resources
 
@@ -50,19 +50,19 @@ All three of these options have the property that localizations do not need to b
 
 #### Option 1: a completely distributed option
 
-<img src="http://mitcho.com/blog/wp-content/uploads/2009/07/option1.png" alt="herd.png" border="0" width="650" height="300" />
+<img src="/static/uploads/2009/07/option1.png" alt="herd.png" border="0" width="650" height="300" />
 
 In this option, localizers simply put the po files on their own servers (or some code snippet site such as github) and the user must then subscribe to those localizations much as they subscribe to commands now.
 
 #### Option 2: registration and discovery through the herd
 
-<img src="http://mitcho.com/blog/wp-content/uploads/2009/07/option2.png" alt="herd.png" border="0" width="650" height="400" />
+<img src="/static/uploads/2009/07/option2.png" alt="herd.png" border="0" width="650" height="400" />
 
 In this option, localizers put po files up on their own servers and then register that po file&#8217;s URL with the herd. The herd keeps track of each command feed&#8217;s localizations in different languages.
 
 #### Option 3: localizations on the herd
 
-<img src="http://mitcho.com/blog/wp-content/uploads/2009/07/option3.png" alt="herd.png" border="0" width="650" height="340" />
+<img src="/static/uploads/2009/07/option3.png" alt="herd.png" border="0" width="650" height="340" />
 
 In this option, po localizations are uploaded right onto the herd. The herd is the centralized repository of all localizations for each command feed.
 
@@ -70,7 +70,7 @@ In this option, po localizations are uploaded right onto the herd. The herd is t
 
 In coming up with a criteria for judging different models of community command localization, I think it is helpful to think of the end-user experience. Right now to subscribe to a new command a user must find the command (perhaps via the herd) and click on the subscribe button, then in most cases confirm that they are aware of the possible dangers and confirm subscription.[^2] What work is required for a user to subscribe to a new command *and get it in their language*?
 
-<img src="http://mitcho.com/blog/wp-content/uploads/2009/07/subscribe.png" alt="herd.png" border="0" width="650" height="40" />
+<img src="/static/uploads/2009/07/subscribe.png" alt="herd.png" border="0" width="650" height="40" />
 
 Under option one, the user would somehow have to find the localization scattered someplace on the internet of their own accord, and then install that localization by themself. In my mind, this is clearly a no go. With options two or three, however, when a user subscribes to a command feed Ubiquity can check with the herd to see whether there are any localizations available. The localizations could be offered to the user or the localization for the currently active language could be automatically installed. There are, on the other hand, disadvantages to requiring a centralized authority, exemplified by the fact that the current iteration of the herd itself has often been down.
 

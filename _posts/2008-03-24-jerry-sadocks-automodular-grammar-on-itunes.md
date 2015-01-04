@@ -2,25 +2,6 @@
 title: 'Jerry Sadock&#8217;s Automodular Grammar on iTunes'
 layout: post
 permalink: /blog/link/jerry-sadocks-automodular-grammar-on-itunes/
-enclosure:
-  - |
-    http://linguistics.arizona.edu/podcasts/tracks/sadock_talk_1.mp3
-
-    108825438
-
-    audio/mpeg
-  - |
-    http://linguistics.arizona.edu/podcasts/tracks/sadock_talk_2.mp3
-
-    110575426
-
-    audio/mpeg
-  - |
-    http://linguistics.arizona.edu/podcasts/tracks/sadock_talk_3.mp3
-
-    98322957
-
-    audio/mpeg
 categories:
   - link
 tags:
@@ -31,7 +12,7 @@ tags:
   - semantics
   - syntax
 ---
-<a rel="lightbox" href='http://mitcho.com/blog/wp-content/uploads/2008/03/sadock.jpg' title='Sadock'><img class="images" src='http://mitcho.com/blog/wp-content/uploads/2008/03/sadock.thumbnail.jpg' alt='Sadock' /></a>
+<a rel="lightbox" href='/static/uploads/2008/03/sadock.jpg' title='Sadock'><img class="images" src='/static/uploads/2008/03/sadock.thumbnail.jpg' alt='Sadock' /></a>
 
 In my recent [quest for podcasts][1], I just today discovered [[Jerrold Sadock|Jerry Sadock&#8217;s]] [Automodular Grammar lectures on iTunes U][2], brought to you by the University of Arizona. This is essentially the first few lectures from his Automodular course I took my last year in college, which was one of my favorite and most thought-provoking and challenging (&#8220;thought-challenging&#8221;?) courses while at [Chicago][3]. While I still feel that having visuals (slides, or his handsome face, above), you can download his talks and handouts separately from their website, linked here:
 

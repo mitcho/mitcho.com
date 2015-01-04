@@ -11,5 +11,5 @@ tags:
   - Twitter
 ---
 <center>
-  <img src="http://mitcho.com/blog/wp-content/uploads/2009/12/tweeting-3.png" alt="tweeting-3.png" border="0" width="324" height="352" />
+  <img src="/static/uploads/2009/12/tweeting-3.png" alt="tweeting-3.png" border="0" width="324" height="352" />
 </center>

@@ -18,7 +18,7 @@ tags:
 ---
 I&#8217;m flying over the pacific ocean right now but a little bit of language caught my eye. Here&#8217;s a picture of the menu for this flight, in three languages: English, Japanese, Chinese.
 
-<img src="http://mitcho.com/blog/wp-content/uploads/2009/03/menu1.jpg" alt="menu.jpg" border="0" width="650" height="459" />
+<img src="/static/uploads/2009/03/menu1.jpg" alt="menu.jpg" border="0" width="650" height="459" />
 
 What caught my eye is the line &#8220;served with ご一緒に 配,&#8221; meant to be read as part of &#8220;Beef in BBQ sauce&#8230; **served with** Pepsi&#8230;&#8221;. The Chinese 配 (*pèi*) is fine here, meaning &#8220;with,&#8221; but the Japanese &#8220;ご一緒に&#8221; (*goissho-ni*) seemed awkward to me.
 

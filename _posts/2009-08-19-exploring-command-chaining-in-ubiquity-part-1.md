@@ -31,7 +31,7 @@ We&#8217;ll first consider how command chaining may affect the parsing. Ubiquity
 
 The first question we must address here is **&#8220;what is the chaining output of a command&#8221;?** Is it the preview text? Some text output from the execution?
 
-[<img src="http://mitcho.com/blog/wp-content/uploads/2009/08/2851415655_1012a4cce0_o.jpg" alt="2851415655_1012a4cce0_o.jpg" border="0" width="650" height="226" />][2]  
+[<img src="/static/uploads/2009/08/2851415655_1012a4cce0_o.jpg" alt="2851415655_1012a4cce0_o.jpg" border="0" width="650" height="226" />][2]  
 <small><a href='http://www.flickr.com/photos/joemud/2851415655/'>Big fish eat da lil fish</a> by joemud, CC-SA-NC</small>
 
 To put this question into perspective, we note that Ubiquity commands can be broadly classified into two types: **lookup** and **action execution**. Here&#8217;s a classification which I believe to be exhaustive:[^2]

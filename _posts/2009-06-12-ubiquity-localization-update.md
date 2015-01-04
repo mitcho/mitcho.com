@@ -47,7 +47,7 @@ Other localizable components, like `names`, `contributors`, and `help` will not 
 
 [One tool we have planned][5] to help kickstart the localization process is a tool that will automatically create a template of strings that need localization in a user&#8217;s commands. I took a first stab at this tool today. Clicking on the &#8220;get localization template&#8221; link next to each feed in the [Ubiquity command list][6] will give you a template which you can then copy into a text file:
 
-<a class='limages' href='http://mitcho.com/blog/wp-content/uploads/2009/06/localization-template.png' rel='lightbox'><img src="http://mitcho.com/blog/wp-content/uploads/2009/06/localization-template-smaller.png" alt="localization-template-smaller.png" border="0" width="600" height="437" /></a>
+<a class='limages' href='/static/uploads/2009/06/localization-template.png' rel='lightbox'><img src="/static/uploads/2009/06/localization-template-smaller.png" alt="localization-template-smaller.png" border="0" width="600" height="437" /></a>
 
 Additionally, instructions will later be added to this page to specify how and where to save localizations to test them or perhaps we can add a button that will automatically save it in the right location.
 
@@ -76,7 +76,7 @@ If we do opt to work with `.po` files, the two libraries I see out in the wild f
 
 #### A &#8220;key&#8221; question
 
-<img src="http://mitcho.com/blog/wp-content/uploads/2009/06/icanhaskeyplz.jpg" alt="icanhaskeyplz.jpg" border="0" width="650" height="416" />
+<img src="/static/uploads/2009/06/icanhaskeyplz.jpg" alt="icanhaskeyplz.jpg" border="0" width="650" height="416" />
 
 In either file format, we need a unique way to refer to each localizable string—a key format. As each localization file refers to a command feed, the first collision we must avoid is the command name. With this in mind, we can come up with some trivial keys for the localizable properties: (here, consider the command `hello`)
 

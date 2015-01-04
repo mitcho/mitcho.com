@@ -12,7 +12,7 @@ tags:
   - linguistics
   - RSS
 ---
-[<img src="http://mitcho.com/blog/wp-content/uploads/2010/04/linguistlist.png" alt="" title="linguistlist" width="268" height="99" class="alignright size-full wp-image-3556" />][1]
+[<img src="/static/uploads/2010/04/linguistlist.png" alt="" title="linguistlist" width="268" height="99" class="alignright size-full wp-image-3556" />][1]
 
 Everyone I know in linguistics uses the [LINGUIST List][2] website to a greater or lesser degree. Linguist List began as a mailing list in the 90&#8217;s, with book, job, and dissertation announcements, call-for-papers, and general academic discussions.
 
@@ -22,7 +22,7 @@ Unfortunately, the Linguist List RSS feeds (at least recently) don&#8217;t inclu
 
 <!--more-->
 
-<a rel='imagebox' href="http://mitcho.com/blog/wp-content/uploads/2010/04/Screen-shot-2010-04-26-at-6.41.07-PM.png"><img src="http://mitcho.com/blog/wp-content/uploads/2010/04/Screen-shot-2010-04-26-at-6.41.07-PM.png" alt="" title="Screen shot 2010-04-26 at 6.41.07 PM" width="650" height="365" class="alignright size-full wp-image-3557" /></a>
+<a rel='imagebox' href="/static/uploads/2010/04/Screen-shot-2010-04-26-at-6.41.07-PM.png"><img src="/static/uploads/2010/04/Screen-shot-2010-04-26-at-6.41.07-PM.png" alt="" title="Screen shot 2010-04-26 at 6.41.07 PM" width="650" height="365" class="alignright size-full wp-image-3557" /></a>
 
 Here are all the RSS links for all of you to subscribe to. I plan on keeping this up and maintained for the foreseeable future (or, until Linguist List improves their own RSS feeds!) so feel free to subscribe to it. Please do let me know if you run into any issues or have a suggestion. <img src="http://mitcho.com/blog/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" />
 
@@ -187,7 +187,7 @@ Perhaps in the future I&#8217;ll do a &#8220;how to&#8221; post as well with the
 [^1]:    
     Veteran Linguist List RSS subscribers will also note that I&#8217;m adding the full title to the entry title for the Conferences and Calls lists as well.
 
- [1]: http://mitcho.com/blog/wp-content/uploads/2010/04/linguistlist.png
+ [1]: /static/uploads/2010/04/linguistlist.png
  [2]: http://linguistlist.org/
  [3]: http://google.com/reader
  [4]: http://netnewswireapp.com/

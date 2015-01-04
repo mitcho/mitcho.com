@@ -36,7 +36,7 @@ Here&#8217;s what a few different inputs originally returned:
     </th>
     
     <th>
-      <img src="http://mitcho.com/blog/wp-content/uploads/2009/07/tuner-top.png" alt="tuner-top.png" border="0" width="500" height="30" />
+      <img src="/static/uploads/2009/07/tuner-top.png" alt="tuner-top.png" border="0" width="500" height="30" />
     </th>
   </tr>
   
@@ -149,7 +149,7 @@ Here is what they now return:
     </th>
     
     <th>
-      <img src="http://mitcho.com/blog/wp-content/uploads/2009/07/tuner-top.png" alt="tuner-top.png" border="0" width="500" height="30" />
+      <img src="/static/uploads/2009/07/tuner-top.png" alt="tuner-top.png" border="0" width="500" height="30" />
     </th>
   </tr>
   
@@ -263,7 +263,7 @@ Here&#8217;s what a few different inputs originally returned. Keep in mind that 
     </th>
     
     <th>
-      <img src="http://mitcho.com/blog/wp-content/uploads/2009/07/tuner-top.png" alt="tuner-top.png" border="0" width="500" height="30" />
+      <img src="/static/uploads/2009/07/tuner-top.png" alt="tuner-top.png" border="0" width="500" height="30" />
     </th>
   </tr>
   
@@ -403,7 +403,7 @@ With this in mind, I [just made a change][6] to `noun_type_tag` which aims to fo
     </th>
     
     <th>
-      <img src="http://mitcho.com/blog/wp-content/uploads/2009/07/tuner-top.png" alt="tuner-top.png" border="0" width="500" height="30" />
+      <img src="/static/uploads/2009/07/tuner-top.png" alt="tuner-top.png" border="0" width="500" height="30" />
     </th>
   </tr>
   
@@ -535,7 +535,7 @@ With this in mind, I [just made a change][6] to `noun_type_tag` which aims to fo
     </th>
     
     <th>
-      <img src="http://mitcho.com/blog/wp-content/uploads/2009/07/tuner-top.png" alt="tuner-top.png" border="0" width="500" height="30" />
+      <img src="/static/uploads/2009/07/tuner-top.png" alt="tuner-top.png" border="0" width="500" height="30" />
     </th>
   </tr>
   
@@ -602,7 +602,7 @@ I [just rewrote `noun_type_awesomebar`][7] to actually do some differential scor
     </th>
     
     <th>
-      <img src="http://mitcho.com/blog/wp-content/uploads/2009/07/tuner-top.png" alt="tuner-top.png" border="0" width="500" height="30" />
+      <img src="/static/uploads/2009/07/tuner-top.png" alt="tuner-top.png" border="0" width="500" height="30" />
     </th>
   </tr>
   
@@ -666,7 +666,7 @@ The purpose of `noun_type_url`&#8217;s suggest function is two-fold: first, to a
     </th>
     
     <th>
-      <img src="http://mitcho.com/blog/wp-content/uploads/2009/07/tuner-top.png" alt="tuner-top.png" border="0" width="500" height="30" />
+      <img src="/static/uploads/2009/07/tuner-top.png" alt="tuner-top.png" border="0" width="500" height="30" />
     </th>
   </tr>
   
@@ -837,7 +837,7 @@ Here is what our suggestions now look like:
     </th>
     
     <th>
-      <img src="http://mitcho.com/blog/wp-content/uploads/2009/07/tuner-top.png" alt="tuner-top.png" border="0" width="500" height="30" />
+      <img src="/static/uploads/2009/07/tuner-top.png" alt="tuner-top.png" border="0" width="500" height="30" />
     </th>
   </tr>
   

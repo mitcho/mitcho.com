@@ -21,7 +21,7 @@ As we get [close to wrapping up Ubiquity 0.5][1] (currently planned to ship—fi
 I came up with three different options:
 
 <center>
-  1. <img src="http://mitcho.com/blog/wp-content/uploads/2009/06/ubiquibot-favicon1.png" alt="ubiquibot-favicon1.png" border="0" width="16" height="16" /> 2. <img src="http://mitcho.com/blog/wp-content/uploads/2009/06/ubiquibot-favicon2.png" alt="ubiquibot-favicon2.png" border="0" width="16" height="16" /> 3. <img src="http://mitcho.com/blog/wp-content/uploads/2009/06/ubiquibot-favicon3.png" alt="ubiquibot-favicon3.png" border="0" width="15" height="16" />
+  1. <img src="/static/uploads/2009/06/ubiquibot-favicon1.png" alt="ubiquibot-favicon1.png" border="0" width="16" height="16" /> 2. <img src="/static/uploads/2009/06/ubiquibot-favicon2.png" alt="ubiquibot-favicon2.png" border="0" width="16" height="16" /> 3. <img src="/static/uploads/2009/06/ubiquibot-favicon3.png" alt="ubiquibot-favicon3.png" border="0" width="15" height="16" />
 </center>
 
 Seeing them on my blog doesn&#8217;t quite compare to how they will be used, so here are some screenshots of them in context:[^1]
@@ -30,23 +30,23 @@ Seeing them on my blog doesn&#8217;t quite compare to how they will be used, so 
 
 ### Skin/command subscription
 
-<img style='vertical-align:middle' src="http://mitcho.com/blog/wp-content/uploads/2009/06/original.png" alt="original.png" border="0" width="233" height="28" /> Current version
+<img style='vertical-align:middle' src="/static/uploads/2009/06/original.png" alt="original.png" border="0" width="233" height="28" /> Current version
 
-<img style='vertical-align:middle' src="http://mitcho.com/blog/wp-content/uploads/2009/06/favicon1.png" alt="favicon1.png" border="0" width="233" height="28" /> Option 1
+<img style='vertical-align:middle' src="/static/uploads/2009/06/favicon1.png" alt="favicon1.png" border="0" width="233" height="28" /> Option 1
 
-<img style='vertical-align:middle' src="http://mitcho.com/blog/wp-content/uploads/2009/06/favicon2.png" alt="favicon2.png" border="0" width="233" height="28" /> Option 2
+<img style='vertical-align:middle' src="/static/uploads/2009/06/favicon2.png" alt="favicon2.png" border="0" width="233" height="28" /> Option 2
 
-<img style='vertical-align:middle' src="http://mitcho.com/blog/wp-content/uploads/2009/06/favicon3.png" alt="favicon3.png" border="0" width="233" height="28" /> Option 3
+<img style='vertical-align:middle' src="/static/uploads/2009/06/favicon3.png" alt="favicon3.png" border="0" width="233" height="28" /> Option 3
 
 ### In Ubiquity with the Ubiquity Evolved skin
 
-<img style='vertical-align:middle' src="http://mitcho.com/blog/wp-content/uploads/2009/06/original-command.png" alt="original-command.png" border="0" width="276" height="66" /> Current version
+<img style='vertical-align:middle' src="/static/uploads/2009/06/original-command.png" alt="original-command.png" border="0" width="276" height="66" /> Current version
 
-<img style='vertical-align:middle' src="http://mitcho.com/blog/wp-content/uploads/2009/06/favicon1-command.png" alt="favicon1-command.png" border="0" width="276" height="66" /> Option 1
+<img style='vertical-align:middle' src="/static/uploads/2009/06/favicon1-command.png" alt="favicon1-command.png" border="0" width="276" height="66" /> Option 1
 
-<img style='vertical-align:middle' src="http://mitcho.com/blog/wp-content/uploads/2009/06/favicon2-command.png" alt="favicon2-command.png" border="0" width="277" height="66" /> Option 2
+<img style='vertical-align:middle' src="/static/uploads/2009/06/favicon2-command.png" alt="favicon2-command.png" border="0" width="277" height="66" /> Option 2
 
-<img style='vertical-align:middle' src="http://mitcho.com/blog/wp-content/uploads/2009/06/favicon3-command.png" alt="favicon3-command.png" border="0" width="277" height="66" /> Option 3
+<img style='vertical-align:middle' src="/static/uploads/2009/06/favicon3-command.png" alt="favicon3-command.png" border="0" width="277" height="66" /> Option 3
 
 ### The Poll
 

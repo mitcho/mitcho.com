@@ -21,7 +21,7 @@ tags:
 I invite you all to give it a spin:
 
 <p style='text-align:center'>
-  <a title="Add After the Deadline to Firefox" class="button positive significant" href="https://addons.mozilla.org/downloads/latest/58947/addon-58947-latest.xpi?src=external-mitcho"><img src="http://mitcho.com/blog/wp-content/uploads/2010/02/add-add-on.png" alt="add-add-on.png" border="0" width="263" height="36" /></a>
+  <a title="Add After the Deadline to Firefox" class="button positive significant" href="https://addons.mozilla.org/downloads/latest/58947/addon-58947-latest.xpi?src=external-mitcho"><img src="/static/uploads/2010/02/add-add-on.png" alt="add-add-on.png" border="0" width="263" height="36" /></a>
 </p>
 
 Working on After the Deadline for Firefox gave me my first experience creating an add-on from the ground up and I&#8217;ve learned a lot. After working on Ubiquity and dabbling with Jetpack, it&#8217;s given me another perspective on extensibility on the web and I look forward to thinking and writing more about these experiences in the near future.
