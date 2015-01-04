@@ -18,7 +18,7 @@ gems:
 disqusid: "http://mitcho.com"
 
 # Permalinks
-permalink: pretty
+permalink: /blog/:title/
 relative_permalinks: true
 
 # Markdown

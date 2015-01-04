@@ -1,6 +1,7 @@
 ---
 title: Research
 layout: page
+permalink: /research/
 ---
 
 *List research [by project](/projects).*
