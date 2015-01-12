@@ -1,5 +1,55 @@
 [
     {
+        "citationKey": "talk:af-restructuring",
+        "entryType": "unpublished",
+        "keywords": [
+            "Kaqchikel",
+            "morphology",
+            "syntax",
+            "Agent Focus",
+            "restructuring"
+        ],
+        "authors": [
+            {
+                "name": "Erlewine, Michael Yoshitaka",
+                "lastName": "Erlewine",
+                "displayName": "Michael Yoshitaka Erlewine"
+            }
+        ],
+        "author": "Erlewine, Michael Yoshitaka",
+        "title": "Restructuring and Agent Focus in Kaqchikel",
+        "note": "Paper presented at The Society for the Study of the Indigenous Languages of the Americas",
+        "year": "2015",
+        "handout": {
+            "source": "/Users/mitcho/Dropbox/academic/projects/kaqchikel/ssila/handout-ssila-2up.pdf",
+            "target": "/research/handout-af-restructuring.pdf"
+        },
+        "slides": {
+            "source": "/Users/mitcho/Dropbox/academic/projects/kaqchikel/ssila/slides-ssila-trans.pdf",
+            "target": "/research/slides-af-restructuring.pdf"
+        },
+        "authorsHtml": [
+            "Erlewine, Michael Yoshitaka"
+        ],
+        "othersHtml": [
+            
+        ],
+        "project": "kaqchikel",
+        "files": [
+            {
+                "title": "Handout",
+                "url": "/research/handout-af-restructuring.pdf",
+                "type": "pdf"
+            },
+            {
+                "title": "Slides",
+                "url": "/research/slides-af-restructuring.pdf",
+                "type": "pdf"
+            }
+        ],
+        "url": "/research/handout-af-restructuring.pdf"
+    },
+    {
         "citationKey": "talk:blocking-cns2014",
         "entryType": "unpublished",
         "keywords": [

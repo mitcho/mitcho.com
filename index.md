@@ -36,15 +36,13 @@ See the new [Projects](/projects) page for descriptions of projects and download
 ## Recent
 
 *   My dissertation: [*Movement Out of Focus*](/research/dissertation.html)
-*   I presented [&#8220;On the position of focus adverbs&#8221;](/research/talk-teal9.html) at [Theoretical East Asian Linguistics](http://www.teal9.univ-nantes.fr/) (TEAL 9) at the University of Nantes and at [NELS 45](http://nels45.mit.edu) at MIT.
-*   [&#8220;Anti-locality and optimality in Kaqchikel Agent Focus&#8221;](/research/af.html) has been accepted for publication (pending minor revisions) in [*Natural Language & Linguistic Theory*](https://www.springer.com/education+%26+language/linguistics/journal/11049)!
+*   I presented (versions of) [&#8220;On the position of focus adverbs&#8221;](/research/talk-teal9.html) at [Theoretical East Asian Linguistics](http://www.teal9.univ-nantes.fr/) (TEAL 9), [NELS 45](http://nels45.mit.edu), and the LSA.
+*   [&#8220;Anti-locality and optimality in Kaqchikel Agent Focus&#8221;](/research/af.html) has been accepted for publication in [*Natural Language & Linguistic Theory*](https://www.springer.com/education+%26+language/linguistics/journal/11049)!
+*	I presented [&#8220;Restructuring and Agent Focus in Kaqchikel&#8221;](/research/talk-af-restructuring.html) at the Society for the Study of the Indigenous Languages of the Americas (SSILA), at the LSA.
+
 
 ## Upcoming
 
-*	**LSA 2015:** I will be at the LSA, presenting two posters and a SSILA talk:
-	* &#8220;On the position of focus adverbs,&#8221; in the Friday poster session;
-	* &#8220;Restructuring and Agent Focus in Kaqchikel&#8221; at the Society for the Study of the Indigenous Languages of the Americas (SSILA), Saturday morning;
-	* &#8220;Voice morphology as extraction marking&#8221; with [Theodore Levin](https://sites.google.com/site/tfranklevin/) and [Coppe van Urk](http://web.mit.edu/cvanurk/www/), in the Saturday poster session.
 *	**January 2015:** I will be traveling to Germany and speaking:
 	* January 20: Zentrum für Allgemeine Sprachwissenschaft (ZAS), Berlin
 	* January 21: University of Leipzig colloquium talk
