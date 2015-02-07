@@ -25,7 +25,7 @@ I am a linguist broadly interested in the structure of sentences (syntax) and ho
 *   the syntax of case, agreement, and movement
 *   internet corpora and experiments
 
-In previous work I have worked on: Mandarin Chinese, English, Japanese, Kaqchikel (Mayan; Guatemala), Squliq Atayal (Austronesian; Taiwan).
+In previous work I have worked on: Mandarin Chinese, English, Japanese, Kaqchikel (Mayan; Guatemala), Squliq Atayal (Austronesian; Taiwan), Tibetan.
 
 See the new [Projects](/projects) page for descriptions of projects and downloadable papers.
 
@@ -33,19 +33,20 @@ See the new [Projects](/projects) page for descriptions of projects and download
 
 *   Fall 2014: Research seminar [&#8220;Questions, focus, and friends&#8221;](http://people.linguistics.mcgill.ca/~michael.erlewine/focus-wh/) with [Hadas Kotek](http://hkotek.com)
 
+## Organization
+
+*	May 2015: [Austronesian Formal Linguistics Association 22](http://lingconf.com/afla22/) at McGill
+*	[Syntax reading group](http://ergativity.org) at McGill on "clause structure and argument licensing" (Ergativity lab)
+*	*Wh*-inter 2015: [*Wh*-indefinites reading group](http://people.linguistics.mcgill.ca/~michael.erlewine/focus-wh/) at McGill with [Hadas Kotek](http://hkotek.com)
+
 ## Recent
 
-*   My dissertation: [*Movement Out of Focus*](/research/dissertation.html)
+*	I posted the squib ["On raising, floating, and *being*"](/blog/floating-raising-being/) on my blog.
 *   I presented (versions of) [&#8220;On the position of focus adverbs&#8221;](/research/talk-teal9.html) at [Theoretical East Asian Linguistics](http://www.teal9.univ-nantes.fr/) (TEAL 9), [NELS 45](http://nels45.mit.edu), and the LSA.
-*   [&#8220;Anti-locality and optimality in Kaqchikel Agent Focus&#8221;](/research/af.html) has been accepted for publication in [*Natural Language & Linguistic Theory*](https://www.springer.com/education+%26+language/linguistics/journal/11049)!
 *	I presented [&#8220;Restructuring and Agent Focus in Kaqchikel&#8221;](/research/talk-af-restructuring.html) at the Society for the Study of the Indigenous Languages of the Americas (SSILA), at the LSA.
-
 
 ## Upcoming
 
-*	**January 2015:** I will be traveling to Germany and speaking:
-	* January 20: Zentrum für Allgemeine Sprachwissenschaft (ZAS), Berlin
-	* January 21: University of Leipzig colloquium talk
-	* January 23: University of Potsdam
 * 	**February 13, 2015:** University of Minnesota colloquium talk
 * 	**March 20, 2015:** Concordia University colloquium talk
+*	**April 11--12, 2015:** I will present on "*Wh*-quantification in Dharamsala Tibetan" with Hadas Kotek at [Formal Approaches to South Asian Linguistics (FASAL 5)](http://campuspress.yale.edu/fasal5/)
