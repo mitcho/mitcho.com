@@ -4,12 +4,6 @@ backwards-association:
   
   Although my dissertation work looks primarily at English data, my interest in this theoretical problem originates in an earlier project of mine looking at interactions of quantifiers with the Japanese 'only' particles *dake* and *shika*."
 
-piedpiping:
-  title: "Covert pied-piping"
-  description: "Many previous theories have proposed *covert movement* for both syntactic and interpretational purposes. In cases of overt movement, we often observe *pied-piping*---additional material dislocated together with the logically attracted material. In joint work with Hadas Kotek, I have investigated the question of whether covert movement also triggers pied-piping. Following previous work on the interpretation of overtly pied-piped constituents (Krifka, 2006; Cable, 2010), we propose the use of focus intervention effects (Beck, 2006) to diagnose the existence and size of covert pied-piping. The results show that **covert pied-piping does exist**, and that the constituent covertly pied-piped is the *largest* among those options for overt pied-piping.
-  
-  Our work investigating the status of the in-situ *wh*-word in English multiple *wh*-questions using this diagnostic has been accepted for publication with *Linguistic Inquiry*. Our diagnostic also shows that focused constituents which are pronounced in-situ in English **undergo covert focus movement with pied-piping**, as proposed previously in Drubig (1994), Krifka (2006), and Wagner (2006), contra Rooth (1985, 1992), as reported in a NELS proceedings paper. In current work, we are extending this work to the study of relative pronoun pied-piping in relative clauses."
-
 focus-adverbs:
   title: "The position of focus adverbs"
   description: "I am currently studying the structural placement of adverbial focus operators, for example **adverbial \"only\" words in Mandarin Chinese and Vietnamese.** I observe that in languages that allow adverbial focus operators at different attachment heights on the clausal spine, there is a generalization that, within each clausal domain, **a focus operator must be *as low as possible* while c-commanding its associate**. Jacobs (1983) and Büring & Hartmann (2001) describe the distribution of German focus adverbs in similar terms, but its cross-linguistic generality has not been explored and the nature of this \"as low as possible\" description has not been adequately studied."
@@ -21,6 +15,12 @@ kaqchikel:
   In related work, I have also investigated a type of non-finite embedding in Kaqchikel, which I analyze as a form of restructuring, and its interaction with AF morphology.
   
   I am also currently exploring applications of the anti-locality constraint which I propose for Kaqchikel to other extraction asymmetries, including **other cases of so-called \"anti-agreement\" and the English *that*-trace effect**."
+
+piedpiping:
+  title: "Covert pied-piping"
+  description: "Many previous theories have proposed *covert movement* for both syntactic and interpretational purposes. In cases of overt movement, we often observe *pied-piping*---additional material dislocated together with the logically attracted material. In joint work with Hadas Kotek, I have investigated the question of whether covert movement also triggers pied-piping. Following previous work on the interpretation of overtly pied-piped constituents (Krifka, 2006; Cable, 2010), we propose the use of focus intervention effects (Beck, 2006) to diagnose the existence and size of covert pied-piping. The results show that **covert pied-piping does exist**, and that the constituent covertly pied-piped is the *largest* among those options for overt pied-piping.
+  
+  Our work investigating the status of the in-situ *wh*-word in English multiple *wh*-questions using this diagnostic has been accepted for publication with *Linguistic Inquiry*. Our diagnostic also shows that focused constituents which are pronounced in-situ in English **undergo covert focus movement with pied-piping**, as proposed previously in Drubig (1994), Krifka (2006), and Wagner (2006), contra Rooth (1985, 1992), as reported in a NELS proceedings paper. In current work, we are extending this work to the study of relative pronoun pied-piping in relative clauses."
 
 voice:
   title: "Austronesian-type voice systems"
