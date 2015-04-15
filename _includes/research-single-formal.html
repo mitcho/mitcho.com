@@ -5,10 +5,17 @@
 {% if paper.entryType == 'phdthesis' %}
 	{% capture title %}<em>{{paper.title}}</em>.{% endcapture %}
 {% endif %}
+{% if paper.entryType == 'book' %}
+	{% capture title %}<em>{{paper.title}}</em>.{% endcapture %}
+{% endif %}
 
 {% capture pages %}{% if paper.pages != null %}, pages {{ paper.pages | replace:'--','&ndash;' }}{% endif %}{% endcapture %}
 
-{{ paper.authorsHtml | array_to_sentence_string }}, {{paper.year}}.
+{% if paper.authorsHtml != null %}
+	{{ paper.authorsHtml | array_to_sentence_string }}, {{paper.year}}.
+{% else %}
+	Edited by {{ paper.editorsHtml | array_to_sentence_string }}, {{paper.year}}.
+{% endif %}
 
 {% if include.projectlink != null %}
 	<a class='title' href='/research/{{paper.citationKey | slugify}}.html'>{{title}}</a>
@@ -27,6 +34,11 @@ In <em>{{paper.journal}}</em>{% if paper.volume != null %} {{paper.volume}}{% en
 {% if paper.booktitle != null %}
 In <em>{{paper.booktitle}}</em>{{pages}}.
 {% endif %}
+
+{% if paper.entryType == 'book' %}
+{{ paper.publisher }}.
+{% endif %}
+
 
 {% if paper.note != null %}
 {{paper.note}}.

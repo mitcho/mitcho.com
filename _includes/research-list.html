@@ -10,6 +10,9 @@
 {% assign papers = (site.data.bib | where: 'entryType', 'inproceedings' | sort: 'year' | reverse) %}
 {% include research-group.html title='Proceedings papers' papers = papers %}
 
+{% assign papers = (site.data.bib | where: 'entryType', 'book') %}
+{% include research-group.html title='Edited volumes' papers = papers %}
+
 {% assign papers = (site.data.bib | where: 'entryType', 'mastersthesis' | sort: 'year' | reverse) %}
 {% include research-group.html title='MA thesis' papers = papers %}
 

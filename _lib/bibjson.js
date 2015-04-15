@@ -17,7 +17,8 @@ var bib = parser.toJSON(paperarchive);
 var authorUrls = {
 	'van Urk, Coppe': 'http://web.mit.edu/cvanurk/www/',
 	'Levin, Theodore': 'https://sites.google.com/site/tfranklevin/',
-	'Kotek, Hadas': 'http://hkotek.com'
+	'Kotek, Hadas': 'http://hkotek.com',
+	'Sudo, Yasutada': 'http://web.mit.edu/ysudo/www/',
 };
 
 function cleanup(text) {
@@ -107,7 +108,7 @@ function convertItem(item) {
 		keywords: [],
 		authors: []
 	};
-	var keys = ['AUTHOR', 'EDITOR', 'TITLE', 'URL', 'NOTE', 'YEAR', 'ABSTRACT', 'BOOKTITLE', 'JOURNAL', 'VOLUME', 'PAGES', 'SCHOOL', 'PAPER', 'HANDOUT', 'SLIDES'];
+	var keys = ['AUTHOR', 'EDITOR', 'TITLE', 'URL', 'NOTE', 'YEAR', 'ABSTRACT', 'BOOKTITLE', 'JOURNAL', 'VOLUME', 'PAGES', 'SCHOOL', 'PAPER', 'HANDOUT', 'SLIDES', 'PUBLISHER'];
 	for (i in keys) {
 		if (keys[i] in item.entryTags)
 			newItem[keys[i].toLowerCase()] = cleanup(item.entryTags[keys[i]], keys[i]);
@@ -117,6 +118,11 @@ function convertItem(item) {
 		newItem['authors'] = parseAuthors(cleanup(item.entryTags['AUTHOR']));
 		newItem['authorsHtml'] = authorsHtml(newItem['authors']);
 		newItem['othersHtml'] = othersHtml(newItem['authors']);
+	}
+
+	if ('EDITOR' in item.entryTags) {
+		newItem['editors'] = parseAuthors(cleanup(item.entryTags['EDITOR']));
+		newItem['editorsHtml'] = authorsHtml(newItem['editors']);
 	}
 	
 	if ('KEYWORDS' in item.entryTags) {
