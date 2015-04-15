@@ -1,5 +1,133 @@
 [
     {
+        "citationKey": "mitwpl-comparatives",
+        "entryType": "book",
+        "keywords": [
+            "comparative"
+        ],
+        "authors": [
+            
+        ],
+        "editor": "Erlewine, Michael Yoshitaka and Sudo, Yasutada",
+        "title": "Proceedings of the MIT Workshop on Comparatives",
+        "url": "http://mitwpl.mit.edu/catalog/mwpl69/",
+        "year": "2014",
+        "publisher": "Cambridge: MIT Working Papers in Linguistics",
+        "editors": [
+            {
+                "name": "Erlewine, Michael Yoshitaka",
+                "lastName": "Erlewine",
+                "displayName": "Michael Yoshitaka Erlewine"
+            },
+            {
+                "name": "Sudo, Yasutada",
+                "lastName": "Sudo",
+                "displayName": "Yasutada Sudo",
+                "url": "http://web.mit.edu/ysudo/www/"
+            }
+        ],
+        "editorsHtml": [
+            "<strong>Erlewine, Michael Yoshitaka</strong>",
+            "<a href=\"http://web.mit.edu/ysudo/www/\">Yasutada Sudo</a>"
+        ],
+        "files": [
+            {
+                "title": "Proceedings of the MIT Workshop on Comparatives",
+                "url": "http://mitwpl.mit.edu/catalog/mwpl69/",
+                "type": ""
+            }
+        ]
+    },
+    {
+        "citationKey": "closeness",
+        "entryType": "unpublished",
+        "keywords": [
+            "Vietnamese",
+            "Mandarin Chinese",
+            "German",
+            "only",
+            "phases",
+            "Optimality Theory"
+        ],
+        "authors": [
+            {
+                "name": "Erlewine, Michael Yoshitaka",
+                "lastName": "Erlewine",
+                "displayName": "Michael Yoshitaka Erlewine"
+            }
+        ],
+        "author": "Erlewine, Michael Yoshitaka",
+        "title": "In defense of Closeness: focus-sensitive adverb placement in Vietnamese and Mandarin Chinese",
+        "url": "http://ling.auf.net/lingbuzz/002415/current.pdf",
+        "note": "Manuscript, McGill University",
+        "year": "2015",
+        "abstract": "In this paper I show that focus-sensitive adverbs in Vietnamese and Mandarin Chinese are required to be as low as possible in their phase while c-commanding their focus associate. This generalization parallels what has been proposed under one approach to German focus-sensitive particles by Jacobs (1983, 1986) and Büring and Hartmann (2001) under the banner of “Closeness,” but these analyses have been controversial. This “as low as possible” behavior must result from the comparison of competing derivations, which I model using Optimality Theory. The fact that this requirement only holds within each phase shows that transderivational competition must be evaluated cyclically at each phase (Heck and Müller, 2001; Fanselow and Ćavar, 2001), and more generally offers a new kind of evidence for the idea of phase-based cyclic Spell Out (Chomsky, 2000, 2001).\n\nIn Vietnamese, I study the ‘only’ operator chỉ. Vietnamese has a morphologically rich inventory of focus-sensitive operators which makes it clear that chỉ is an adverb. In Mandarin Chinese, I study the focus marker shì and the ‘only’ operator zhǐyǒu/zhǐ. I argue that in the synchronic grammar of Mandarin, despite surface appearances, zhǐyǒu is an allomorph of zhǐ and that both shì and zhǐyǒu/zhǐ are adverbs.",
+        "authorsHtml": [
+            "Erlewine, Michael Yoshitaka"
+        ],
+        "othersHtml": [
+            
+        ],
+        "project": "focus-adverbs",
+        "files": [
+            {
+                "title": "In defense of Closeness: focus-sensitive adverb placement in Vietnamese and Mandarin Chinese",
+                "url": "http://ling.auf.net/lingbuzz/002415/current.pdf",
+                "type": "pdf"
+            }
+        ]
+    },
+    {
+        "citationKey": "talk:leipzig",
+        "entryType": "unpublished",
+        "keywords": [
+            "only",
+            "Mandarin Chinese",
+            "Vietnamese",
+            "Optimality Theory",
+            "hidden"
+        ],
+        "authors": [
+            {
+                "name": "Erlewine, Michael Yoshitaka",
+                "lastName": "Erlewine",
+                "displayName": "Michael Yoshitaka Erlewine"
+            }
+        ],
+        "author": "Erlewine, Michael Yoshitaka",
+        "title": "Focus adverbs at the <em>v</em>P and higher edges",
+        "note": "Presented at the University of Leipzig",
+        "year": "2015",
+        "handout": {
+            "source": "/Users/mitcho/Dropbox/academic/projects/focus-adverbs/leipzig/handout-leipzig-2up.pdf",
+            "target": "/research/handout-leipzig.pdf"
+        },
+        "slides": {
+            "source": "/Users/mitcho/Dropbox/academic/projects/focus-adverbs/leipzig/slides-leipzig-trans.pdf",
+            "target": "/research/slides-leipzig.pdf"
+        },
+        "authorsHtml": [
+            "Erlewine, Michael Yoshitaka"
+        ],
+        "othersHtml": [
+            
+        ],
+        "project": "focus-adverbs",
+        "files": [
+            {
+                "title": "Handout",
+                "url": "/research/handout-leipzig.pdf",
+                "type": "pdf"
+            },
+            {
+                "title": "Slides",
+                "url": "/research/slides-leipzig.pdf",
+                "type": "pdf"
+            }
+        ],
+        "url": "/research/handout-leipzig.pdf"
+    },
+    {
         "citationKey": "talk:af-restructuring",
         "entryType": "unpublished",
         "keywords": [
@@ -327,7 +455,8 @@
         "keywords": [
             "only",
             "Mandarin Chinese",
-            "Vietnamese"
+            "Vietnamese",
+            "hidden"
         ],
         "authors": [
             {
@@ -392,9 +521,10 @@
         ],
         "author": "Erlewine, Michael Yoshitaka and Levin, Theodore and van Urk, Coppe",
         "title": "Ergativity and Austronesian-type voice systems",
-        "year": "under review",
-        "abstract": "It has been suggested that ergativity plays a crucial role in Austronesian-type voice systems. In this paper, we argue that voice marking and case reflect separate but interacting systems, which can be dissociated from each other, based on the behavior of voice in Dinka (Nilotic; South Sudan) and Balinese (Austronesian; Indonesia). These languages exhibit familiar voice morphology, but can clearly be shown to not involve any ergativity. Instead, we propose that what unifies “voice” system behavior is a lack of structural licensing for the agent argument in non-actor voices. We show that different voice systems solve this problem in different ways: Dinka allows for the Last Resort insertion of a silent preposition, Balinese employs pseudo-noun incorporation of the agent, while many Austronesian languages of the Philippines and of Taiwan license the agent through ergative case marking.\n\nInvited contribution.",
+        "year": "to appear",
+        "abstract": "In an Austronesian-type voice system, a single argument is designated the \"pivot\" in each clause, with verbal morphology indicating the choice of pivot and corresponding changes in case marking and extraction possibilities. It has been suggested that ergativity plays a crucial role in Austronesian-type voice systems. In this paper, we argue that voice marking and case reflect separate but interacting systems, which can be dissociated from each other, based on the behavior of voice in Dinka (Nilotic; South Sudan) and Balinese (Austronesian; Indonesia). These languages exhibit familiar voice morphology, but can clearly be shown to not involve any ergativity. Instead, we propose that what unifies “voice” system behavior is a lack of structural licensing for the subject in Non-Subject Voices. We show that different voice systems solve this problem in different ways: Balinese licenses the subject under adjacency with the verb, whereas Dinka allows for last resort assignment of genitive case like in many Austronesian languages of the Philippines and of Taiwan.\n\nInvited contribution.",
         "booktitle": "Oxford Handbook of Ergativity",
+        "publisher": "Oxford University Press",
         "authorsHtml": [
             "<strong>Erlewine, Michael Yoshitaka</strong>",
             "<a href=\"https://sites.google.com/site/tfranklevin/\">Theodore Levin</a>",
@@ -596,6 +726,34 @@
         "othersHtml": [
             
         ],
+        "editors": [
+            {
+                "name": "Urtzi Etxeberria",
+                "lastName": "Urtzi Etxeberria",
+                "displayName": "undefined Urtzi Etxeberria"
+            },
+            {
+                "name": "Anamaria Fălăuş",
+                "lastName": "Anamaria Fălăuş",
+                "displayName": "undefined Anamaria Fălăuş"
+            },
+            {
+                "name": "Aritz Irurtzun",
+                "lastName": "Aritz Irurtzun",
+                "displayName": "undefined Aritz Irurtzun"
+            },
+            {
+                "name": "Bryan Leferman",
+                "lastName": "Bryan Leferman",
+                "displayName": "undefined Bryan Leferman"
+            }
+        ],
+        "editorsHtml": [
+            "Urtzi Etxeberria",
+            "undefined Anamaria Fălăuş",
+            "undefined Aritz Irurtzun",
+            "undefined Bryan Leferman"
+        ],
         "project": "backwards-association",
         "files": [
             {
@@ -646,6 +804,16 @@
         ],
         "othersHtml": [
             
+        ],
+        "editors": [
+            {
+                "name": "Santana-LaBarge, Robert E.",
+                "lastName": "Santana-LaBarge",
+                "displayName": "Robert E. Santana-LaBarge"
+            }
+        ],
+        "editorsHtml": [
+            "Santana-LaBarge, Robert E."
         ],
         "project": "kaqchikel",
         "files": [
@@ -733,6 +901,16 @@
         ],
         "othersHtml": [
             "Isaac Gould"
+        ],
+        "editors": [
+            {
+                "name": "Santana-LaBarge, Robert E.",
+                "lastName": "Santana-LaBarge",
+                "displayName": "Robert E. Santana-LaBarge"
+            }
+        ],
+        "editorsHtml": [
+            "Santana-LaBarge, Robert E."
         ],
         "project": "hirc",
         "files": [
@@ -1059,6 +1237,28 @@
         "othersHtml": [
             "<a href=\"http://hkotek.com\">Hadas Kotek</a>"
         ],
+        "editors": [
+            {
+                "name": "Huang, Hsin-Lun",
+                "lastName": "Huang",
+                "displayName": "Hsin-Lun Huang"
+            },
+            {
+                "name": "Poole, Ethan",
+                "lastName": "Poole",
+                "displayName": "Ethan Poole"
+            },
+            {
+                "name": "Rysling, Amanda",
+                "lastName": "Rysling",
+                "displayName": "Amanda Rysling"
+            }
+        ],
+        "editorsHtml": [
+            "Huang, Hsin-Lun",
+            "Ethan Poole",
+            "Amanda Rysling"
+        ],
         "project": "piedpiping",
         "files": [
             {
@@ -1170,11 +1370,22 @@
         "abstract": "A common property of many Mayan languages is a change to transitive verb morphology when the subject has been extracted, known as Agent Focus (AF) (Aissen, 1999; Stiebels, 2006; Norcliffe, 2009; Coon et al., 2011, a.o.). AF is traditionally described as obligatory whenever the subject (ergative argument) is A&#8217;-extracted. In this paper I will discuss the morphological realization of AF in Kaqchikel. I argue that the realization of AF in Kaqchikel must be governed by a morphological process which is independent of the syntax of AF. Specifically, I argue that AF morphology is the realization of an abstract [AF] feature which spreads downwards within a certain domain, following Bjorkman's (ms) feature-spreading approach to Affix Hopping-type verbal morphology.",
         "booktitle": "<a href=\"http://mitwpl.mit.edu/catalog/mpel08/\">Studies in Kaqchikel Grammar</a>",
         "pages": "25--50",
+        "publisher": "MIT Working Papers in Linguistics",
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
         ],
         "othersHtml": [
             
+        ],
+        "editors": [
+            {
+                "name": "Kenstowicz, Michael",
+                "lastName": "Kenstowicz",
+                "displayName": "Michael Kenstowicz"
+            }
+        ],
+        "editorsHtml": [
+            "Kenstowicz, Michael"
         ],
         "project": "kaqchikel",
         "files": [
@@ -1257,6 +1468,40 @@
         ],
         "othersHtml": [
             
+        ],
+        "editors": [
+            {
+                "name": "Beltrama, Andrea",
+                "lastName": "Beltrama",
+                "displayName": "Andrea Beltrama"
+            },
+            {
+                "name": "Chatzikonstantinou, Tasos",
+                "lastName": "Chatzikonstantinou",
+                "displayName": "Tasos Chatzikonstantinou"
+            },
+            {
+                "name": "Lee, Jackson L.",
+                "lastName": "Lee",
+                "displayName": "Jackson L. Lee"
+            },
+            {
+                "name": "Pham, Mike",
+                "lastName": "Pham",
+                "displayName": "Mike Pham"
+            },
+            {
+                "name": "Rak, Diane",
+                "lastName": "Rak",
+                "displayName": "Diane Rak"
+            }
+        ],
+        "editorsHtml": [
+            "Beltrama, Andrea",
+            "Tasos Chatzikonstantinou",
+            "Jackson L. Lee",
+            "Mike Pham",
+            "Diane Rak"
         ],
         "project": "haishi",
         "files": [
@@ -1343,6 +1588,46 @@
         ],
         "othersHtml": [
             
+        ],
+        "editors": [
+            {
+                "name": "Choi, Jaehoon",
+                "lastName": "Choi",
+                "displayName": "Jaehoon Choi"
+            },
+            {
+                "name": "Hogue, E. Alan",
+                "lastName": "Hogue",
+                "displayName": "E. Alan Hogue"
+            },
+            {
+                "name": "Punske, Jeffrey",
+                "lastName": "Punske",
+                "displayName": "Jeffrey Punske"
+            },
+            {
+                "name": "Tat, Deniz",
+                "lastName": "Tat",
+                "displayName": "Deniz Tat"
+            },
+            {
+                "name": "Schertz, Jessamyn",
+                "lastName": "Schertz",
+                "displayName": "Jessamyn Schertz"
+            },
+            {
+                "name": "Trueman, Alex",
+                "lastName": "Trueman",
+                "displayName": "Alex Trueman"
+            }
+        ],
+        "editorsHtml": [
+            "Choi, Jaehoon",
+            "E. Alan Hogue",
+            "Jeffrey Punske",
+            "Deniz Tat",
+            "Jessamyn Schertz",
+            "Alex Trueman"
         ],
         "project": "bi",
         "files": [

@@ -37,16 +37,14 @@ See the new [Projects](/projects) page for descriptions of projects and download
 
 *	May 2015: [Austronesian Formal Linguistics Association 22](http://lingconf.com/afla22/) at McGill
 *	[Syntax reading group](http://ergativity.org) at McGill on "clause structure and argument licensing" (Ergativity lab)
-*	*Wh*-inter 2015: [*Wh*-indefinites reading group](http://people.linguistics.mcgill.ca/~michael.erlewine/focus-wh/) at McGill with [Hadas Kotek](http://hkotek.com)
+*	*Wh*-inter 2015: [*Wh*-indefinites reading group](http://people.linguistics.mcgill.ca/~michael.erlewine/wh-indefs/) at McGill with [Hadas Kotek](http://hkotek.com)
 
 ## Recent
 
+*	**New manuscript:** ["In defense of Closeness: focus-sensitive adverb placement in Vietnamese and Mandarin Chinese."](/research/closeness.html) Comments welcome!
 *	I posted the squib ["On raising, floating, and *being*"](/blog/floating-raising-being/) on my blog.
-*   I presented (versions of) [&#8220;On the position of focus adverbs&#8221;](/research/talk-teal9.html) at [Theoretical East Asian Linguistics](http://www.teal9.univ-nantes.fr/) (TEAL 9), [NELS 45](http://nels45.mit.edu), and the LSA.
 *	I presented [&#8220;Restructuring and Agent Focus in Kaqchikel&#8221;](/research/talk-af-restructuring.html) at the Society for the Study of the Indigenous Languages of the Americas (SSILA), at the LSA.
 
 ## Upcoming
 
-* 	**February 13, 2015:** University of Minnesota colloquium talk
-* 	**March 20, 2015:** Concordia University colloquium talk
-*	**April 11--12, 2015:** I will present on "*Wh*-quantification in Dharamsala Tibetan" with Hadas Kotek at [Formal Approaches to South Asian Linguistics (FASAL 5)](http://campuspress.yale.edu/fasal5/)
+*	**April 23--25, 2015:** I will present "Relative pronoun pied-piping, the structure of which informs the analysis of relative clauses" with Hadas Kotek at Chicago Linguistics Society 51.
