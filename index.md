@@ -41,10 +41,12 @@ See the new [Projects](/projects) page for descriptions of projects and download
 
 ## Recent
 
+*	**New work:** [Hadas Kotek](http://hkotek.com) and I presented ["Relative pronoun pied-piping, the structure of which informs the analysis of relative clauses"](/research/talk-rppp.html) at Chicago Linguistics Society 51.
 *	**New manuscript:** ["In defense of Closeness: focus-sensitive adverb placement in Vietnamese and Mandarin Chinese."](/research/closeness.html) Comments welcome!
 *	I posted the squib ["On raising, floating, and *being*"](/blog/floating-raising-being/) on my blog.
 *	I presented [&#8220;Restructuring and Agent Focus in Kaqchikel&#8221;](/research/talk-af-restructuring.html) at the Society for the Study of the Indigenous Languages of the Americas (SSILA), at the LSA.
 
 ## Upcoming
 
-*	**April 23--25, 2015:** I will present "Relative pronoun pied-piping, the structure of which informs the analysis of relative clauses" with Hadas Kotek at Chicago Linguistics Society 51.
+*	**July 2015**: I will present at Japanese Society for Language Sciences (JSLS) 17.
+
