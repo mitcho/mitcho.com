@@ -9,6 +9,14 @@ Zepto(function($) {
 			else
 				window.location = target.find('a').first().attr('href');
 		}
-//		e.preventDefault();
 	});
+
+	// track file download:	
+	$('a[data-event]').on('click', function(e) {
+		var that = $(this);
+		ga('send', 'event', 'file', 'download', that.attr('data-event'), {'hitCallback':
+			function () { document.location = that.attr('href'); }
+		});		
+		e.preventDefault();
+	})
 });

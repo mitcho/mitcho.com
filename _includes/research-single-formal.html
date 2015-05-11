@@ -19,7 +19,7 @@
 
 {% if include.projectlink != null %}
 	<a class='title' href='/research/{{paper.citationKey | slugify}}.html'>{{title}}</a>
-	{% if paper.url != null %}<a href='{{paper.url}}'><span alt='download' class='file pdf small'>&nbsp;</span></a>
+	{% if paper.url != null %}<a href='{{paper.url}}' data-event="{{paper.citationKey}}"><span alt='download' class='file pdf small'>&nbsp;</span></a>
 	{% endif %}
 {% else %}
 	{% if paper.url != null %}<a href='{{paper.url}}'>{{title}}</a>
