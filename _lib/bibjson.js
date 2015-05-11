@@ -139,6 +139,7 @@ function convertItem(item) {
 	if ('url' in newItem) {
 		newItem.files.push({
 			title: newItem.title,
+			event: newItem.citationKey,
 			url: newItem.url,
 			type: path.extname(newItem.url).replace(/^\./,'')
 		});
@@ -162,9 +163,15 @@ function convertItem(item) {
 			if ( !fs.existsSync(newFile.source) ) {
 				console.error('Could not find ' + fileType + ': ' + newFile.source);
 				continue;
-			}			
+			}
+			
+			newFile.event = path.parse(newFile.target).name;
 		} else {
 			newFile.target = newItem[fileType];
+			if ( newFile.target[0] = '/' ) // if actually local:
+				newFile.event = path.parse(newFile.target).name;
+			else
+				newFile.event = 'external: ' + newFile.target;
 		}
 		
 		newItem[fileType] = newFile;
@@ -180,6 +187,7 @@ function convertItem(item) {
 		
 		newItem.files.push({
 			title: fileTitle,
+			event: newFile.event,
 			url: newFile.target,
 			type: path.extname(newFile.target).replace(/^\./,'')
 		});
@@ -211,4 +219,4 @@ for (i in bib) {
 	mybib.push(convertItem(item));
 }
 
-util.print(format(JSON.stringify(mybib)));
+console.log(format(JSON.stringify(mybib)));

@@ -1,5 +1,90 @@
 [
     {
+        "citationKey": "sfp2",
+        "entryType": "unpublished",
+        "keywords": [
+            "Mandarin Chinese",
+            "FOFC",
+            "syntax",
+            "phases",
+            "sentence-final particles"
+        ],
+        "authors": [
+            {
+                "name": "Erlewine, Michael Yoshitaka",
+                "lastName": "Erlewine",
+                "displayName": "Michael Yoshitaka Erlewine"
+            }
+        ],
+        "author": "Erlewine, Michael Yoshitaka",
+        "title": "Low sentence-final particles in Mandarin Chinese",
+        "year": "in progress",
+        "abstract": "Mandarin Chinese clausal syntax can be described as strictly head-initial, with the exception of certain “particles” which are linearized at the end of the clause. Previous work on these sentence-final particles (SFPs) has assumed that all SFPs are very high, in the CP periphery. In this paper I show that a subset of SFPs are actually in a lower, clause-medial position, based on the scopal interaction of these SFPs with negation, modals, quantificational subjects, and alternative question disjunction. I identify this position as coinciding with the lower (<em>v</em>P) phase edge.\n\nAs SFPs are head-final heads with head-initial complements, they have been discussed as an important apparent exception to the Final-over-Final Constraint (FOFC), a proposed universal on structure building. The existence of exceptions to FOFC at the <em>v</em>P edge in addition to the CP edge teaches us that, in its most general form, FOFC does not hold across phase boundaries. Further implications of this data for FOFC and the derivation of head-final projections are discussed.\n",
+        "authorsHtml": [
+            "Erlewine, Michael Yoshitaka"
+        ],
+        "othersHtml": [
+            
+        ],
+        "project": "sfp",
+        "files": [
+            
+        ]
+    },
+    {
+        "citationKey": "talk:rppp",
+        "entryType": "unpublished",
+        "keywords": [
+            "pied-piping",
+            "English",
+            "syntax",
+            "semantics",
+            "relative clause",
+            "relative pronoun",
+            "intervention effects"
+        ],
+        "authors": [
+            {
+                "name": "Erlewine, Michael Yoshitaka",
+                "lastName": "Erlewine",
+                "displayName": "Michael Yoshitaka Erlewine"
+            },
+            {
+                "name": "Kotek, Hadas",
+                "lastName": "Kotek",
+                "displayName": "Hadas Kotek",
+                "url": "http://hkotek.com"
+            }
+        ],
+        "author": "Erlewine, Michael Yoshitaka and Kotek, Hadas",
+        "title": "Relative pronoun pied-piping, the structure of which informs the analysis of relative clauses",
+        "note": "Presented at Chicago Linguistics Society (CLS) 51",
+        "year": "2015",
+        "abstract": "We investigate the structure of relative pronoun pied-piping (RPPP) in English non-restrictive relative clauses. We argue that the relative pronoun is interpreted in-situ in non-restrictive RPPP, rather than moving to the edge of the relative clause. We support this analysis through novel data on the behavior of non-restrictive relative clauses with respect to focus intervention effects in pied-piping (Cable, 2010; Erlewine and Kotek, 2014; Kotek and Erlewine, to appear): only in-situ modes of interpretation (not variable binding or movement) are sensitive to intervention effects (Beck, 2006, a.o.), and RPPP in non-restrictive relative clauses indeed shows intervention effects. We propose an analysis which utilizes contextual domain restriction on the interpretation of the in-situ wh relative pronoun.",
+        "slides": {
+            "source": "/Users/mitcho/Dropbox/academic/projects/RC pied-piping/cls/slides/cls-slides.pdf",
+            "target": "/research/slides-rppp.pdf",
+            "event": "slides-rppp"
+        },
+        "authorsHtml": [
+            "<strong>Erlewine, Michael Yoshitaka</strong>",
+            "<a href=\"http://hkotek.com\">Hadas Kotek</a>"
+        ],
+        "othersHtml": [
+            "<a href=\"http://hkotek.com\">Hadas Kotek</a>"
+        ],
+        "project": "piedpiping",
+        "files": [
+            {
+                "title": "Slides",
+                "event": "slides-rppp",
+                "url": "/research/slides-rppp.pdf",
+                "type": "pdf"
+            }
+        ],
+        "url": "/research/slides-rppp.pdf"
+    },
+    {
         "citationKey": "mitwpl-comparatives",
         "entryType": "book",
         "keywords": [
@@ -33,6 +118,7 @@
         "files": [
             {
                 "title": "Proceedings of the MIT Workshop on Comparatives",
+                "event": "mitwpl-comparatives",
                 "url": "http://mitwpl.mit.edu/catalog/mwpl69/",
                 "type": ""
             }
@@ -72,6 +158,7 @@
         "files": [
             {
                 "title": "In defense of Closeness: focus-sensitive adverb placement in Vietnamese and Mandarin Chinese",
+                "event": "closeness",
                 "url": "http://ling.auf.net/lingbuzz/002415/current.pdf",
                 "type": "pdf"
             }
@@ -100,11 +187,13 @@
         "year": "2015",
         "handout": {
             "source": "/Users/mitcho/Dropbox/academic/projects/focus-adverbs/leipzig/handout-leipzig-2up.pdf",
-            "target": "/research/handout-leipzig.pdf"
+            "target": "/research/handout-leipzig.pdf",
+            "event": "handout-leipzig"
         },
         "slides": {
             "source": "/Users/mitcho/Dropbox/academic/projects/focus-adverbs/leipzig/slides-leipzig-trans.pdf",
-            "target": "/research/slides-leipzig.pdf"
+            "target": "/research/slides-leipzig.pdf",
+            "event": "slides-leipzig"
         },
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
@@ -116,11 +205,13 @@
         "files": [
             {
                 "title": "Handout",
+                "event": "handout-leipzig",
                 "url": "/research/handout-leipzig.pdf",
                 "type": "pdf"
             },
             {
                 "title": "Slides",
+                "event": "slides-leipzig",
                 "url": "/research/slides-leipzig.pdf",
                 "type": "pdf"
             }
@@ -150,11 +241,13 @@
         "year": "2015",
         "handout": {
             "source": "/Users/mitcho/Dropbox/academic/projects/kaqchikel/ssila/handout-ssila-2up.pdf",
-            "target": "/research/handout-af-restructuring.pdf"
+            "target": "/research/handout-af-restructuring.pdf",
+            "event": "handout-af-restructuring"
         },
         "slides": {
             "source": "/Users/mitcho/Dropbox/academic/projects/kaqchikel/ssila/slides-ssila-trans.pdf",
-            "target": "/research/slides-af-restructuring.pdf"
+            "target": "/research/slides-af-restructuring.pdf",
+            "event": "slides-af-restructuring"
         },
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
@@ -166,11 +259,13 @@
         "files": [
             {
                 "title": "Handout",
+                "event": "handout-af-restructuring",
                 "url": "/research/handout-af-restructuring.pdf",
                 "type": "pdf"
             },
             {
                 "title": "Slides",
+                "event": "slides-af-restructuring",
                 "url": "/research/slides-af-restructuring.pdf",
                 "type": "pdf"
             }
@@ -291,7 +386,8 @@
         "year": "2014",
         "slides": {
             "source": "/Users/mitcho/Dropbox/academic/projects/blocking/slides/slides-lsa2014.pdf",
-            "target": "/research/slides-blocking-lsa2014.pdf"
+            "target": "/research/slides-blocking-lsa2014.pdf",
+            "event": "slides-blocking-lsa2014"
         },
         "authorsHtml": [
             "<strong>Erlewine, Michael Yoshitaka</strong>",
@@ -304,6 +400,7 @@
         "files": [
             {
                 "title": "Slides",
+                "event": "slides-blocking-lsa2014",
                 "url": "/research/slides-blocking-lsa2014.pdf",
                 "type": "pdf"
             }
@@ -341,6 +438,7 @@
         "files": [
             {
                 "title": "Structurally distant haplology",
+                "event": "haplology",
                 "url": "http://www.ledonline.it/snippets/allegati/snippets26002.pdf",
                 "type": "pdf"
             }
@@ -356,7 +454,9 @@
         "keywords": [
             "Mandarin Chinese",
             "FOFC",
-            "syntax"
+            "syntax",
+            "sentence-final particles",
+            "phases"
         ],
         "authors": [
             {
@@ -371,11 +471,13 @@
         "booktitle": "Proceedings of 25th North American Conference on Chinese Linguistics (NACCL 25)",
         "paper": {
             "source": "/Users/mitcho/Dropbox/academic/projects/sfp/naccl-proceedings/erlewine-naccl25-preprint.pdf",
-            "target": "/research/sfp.pdf"
+            "target": "/research/sfp.pdf",
+            "event": "sfp"
         },
         "handout": {
             "source": "/Users/mitcho/Dropbox/academic/projects/sfp/naccl-handout/naccl-handout-2up.pdf",
-            "target": "/research/handout-sfp.pdf"
+            "target": "/research/handout-sfp.pdf",
+            "event": "handout-sfp"
         },
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
@@ -387,11 +489,13 @@
         "files": [
             {
                 "title": "Sentence-final particles at the <em>v</em>P phase edge",
+                "event": "sfp",
                 "url": "/research/sfp.pdf",
                 "type": "pdf"
             },
             {
                 "title": "Associated handout",
+                "event": "handout-sfp",
                 "url": "/research/handout-sfp.pdf",
                 "type": "pdf"
             }
@@ -418,11 +522,13 @@
         "pages": "45--48",
         "paper": {
             "source": "/Users/mitcho/Dropbox/academic/projects/ubiquity/erlewine-sigir.pdf",
-            "target": "/research/ubiquity.pdf"
+            "target": "/research/ubiquity.pdf",
+            "event": "ubiquity"
         },
         "slides": {
             "source": "/Users/mitcho/Dropbox/academic/projects/ubiquity/erlewine-sigir-slides.pdf",
-            "target": "/research/slides-ubiquity.pdf"
+            "target": "/research/slides-ubiquity.pdf",
+            "event": "slides-ubiquity"
         },
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
@@ -434,11 +540,13 @@
         "files": [
             {
                 "title": "Ubiquity: Designing a Multilingual Natural Language Interface",
+                "event": "ubiquity",
                 "url": "/research/ubiquity.pdf",
                 "type": "pdf"
             },
             {
                 "title": "Associated slides",
+                "event": "slides-ubiquity",
                 "url": "/research/slides-ubiquity.pdf",
                 "type": "pdf"
             }
@@ -472,7 +580,8 @@
         "abstract": "Focus-sensitive operators must associate with a focused constituent (the associate) in their c-command domain (Jackendoff, 1972; Rooth, 1985, 1992; Tancredi, 1990). However, I show that this c-command requirement is insufficient to capture the distribution of focus adverbs (e.g. <em>only</em>) in Mandarin Chinese and Vietnamese. I show that focus adverbs must be as low as possible while c-commanding their focus associate, within a particular extended vP domain. The generalization is similar to what has been described for German by Büring and Hartmann (2001), but without an explanation. I propose a syntax for focus adverbs which, together with the standard Roothian semantics of focus, derives this behavior.",
         "handout": {
             "source": "/Users/mitcho/Dropbox/academic/projects/focus-adverbs/teal/handout-teal2014.pdf",
-            "target": "/research/handout-teal9.pdf"
+            "target": "/research/handout-teal9.pdf",
+            "event": "handout-teal9"
         },
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
@@ -484,6 +593,7 @@
         "files": [
             {
                 "title": "Handout",
+                "event": "handout-teal9",
                 "url": "/research/handout-teal9.pdf",
                 "type": "pdf"
             }
@@ -574,11 +684,13 @@
         "booktitle": "Proceedings of <a href=\"https://sites.google.com/a/hawaii.edu/afla21/home\">the 21st meeting of the Austronesian Formal Linguistics Association (AFLA 21)</a>",
         "paper": {
             "source": "/Users/mitcho/Dropbox/academic/projects/voice/AFLA Proceedings/preprint.pdf",
-            "target": "/research/voice-afla.pdf"
+            "target": "/research/voice-afla.pdf",
+            "event": "voice-afla"
         },
         "handout": {
             "source": "/Users/mitcho/Dropbox/academic/projects/voice/handouts/handout-2up.pdf",
-            "target": "/research/handout-voice-afla.pdf"
+            "target": "/research/handout-voice-afla.pdf",
+            "event": "handout-voice-afla"
         },
         "authorsHtml": [
             "<strong>Erlewine, Michael Yoshitaka</strong>",
@@ -593,11 +705,13 @@
         "files": [
             {
                 "title": "What makes a voice system? On the relationship between voice marking and case",
+                "event": "voice-afla",
                 "url": "/research/voice-afla.pdf",
                 "type": "pdf"
             },
             {
                 "title": "Associated handout",
+                "event": "handout-voice-afla",
                 "url": "/research/handout-voice-afla.pdf",
                 "type": "pdf"
             }
@@ -628,11 +742,13 @@
         "booktitle": "Proceedings of <a href=\"http://www.uta.edu/faculty/sabbagh/afla20/\">the 20th meeting of the Austronesian Formal Linguistics Association (AFLA 20)</a>",
         "paper": {
             "source": "/Users/mitcho/Dropbox/academic/projects/squliq/afla/erlewine-afla20-proceedings.pdf",
-            "target": "/research/squliq.pdf"
+            "target": "/research/squliq.pdf",
+            "event": "squliq"
         },
         "handout": {
             "source": "/Users/mitcho/Dropbox/academic/projects/squliq/afla/handout-afla2013.pdf",
-            "target": "/research/handout-squliq.pdf"
+            "target": "/research/handout-squliq.pdf",
+            "event": "handout-squliq"
         },
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
@@ -644,11 +760,13 @@
         "files": [
             {
                 "title": "Subject marking on non-subjects in Squliq Atayal",
+                "event": "squliq",
                 "url": "/research/squliq.pdf",
                 "type": "pdf"
             },
             {
                 "title": "Associated handout",
+                "event": "handout-squliq",
                 "url": "/research/handout-squliq.pdf",
                 "type": "pdf"
             }
@@ -686,6 +804,7 @@
         "files": [
             {
                 "title": "Why the null complementizer is special in the English <em>that</em>-trace effect",
+                "event": "that-trace",
                 "url": "http://ling.auf.net/lingbuzz/002029/current.pdf",
                 "type": "pdf"
             }
@@ -718,7 +837,8 @@
         "pages": "128--145",
         "handout": {
             "source": "/Users/mitcho/Dropbox/academic/projects/focus/sub/sub2013-handout-2up.pdf",
-            "target": "/research/handout-leftward.pdf"
+            "target": "/research/handout-leftward.pdf",
+            "event": "handout-leftward"
         },
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
@@ -758,11 +878,13 @@
         "files": [
             {
                 "title": "Explaining leftward focus association with <em>even</em> but not <em>only</em>",
+                "event": "leftward",
                 "url": "http://semanticsarchive.net/sub2013/SeparateArticles/Erlewine.pdf",
                 "type": "pdf"
             },
             {
                 "title": "Associated handout",
+                "event": "handout-leftward",
                 "url": "/research/handout-leftward.pdf",
                 "type": "pdf"
             }
@@ -819,6 +941,7 @@
         "files": [
             {
                 "title": "Anti-Locality and Kaqchikel Agent Focus",
+                "event": "af-wccfl",
                 "url": "http://www.lingref.com/cpp/wccfl/31/paper3017.pdf",
                 "type": "pdf"
             }
@@ -861,6 +984,7 @@
         "files": [
             {
                 "title": "Movement Out of Focus",
+                "event": "dissertation",
                 "url": "http://ling.auf.net/lingbuzz/002210/current.pdf",
                 "type": "pdf"
             }
@@ -916,6 +1040,7 @@
         "files": [
             {
                 "title": "Interpreting Japanese Head-Internal Relative Clauses",
+                "event": "hirc",
                 "url": "http://www.lingref.com/cpp/wccfl/31/paper3018.pdf",
                 "type": "pdf"
             }
@@ -954,7 +1079,8 @@
         "year": "2013",
         "abstract": "This paper presents a previously unobserved pattern of morphological blocking in English causatives, which parallels a well-studied pattern of morphological blocking in Japanese causatives (Kuroda, 1965, a.o.). We present evidence of deep parallels between the English and Japanese causatives along with a detailed syntax/semantics for these structures within the framework of Distributed Morphology. We argue that the blocking effect is sensitive not to structural adjacency, as previously argued for Japanese (Harley, 2008), but instead to linear adjacency. Our findings constitute a strong argument for the post-syntactic resolution of derivational morphology, pace Distributed Morphology and contra the Lexicalist Hypothesis. In particular, the sensitivity to linear adjacency shows that the operations relevant to the blocking effect must occur post-linearization, and therefore contributes to our understanding of the timing of post-syntactic operations.",
         "slides": {
-            "target": "/research/slides-blocking-lsa2014.pdf"
+            "target": "/research/slides-blocking-lsa2014.pdf",
+            "event": "slides-blocking-lsa2014"
         },
         "authorsHtml": [
             "<a href=\"http://hkotek.com\">Kotek, Hadas</a>",
@@ -967,11 +1093,13 @@
         "files": [
             {
                 "title": "Blocking effects in English causatives",
+                "event": "blocking",
                 "url": "http://ling.auf.net/lingbuzz/001896/current.pdf",
                 "type": "pdf"
             },
             {
                 "title": "Associated slides",
+                "event": "slides-blocking-lsa2014",
                 "url": "/research/slides-blocking-lsa2014.pdf",
                 "type": "pdf"
             }
@@ -1014,6 +1142,7 @@
         "files": [
             {
                 "title": "Anti-locality and optimality in Kaqchikel Agent Focus",
+                "event": "af",
                 "url": "http://ling.auf.net/lingbuzz/001841/current.pdf",
                 "type": "pdf"
             }
@@ -1052,6 +1181,7 @@
         "files": [
             {
                 "title": "Degree comparison without degree abstraction",
+                "event": "bi",
                 "url": "http://lingbuzz.auf.net/lingbuzz/001687/current.pdf",
                 "type": "pdf"
             }
@@ -1095,6 +1225,7 @@
         "files": [
             {
                 "title": "A streamlined approach to online linguistic surveys",
+                "event": "turktools",
                 "url": "http://ling.auf.net/lingbuzz/001802/current.pdf",
                 "type": "pdf"
             }
@@ -1123,7 +1254,8 @@
         "pages": "72--86",
         "handout": {
             "source": "/Users/mitcho/Dropbox/academic/projects/dakeshika/glowyoungscholars/glowyoungscholars-handout-2up.pdf",
-            "target": "/research/handout-dake.pdf"
+            "target": "/research/handout-dake.pdf",
+            "event": "handout-dake"
         },
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
@@ -1135,11 +1267,13 @@
         "files": [
             {
                 "title": "The effect of &#8216;only&#8217; on quantifier scope: the <em>dake</em> blocking effect",
+                "event": "dake",
                 "url": "http://faculty.human.mie-u.ac.jp/~glow_mie/Workshop_Proceedings/06Erlewine.pdf",
                 "type": "pdf"
             },
             {
                 "title": "Associated handout",
+                "event": "handout-dake",
                 "url": "/research/handout-dake.pdf",
                 "type": "pdf"
             }
@@ -1168,7 +1302,8 @@
         "year": "2012",
         "handout": {
             "source": "/Users/mitcho/Dropbox/academic/projects/focus/glow/handout-glow2012.pdf",
-            "target": "/research/handout-glow2012.pdf"
+            "target": "/research/handout-glow2012.pdf",
+            "event": "handout-glow2012"
         },
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
@@ -1180,6 +1315,7 @@
         "files": [
             {
                 "title": "Handout",
+                "event": "handout-glow2012",
                 "url": "/research/handout-glow2012.pdf",
                 "type": "pdf"
             }
@@ -1224,11 +1360,13 @@
         "pages": "117--130",
         "handout": {
             "source": "/Users/mitcho/Dropbox/academic/projects/piedpiping/handouts/nels/handout-nels2012.pdf",
-            "target": "/research/handout-focus-piedpiping.pdf"
+            "target": "/research/handout-focus-piedpiping.pdf",
+            "event": "handout-focus-piedpiping"
         },
         "slides": {
             "source": "/Users/mitcho/Dropbox/academic/projects/piedpiping/handouts/nels/slides-nels.pdf",
-            "target": "/research/slides-focus-piedpiping.pdf"
+            "target": "/research/slides-focus-piedpiping.pdf",
+            "event": "slides-focus-piedpiping"
         },
         "authorsHtml": [
             "<strong>Erlewine, Michael Yoshitaka</strong>",
@@ -1263,16 +1401,19 @@
         "files": [
             {
                 "title": "Intervention in focus pied-piping",
+                "event": "focus-piedpiping",
                 "url": "http://semanticsarchive.net/Archive/WIzNzViN/erlewine-kotek-nels2013-preprint.pdf",
                 "type": "pdf"
             },
             {
                 "title": "Associated handout",
+                "event": "handout-focus-piedpiping",
                 "url": "/research/handout-focus-piedpiping.pdf",
                 "type": "pdf"
             },
             {
                 "title": "Associated slides",
+                "event": "slides-focus-piedpiping",
                 "url": "/research/slides-focus-piedpiping.pdf",
                 "type": "pdf"
             }
@@ -1315,10 +1456,12 @@
         "abstract": "In this paper we argue for the existence of covert pied-piping in wh-questions through a previously unnoticed pattern of intervention effects in superiority-obeying English multiple wh-questions. We show that the preference of covert pied-piping is for movement of larger constituents, unlike overt pied-piping. We argue that this discrepancy stems from conflicting requirements of PF and LF: overt pied-piping feeds both LF and PF, but covert pied-piping feeds LF only. The study of covert pied-piping thus reveals the true preference of LF and Core Syntax with regard to pied-piping: larger pied-piping constituents are preferred over smaller ones. This preference can be overridden by certain PF constraints that apply to overt pied-piping.",
         "journal": "Linguistic Inquiry",
         "handout": {
-            "target": "/research/handout-focus-piedpiping.pdf"
+            "target": "/research/handout-focus-piedpiping.pdf",
+            "event": "handout-focus-piedpiping"
         },
         "slides": {
-            "target": "/research/slides-focus-piedpiping.pdf"
+            "target": "/research/slides-focus-piedpiping.pdf",
+            "event": "slides-focus-piedpiping"
         },
         "authorsHtml": [
             "<a href=\"http://hkotek.com\">Kotek, Hadas</a>",
@@ -1331,16 +1474,19 @@
         "files": [
             {
                 "title": "Covert pied-piping in English multiple <em>wh</em>-questions",
+                "event": "piedpiping",
                 "url": "http://ling.auf.net/lingbuzz/001736/current.pdf",
                 "type": "pdf"
             },
             {
                 "title": "Associated handout",
+                "event": "handout-focus-piedpiping",
                 "url": "/research/handout-focus-piedpiping.pdf",
                 "type": "pdf"
             },
             {
                 "title": "Associated slides",
+                "event": "slides-focus-piedpiping",
                 "url": "/research/slides-focus-piedpiping.pdf",
                 "type": "pdf"
             }
@@ -1391,6 +1537,7 @@
         "files": [
             {
                 "title": "Dissociating the syntax and morphological realization of Kaqchikel Agent Focus",
+                "event": "af-mitwpl",
                 "url": "http://ling.auf.net/lingbuzz/001685/current.pdf",
                 "type": "pdf"
             }
@@ -1457,11 +1604,13 @@
         "pages": "221--234",
         "paper": {
             "source": "/Users/mitcho/Dropbox/academic/projects/haishi/cls48-proceedings/erlewine-cls48-preprint.pdf",
-            "target": "/research/haishi.pdf"
+            "target": "/research/haishi.pdf",
+            "event": "haishi"
         },
         "handout": {
             "source": "/Users/mitcho/Dropbox/academic/projects/haishi/cls48/handout-cls2012.pdf",
-            "target": "/research/handout-haishi.pdf"
+            "target": "/research/handout-haishi.pdf",
+            "event": "handout-haishi"
         },
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
@@ -1507,11 +1656,13 @@
         "files": [
             {
                 "title": "Alternative questions through focus alternatives in Mandarin Chinese",
+                "event": "haishi",
                 "url": "/research/haishi.pdf",
                 "type": "pdf"
             },
             {
                 "title": "Associated handout",
+                "event": "handout-haishi",
                 "url": "/research/handout-haishi.pdf",
                 "type": "pdf"
             }
@@ -1581,7 +1732,8 @@
         "pages": "54--62",
         "handout": {
             "source": "/Users/mitcho/Dropbox/academic/projects/bi/wccfl-20110422/handout-20110422-2up.pdf",
-            "target": "/research/handout-bi-wccfl.pdf"
+            "target": "/research/handout-bi-wccfl.pdf",
+            "event": "handout-bi-wccfl"
         },
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
@@ -1633,11 +1785,13 @@
         "files": [
             {
                 "title": "Share to Compare: the Mandarin <em>bǐ</em> Comparative",
+                "event": "bi-wccfl",
                 "url": "http://www.lingref.com/cpp/wccfl/29/paper2687.pdf",
                 "type": "pdf"
             },
             {
                 "title": "Associated handout",
+                "event": "handout-bi-wccfl",
                 "url": "/research/handout-bi-wccfl.pdf",
                 "type": "pdf"
             }
@@ -1667,7 +1821,8 @@
         "year": "2011",
         "slides": {
             "source": "/Users/mitcho/Dropbox/academic/projects/hyperlinks/isle2/isle-presentation.pdf",
-            "target": "/research/slides-isle2.pdf"
+            "target": "/research/slides-isle2.pdf",
+            "event": "slides-isle2"
         },
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
@@ -1679,6 +1834,7 @@
         "files": [
             {
                 "title": "Slides",
+                "event": "slides-isle2",
                 "url": "/research/slides-isle2.pdf",
                 "type": "pdf"
             }
@@ -1691,7 +1847,8 @@
         "keywords": [
             "Mandarin Chinese",
             "semantics",
-            "only"
+            "only",
+            "sentence-final particles"
         ],
         "authors": [
             {
@@ -1717,6 +1874,7 @@
         "files": [
             {
                 "title": "Sentence-final <em>only</em> and the interpretation of focus in Mandarin Chinese",
+                "event": "eryi",
                 "url": "http://naccl.osu.edu/files/NACCL-22_2_33_erlewine.pdf",
                 "type": "pdf"
             }
@@ -1752,6 +1910,7 @@
         "files": [
             {
                 "title": "How natural should a natural interface be?",
+                "event": "naturalsyntax",
                 "url": "http://mitcho.com/blog/projects/how-natural-should-a-natural-interface-be/",
                 "type": ""
             }
@@ -1779,7 +1938,8 @@
         "school": "University of Chicago",
         "paper": {
             "source": "/Users/mitcho/Dropbox/academic/projects/bi/thesis revision/erlewine-thesis.pdf",
-            "target": "/research/thesis.pdf"
+            "target": "/research/thesis.pdf",
+            "event": "thesis"
         },
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
@@ -1791,6 +1951,7 @@
         "files": [
             {
                 "title": "A New Syntax-Semantics for the Mandarin <em>bǐ</em> Comparative",
+                "event": "thesis",
                 "url": "/research/thesis.pdf",
                 "type": "pdf"
             }
