@@ -5,6 +5,7 @@
     href: "/projects"
   - title: "PDF cv"
     href: "/erlewine-cv.pdf"
+    event: "cv"
 
 - title: "code"
   href: "/code"
