@@ -1,13 +1,14 @@
 [
     {
-        "citationKey": "sfp2",
+        "citationKey": "sfp-fofc",
         "entryType": "unpublished",
         "keywords": [
             "Mandarin Chinese",
             "FOFC",
             "syntax",
             "phases",
-            "sentence-final particles"
+            "sentence-final particles",
+            "Spell-Out"
         ],
         "authors": [
             {
@@ -17,9 +18,11 @@
             }
         ],
         "author": "Erlewine, Michael Yoshitaka",
-        "title": "Low sentence-final particles in Mandarin Chinese",
-        "year": "in progress",
-        "abstract": "Mandarin Chinese clausal syntax can be described as strictly head-initial, with the exception of certain “particles” which are linearized at the end of the clause. Previous work on these sentence-final particles (SFPs) has assumed that all SFPs are very high, in the CP periphery. In this paper I show that a subset of SFPs are actually in a lower, clause-medial position, based on the scopal interaction of these SFPs with negation, modals, quantificational subjects, and alternative question disjunction. I identify this position as coinciding with the lower (<em>v</em>P) phase edge.\n\nAs SFPs are head-final heads with head-initial complements, they have been discussed as an important apparent exception to the Final-over-Final Constraint (FOFC), a proposed universal on structure building. The existence of exceptions to FOFC at the <em>v</em>P edge in addition to the CP edge teaches us that, in its most general form, FOFC does not hold across phase boundaries. Further implications of this data for FOFC and the derivation of head-final projections are discussed.\n",
+        "title": "Low sentence-final particles in Mandarin Chinese and the Final-over-Final Constraint",
+        "url": "http://ling.auf.net/lingbuzz/002495/current.pdf",
+        "note": "Manuscript, McGill",
+        "year": "2015",
+        "abstract": "Mandarin Chinese clausal syntax can be described as strictly head-initial, with the exception of certain “particles” which are linearized at the end of the clause. Previous work on these sentence-final particles (SFPs) has assumed that all SFPs are very high, in the CP periphery. In this paper I show that a subset of SFPs are actually in a lower, clause-medial position, based on the scopal interaction of these SFPs with negation, modals, quantificational subjects, and alternative question disjunction. I identify this position as coinciding with the lower (<em>v</em>P) phase edge.\n\nAs SFPs are head-final heads with head-initial complements, they have been discussed as an important apparent exception to the Final-over-Final Constraint (FOFC), a proposed universal on structure building and linearization. The existence of exceptions to FOFC at the <em>v</em>P edge in addition to the CP edge teaches us that, in its most general form, FOFC does not hold across phase boundaries.",
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
         ],
@@ -28,7 +31,12 @@
         ],
         "project": "sfp",
         "files": [
-            
+            {
+                "title": "Low sentence-final particles in Mandarin Chinese and the Final-over-Final Constraint",
+                "event": "sfp-fofc",
+                "url": "http://ling.auf.net/lingbuzz/002495/current.pdf",
+                "type": "pdf"
+            }
         ]
     },
     {
@@ -133,7 +141,8 @@
             "German",
             "only",
             "phases",
-            "Optimality Theory"
+            "Optimality Theory",
+            "Spell-Out"
         ],
         "authors": [
             {

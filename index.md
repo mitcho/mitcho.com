@@ -41,6 +41,7 @@ See the new [Projects](/projects) page for descriptions of projects and download
 
 ## Recent
 
+*	**New manuscript:** ["Low sentence-final particles in Mandarin Chinese and the Final-over-Final Constraint."](/research/sfp-fofc.html) Comments welcome!
 *	**New work:** [Hadas Kotek](http://hkotek.com) and I presented ["Relative pronoun pied-piping, the structure of which informs the analysis of relative clauses"](/research/talk-rppp.html) at Chicago Linguistics Society 51.
 *	**New manuscript:** ["In defense of Closeness: focus-sensitive adverb placement in Vietnamese and Mandarin Chinese."](/research/closeness.html) Comments welcome!
 *	I posted the squib ["On raising, floating, and *being*"](/blog/floating-raising-being/) on my blog.
