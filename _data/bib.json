@@ -1,5 +1,48 @@
 [
     {
+        "citationKey": "minimality-focus",
+        "entryType": "inproceedings",
+        "keywords": [
+            "Vietnamese",
+            "only",
+            "Minimality",
+            "competition"
+        ],
+        "authors": [
+            {
+                "name": "Erlewine, Michael Yoshitaka",
+                "lastName": "Erlewine",
+                "displayName": "Michael Yoshitaka Erlewine"
+            }
+        ],
+        "author": "Erlewine, Michael Yoshitaka",
+        "title": "Minimality and focus-sensitive adverb placement",
+        "year": "to appear",
+        "abstract": "In this paper I discuss the distribution of focus-sensitive adverbs in Vietnamese, which exhibits a Minimality effect. Given a fixed position for focus β, there may be different structural heights within a given phase where an adverb α associating with that focus β can adjoin. The focus-sensitive adverb α must appear in the position which minimizes the structural distance between it and its focus associate β. This translates into a requirement that focus-sensitive adverbs adjoin as low as possible, within a particular set of possible adjunction positions.\n\nMuch previous literature on Minimality has focused on whether or not such effects derive from transderivational competition, based primarily on Minimality effects on movement. I show that previous approaches to well-studied Minimality patterns which avoid transderivational competition do not extend to the pattern observed here. In contrast, we can develop a uniform treatment of Minimality effects if we adopt transderivational competition as in early Minimalist work such as Chomsky (1992).",
+        "booktitle": "Proceedings of NELS 45",
+        "paper": {
+            "source": "/Users/mitcho/Dropbox/academic/projects/focus-adverbs/nels-proceedings/nels-proceedings-web.pdf",
+            "target": "/research/minimality-focus.pdf",
+            "event": "minimality-focus"
+        },
+        "authorsHtml": [
+            "Erlewine, Michael Yoshitaka"
+        ],
+        "othersHtml": [
+            
+        ],
+        "project": "focus-adverbs",
+        "files": [
+            {
+                "title": "Minimality and focus-sensitive adverb placement",
+                "event": "minimality-focus",
+                "url": "/research/minimality-focus.pdf",
+                "type": "pdf"
+            }
+        ],
+        "url": "/research/minimality-focus.pdf"
+    },
+    {
         "citationKey": "sfp-fofc",
         "entryType": "unpublished",
         "keywords": [
@@ -142,7 +185,8 @@
             "only",
             "phases",
             "Optimality Theory",
-            "Spell-Out"
+            "Spell-Out",
+            "competition"
         ],
         "authors": [
             {
@@ -1126,7 +1170,8 @@
             "Optimality Theory",
             "anti-agreement",
             "subject",
-            "ergativity"
+            "ergativity",
+            "competition"
         ],
         "authors": [
             {
