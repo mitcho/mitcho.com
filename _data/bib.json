@@ -200,7 +200,7 @@
         "url": "http://ling.auf.net/lingbuzz/002415/current.pdf",
         "note": "Manuscript, McGill University",
         "year": "2015",
-        "abstract": "In this paper I show that focus-sensitive adverbs in Vietnamese and Mandarin Chinese are required to be as low as possible in their phase while c-commanding their focus associate. This generalization parallels what has been proposed under one approach to German focus-sensitive particles by Jacobs (1983, 1986) and Büring and Hartmann (2001) under the banner of “Closeness,” but these analyses have been controversial. This “as low as possible” behavior must result from the comparison of competing derivations, which I model using Optimality Theory. The fact that this requirement only holds within each phase shows that transderivational competition must be evaluated cyclically at each phase (Heck and Müller, 2001; Fanselow and Ćavar, 2001), and more generally offers a new kind of evidence for the idea of phase-based cyclic Spell Out (Chomsky, 2000, 2001).\n\nIn Vietnamese, I study the ‘only’ operator chỉ. Vietnamese has a morphologically rich inventory of focus-sensitive operators which makes it clear that chỉ is an adverb. In Mandarin Chinese, I study the focus marker shì and the ‘only’ operator zhǐyǒu/zhǐ. I argue that in the synchronic grammar of Mandarin, despite surface appearances, zhǐyǒu is an allomorph of zhǐ and that both shì and zhǐyǒu/zhǐ are adverbs.",
+        "abstract": "In this paper I show that focus-sensitive adverbs in Vietnamese and Mandarin Chinese are required to be as low as possible in their phase while c-commanding their focus associate. This generalization parallels what has been proposed under one approach to German focus-sensitive particles by Jacobs (1983, 1986) and Büring and Hartmann (2001) under the banner of “Closeness,” but these analyses have been controversial. This “as low as possible” behavior must result from the comparison of competing derivations, which I model using Optimality Theory. The fact that this requirement only holds within each phase shows that transderivational competition must be evaluated cyclically at each phase (Heck and Müller, 2001; Fanselow and Ćavar, 2001), and more generally offers a new kind of evidence for the idea of phase-based cyclic Spell Out (Chomsky, 2000, 2001).\n\nIn Vietnamese, I study the ‘only’ operator <em>chỉ</em>. Vietnamese has a morphologically rich inventory of focus-sensitive operators which makes it clear that <em>chỉ</em> is an adverb. In Mandarin Chinese, I study the focus marker <em>shì</em> and the ‘only’ operator <em>zhǐyǒu/zhǐ</em>. I argue that in the synchronic grammar of Mandarin, despite surface appearances, <em>zhǐyǒu</em> is an allomorph of <em>zhǐ</em> and that both <em>shì</em> and <em>zhǐyǒu/zhǐ</em> are adverbs.",
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
         ],
@@ -521,6 +521,7 @@
         "author": "Erlewine, Michael Yoshitaka",
         "title": "Sentence-final particles at the <em>v</em>P phase edge",
         "year": "to appear",
+        "abstract": "I propose that the low class of Sentence-Final Particles (SFPs) in Mandarin Chinese (sentence-final <em>le</em>, <em>éryǐ</em>, <em>láizhe</em>...) are head-final heads in the extended <em>v</em>P periphery, rather than in the CP domain as previously analyzed, substantiating a prediction made by Hsieh & Sybesma (2011). Evidence for the proposal comes from the semantic scope of sentence-final <em>éryǐ</em> and <em>le</em> with respect to negation and modals. Consequences for the syntax of Chinese SFPs and for the Final-over-Final Constraint (FOFC) are discussed.",
         "booktitle": "Proceedings of 25th North American Conference on Chinese Linguistics (NACCL 25)",
         "paper": {
             "source": "/Users/mitcho/Dropbox/academic/projects/sfp/naccl-proceedings/erlewine-naccl25-preprint.pdf",
@@ -571,6 +572,7 @@
         "author": "Erlewine, Michael Yoshitaka",
         "title": "Ubiquity: Designing a Multilingual Natural Language Interface",
         "year": "2009",
+        "abstract": "This paper describes the design and implementation of Ubiquity, a multilingual textual interface for the Firefox browser developed at Mozilla Labs. The Ubiquity interface facilitates rapid information retrieval and task execution in the browser, leveraging existing open web APIs. The importance of offering equivalent user experiences for speakers of different languages is reflected in the design of Ubiquity’s new natural language parser, described here. This paper also aims to advocate the further development of equipotent multilingual interfaces for information access.",
         "booktitle": "Proceedings of the <a href=\"http://www.sics.se/events/clir2009\">ACM SIGIR 2009 Workshop on Information Access in a Multilingual World</a>",
         "pages": "45--48",
         "paper": {
@@ -734,6 +736,7 @@
         "author": "Erlewine, Michael Yoshitaka and Levin, Theodore and van Urk, Coppe",
         "title": "What makes a voice system? On the relationship between voice marking and case",
         "year": "to appear",
+        "abstract": "One of the major questions in Austronesian syntax concerns the relationship between voice marking, extraction, and case. Two common approaches have dominated previous literature. Either voice morphology marks extraction and case, or voice morphology feeds extraction and case. These positions are difficult to distinguish, because of the prominent one-to-one correspondence of voice, case, and extraction. In this paper, we bring new insights to this debate, with original data from Balinese and Dinka, a Nilotic language of South Sudan, which we show exhibits a familiar Austronesian-type voice system. We observe environments in these languages where the correspondence between voice and case and voice and extraction breaks down, in a manner that we argue provides evidence that <em>voice marks extraction</em>. Unlike in other extraction-marking languages, however, voice also affects case in Austronesian-type voice systems. We suggest that this is because extraction targets a case position. We account for the changes in case marking in the clause by suggesting that, when the external argument is not extracted, languages must employ alternative strategies to license it.",
         "booktitle": "Proceedings of <a href=\"https://sites.google.com/a/hawaii.edu/afla21/home\">the 21st meeting of the Austronesian Formal Linguistics Association (AFLA 21)</a>",
         "paper": {
             "source": "/Users/mitcho/Dropbox/academic/projects/voice/AFLA Proceedings/preprint.pdf",
@@ -792,6 +795,7 @@
         "author": "Erlewine, Michael Yoshitaka",
         "title": "Subject marking on non-subjects in Squliq Atayal",
         "year": "to appear",
+        "abstract": "I investigate the distribution of the morpheme <em>qu</em> in Squliq Atayal (Formosan). <em>Qu</em> normally marks the sentence-final subject, which is cross-referenced by voice morphology on the verb. I show that <em>qu</em> can optionally mark specific, non-subject arguments in cases where the actual subject is not in sentence-final position. I propose that <em>qu</em> is a marker on topics licensed in a particular structural position (Spec,TopicP). While the subject will normally be in this position, when it is not, another [+specific] DP can occupy this position and be <em>qu</em>-marked. Consequences for theories of Austronesian voice will be discussed.",
         "booktitle": "Proceedings of <a href=\"http://www.uta.edu/faculty/sabbagh/afla20/\">the 20th meeting of the Austronesian Formal Linguistics Association (AFLA 20)</a>",
         "paper": {
             "source": "/Users/mitcho/Dropbox/academic/projects/squliq/afla/erlewine-afla20-proceedings.pdf",
@@ -871,7 +875,8 @@
             "only",
             "even",
             "Association with Focus",
-            "copy theory"
+            "copy theory",
+            "subject"
         ],
         "authors": [
             {
@@ -886,6 +891,7 @@
         "url": "http://semanticsarchive.net/sub2013/SeparateArticles/Erlewine.pdf",
         "note": "(Superseded by <a href=\"http://mitcho.com/research/dissertation.html\">my dissertation</a>.)",
         "year": "2014",
+        "abstract": "The ability of English VP-<em>even</em> but not VP-<em>only</em> to associate with a leftward subject (Jackendoff, 1972) has been a long-standing puzzle for the theory of focus association, and runs counter to the generalization that focus-sensitive operators associate with a focused constituent in their scope. Here I argue that such backwards association is illusory. In cases of apparent leftward subject association, <em>even</em> is associating with the subject’s predicate-internal lower copy of movement, which is within the scope of <em>even</em>. The same configuration with <em>only</em> yields an uninterpretable structure, due to independent differences in the semantic contribution of <em>even</em> and <em>only</em>. I then show that this pattern of association extends to other cases of movement as well: in general, <em>even</em> but not <em>only</em> is able to associate with material which has moved out of the operator’s scope. Patterns of leftward focus association present a new argument against the scope theory of <em>even</em>.",
         "booktitle": "Proceedings of <a href=\"https://sites.google.com/site/sub18bc/\">Sinn und Bedeutung 18</a>",
         "pages": "128--145",
         "handout": {
@@ -1654,6 +1660,7 @@
         "editor": "Beltrama, Andrea and Chatzikonstantinou, Tasos and Lee, Jackson L. and Pham, Mike and Rak, Diane",
         "title": "Alternative questions through focus alternatives in Mandarin Chinese",
         "year": "2014",
+        "abstract": "While the syntax of wh-in-situ in Mandarin Chinese has been central to discussions of the linguistic theory of covert movement (Huang, 1982), little attention has been paid to the syntax and semantics of alternative questions in Mandarin. I argue that alternative-question-triggering disjunctions in Mandarin are interpreted <em>in-situ</em> at LF using a process of alternative computation, supported by evidence from island sensitivity and focus intervention effects. I offer a proposal for the different semantics of alternative-question-triggering disjunction (<em>háishì</em>) and logical disjunction (<em>hùozhe</em>), in languages such as Mandarin which lexicalize this difference, and show that it can explain the distribution of question “force” in Mandarin clauses involving disjunction.",
         "booktitle": "Proceedings of the 48th Meeting of the Chicago Linguistic Society (CLS 48)",
         "pages": "221--234",
         "paper": {

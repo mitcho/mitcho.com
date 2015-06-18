@@ -32,7 +32,6 @@ See the new [Projects](/projects) page for descriptions of projects and download
 ## Upcoming
 
 *	**Fall 2015**: I will join the [National University of Singapore](http://www.fas.nus.edu.sg/ell/) as an Assistant Professor!
-*	**July 2015**: [Japanese Society for Language Sciences (JSLS) 17](http://jslsweb.sakura.ne.jp/wp/?p=72&lang=en), presenting "Focus adverbs at the *v*P and higher edges."
 *	**September 2015**: [Sinn und Bedeutung 20](https://sites.google.com/site/sinnundbedeutung20/home), presenting "Relative pronoun pied-piping, the structure of which informs the analysis of relative clauses" with Hadas Kotek.
 *	**September 2015**: [9th Conference of the European Association of Chinese Linguistics (EACL9)](http://www.ilg.uni-stuttgart.de/EACL9), presenting "The semantics of the Mandarin focus marker *shì*."
 
