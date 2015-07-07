@@ -37,9 +37,9 @@ See the new [Projects](/projects) page for descriptions of projects and download
 
 ## Recent
 
+*	**New paper:** ["The structure and interpretation of non-restrictive relatives: Evidence from relative pronoun pied-piping"](/research/rppp.html) with [Hadas Kotek](http://hkotek.com), to appear in Proceedings of CLS (Chicago Linguistics Society) 51.
 *	**New paper:** ["Minimality and focus-sensitive adverb placement"](/research/minimality-focus.html) to appear in Proceedings of NELS 45, which complements my longer manuscript ["In defense of Closeness: focus-sensitive adverb placement in Vietnamese and Mandarin Chinese."](/research/closeness.html)
 *	**New manuscript:** ["Low sentence-final particles in Mandarin Chinese and the Final-over-Final Constraint."](/research/sfp-fofc.html) Comments welcome!
-*	**New work:** [Hadas Kotek](http://hkotek.com) and I presented ["Relative pronoun pied-piping, the structure of which informs the analysis of relative clauses"](/research/talk-rppp.html) at Chicago Linguistics Society 51.
 *	I posted the squib ["On raising, floating, and *being*"](/blog/floating-raising-being/) on my blog.
 *	I presented [&#8220;Restructuring and Agent Focus in Kaqchikel&#8221;](/research/talk-af-restructuring.html) at the Society for the Study of the Indigenous Languages of the Americas (SSILA), at the LSA.
 
