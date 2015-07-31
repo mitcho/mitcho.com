@@ -24,17 +24,27 @@ var authorUrls = {
 function cleanup(text) {
  	text = text.replace('\\&','&amp;');
 
- 	text = text.replace("``",'&#8220;');
- 	text = text.replace("''",'&#8221;');
- 	text = text.replace("`",'&#8216;');
- 	text = text.replace("'",'&#8217;');
+ 	text = text.replace("---",'&mdash;');
  	
 	text = text.replace('\\VAN{Urk}', 'van Urk'); // for Coppe
 
 	text = text.replace(/\\href{([^}]*)}{([^}]*)}/g,'<a href="$1">$2</a>');
+
+	text = text.replace(/\v \i/g,'ǐ');
+	text = text.replace(/\`\i/g,'ì');
+	text = text.replace(/\' e/g,'é');
+	text = text.replace(/\v o/g,'ǒ');
+	text = text.replace(/\"u/g, 'ü');
+	text = text.replace(/\'C/g, 'Ć');
+	
 	text = text.replace(/{\\em ([^}]*)}/g,'<em>$1</em>');
 	text = text.replace(/{(.+?)}/g,'$1');
-	
+
+ 	text = text.replace(/``/,'&#8220;');
+ 	text = text.replace(/''/g,'&#8221;');
+ 	text = text.replace(/`/g,'&#8216;');
+ 	text = text.replace(/'/g,'&#8217;');
+		
 	return text;
 }
 
