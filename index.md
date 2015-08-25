@@ -15,7 +15,7 @@ layout: page
 
 ## Hello!
 
-I am a **linguist** studying the structure of sentences (**syntax**) and how these structures map to meaning (**semantics**). I am currently an Assistant Professor at the [Department of English Language & Literature](http://fas.nus.edu.sg/ell/) at the [National University of Singapore](http://nus.edu.sg). I received my Ph.D. from [MIT Linguistics](http://web.mit.edu/linguistics/) in 2014. In a previous life, I was active in the [Mozilla (Firefox)](http://mozilla.org) and [WordPress](http://wordpress.org) open-source communities.
+I am an Assistant Professor in **Linguistics** at the [National University of Singapore](http://nus.edu.sg) ([Department of English Language & Literature](http://fas.nus.edu.sg/ell/)). I study the structure of sentences (**syntax**) and how these structures map to meaning (**semantics**). Much of my work is based on fieldwork on understudied and endangered languages. I received my Ph.D. from [MIT Linguistics](http://web.mit.edu/linguistics/) in 2014. In a previous life, I was active in the [Mozilla (Firefox)](http://mozilla.org) and [WordPress](http://wordpress.org) open-source communities.
 
 ## Areas of interest
 
@@ -34,6 +34,7 @@ See the new [Projects](/projects) page for descriptions of projects and download
 
 ## Recent
 
+*	**New paper:** ["Ergativity and Austronesian-type voice systems"](/research/voice-oup.html) wtih Ted Levin and Coppe van Urk, to appear in the *Oxford Handbook of Ergativity*.
 *	**Revised manuscript:** ["Clausal comparison without degree abstraction in Mandarin Chinese."](/research/bi.html)
 *	**New paper:** ["The structure and interpretation of non-restrictive relatives: Evidence from relative pronoun pied-piping"](/research/rppp.html) with [Hadas Kotek](http://hkotek.com), to appear in Proceedings of CLS (Chicago Linguistics Society) 51.
 *	**New paper:** ["Minimality and focus-sensitive adverb placement"](/research/minimality-focus.html) to appear in Proceedings of NELS 45, which complements my longer manuscript ["In defense of Closeness: focus-sensitive adverb placement in Vietnamese and Mandarin Chinese."](/research/closeness.html)
