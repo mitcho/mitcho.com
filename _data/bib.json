@@ -843,6 +843,7 @@
         ],
         "author": "Erlewine, Michael Yoshitaka and Levin, Theodore and van Urk, Coppe",
         "title": "Ergativity and Austronesian-type voice systems",
+        "url": "http://ling.auf.net/lingbuzz/002629/current.pdf",
         "year": "to appear",
         "abstract": "In an Austronesian-type voice system, a single argument is designated the \"pivot\" in each clause, with verbal morphology indicating the choice of pivot and corresponding changes in case marking and extraction possibilities. It has been suggested that ergativity plays a crucial role in Austronesian-type voice systems. In this paper, we argue that voice marking and case reflect separate but interacting systems, which can be dissociated from each other, based on the behavior of voice in Dinka (Nilotic; South Sudan) and Balinese (Austronesian; Indonesia). These languages exhibit familiar voice morphology, but can clearly be shown to not involve any ergativity. Instead, we propose that what unifies &#8220;voice&#8221; system behavior is a lack of structural licensing for the subject in Non-Subject Voices. We show that different voice systems solve this problem in different ways: Balinese licenses the subject under adjacency with the verb, whereas Dinka allows for last resort assignment of genitive case like in many Austronesian languages of the Philippines and of Taiwan.\n\nInvited contribution.",
         "booktitle": "Oxford Handbook of Ergativity",
@@ -858,7 +859,12 @@
         ],
         "project": "voice",
         "files": [
-            
+            {
+                "title": "Ergativity and Austronesian-type voice systems",
+                "event": "voice-oup",
+                "url": "http://ling.auf.net/lingbuzz/002629/current.pdf",
+                "type": "pdf"
+            }
         ]
     },
     {
@@ -1431,11 +1437,15 @@
         ],
         "author": "Erlewine, Michael Yoshitaka and Kotek, Hadas",
         "title": "A streamlined approach to online linguistic surveys",
-        "url": "http://ling.auf.net/lingbuzz/001802/current.pdf",
+        "url": "http://link.springer.com/article/10.1007/s11049-015-9305-9",
         "note": "Tools available at <a href=\"http://turktools.net\">turktools.net</a>",
         "year": "to appear",
         "abstract": "More and more researchers in linguistics use large-scale experiments to test hypotheses about the data they research, in addition to more traditional informant work. In this paper we describe a new set of free, open-source tools that allow linguists with little background in programming or experimental methods to post studies online. These tools allow for the creation of a wide range of linguistic tasks, including linguistic grammaticality surveys, sentence completion tasks, and picture-matching tasks. Our tools further help streamline the design of such experiments and assist in the extraction and analysis of the resulting data. Surveys created using the tools described in this paper can be posted on Amazon.com&#8217;s Mechanical Turk, a popular crowdsourcing platform which mediates between &#8216;Requesters&#8217; who can post surveys online and &#8216;Workers&#8217; who complete them. This allows many linguistic surveys to be completed within hours or days and at low costs of $50 or less. Alternatively, researchers can host these randomized experiments on their own servers using a supplied server-side component.",
         "journal": "Natural Language &amp; Linguistic Theory",
+        "paper": {
+            "target": "http://ling.auf.net/lingbuzz/001802/current.pdf",
+            "event": "current"
+        },
         "authorsHtml": [
             "<strong>Erlewine, Michael Yoshitaka</strong>",
             "<a href=\"http://hkotek.com\">Hadas Kotek</a>"
@@ -1448,6 +1458,12 @@
             {
                 "title": "A streamlined approach to online linguistic surveys",
                 "event": "turktools",
+                "url": "http://link.springer.com/article/10.1007/s11049-015-9305-9",
+                "type": ""
+            },
+            {
+                "title": "Associated paper",
+                "event": "current",
                 "url": "http://ling.auf.net/lingbuzz/001802/current.pdf",
                 "type": "pdf"
             }

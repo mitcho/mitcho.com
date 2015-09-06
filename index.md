@@ -23,18 +23,27 @@ I am an Assistant Professor in **Linguistics** at the [National University of Si
 *   the syntax of case, agreement, and movement
 *   internet corpora and experiments
 
-In previous work I have worked on: Mandarin Chinese, English, Japanese, Kaqchikel (Mayan; Guatemala), Squliq Atayal (Austronesian; Taiwan), Tibetan.
+In previous work I have investigated:
+
+*	Mandarin Chinese
+*	English
+*	Mayan: Kaqchikel and Chuj (Guatemala)
+*	Austronesian: Squliq Atayal (Taiwan)
+*	and Japanese, Vietnamese, Tibetan...
 
 See the new [Projects](/projects) page for descriptions of projects and downloadable papers.
 
 ## Upcoming
 
-*	**September 2015**: [Sinn und Bedeutung 20](https://sites.google.com/site/sinnundbedeutung20/home), presenting "Relative pronoun pied-piping, the structure of which informs the analysis of relative clauses" with Hadas Kotek.
-*	**September 2015**: [9th Conference of the European Association of Chinese Linguistics (EACL9)](http://www.ilg.uni-stuttgart.de/EACL9), presenting "The semantics of the Mandarin focus marker *shì*."
+*	**September 2015**: [Hadas Kotek](http://hkotek.com) will present our joint paper "Relative pronoun pied-piping, the structure of which informs the analysis of relative clauses" at [Sinn und Bedeutung 20](https://sites.google.com/site/sinnundbedeutung20/home).
+*	**September 2015**: [9th European Association of Chinese Linguistics (EACL9)](http://www.ilg.uni-stuttgart.de/EACL9), presenting "The semantics of the Mandarin focus marker *shì*."
+*	**October 2015**: [37th Linguistic Society of India (ICOLSI 37)](http://www.lsi.org.in/lsi.img/ICOLSI-37.pdf), presenting "*Wh*-quantification in Daramsala Tibetan" with [Hadas Kotek](http://hkotek.com).
+*	**November 2015**: [Hadas Kotek](http://hkotek.com) will present our joint paper "Unifying definite and indefinite free relatives: Evidence from Mayan" at [NELS 46](http://linguistics.concordia.ca/nels46/).
+*	**November 2015**: [University of Washington Linguistics Colloquium](https://linguistics.washington.edu/), November 20th
 
 ## Recent
 
-*	**New paper:** ["Ergativity and Austronesian-type voice systems"](/research/voice-oup.html) wtih Ted Levin and Coppe van Urk, to appear in the *Oxford Handbook of Ergativity*.
+*	**New paper:** ["Ergativity and Austronesian-type voice systems"](/research/voice-oup.html) with Ted Levin and Coppe van Urk, to appear in the *Oxford Handbook of Ergativity*.
 *	**Revised manuscript:** ["Clausal comparison without degree abstraction in Mandarin Chinese."](/research/bi.html)
 *	**New paper:** ["The structure and interpretation of non-restrictive relatives: Evidence from relative pronoun pied-piping"](/research/rppp.html) with [Hadas Kotek](http://hkotek.com), to appear in Proceedings of CLS (Chicago Linguistics Society) 51.
 *	**New paper:** ["Minimality and focus-sensitive adverb placement"](/research/minimality-focus.html) to appear in Proceedings of NELS 45, which complements my longer manuscript ["In defense of Closeness: focus-sensitive adverb placement in Vietnamese and Mandarin Chinese."](/research/closeness.html)
