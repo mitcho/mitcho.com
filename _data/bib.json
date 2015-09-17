@@ -1,5 +1,70 @@
 [
     {
+        "citationKey": "talk:rppp-sub",
+        "entryType": "unpublished",
+        "keywords": [
+            "hidden",
+            "pied-piping",
+            "English",
+            "syntax",
+            "semantics",
+            "relative clause",
+            "relative pronoun",
+            "intervention effects"
+        ],
+        "authors": [
+            {
+                "name": "Erlewine, Michael Yoshitaka",
+                "lastName": "Erlewine",
+                "displayName": "Michael Yoshitaka Erlewine"
+            },
+            {
+                "name": "Kotek, Hadas",
+                "lastName": "Kotek",
+                "displayName": "Hadas Kotek",
+                "url": "http://hkotek.com"
+            }
+        ],
+        "author": "Erlewine, Michael Yoshitaka and Kotek, Hadas",
+        "title": "Relative pronoun pied-piping, the structure of which informs the analysis of relative clauses",
+        "note": "Presented at Sinn und Bedeutung 20",
+        "year": "2015",
+        "abstract": "We investigate the structure of relative pronoun pied-piping (RPPP) in English non-restrictive relative clauses. We argue that the relative pronoun is interpreted in-situ in non-restrictive RPPP, rather than moving to the edge of the relative clause. We support this analysis through novel data on the behavior of non-restrictive relative clauses with respect to focus intervention effects in pied-piping (Cable, 2010; Erlewine and Kotek, 2014; Kotek and Erlewine, to appear): only in-situ modes of interpretation (not variable binding or movement) are sensitive to intervention effects (Beck, 2006, a.o.), and RPPP in non-restrictive relative clauses indeed shows intervention effects. We propose an analysis which utilizes contextual domain restriction on the interpretation of the in-situ wh relative pronoun.",
+        "handout": {
+            "source": "/Users/mitcho/Dropbox/academic/projects/RC pied-piping/sub/slides/sub-handout-2up.pdf",
+            "target": "/research/handout-rppp-sub.pdf",
+            "event": "handout-rppp-sub"
+        },
+        "slides": {
+            "source": "/Users/mitcho/Dropbox/academic/projects/RC pied-piping/sub/slides/sub-slides.pdf",
+            "target": "/research/slides-rppp-sub.pdf",
+            "event": "slides-rppp-sub"
+        },
+        "authorsHtml": [
+            "<strong>Erlewine, Michael Yoshitaka</strong>",
+            "<a href=\"http://hkotek.com\">Hadas Kotek</a>"
+        ],
+        "othersHtml": [
+            "<a href=\"http://hkotek.com\">Hadas Kotek</a>"
+        ],
+        "project": "piedpiping",
+        "files": [
+            {
+                "title": "Handout",
+                "event": "handout-rppp-sub",
+                "url": "/research/handout-rppp-sub.pdf",
+                "type": "pdf"
+            },
+            {
+                "title": "Slides",
+                "event": "slides-rppp-sub",
+                "url": "/research/slides-rppp-sub.pdf",
+                "type": "pdf"
+            }
+        ],
+        "url": "/research/handout-rppp-sub.pdf"
+    },
+    {
         "citationKey": "talk:comp",
         "entryType": "unpublished",
         "keywords": [
