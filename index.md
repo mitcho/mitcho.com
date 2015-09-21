@@ -42,7 +42,7 @@ See the new [Projects](/projects) page for descriptions of projects and download
 
 ## Recent
 
-*	[Hadas Kotek](http://hkotek.com) presented our joint paper ["Relative pronoun pied-piping, the structure of which informs the analysis of relative clauses"](/research/talk-rppp-sub.html) at [Sinn und Bedeutung 20](https://sites.google.com/site/sinnundbedeutung20/home). See also our related [CLS paper](/research/rppp.html).
+*	**New paper:** ["Relative pronoun pied-piping in English non-restrictive relatives"](/research/rppp.html) with [Hadas Kotek](http://hkotek.com). See also our related [CLS paper](/research/rppp-cls.html) and [Sinn und Bedeutung talk](/research/talk-rppp-sub.html).
 *	**New paper:** ["Ergativity and Austronesian-type voice systems"](/research/voice-oup.html) with Ted Levin and Coppe van Urk, to appear in the *Oxford Handbook of Ergativity*
 *	**Revised manuscript:** ["Clausal comparison without degree abstraction in Mandarin Chinese."](/research/bi.html)
 *	**New paper:** ["Minimality and focus-sensitive adverb placement"](/research/minimality-focus.html) to appear in Proceedings of NELS 45, which complements my longer manuscript ["In defense of Closeness: focus-sensitive adverb placement in Vietnamese and Mandarin Chinese."](/research/closeness.html)
