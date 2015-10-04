@@ -4,4 +4,4 @@ layout: projects
 permalink: /projects/
 ---
 
-*List [publications](/research) by type and chronological order.*
+*In vague order of recent, active interest. [See publications by type and chronological order.](/research)*

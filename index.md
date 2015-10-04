@@ -35,13 +35,13 @@ See the new [Projects](/projects) page for descriptions of projects and download
 
 ## Upcoming
 
-*	**September 2015**: [9th European Association of Chinese Linguistics (EACL9)](http://www.ilg.uni-stuttgart.de/EACL9), presenting "The semantics of the Mandarin focus marker *shì*."
 *	**October 2015**: [37th Linguistic Society of India (ICOLSI 37)](http://www.lsi.org.in/lsi.img/ICOLSI-37.pdf), presenting "*Wh*-quantification in Daramsala Tibetan" with [Hadas Kotek](http://hkotek.com).
 *	**November 2015 / January 2016**: [Hadas Kotek](http://hkotek.com) will present our joint paper "Unifying definite and indefinite free relatives: Evidence from Mayan" at [NELS 46](http://linguistics.concordia.ca/nels46/) and at [LSA 2016](http://www.linguisticsociety.org/node/5653/schedule).
 *	**November 2015**: [University of Washington Linguistics Colloquium](https://linguistics.washington.edu/), November 20th
 
 ## Recent
 
+*	I presented ["The semantics of the Mandarin focus marker *shì*"](/research/talk-shi-eacl.html) at the [European Association of Chinese Linguistics](http://www.ilg.uni-stuttgart.de/EACL9/).
 *	**New paper:** ["Relative pronoun pied-piping in English non-restrictive relatives"](/research/rppp.html) with [Hadas Kotek](http://hkotek.com). See also our related [CLS paper](/research/rppp-cls.html) and [Sinn und Bedeutung talk](/research/talk-rppp-sub.html).
 *	**New paper:** ["Ergativity and Austronesian-type voice systems"](/research/voice-oup.html) with Ted Levin and Coppe van Urk, to appear in the *Oxford Handbook of Ergativity*
 *	**Revised manuscript:** ["Clausal comparison without degree abstraction in Mandarin Chinese."](/research/bi.html)

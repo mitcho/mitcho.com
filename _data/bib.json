@@ -1,5 +1,60 @@
 [
     {
+        "citationKey": "talk:shi-eacl",
+        "entryType": "unpublished",
+        "keywords": [
+            "focus",
+            "Mandarin Chinese",
+            "semantics",
+            "pragmatics",
+            "questions"
+        ],
+        "authors": [
+            {
+                "name": "Erlewine, Michael Yoshitaka",
+                "lastName": "Erlewine",
+                "displayName": "Michael Yoshitaka Erlewine"
+            }
+        ],
+        "author": "Erlewine, Michael Yoshitaka",
+        "title": "The semantics of the Mandarin focus marker <em>shì</em>",
+        "note": "Presented at the 9th meeting of the European Association of Chinese Linguistics (EACL 9)",
+        "year": "2015",
+        "abstract": "I investigate the semantics of <em>shì</em> 是 in its focus marker use. <em>Shì</em> associates with focus in declaratives, where it has been described as contributing \"emphasis\" or \"contrast\" and can also appear in questions. I argue that <em>shì</em> is a focus-sensitive adverb contributing <em>cleft semantics</em>, akin to the semantics of English <em>it</em>-clefts, requiring congruence to the Question Under Discussion. The semantics of \"cleft questions\" with <em>shì</em> is also explained.",
+        "handout": {
+            "source": "/Users/mitcho/Dropbox (Personal)/academic/projects/shi/eacl/handout-2up.pdf",
+            "target": "/research/handout-shi-eacl.pdf",
+            "event": "handout-shi-eacl"
+        },
+        "slides": {
+            "source": "/Users/mitcho/Dropbox (Personal)/academic/projects/shi/eacl/slides.pdf",
+            "target": "/research/slides-shi-eacl.pdf",
+            "event": "slides-shi-eacl"
+        },
+        "authorsHtml": [
+            "Erlewine, Michael Yoshitaka"
+        ],
+        "othersHtml": [
+            
+        ],
+        "project": "clefts",
+        "files": [
+            {
+                "title": "Handout",
+                "event": "handout-shi-eacl",
+                "url": "/research/handout-shi-eacl.pdf",
+                "type": "pdf"
+            },
+            {
+                "title": "Slides",
+                "event": "slides-shi-eacl",
+                "url": "/research/slides-shi-eacl.pdf",
+                "type": "pdf"
+            }
+        ],
+        "url": "/research/handout-shi-eacl.pdf"
+    },
+    {
         "citationKey": "rppp",
         "entryType": "unpublished",
         "keywords": [
@@ -1020,6 +1075,7 @@
         "year": "to appear",
         "abstract": "One of the major questions in Austronesian syntax concerns the relationship between voice marking, extraction, and case. Two common approaches have dominated previous literature. Either voice morphology marks extraction and case, or voice morphology feeds extraction and case. These positions are difficult to distinguish, because of the prominent one-to-one correspondence of voice, case, and extraction. In this paper, we bring new insights to this debate, with original data from Balinese and Dinka, a Nilotic language of South Sudan, which we show exhibits a familiar Austronesian-type voice system. We observe environments in these languages where the correspondence between voice and case and voice and extraction breaks down, in a manner that we argue provides evidence that <em>voice marks extraction</em>. Unlike in other extraction-marking languages, however, voice also affects case in Austronesian-type voice systems. We suggest that this is because extraction targets a case position. We account for the changes in case marking in the clause by suggesting that, when the external argument is not extracted, languages must employ alternative strategies to license it.",
         "booktitle": "Proceedings of <a href=\"https://sites.google.com/a/hawaii.edu/afla21/home\">the 21st meeting of the Austronesian Formal Linguistics Association (AFLA 21)</a>",
+        "pages": "51--68",
         "paper": {
             "source": "/Users/mitcho/Dropbox/academic/projects/voice/AFLA Proceedings/preprint.pdf",
             "target": "/research/voice-afla.pdf",
@@ -1054,7 +1110,11 @@
                 "type": "pdf"
             }
         ],
-        "url": "/research/voice-afla.pdf"
+        "url": "/research/voice-afla.pdf",
+        "pageRange": [
+            "51",
+            "68"
+        ]
     },
     {
         "citationKey": "squliq",
@@ -1095,7 +1155,7 @@
         "othersHtml": [
             
         ],
-        "project": "atayal",
+        "project": "voice",
         "files": [
             {
                 "title": "Subject marking on non-subjects in Squliq Atayal",
