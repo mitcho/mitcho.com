@@ -14,9 +14,17 @@ Zepto(function($) {
 	// track file download:	
 	$('a[data-event]').on('click', function(e) {
 		var that = $(this);
-		ga('send', 'event', 'file', 'download', that.attr('data-event'), {'hitCallback':
-			function () { document.location = that.attr('href'); }
-		});		
+
+		// it's possible ga won't be loaded, due to tracking-blockers
+		if (typeof ga != 'function')
+			return document.location = that.attr('href');
+
+		ga('send', 'event', 'file', 'download', that.attr('data-event'), {
+			'hitCallback' : function () { document.location = that.attr('href'); }
+		});
 		e.preventDefault();
+		
+		// just in case, allow redirect after 200ms delay, regardless of whether ga triggered.
+		setTimeout( function () { document.location = that.attr('href'); }, 200);
 	})
 });
