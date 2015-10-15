@@ -37,7 +37,9 @@ function cleanup(text) {
 	text = text.replace(/\"u/g, 'ü');
 	text = text.replace(/\'C/g, 'Ć');
 	
-	text = text.replace(/{\\em ([^}]*)}/g,'<em>$1</em>');
+	text = text.replace(/{\\em ([^}]*?)}/g,'<em>$1</em>');
+	text = text.replace(/\\textit{([^}]*?)}/g,'<em>$1</em>');
+	text = text.replace(/\\textbf{([^}]*?)}/g,'<strong>$1</strong>');
 	text = text.replace(/{(.+?)}/g,'$1');
 
  	text = text.replace(/``/,'&#8220;');
