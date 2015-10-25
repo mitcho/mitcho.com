@@ -33,8 +33,8 @@ See the new [Projects](/projects) page for descriptions of projects and download
 
 ## Recent
 
+*	**New paper, October 2015:** ["*Even*-NPIs in Dharamsala Tibetan"](/research/tibetan-npi.html) with [Hadas Kotek](http://hkotek.com). See also [the associated slides](/research/talk-tibetan-icolsi.html) from the [37th Linguistic Society of India meeting (ICOLSI 37)](http://www.lsi.org.in/lsi.img/ICOLSI-37.pdf).
 *	**Talk, October 2015:** ["Unifying definite and indefinite free relatives: Evidence from Mayan"](/research/talk-chuj-nels.html) with [Hadas Kotek](http://hkotek.com), at [NELS 46](http://linguistics.concordia.ca/nels46/).
-*	**Talk, October 2015:** ["*Wh*-quantification in Daramsala Tibetan"](/research/talk-tibetan-icolsi.html) with [Hadas Kotek](http://hkotek.com), at the [37th Linguistic Society of India (ICOLSI 37)](http://www.lsi.org.in/lsi.img/ICOLSI-37.pdf).
 *	**New paper, September 2015:** ["Non-interrogative *wh*-constructions in Chuj"](/research/chuj-descriptive.html) with [Hadas Kotek](http://hkotek.com).
 *	**Talk, September 2015:** ["The semantics of the Mandarin focus marker *shì*"](/research/talk-shi-eacl.html), at [European Association of Chinese Linguistics 9](http://www.ilg.uni-stuttgart.de/EACL9/).
 *	**New paper, September 2015:** ["Relative pronoun pied-piping in English non-restrictive relatives"](/research/rppp.html) with [Hadas Kotek](http://hkotek.com). See also our related [CLS paper](/research/rppp-cls.html) and [Sinn und Bedeutung talk](/research/talk-rppp-sub.html).
