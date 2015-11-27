@@ -1241,6 +1241,7 @@
             }
         ],
         "author": "Erlewine, Michael Yoshitaka and Levin, Theodore and van Urk, Coppe",
+        "editor": "Coon, Jessica and Massam, Diane and Travis, Lisa deMena",
         "title": "Ergativity and Austronesian-type voice systems",
         "url": "http://ling.auf.net/lingbuzz/002629/current.pdf",
         "year": "to appear",
@@ -1255,6 +1256,28 @@
         "othersHtml": [
             "<a href=\"https://sites.google.com/site/tfranklevin/\">Theodore Levin</a>",
             "<a href=\"http://web.mit.edu/cvanurk/www/\">Coppe van Urk</a>"
+        ],
+        "editors": [
+            {
+                "name": "Coon, Jessica",
+                "lastName": "Coon",
+                "displayName": "Jessica Coon"
+            },
+            {
+                "name": "Massam, Diane",
+                "lastName": "Massam",
+                "displayName": "Diane Massam"
+            },
+            {
+                "name": "Travis, Lisa deMena",
+                "lastName": "Travis",
+                "displayName": "Lisa deMena Travis"
+            }
+        ],
+        "editorsHtml": [
+            "Coon, Jessica",
+            "Diane Massam",
+            "Lisa deMena Travis"
         ],
         "project": "voice",
         "files": [
@@ -1782,7 +1805,7 @@
     },
     {
         "citationKey": "bi",
-        "entryType": "unpublished",
+        "entryType": "article",
         "keywords": [
             "comparative",
             "Mandarin Chinese",
@@ -1800,9 +1823,10 @@
         "author": "Erlewine, Michael Yoshitaka",
         "title": "Clausal comparison without degree abstraction in Mandarin Chinese",
         "url": "http://lingbuzz.auf.net/lingbuzz/001687/current.pdf",
-        "note": "Manuscript, National University of Singapore",
-        "year": "2015",
+        "note": "minor revisions pending",
+        "year": "to appear",
         "abstract": "This paper argues (a) that the bǐ comparative construction in Mandarin Chinese is a form of clausal comparative and (b) that Mandarin Chinese lacks abstraction over degree variables.\n\nBeck et al. (2004) proposes that languages may vary in whether or not they allow for abstraction over degree variables. In previous work, comparatives with clausal standards have been uniformly analyzed cross-linguistically as involving an A&#8217;-movement step abstracting over a degree variable, and thereby predicted to not occur in languages without degree abstraction. The paper shows that clausal comparison without degree abstraction is not only theoretically possible but attested, contributing to the cross-linguistic typology of degree constructions.\n\nI first present evidence from bǐ comparatives involving various types of movement chains, which shows that a phrasal analysis is untenable. I detail the comparative deletion enforced in bǐ comparatives and show that various properties of bǐ comparatives fall out of general constraints on ellipsis parallelism. I then argue that the computation of bǐ comparatives does not&mdash;and cannot---involve abstraction over a degree argument. Gradable predicates in Mandarin can take their degree argument last, allowing for clausal comparison without using degree abstraction.\n",
+        "journal": "Natural Language &amp; Linguistic Theory",
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
         ],
@@ -1943,7 +1967,7 @@
         "note": "Presented at GLOW 35 Workshop on Association with Focus",
         "year": "2012",
         "handout": {
-            "source": "/Users/mitcho/Dropbox/academic/projects/focus/glow/handout-glow2012.pdf",
+            "source": "/Users/mitcho/Dropbox/academic/projects/focus/glow2012/handout-glow2012.pdf",
             "target": "/research/handout-glow2012.pdf",
             "event": "handout-glow2012"
         },

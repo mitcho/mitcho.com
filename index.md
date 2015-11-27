@@ -22,24 +22,23 @@ I am an Assistant Professor in **Linguistics** at the [National University of Si
 *   syntax and semantics of focus and movement
 *   the syntax of case, agreement, and movement
 
-In previous work I have investigated: Mandarin Chinese; English; Japanese; Mayan: Kaqchikel and Chuj (Guatemala); Austronesian: Squliq Atayal (Taiwan); Vietnamese; Tibetan...
+In previous work I have investigated: Mandarin Chinese; English; Japanese; Mayan: Kaqchikel and Chuj (Guatemala); Austronesian: Squliq Atayal (Taiwan) and Batak Toba (Indonesia); Tibetan; Vietnamese...
 
 See the new [Projects](/projects) page for descriptions of projects and downloadable papers.
 
 ## Upcoming
 
 *	**January 2016**: I will be at [LSA 2016](http://www.linguisticsociety.org/node/5653/schedule). [Hadas Kotek](http://hkotek.com) and I will present "Unifying definite and indefinite free relatives: Evidence from Mayan" on Thursday.
-*	**November 2015**: [University of Washington Linguistics Colloquium](https://linguistics.washington.edu/), November 20th
 
 ## Recent
 
+*	**Paper accepted, November 2015:** ["Clausal comparison without degree abstraction in Mandarin Chinese"](/research/bi.html) for NLLT. Minor revisions pending.
 *	**New paper, October 2015:** ["*Even*-NPIs in Dharamsala Tibetan"](/research/tibetan-npi.html) with [Hadas Kotek](http://hkotek.com). See also [the associated slides](/research/talk-tibetan-icolsi.html) from the [37th Linguistic Society of India meeting (ICOLSI 37)](http://www.lsi.org.in/lsi.img/ICOLSI-37.pdf).
 *	**Talk, October 2015:** ["Unifying definite and indefinite free relatives: Evidence from Mayan"](/research/talk-chuj-nels.html) with [Hadas Kotek](http://hkotek.com), at [NELS 46](http://linguistics.concordia.ca/nels46/).
 *	**New paper, September 2015:** ["Non-interrogative *wh*-constructions in Chuj"](/research/chuj-descriptive.html) with [Hadas Kotek](http://hkotek.com).
 *	**Talk, September 2015:** ["The semantics of the Mandarin focus marker *shì*"](/research/talk-shi-eacl.html), at [European Association of Chinese Linguistics 9](http://www.ilg.uni-stuttgart.de/EACL9/).
 *	**New paper, September 2015:** ["Relative pronoun pied-piping in English non-restrictive relatives"](/research/rppp.html) with [Hadas Kotek](http://hkotek.com). See also our related [CLS paper](/research/rppp-cls.html) and [Sinn und Bedeutung talk](/research/talk-rppp-sub.html).
 *	**New paper, August 2015:** ["Ergativity and Austronesian-type voice systems"](/research/voice-oup.html) with Ted Levin and Coppe van Urk, to appear in the *Oxford Handbook of Ergativity*
-*	**Revised paper, July 2015:** ["Clausal comparison without degree abstraction in Mandarin Chinese."](/research/bi.html)
 *	**New paper, June 2015:** ["Minimality and focus-sensitive adverb placement"](/research/minimality-focus.html) to appear in Proceedings of NELS 45, which complements my longer manuscript ["In defense of Closeness: focus-sensitive adverb placement in Vietnamese and Mandarin Chinese."](/research/closeness.html)
 *	**New paper, May 2015:** ["Low sentence-final particles in Mandarin Chinese and the Final-over-Final Constraint."](/research/sfp-fofc.html) Comments welcome!
 
