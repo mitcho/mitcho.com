@@ -4,7 +4,7 @@ layout: page
 <div class="vcard">
 <span class="fn">Michael Yoshitaka Erlewine</span>
 <span class="nickname">mitcho</span>
-<span class="photo image"><img src="/images/kyoto-270x150.jpg"/></span>
+<span class="photo image"><img src="/static/images/kyoto-270x150x2.jpg"/></span>
 <span class="adr">
 	<span class="country">Singapore</span>
 </span>
