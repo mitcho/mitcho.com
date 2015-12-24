@@ -10,9 +10,12 @@
 	<link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url | replace: 'http://mitcho.com/', '/' }}">
 	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
 
+	<link rel="author" href="https://plus.google.com/113389300818715703429/">
+
 {% if page.paper != null and page.paper.entryType != 'unpublished' %}
 {% include paper-meta.html paper = page.paper %}
 {% endif %}
+
 	<!--[if lt IE 9]>
 	<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 	<![endif]-->
