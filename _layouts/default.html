@@ -3,8 +3,10 @@
 
 	{% include head.html %}
 
-	<body>
+	<body class="{% if page.nosidebar %} nosidebar{% endif %}">
+		{% if page.nosidebar == null %}
 		{% include header.html %}
+		{% endif %}
 
 		<section class="col2"><div class="wrapper">
 			{{ content }}
