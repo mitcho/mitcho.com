@@ -9,14 +9,18 @@ clefts:
   I plan to use this understanding of the semantics of cleft questions to take a new look at the **cleft hypothesis for Austronesian *wh*-questions**: if (some) *wh*-questions in Austronesian are cleft questions, as often claimed (see e.g. Potsdam 2009), can we detect this semantically?"
 
 wh:
-  title: "Non-interrogative *wh*-constructions"
-  description: "Aside from their canonical interrogative use, *wh*-words are used in many languages to build a range of quantificational expressions. What syntactic and semantic strategies are employed to quantify over the alternatives introduced by *wh*-words? To answer this question, **[Hadas Kotek](http://hkotek.com) and I** have recently looked at a number of non-interrogative *wh*-constructions, including in Chuj (Mayan) and Dharamsala Tibetan.
+  title: "*Wh*-quantification"
+  description: "Aside from their canonical interrogative use, *wh*-words are used in many languages to build a range of quantificational expressions. What syntactic and semantic strategies are employed to quantify over the alternatives introduced by *wh*-words? To answer this question, [Hadas Kotek](http://hkotek.com) and I have recently looked at a number of non-interrogative *wh*-constructions, in Chuj (Mayan) and Dharamsala Tibetan.
   
-  We have investigated **bare *wh*-indefinites and free relatives in Chuj**, an understudied Mayan language of Guatemala. We show that **indefinite free relatives in Chuj are equivalent in size to definite free relatives**, contrary to a well-supported conjecture by Šimík (2011) that indefinite free relatives are always reduced clauses.
+  We have investigated **bare *wh*-indefinites and free relatives in Chuj**, an understudied Mayan language of Guatemala. We show that **indefinite free relatives in Chuj are equivalent in size to definite free relatives**, as proposed by Caponigro (2003), contrary to a conjecture by Šimík (2011) that indefinite free relatives are always reduced clauses.
 
-	We also investigate ***wh*-even NPIs in Dharamsala Tibetan.** We present a new compositional syntax/semantics for *wh*-even NPIs, improving upon previous analyses such as Ramchand (1996), with implications for the analysis of 'even.' Our analysis uses **both the scalar and additive meanings** introduced by ‘even,’ and crucially computes these two meanings with different scopes. I am also working to extend this account to the behavior of *wh*-even NPIs in Japanese.
+	We also investigate ***wh*-even NPIs in Dharamsala Tibetan.** We present a new compositional syntax/semantics for *wh*-even NPIs, improving upon previous analyses such as Ramchand (1996), with implications for the analysis of 'even.' Our analysis uses **both the scalar and additive meanings** introduced by 'even,' and crucially computes these two meanings with different scopes. I am exploring an extention of this account to the behavior of *wh*-even NPIs in Japanese and other languages."
 
-  Finally, we have also studied the syntax and semantics of ***wh*-words used as relative pronouns**. Using [the intervention effect diagnostics which we pioneered](#piedpiping), we show that relative pronouns in English non-restrictive relatives are interpreted in-situ within their pied-piping constituents via focus alternative computation. We show that this supports the view that **non-restrictive relatives are proposition-denoting**, rather than property-denoting."
+rc:
+  title: "Relative clauses"
+  description: "Isaac Gould and I have investigated the structure and interpretation of **head-internal relative clauses in Japanese** and their lesser-studied doubly-headed variants. We present new evidence that these relatives are best analyzed as definite descriptions, rather than through E-type anaphora, and present an analysis that accounts for their readings in different contexts. In our most recent work, we propose a novel **DP head-raising derivation** for relative clauses that takes advantage of the Copy Theory of movement and the late-merger of relative clauses. This allows for the unification of head-internal and doubly-headed relativization strategies with the familiar head-external form, which would otherwise not be possible.
+  
+  In other work, [Hadas Kotek](http://hkotek.com) and I investigate the syntax and semantics of ***wh*-words used as relative pronouns**. Using [the intervention effect diagnostics which we pioneered](#piedpiping), we show that relative pronouns in English non-restrictive relatives are interpreted in-situ within their pied-piping constituents via focus alternative computation. We show that this supports the view that **non-restrictive relatives are proposition-denoting**, rather than property-denoting."
 
 voice:
   title: "Austronesian-type voice systems"
@@ -59,10 +63,6 @@ blocking:
   description: "\"Blocking\" of productive, analytic causative forms by the existence of listed, lexical causative forms has been well studied in Japanese, but has been previously thought to not exist in English. In joint work with Hadas Kotek, we have identified an environment where **causative blocking effects do in fact appear in English**. We argue that the blocking effect is sensitive not to structural adjacency, as previously argued for Japanese (Harley, 2008), but instead to linear adjacency. **The sensitivity to linear adjacency** shows that the operations relevant to the blocking effect must occur post-linearization, and therefore contributes to our understanding of the timing of post-syntactic operations.
   
   In addition, in a collaboration led by PIs [Shigeru Miyagawa](http://web.mit.edu/miyagawa/www/) (MIT) and [Masa Koizumi](http://db.tohoku.ac.jp/whois/e_detail/c20f69c4fa34a7748d206cd4730370a9.html) (Tōhoku University), I have contributed to the development of ERP experiments to test different theories of morphological blocking as applied to causative constructions, in both English and Japanese."
-
-hirc:
-  title: "Head-internal relative clauses in Japanese"
-  description: "In joint work with Isaac Gould, I investigate **the semantic interpretation of head-internal relative clauses (HIRCs)** with quantificational heads in Japanese. We observe that in certain contexts, the denotation of a HIRC corresponds to the domain of the head noun's quantifier. We offer a new movement-based syntax/semantics for Japanese HIRC and a proposal for the role of context in the evaluation of definite descriptions which can together model the readings of HIRC under different contexts, and also predict the island-sensitivity of HIRC."
 
 ubiquity:
   title: "Multilingual command parsing for Mozilla Ubiquity"

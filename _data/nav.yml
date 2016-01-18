@@ -7,6 +7,9 @@
     href: "/erlewine-cv.pdf"
     event: "cv"
 
+- title: "teaching"
+  href: "/teaching"
+
 - title: "code"
   href: "/code"
   sub:
