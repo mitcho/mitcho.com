@@ -19,7 +19,6 @@ disqusid: "http://mitcho.com"
 
 # Permalinks
 permalink: /blog/:title/
-relative_permalinks: true
 
 # Markdown
 kramdown:
