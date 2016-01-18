@@ -1,0 +1,10 @@
+/* 
+  NOSIDEBAR
+ */
+
+body.nosidebar {
+	.col2 {
+		margin-left: $body-padding;
+		max-width: $content-width + $nav-width + ($col-padding * 2);
+	}
+}
