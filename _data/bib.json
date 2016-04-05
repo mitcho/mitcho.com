@@ -1,61 +1,5 @@
 [
     {
-        "citationKey": "talk:focus-adverb-edges",
-        "entryType": "unpublished",
-        "keywords": [
-            "only",
-            "Mandarin Chinese",
-            "Vietnamese",
-            "Optimality Theory",
-            "low focus",
-            "subject"
-        ],
-        "authors": [
-            {
-                "name": "Erlewine, Michael Yoshitaka",
-                "lastName": "Erlewine",
-                "displayName": "Michael Yoshitaka Erlewine"
-            }
-        ],
-        "author": "Erlewine, Michael Yoshitaka",
-        "title": "Focus adverbs at the <em>v</em>P and higher edges",
-        "note": "Presented (most recently) at the University of Washington",
-        "year": "2015",
-        "abstract": "Focus-sensitive operators must associate with a focused constituent (the associate) in their c-command domain (Jackendoff, 1972; Rooth, 1985, 1992; Tancredi, 1990). However, I show that this c-command requirement is insufficient to capture the distribution of focus adverbs (e.g. ‘only’) in Mandarin Chinese and Vietnamese. Focus adverbs in these languages must be as low as possible while c-commanding their focus associate, within a particular extended vP domain. The generalization is similar to what has been described for German by Jacobs (1983) and Büring & Hartmann (2001), but without a formal account.\n\nI present an analysis which derives the behavior observed in Mandarin and Vietnamese using a system of ranked, violable constraints. Optimizing cyclically, rather than globally, at each phase level, allows for apparent optionality in the position of focus adverbs and correctly identifies the vP edge as the locus of operators which associate long-distance. I show how this general system can also extend to the behavior of Romance, Bantu, and Chadic languages where foci are required to be low in the clause.",
-        "handout": {
-            "source": "/Users/mitcho/Dropbox/academic/projects/focus-adverbs/washington/handout-2up.pdf",
-            "target": "/research/handout-focus-adverb-edges.pdf",
-            "event": "handout-focus-adverb-edges"
-        },
-        "slides": {
-            "source": "/Users/mitcho/Dropbox/academic/projects/focus-adverbs/washington/slides-trans.pdf",
-            "target": "/research/slides-focus-adverb-edges.pdf",
-            "event": "slides-focus-adverb-edges"
-        },
-        "authorsHtml": [
-            "Erlewine, Michael Yoshitaka"
-        ],
-        "othersHtml": [
-            
-        ],
-        "project": "focus-adverbs",
-        "files": [
-            {
-                "title": "Handout",
-                "event": "handout-focus-adverb-edges",
-                "url": "/research/handout-focus-adverb-edges.pdf",
-                "type": "pdf"
-            },
-            {
-                "title": "Slides",
-                "event": "slides-focus-adverb-edges",
-                "url": "/research/slides-focus-adverb-edges.pdf",
-                "type": "pdf"
-            }
-        ],
-        "url": "/research/handout-focus-adverb-edges.pdf"
-    },
-    {
         "citationKey": "talk:chuj-lsa",
         "entryType": "unpublished",
         "keywords": [
@@ -118,6 +62,235 @@
             }
         ],
         "url": "/research/handout-chuj-lsa.pdf"
+    },
+    {
+        "citationKey": "review:sato",
+        "entryType": "article",
+        "keywords": [
+            "book review",
+            "syntax",
+            "Indonesian",
+            "Austronesian",
+            "Austronesian voice",
+            "morphology"
+        ],
+        "authors": [
+            {
+                "name": "Erlewine, Michael Yoshitaka",
+                "lastName": "Erlewine",
+                "displayName": "Michael Yoshitaka Erlewine"
+            }
+        ],
+        "author": "Erlewine, Michael Yoshitaka",
+        "title": "Review of Yosuke Sato <em>Minimalist Interfaces: Evidence from Indonesian and Javanese</em>",
+        "year": "2016",
+        "journal": "Oceanic Linguistics",
+        "volume": "55",
+        "authorsHtml": [
+            "Erlewine, Michael Yoshitaka"
+        ],
+        "othersHtml": [
+            
+        ],
+        "files": [
+            
+        ]
+    },
+    {
+        "citationKey": "rppp-sub",
+        "entryType": "inproceedings",
+        "keywords": [
+            "pied-piping",
+            "English",
+            "syntax",
+            "semantics",
+            "relative clause",
+            "relative pronoun",
+            "intervention effects",
+            "gradience",
+            "experimental"
+        ],
+        "authors": [
+            {
+                "name": "Kotek, Hadas",
+                "lastName": "Kotek",
+                "displayName": "Hadas Kotek",
+                "url": "http://hkotek.com"
+            },
+            {
+                "name": "Erlewine, Michael Yoshitaka",
+                "lastName": "Erlewine",
+                "displayName": "Michael Yoshitaka Erlewine"
+            }
+        ],
+        "author": "Kotek, Hadas and Erlewine, Michael Yoshitaka",
+        "title": "Intervention effects in relative pronoun pied-piping: experimental evidence",
+        "year": "to appear",
+        "abstract": "This paper contributes experimental evidence regarding the question of how relative pronouns are interpreted in English non-restrictive relative clauses with relative pronoun pied- piping (RPPP). Kotek and Erlewine (2015) and Erlewine and Kotek (to appear) claim that the wh-relative pronoun is sensitive to intervention effects inside its pied-piping constituent (cf Sauerland and Heck, 2003; Cable, 2010; Kotek and Erlewine, to appear). In this paper we present the results of a web-based grammaticality judgment survey which supports this claim. We discuss the nature of the intervention judgment, which is notoriously subtle, and how it might be modeled in grammar. The sensitivity of RPPP to intervention effects has important implications for the formal analysis of English non-restrictive relative clauses, supporting the view that relative pronouns are interpreted in-situ without covert movement out of its pied-piping.",
+        "booktitle": "Proceedings of Sinn und Bedeutung 20",
+        "paper": {
+            "source": "/Users/mitcho/Dropbox/academic/projects/RC pied-piping/sub/kotek-erlewine-sub20-web.pdf",
+            "target": "/research/rppp-sub.pdf",
+            "event": "rppp-sub"
+        },
+        "handout": {
+            "source": "/Users/mitcho/Dropbox/academic/projects/RC pied-piping/sub/slides/sub-handout-2up.pdf",
+            "target": "/research/handout-rppp-sub.pdf",
+            "event": "handout-rppp-sub"
+        },
+        "slides": {
+            "source": "/Users/mitcho/Dropbox/academic/projects/RC pied-piping/sub/slides/sub-slides.pdf",
+            "target": "/research/slides-rppp-sub.pdf",
+            "event": "slides-rppp-sub"
+        },
+        "authorsHtml": [
+            "<a href=\"http://hkotek.com\">Kotek, Hadas</a>",
+            "<strong>Michael Yoshitaka Erlewine</strong>"
+        ],
+        "othersHtml": [
+            "<a href=\"http://hkotek.com\">Hadas Kotek</a>"
+        ],
+        "project": "rc",
+        "files": [
+            {
+                "title": "Intervention effects in relative pronoun pied-piping: experimental evidence",
+                "event": "rppp-sub",
+                "url": "/research/rppp-sub.pdf",
+                "type": "pdf"
+            },
+            {
+                "title": "Associated handout",
+                "event": "handout-rppp-sub",
+                "url": "/research/handout-rppp-sub.pdf",
+                "type": "pdf"
+            },
+            {
+                "title": "Associated slides",
+                "event": "slides-rppp-sub",
+                "url": "/research/slides-rppp-sub.pdf",
+                "type": "pdf"
+            }
+        ],
+        "url": "/research/rppp-sub.pdf"
+    },
+    {
+        "citationKey": "talk:focus-adverb-edges",
+        "entryType": "unpublished",
+        "keywords": [
+            "only",
+            "Mandarin Chinese",
+            "Vietnamese",
+            "Optimality Theory",
+            "low focus",
+            "subject"
+        ],
+        "authors": [
+            {
+                "name": "Erlewine, Michael Yoshitaka",
+                "lastName": "Erlewine",
+                "displayName": "Michael Yoshitaka Erlewine"
+            }
+        ],
+        "author": "Erlewine, Michael Yoshitaka",
+        "title": "Focus adverbs at the <em>v</em>P and higher edges",
+        "note": "Presented (most recently) at the University of Washington",
+        "year": "2015",
+        "abstract": "Focus-sensitive operators must associate with a focused constituent (the associate) in their c-command domain (Jackendoff, 1972; Rooth, 1985, 1992; Tancredi, 1990). However, I show that this c-command requirement is insufficient to capture the distribution of focus adverbs (e.g. ‘only’) in Mandarin Chinese and Vietnamese. Focus adverbs in these languages must be as low as possible while c-commanding their focus associate, within a particular extended vP domain. The generalization is similar to what has been described for German by Jacobs (1983) and Büring & Hartmann (2001), but without a formal account.\n\nI present an analysis which derives the behavior observed in Mandarin and Vietnamese using a system of ranked, violable constraints. Optimizing cyclically, rather than globally, at each phase level, allows for apparent optionality in the position of focus adverbs and correctly identifies the vP edge as the locus of operators which associate long-distance. I show how this general system can also extend to the behavior of Romance, Bantu, and Chadic languages where foci are required to be low in the clause.",
+        "handout": {
+            "source": "/Users/mitcho/Dropbox/academic/projects/focus-adverbs/washington/handout-2up.pdf",
+            "target": "/research/handout-focus-adverb-edges.pdf",
+            "event": "handout-focus-adverb-edges"
+        },
+        "slides": {
+            "source": "/Users/mitcho/Dropbox/academic/projects/focus-adverbs/washington/slides-trans.pdf",
+            "target": "/research/slides-focus-adverb-edges.pdf",
+            "event": "slides-focus-adverb-edges"
+        },
+        "authorsHtml": [
+            "Erlewine, Michael Yoshitaka"
+        ],
+        "othersHtml": [
+            
+        ],
+        "project": "focus-adverbs",
+        "files": [
+            {
+                "title": "Handout",
+                "event": "handout-focus-adverb-edges",
+                "url": "/research/handout-focus-adverb-edges.pdf",
+                "type": "pdf"
+            },
+            {
+                "title": "Slides",
+                "event": "slides-focus-adverb-edges",
+                "url": "/research/slides-focus-adverb-edges.pdf",
+                "type": "pdf"
+            }
+        ],
+        "url": "/research/handout-focus-adverb-edges.pdf"
+    },
+    {
+        "citationKey": "talk:chuj-wscla",
+        "entryType": "unpublished",
+        "keywords": [
+            "Chuj",
+            "Mayan",
+            "wh-words",
+            "free relative",
+            "wh-indefinite",
+            "wh-words"
+        ],
+        "authors": [
+            {
+                "name": "Kotek, Hadas",
+                "lastName": "Kotek",
+                "displayName": "Hadas Kotek",
+                "url": "http://hkotek.com"
+            },
+            {
+                "name": "Erlewine, Michael Yoshitaka",
+                "lastName": "Erlewine",
+                "displayName": "Michael Yoshitaka Erlewine"
+            }
+        ],
+        "author": "Kotek, Hadas and Erlewine, Michael Yoshitaka",
+        "title": "Non-interrogative <em>wh</em>-constructions in Chuj",
+        "note": "Presented at the 21st Workshop on Structure and Constituency in Languages of the Americas",
+        "year": "2016",
+        "abstract": "We present a comprehensive survey of non-interrogative uses of <em>wh</em>-words in Chuj, an understudied Mayan language of Guatemala. Cross-linguistically, <em>wh</em>-words are commonly used not only for question-formation but also in a range of other constructions, including in quantification and in the formation of relative clauses. We will show that Chuj can use <em>wh</em>-words to form indefinites in certain limited environments, and that it can additionally use <em>wh</em>-words to form free choice items and a universal quantifier. In addition, Chuj uses <em>wh</em>-words to form free relatives, including definite free relatives but also typologically rare indefinite free relatives.",
+        "handout": {
+            "source": "/Users/mitcho/Dropbox/academic/projects/chuj/wscla2016/slides/handout-2up.pdf",
+            "target": "/research/handout-chuj-wscla.pdf",
+            "event": "handout-chuj-wscla"
+        },
+        "slides": {
+            "source": "/Users/mitcho/Dropbox/academic/projects/chuj/wscla2016/slides/slides-trans.pdf",
+            "target": "/research/slides-chuj-wscla.pdf",
+            "event": "slides-chuj-wscla"
+        },
+        "authorsHtml": [
+            "<a href=\"http://hkotek.com\">Kotek, Hadas</a>",
+            "<strong>Michael Yoshitaka Erlewine</strong>"
+        ],
+        "othersHtml": [
+            "<a href=\"http://hkotek.com\">Hadas Kotek</a>"
+        ],
+        "project": "wh",
+        "files": [
+            {
+                "title": "Handout",
+                "event": "handout-chuj-wscla",
+                "url": "/research/handout-chuj-wscla.pdf",
+                "type": "pdf"
+            },
+            {
+                "title": "Slides",
+                "event": "slides-chuj-wscla",
+                "url": "/research/slides-chuj-wscla.pdf",
+                "type": "pdf"
+            }
+        ],
+        "url": "/research/handout-chuj-wscla.pdf"
     },
     {
         "citationKey": "japanese-rc",
@@ -204,8 +377,7 @@
         "author": "Erlewine, Michael Yoshitaka and Kotek, Hadas",
         "title": "<em>Even</em>-NPIs in Dharamsala Tibetan",
         "url": "http://ling.auf.net/lingbuzz/002739/current.pdf",
-        "note": "minor revisions pending",
-        "year": "accepted",
+        "year": "to appear",
         "abstract": "In this paper we investigate two series of Negative Polarity Items (NPIs) in Dharamsala Tibetan: one series uses the numeral ‘one’ with an <em>even</em> particle, with an optional nominal domain. The other series combines a <em>wh</em>-word with the same <em>even</em> particle, and may appear with or without the numeral ‘one.’ We discuss the relation of these NPIs to indefinite expressions in Dharamsala Tibetan, and document their syntactic licensing conditions. We show that NPIs are licensed in the scope of a clause-mate negation and in questions, but not in other downward-entailing environments. \n\nWe then present a compositional semantics for these two types of NPIs which explains their negative-polarity dependency, based on Lahiri’s (1998) analysis of similar constructions in Hindi. Our analysis for <em>wh</em>-<em>even</em> NPIs takes advantage of the Hamblin (1973) denotation of <em>wh</em>-words as sets of alternatives and the fact that <em>even</em> introduces two presuppositions&mdash;an additive one and a scalar one. Allowing the additive component of <em>even</em> to scope independently of the scalar part, the additive part of <em>even</em> is used to generate an indefinite out of the <em>wh</em>-word. The scalar component will be used to ensure that <em>even</em>-NPIs can only be used in downward entailing contexts.",
         "journal": "Linguistic Analysis",
         "slides": {
@@ -344,7 +516,8 @@
             "wh-words",
             "free relative",
             "wh-indefinite",
-            "wh-words"
+            "wh-words",
+            "hidden"
         ],
         "authors": [
             {
@@ -364,11 +537,6 @@
         "note": "Manuscript, McGill University and National University of Singapore",
         "year": "2015",
         "abstract": "This paper investigates non-interrogative uses of <em>wh</em>-words in Chuj, an understudied Mayan language of Guatemala. Cross-linguistically, <em>wh</em>-words are commonly used not only for question-formation but also in a range of other constructions, including in quantification and in the formation of relative clauses. We will show that Chuj can use <em>wh</em>-words to form indefinites in certain limited environments, and that it can additionally use <em>wh</em>-words to form free choice items and a universal quantifier. In addition, Chuj uses <em>wh</em>-words to form free relatives, including definite free relatives but also typologically rare indefinite free relatives. We describe the licensing environments and structural size of these two types of free relatives and show that, despite surface similarities, they are two distinct constructions.",
-        "paper": {
-            "source": "/Users/mitcho/Dropbox/academic/projects/chuj/descriptive-paper/lingbuzz2.pdf",
-            "target": "/research/chuj-descriptive.pdf",
-            "event": "chuj-descriptive"
-        },
         "authorsHtml": [
             "<a href=\"http://hkotek.com\">Kotek, Hadas</a>",
             "<strong>Michael Yoshitaka Erlewine</strong>"
@@ -378,14 +546,8 @@
         ],
         "project": "wh",
         "files": [
-            {
-                "title": "Non-interrogative <em>wh</em>-constructions in Chuj",
-                "event": "chuj-descriptive",
-                "url": "/research/chuj-descriptive.pdf",
-                "type": "pdf"
-            }
-        ],
-        "url": "/research/chuj-descriptive.pdf"
+            
+        ]
     },
     {
         "citationKey": "talk:shi-eacl",
@@ -411,12 +573,12 @@
         "year": "2015",
         "abstract": "I investigate the semantics of <em>shì</em> 是 in its focus marker use. <em>Shì</em> associates with focus in declaratives, where it has been described as contributing \"emphasis\" or \"contrast\" and can also appear in questions. I argue that <em>shì</em> is a focus-sensitive adverb contributing <em>cleft semantics</em>, akin to the semantics of English <em>it</em>-clefts, requiring congruence to the Question Under Discussion. The semantics of \"cleft questions\" with <em>shì</em> is also explained.",
         "handout": {
-            "source": "/Users/mitcho/Dropbox (Personal)/academic/projects/shi/eacl/handout-2up.pdf",
+            "source": "/Users/mitcho/Dropbox/academic/projects/shi/eacl/handout-2up.pdf",
             "target": "/research/handout-shi-eacl.pdf",
             "event": "handout-shi-eacl"
         },
         "slides": {
-            "source": "/Users/mitcho/Dropbox (Personal)/academic/projects/shi/eacl/slides.pdf",
+            "source": "/Users/mitcho/Dropbox/academic/projects/shi/eacl/slides.pdf",
             "target": "/research/slides-shi-eacl.pdf",
             "event": "slides-shi-eacl"
         },
@@ -585,6 +747,7 @@
         "url": "http://comparatives.mit.edu/erlewine.pdf",
         "note": "Presented at the MIT Workshop on Comparatives",
         "year": "2010",
+        "abstract": "Recent analyses of the Mandarin bi comparative (Xiang 2005, Erlewine 2007, Lin 2009) assume a \"direct analysis\" à la Heim (1985) whereby the semantics of the comparative applies the single gradable predicate to both the standard and the target. In this talk I present a slew of evidence for syntactic dependencies (movement chains) which exist simultaneously between the predicate and the target and between the predicate and the standard. Both the target and the standard are thus shown to be independently dependent on the predicate of comparison—a hypothesis I dub \"Independent Dependency.\"",
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
         ],
@@ -1018,7 +1181,7 @@
         "citationKey": "talk:blocking-cns2014",
         "entryType": "unpublished",
         "keywords": [
-            "experiment",
+            "experimental",
             "English",
             "Japanese"
         ],
@@ -2013,7 +2176,7 @@
         "citationKey": "turktools",
         "entryType": "article",
         "keywords": [
-            "experiment",
+            "experimental",
             "tools"
         ],
         "authors": [
