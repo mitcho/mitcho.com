@@ -144,6 +144,11 @@ function convertItem(item) {
 				newItem.project = newItem.keywords[i].replace(/^project:/,'');
 				newItem.keywords.splice(i, 1);
 			}
+			
+			// srps is a magic keyword; hide it
+			if (newItem.keywords[i] === 'srps') {
+				newItem.keywords.splice(i, 1);
+			}
 		}
 	}
 	
