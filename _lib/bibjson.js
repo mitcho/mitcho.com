@@ -194,6 +194,10 @@ function convertItem(item) {
 		newItem[fileType] = newFile;
 				
 		var fileTitle = (associated ? 'Associated ' : '') + fileType;
+		// If we already have a url for the official paper, the associated paper is the preprint.
+		if ( associated && fileType == 'paper' && 
+			( newItem.entryType == 'article' || newItem.entryType == 'incollection' ) )
+			fileTitle = 'Preprint';
 		// Capitalize initial:
 		fileTitle = fileTitle.replace(/^(\w)/, function(x) {return x.toUpperCase();});
 		
