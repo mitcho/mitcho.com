@@ -7,4 +7,7 @@ body.nosidebar {
 		margin-left: $body-padding;
 		max-width: $content-width + $nav-width + ($col-padding * 2);
 	}
+	.site-footer {
+		display: none;
+	}
 }
