@@ -28,7 +28,7 @@
 {% endif %}
 
 {% if paper.journal != null %}
-In <em>{{paper.journal}}</em>{% if paper.volume != null %} {{paper.volume}}{% endif %}{{pages}}.
+In <em>{{paper.journal}}</em>{% if paper.volume != null %} {{paper.volume}}{% if paper.number != null %}:{{paper.number}}{% endif %}{% endif %}{{pages}}.
 {% endif %}
 
 {% if paper.booktitle != null %}
