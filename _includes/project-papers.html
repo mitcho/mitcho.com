@@ -2,7 +2,7 @@
 <ul class='research-group'>
 {% for paper in papers %}
 	{% unless paper.keywords contains 'hidden' %}
-	<li>{% include research-single-formal.html paper = paper projectlink = true %}</li>
+	<li>{% include research-single.html paper = paper projectlink = true short = true %}</li>
 	{% endunless %}
 {% endfor %}
 </ul>

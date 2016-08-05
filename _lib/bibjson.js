@@ -71,18 +71,24 @@ function parseAuthors(text) {
 	return authors;
 }
 
-function authorsHtml(authors) {
+function authorsHtml(authors, short) {
 	var html = [];
 	var first = true;
 	for ( i in authors ) {
 		var author = authors[i];
 		var item = '';
 		
-		if ( first ) {
-			item = author.name;
-			first = false;
+		if (short) {
+			item = author.lastName;
+			if ( item == 'van Urk' )
+				item = 'Van Urk';
 		} else {
-			item = author.displayName;
+			if ( first ) {
+				item = author.name;
+				first = false;
+			} else {
+				item = author.displayName;
+			}
 		}
 		
 // 		if ( authors.length > 1 && author.name == 'Erlewine, Michael Yoshitaka' )
@@ -131,6 +137,7 @@ function convertItem(item) {
 	if ('AUTHOR' in item.entryTags) {
 		newItem['authors'] = parseAuthors(cleanup(item.entryTags['AUTHOR']));
 		newItem['authorsHtml'] = authorsHtml(newItem['authors']);
+		newItem['shortHtml'] = authorsHtml(newItem['authors'], true);
 		newItem['othersHtml'] = othersHtml(newItem['authors']);
 	}
 

@@ -12,10 +12,20 @@
 {% capture pages %}{% if paper.pages != null %}, pages {{ paper.pages | replace:'--','&ndash;' }}{% endif %}{% endcapture %}
 
 {% if paper.authorsHtml != null %}
-	{% if paper.author-ja != null %}
-		{{ paper.author-ja }} [{{ paper.authorsHtml | array_to_sentence_string }}], {{paper.year}}.
+	{% if include.short != null and paper.authors.size == 1 %}
+		{{paper.year | capitalize}}.
 	{% else %}
-		{{ paper.authorsHtml | array_to_sentence_string }}, {{paper.year}}.
+		{% if include.short != null %}
+			{% assign authorsHtml = (paper.shortHtml | array_to_sentence_string) %}
+		{% else %}
+			{% assign authorsHtml = (paper.authorsHtml | array_to_sentence_string) %}
+		{% endif %}
+
+		{% if paper.author-ja != null %}
+			{{ paper.author-ja }} [{{ authorsHtml }}], {{paper.year}}.
+		{% else %}
+			{{ authorsHtml }}, {{paper.year}}.
+		{% endif %}
 	{% endif %}
 {% else %}
 	Edited by {{ paper.editorsHtml | array_to_sentence_string }}, {{paper.year}}.

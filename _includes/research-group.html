@@ -5,7 +5,7 @@
 <ul class='research-group'>
 {% for paper in include.papers %}
 	{% unless paper.keywords contains 'hidden' %}
-	<li>{% include research-single-simple.html paper = paper projectlink = true %}</li>
+	<li>{% include research-single.html paper = paper projectlink = true short = true %}</li>
 	{% endunless %}
 {% endfor %}
 </ul>

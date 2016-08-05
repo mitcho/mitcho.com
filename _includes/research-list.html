@@ -21,7 +21,7 @@
 {% for paper in site.data.bib sort_by:year order:descending %}
 	{% if paper.entryType == 'unpublished' %}
 	{% unless paper.keywords contains 'hidden' or paper.citationKey contains 'talk:' %}
-	<li>{% include research-single-simple.html paper = paper projectlink = true %}</li>
+	<li>{% include research-single.html paper = paper projectlink = true short = true %}</li>
 	{% endunless %}
 	{% endif %}
 {% endfor %}
@@ -32,7 +32,7 @@
 {% for paper in site.data.bib sort_by:year order:descending %}
 	{% if paper.entryType == 'unpublished' and paper.citationKey contains 'talk:' %}
 	{% unless paper.keywords contains 'hidden' %}
-	<li>{% include research-single-simple.html paper = paper projectlink = true %}</li>
+	<li>{% include research-single.html paper = paper projectlink = true short = true %}</li>
 	{% endunless %}
 	{% endif %}
 {% endfor %}

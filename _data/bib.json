@@ -35,7 +35,11 @@
         },
         "authorsHtml": [
             "Mizuno, Teruyuki",
-            "<strong>Michael Yoshitaka Erlewine</strong>"
+            "Michael Yoshitaka Erlewine"
+        ],
+        "shortHtml": [
+            "Mizuno",
+            "Erlewine"
         ],
         "othersHtml": [
             "Teruyuki Mizuno"
@@ -88,6 +92,9 @@
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
         ],
+        "shortHtml": [
+            "Erlewine"
+        ],
         "othersHtml": [
             
         ],
@@ -127,6 +134,9 @@
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
         ],
+        "shortHtml": [
+            "Erlewine"
+        ],
         "othersHtml": [
             
         ],
@@ -165,13 +175,17 @@
         "abstract": "We argue for the existence of covert focus movement in English focus association. Primary evidence comes from Tanglewood configurations of the form in Kratzer (1991). We show that Tanglewood configurations are island-sensitive, which is unpredicted by Kratzer&#8217;s focus-index proposal. We propose that Tanglewood configurations always involve covert movement of the overt focus&mdash;possibly with pied-piping (Drubig, 1994; Krifka, 2006; Wagner, 2006; Erlewine and Kotek, 2014)---to bind a bound variable in the ellipsis site. We show that covert focus movement is different from QR and can be long-distance.",
         "booktitle": "Proceedings of SALT XXVI",
         "authorsHtml": [
-            "<strong>Erlewine, Michael Yoshitaka</strong>",
+            "Erlewine, Michael Yoshitaka",
             "<a href=\"http://hkotek.com\">Hadas Kotek</a>"
+        ],
+        "shortHtml": [
+            "Erlewine",
+            "<a href=\"http://hkotek.com\">Kotek</a>"
         ],
         "othersHtml": [
             "<a href=\"http://hkotek.com\">Hadas Kotek</a>"
         ],
-        "project": "piedpiping",
+        "project": "focus-piedpiping",
         "files": [
             
         ]
@@ -210,13 +224,17 @@
         "year": "2016",
         "abstract": "We argue for the existence of covert focus movement in English focus association. Our evidence comes from Tanglewood configurations of the form in Kratzer 1991. We show that Tanglewood configurations are sensitive to syntactic islands, contrary to Kratzer&#8217;s claims and predictions. We propose that Tanglewood configurations always involve covert movement of the focused constituent&mdash;possibly with covert pied-piping (Drubig 1994; Krifka 1996, 2006; Tancredi 1997, 2004; Wagner 2006; Erlewine and Kotek 2014)---to bind a bound variable in the ellipsis site. This availability of covert pied-piping explains examples such as Kratzer&#8217;s which are apparently not island-sensitive. We show that covert focus movement is long-distance and not simply QR. Kratzer&#8217;s proposal that ellipsis enforces the identity of focus indices and many other previous approaches are shown to overgenerate Tanglewood readings.",
         "authorsHtml": [
-            "<strong>Erlewine, Michael Yoshitaka</strong>",
+            "Erlewine, Michael Yoshitaka",
             "<a href=\"http://hkotek.com\">Hadas Kotek</a>"
+        ],
+        "shortHtml": [
+            "Erlewine",
+            "<a href=\"http://hkotek.com\">Kotek</a>"
         ],
         "othersHtml": [
             "<a href=\"http://hkotek.com\">Hadas Kotek</a>"
         ],
-        "project": "piedpiping",
+        "project": "focus-piedpiping",
         "files": [
             {
                 "title": "Focus association by movement: Evidence from Tanglewood",
@@ -253,7 +271,7 @@
         "author": "Mizuno, Teruyuki and Erlewine, Michael Yoshitaka",
         "title": "<span lang=\"ja\">多重wh疑問文のペアリスト解釈とスルーシング</span> [Sluicing and the pair-list interpretation of multiple <em>wh</em>-questions]",
         "year": "2016",
-        "abstract": "<span lang=\"ja\">本稿では、日本語と英語における対比スルージング (contrast sluicing) を支配する制約を考察する。具体的には、多重 wh 疑問文が埋め込まれた構造における対比スルージングとそのペアリスト解釈の観察を基に、対比スルージングの認可に関与する意味的制約の解明を試みる。</span>",
+        "abstract": "<span lang=\"ja\">日本語と英語における対比スルージング (contrast sluicing) を支配する制約を考察する。具体的には、多重 wh 疑問文が埋め込まれた構造における対比スルージングとそのペアリスト解釈の観察を基に、対比スルージングの認可に関与する意味的制約の解明を試みる。</span>",
         "booktitle": "<span lang=\"ja\">日本言語学会第152回大会予稿集</span> [Proceedings of the 152nd meeting of the Linguistic Society of Japan]",
         "pages": "204--209",
         "paper": {
@@ -264,7 +282,11 @@
         "author-ja": "水野 輝之、アーリーワイン マイケル芳貴",
         "authorsHtml": [
             "Mizuno, Teruyuki",
-            "<strong>Michael Yoshitaka Erlewine</strong>"
+            "Michael Yoshitaka Erlewine"
+        ],
+        "shortHtml": [
+            "Mizuno",
+            "Erlewine"
         ],
         "othersHtml": [
             "Teruyuki Mizuno"
@@ -318,10 +340,13 @@
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
         ],
+        "shortHtml": [
+            "Erlewine"
+        ],
         "othersHtml": [
             
         ],
-        "project": "voice",
+        "project": "batak",
         "files": [
             {
                 "title": "Handout",
@@ -385,12 +410,16 @@
         },
         "authorsHtml": [
             "<a href=\"http://hkotek.com\">Kotek, Hadas</a>",
-            "<strong>Michael Yoshitaka Erlewine</strong>"
+            "Michael Yoshitaka Erlewine"
+        ],
+        "shortHtml": [
+            "<a href=\"http://hkotek.com\">Kotek</a>",
+            "Erlewine"
         ],
         "othersHtml": [
             "<a href=\"http://hkotek.com\">Hadas Kotek</a>"
         ],
-        "project": "wh",
+        "project": "free-relative",
         "files": [
             {
                 "title": "Unifying definite and indefinite free relatives: Evidence from Mayan",
@@ -448,6 +477,9 @@
         },
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
+        ],
+        "shortHtml": [
+            "Erlewine"
         ],
         "othersHtml": [
             
@@ -510,13 +542,17 @@
             "event": "handout-tanglewood"
         },
         "authorsHtml": [
-            "<strong>Erlewine, Michael Yoshitaka</strong>",
+            "Erlewine, Michael Yoshitaka",
             "<a href=\"http://hkotek.com\">Hadas Kotek</a>"
+        ],
+        "shortHtml": [
+            "Erlewine",
+            "<a href=\"http://hkotek.com\">Kotek</a>"
         ],
         "othersHtml": [
             "<a href=\"http://hkotek.com\">Hadas Kotek</a>"
         ],
-        "project": "piedpiping",
+        "project": "focus-piedpiping",
         "files": [
             {
                 "title": "Poster",
@@ -559,6 +595,9 @@
         "pages": "298--306",
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
+        ],
+        "shortHtml": [
+            "Erlewine"
         ],
         "othersHtml": [
             
@@ -621,12 +660,16 @@
         },
         "authorsHtml": [
             "<a href=\"http://hkotek.com\">Kotek, Hadas</a>",
-            "<strong>Michael Yoshitaka Erlewine</strong>"
+            "Michael Yoshitaka Erlewine"
+        ],
+        "shortHtml": [
+            "<a href=\"http://hkotek.com\">Kotek</a>",
+            "Erlewine"
         ],
         "othersHtml": [
             "<a href=\"http://hkotek.com\">Hadas Kotek</a>"
         ],
-        "project": "rc",
+        "project": "rppp",
         "files": [
             {
                 "title": "Intervention effects in relative pronoun pied-piping: experimental evidence",
@@ -684,6 +727,9 @@
         },
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
+        ],
+        "shortHtml": [
+            "Erlewine"
         ],
         "othersHtml": [
             
@@ -747,12 +793,16 @@
         },
         "authorsHtml": [
             "<a href=\"http://hkotek.com\">Kotek, Hadas</a>",
-            "<strong>Michael Yoshitaka Erlewine</strong>"
+            "Michael Yoshitaka Erlewine"
+        ],
+        "shortHtml": [
+            "<a href=\"http://hkotek.com\">Kotek</a>",
+            "Erlewine"
         ],
         "othersHtml": [
             "<a href=\"http://hkotek.com\">Hadas Kotek</a>"
         ],
-        "project": "wh",
+        "project": "free-relative",
         "files": [
             {
                 "title": "Handout",
@@ -794,7 +844,8 @@
             {
                 "name": "Gould, Isaac",
                 "lastName": "Gould",
-                "displayName": "Isaac Gould"
+                "displayName": "Isaac Gould",
+                "url": "https://linguistics.ku.edu/isaac-gould"
             }
         ],
         "author": "Erlewine, Michael Yoshitaka and Gould, Isaac",
@@ -807,13 +858,17 @@
             "event": "current"
         },
         "authorsHtml": [
-            "<strong>Erlewine, Michael Yoshitaka</strong>",
-            "Isaac Gould"
+            "Erlewine, Michael Yoshitaka",
+            "<a href=\"https://linguistics.ku.edu/isaac-gould\">Isaac Gould</a>"
+        ],
+        "shortHtml": [
+            "Erlewine",
+            "<a href=\"https://linguistics.ku.edu/isaac-gould\">Gould</a>"
         ],
         "othersHtml": [
-            "Isaac Gould"
+            "<a href=\"https://linguistics.ku.edu/isaac-gould\">Isaac Gould</a>"
         ],
-        "project": "rc",
+        "project": "japanese-rc",
         "files": [
             {
                 "title": "Unifying Japanese relative clauses: copy-chains and context-sensitivity",
@@ -863,13 +918,17 @@
             "event": "slides-tibetan-npi"
         },
         "authorsHtml": [
-            "<strong>Erlewine, Michael Yoshitaka</strong>",
+            "Erlewine, Michael Yoshitaka",
             "<a href=\"http://hkotek.com\">Hadas Kotek</a>"
+        ],
+        "shortHtml": [
+            "Erlewine",
+            "<a href=\"http://hkotek.com\">Kotek</a>"
         ],
         "othersHtml": [
             "<a href=\"http://hkotek.com\">Hadas Kotek</a>"
         ],
-        "project": "wh",
+        "project": "tibetan-npi",
         "files": [
             {
                 "title": "<em>Even</em>-NPIs in Dharamsala Tibetan",
@@ -924,13 +983,17 @@
             "event": "slides-tibetan-icolsi"
         },
         "authorsHtml": [
-            "<strong>Erlewine, Michael Yoshitaka</strong>",
+            "Erlewine, Michael Yoshitaka",
             "<a href=\"http://hkotek.com\">Hadas Kotek</a>"
+        ],
+        "shortHtml": [
+            "Erlewine",
+            "<a href=\"http://hkotek.com\">Kotek</a>"
         ],
         "othersHtml": [
             "<a href=\"http://hkotek.com\">Hadas Kotek</a>"
         ],
-        "project": "wh",
+        "project": "tibetan-npi",
         "files": [
             {
                 "title": "Slides",
@@ -973,12 +1036,16 @@
         "abstract": "This paper investigates non-interrogative uses of <em>wh</em>-words in Chuj, an understudied Mayan language of Guatemala. Cross-linguistically, <em>wh</em>-words are commonly used not only for question-formation but also in a range of other constructions, including in quantification and in the formation of relative clauses. We will show that Chuj can use <em>wh</em>-words to form indefinites in certain limited environments, and that it can additionally use <em>wh</em>-words to form free choice items and a universal quantifier. In addition, Chuj uses <em>wh</em>-words to form free relatives, including definite free relatives but also typologically rare indefinite free relatives. We describe the licensing environments and structural size of these two types of free relatives and show that, despite surface similarities, they are two distinct constructions.",
         "authorsHtml": [
             "<a href=\"http://hkotek.com\">Kotek, Hadas</a>",
-            "<strong>Michael Yoshitaka Erlewine</strong>"
+            "Michael Yoshitaka Erlewine"
+        ],
+        "shortHtml": [
+            "<a href=\"http://hkotek.com\">Kotek</a>",
+            "Erlewine"
         ],
         "othersHtml": [
             "<a href=\"http://hkotek.com\">Hadas Kotek</a>"
         ],
-        "project": "wh",
+        "project": "free-relative",
         "files": [
             
         ]
@@ -1018,6 +1085,9 @@
         },
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
+        ],
+        "shortHtml": [
+            "Erlewine"
         ],
         "othersHtml": [
             
@@ -1077,12 +1147,16 @@
         },
         "authorsHtml": [
             "<a href=\"http://hkotek.com\">Kotek, Hadas</a>",
-            "<strong>Michael Yoshitaka Erlewine</strong>"
+            "Michael Yoshitaka Erlewine"
+        ],
+        "shortHtml": [
+            "<a href=\"http://hkotek.com\">Kotek</a>",
+            "Erlewine"
         ],
         "othersHtml": [
             "<a href=\"http://hkotek.com\">Hadas Kotek</a>"
         ],
-        "project": "rc",
+        "project": "rppp",
         "files": [
             {
                 "title": "Relative pronoun pied-piping in English non-restrictive relatives",
@@ -1135,13 +1209,17 @@
             "event": "slides-rppp-sub"
         },
         "authorsHtml": [
-            "<strong>Erlewine, Michael Yoshitaka</strong>",
+            "Erlewine, Michael Yoshitaka",
             "<a href=\"http://hkotek.com\">Hadas Kotek</a>"
+        ],
+        "shortHtml": [
+            "Erlewine",
+            "<a href=\"http://hkotek.com\">Kotek</a>"
         ],
         "othersHtml": [
             "<a href=\"http://hkotek.com\">Hadas Kotek</a>"
         ],
-        "project": "rc",
+        "project": "rppp",
         "files": [
             {
                 "title": "Handout",
@@ -1184,6 +1262,9 @@
         "abstract": "Recent analyses of the Mandarin bi comparative (Xiang 2005, Erlewine 2007, Lin 2009) assume a \"direct analysis\" à la Heim (1985) whereby the semantics of the comparative applies the single gradable predicate to both the standard and the target. In this talk I present a slew of evidence for syntactic dependencies (movement chains) which exist simultaneously between the predicate and the target and between the predicate and the standard. Both the target and the standard are thus shown to be independently dependent on the predicate of comparison&mdash;a hypothesis I dub \"Independent Dependency.\"",
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
+        ],
+        "shortHtml": [
+            "Erlewine"
         ],
         "othersHtml": [
             
@@ -1241,8 +1322,12 @@
             "event": "slides-rppp-cls"
         },
         "authorsHtml": [
-            "<strong>Erlewine, Michael Yoshitaka</strong>",
+            "Erlewine, Michael Yoshitaka",
             "<a href=\"http://hkotek.com\">Hadas Kotek</a>"
+        ],
+        "shortHtml": [
+            "Erlewine",
+            "<a href=\"http://hkotek.com\">Kotek</a>"
         ],
         "othersHtml": [
             "<a href=\"http://hkotek.com\">Hadas Kotek</a>"
@@ -1299,7 +1384,7 @@
             "Betsy Pillion",
             "Jacob Phillips"
         ],
-        "project": "rc",
+        "project": "rppp",
         "files": [
             {
                 "title": "The structure and interpretation of non-restrictive relatives: Evidence from relative pronoun pied-piping",
@@ -1351,6 +1436,9 @@
         },
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
+        ],
+        "shortHtml": [
+            "Erlewine"
         ],
         "othersHtml": [
             
@@ -1413,6 +1501,9 @@
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
         ],
+        "shortHtml": [
+            "Erlewine"
+        ],
         "othersHtml": [
             
         ],
@@ -1463,13 +1554,17 @@
             "event": "slides-rppp"
         },
         "authorsHtml": [
-            "<strong>Erlewine, Michael Yoshitaka</strong>",
+            "Erlewine, Michael Yoshitaka",
             "<a href=\"http://hkotek.com\">Hadas Kotek</a>"
+        ],
+        "shortHtml": [
+            "Erlewine",
+            "<a href=\"http://hkotek.com\">Kotek</a>"
         ],
         "othersHtml": [
             "<a href=\"http://hkotek.com\">Hadas Kotek</a>"
         ],
-        "project": "rc",
+        "project": "rppp",
         "files": [
             {
                 "title": "Slides",
@@ -1508,7 +1603,7 @@
             }
         ],
         "editorsHtml": [
-            "<strong>Erlewine, Michael Yoshitaka</strong>",
+            "Erlewine, Michael Yoshitaka",
             "<a href=\"http://web.mit.edu/ysudo/www/\">Yasutada Sudo</a>"
         ],
         "files": [
@@ -1548,6 +1643,9 @@
         "abstract": "In this paper I show that focus-sensitive adverbs in Vietnamese and Mandarin Chinese are required to be as low as possible in their phase while c-commanding their focus associate. This generalization parallels what has been proposed under one approach to German focus-sensitive particles by Jacobs (1983, 1986) and Büring and Hartmann (2001) under the banner of &#8220;Closeness,&#8221; but these analyses have been controversial. This &#8216;&#8216;as low as possible&#8221; behavior must result from the comparison of competing derivations, which I model using Optimality Theory. The fact that this requirement only holds within each phase shows that transderivational competition must be evaluated cyclically at each phase (Heck and Müller, 2001; Fanselow and Ćavar, 2001), and more generally offers a new kind of evidence for the idea of phase-based cyclic Spell Out (Chomsky, 2000, 2001).\n\nIn Vietnamese, I study the &#8216;only&#8217; operator <em>chỉ</em>. Vietnamese has a morphologically rich inventory of focus-sensitive operators which makes it clear that <em>chỉ</em> is an adverb. In Mandarin Chinese, I study the focus marker <em>shì</em> and the &#8216;only&#8217; operator <em>zhǐyǒu/zhǐ</em>. I argue that in the synchronic grammar of Mandarin, despite surface appearances, <em>zhǐyǒu</em> is an allomorph of <em>zhǐ</em> and that both <em>shì</em> and <em>zhǐyǒu/zhǐ</em> are adverbs.",
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
+        ],
+        "shortHtml": [
+            "Erlewine"
         ],
         "othersHtml": [
             
@@ -1595,6 +1693,9 @@
         },
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
+        ],
+        "shortHtml": [
+            "Erlewine"
         ],
         "othersHtml": [
             
@@ -1678,7 +1779,7 @@
         "year": "2014",
         "authorsHtml": [
             "Hisagi, Miwako",
-            "<strong>Michael Yoshitaka Erlewine</strong>",
+            "Michael Yoshitaka Erlewine",
             "Sachiko Kato",
             "<a href=\"http://hkotek.com\">Hadas Kotek</a>",
             "Ayaka Sugawara",
@@ -1686,6 +1787,17 @@
             "Dimitrios Pantazis",
             "Masatoshi Koizumi",
             "Shigeru Miyagawa"
+        ],
+        "shortHtml": [
+            "Hisagi",
+            "Erlewine",
+            "Kato",
+            "<a href=\"http://hkotek.com\">Kotek</a>",
+            "Sugawara",
+            "Yasunaga",
+            "Pantazis",
+            "Koizumi",
+            "Miyagawa"
         ],
         "othersHtml": [
             "Miwako Hisagi",
@@ -1735,8 +1847,12 @@
             "event": "slides-blocking-lsa2014"
         },
         "authorsHtml": [
-            "<strong>Erlewine, Michael Yoshitaka</strong>",
+            "Erlewine, Michael Yoshitaka",
             "<a href=\"http://hkotek.com\">Hadas Kotek</a>"
+        ],
+        "shortHtml": [
+            "Erlewine",
+            "<a href=\"http://hkotek.com\">Kotek</a>"
         ],
         "othersHtml": [
             "<a href=\"http://hkotek.com\">Hadas Kotek</a>"
@@ -1775,6 +1891,9 @@
         "pages": "7--8",
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
+        ],
+        "shortHtml": [
+            "Erlewine"
         ],
         "othersHtml": [
             
@@ -1828,6 +1947,9 @@
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
         ],
+        "shortHtml": [
+            "Erlewine"
+        ],
         "othersHtml": [
             
         ],
@@ -1879,6 +2001,9 @@
         },
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
+        ],
+        "shortHtml": [
+            "Erlewine"
         ],
         "othersHtml": [
             
@@ -1933,6 +2058,9 @@
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
         ],
+        "shortHtml": [
+            "Erlewine"
+        ],
         "othersHtml": [
             
         ],
@@ -1985,9 +2113,14 @@
         "booktitle": "Oxford Handbook of Ergativity",
         "publisher": "Oxford University Press",
         "authorsHtml": [
-            "<strong>Erlewine, Michael Yoshitaka</strong>",
+            "Erlewine, Michael Yoshitaka",
             "<a href=\"https://sites.google.com/site/tfranklevin/\">Theodore Levin</a>",
             "<a href=\"http://web.mit.edu/cvanurk/www/\">Coppe van Urk</a>"
+        ],
+        "shortHtml": [
+            "Erlewine",
+            "<a href=\"https://sites.google.com/site/tfranklevin/\">Levin</a>",
+            "<a href=\"http://web.mit.edu/cvanurk/www/\">Van Urk</a>"
         ],
         "othersHtml": [
             "<a href=\"https://sites.google.com/site/tfranklevin/\">Theodore Levin</a>",
@@ -2073,9 +2206,14 @@
         },
         "publisher": "Asia-Pacific Linguistics",
         "authorsHtml": [
-            "<strong>Erlewine, Michael Yoshitaka</strong>",
+            "Erlewine, Michael Yoshitaka",
             "<a href=\"https://sites.google.com/site/tfranklevin/\">Theodore Levin</a>",
             "<a href=\"http://web.mit.edu/cvanurk/www/\">Coppe van Urk</a>"
+        ],
+        "shortHtml": [
+            "Erlewine",
+            "<a href=\"https://sites.google.com/site/tfranklevin/\">Levin</a>",
+            "<a href=\"http://web.mit.edu/cvanurk/www/\">Van Urk</a>"
         ],
         "othersHtml": [
             "<a href=\"https://sites.google.com/site/tfranklevin/\">Theodore Levin</a>",
@@ -2166,10 +2304,13 @@
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
         ],
+        "shortHtml": [
+            "Erlewine"
+        ],
         "othersHtml": [
             
         ],
-        "project": "voice",
+        "project": "atayal",
         "files": [
             {
                 "title": "Subject marking on non-subjects in Squliq Atayal",
@@ -2210,10 +2351,13 @@
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
         ],
+        "shortHtml": [
+            "Erlewine"
+        ],
         "othersHtml": [
             
         ],
-        "project": "kaqchikel",
+        "project": "that-trace",
         "files": [
             {
                 "title": "Why the null complementizer is special in the English <em>that</em>-trace effect",
@@ -2257,6 +2401,9 @@
         },
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
+        ],
+        "shortHtml": [
+            "Erlewine"
         ],
         "othersHtml": [
             
@@ -2340,6 +2487,9 @@
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
         ],
+        "shortHtml": [
+            "Erlewine"
+        ],
         "othersHtml": [
             
         ],
@@ -2397,6 +2547,9 @@
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
         ],
+        "shortHtml": [
+            "Erlewine"
+        ],
         "othersHtml": [
             
         ],
@@ -2431,7 +2584,8 @@
             {
                 "name": "Gould, Isaac",
                 "lastName": "Gould",
-                "displayName": "Isaac Gould"
+                "displayName": "Isaac Gould",
+                "url": "https://linguistics.ku.edu/isaac-gould"
             }
         ],
         "author": "Erlewine, Michael Yoshitaka and Gould, Isaac",
@@ -2443,11 +2597,15 @@
         "booktitle": "Proceedings of the 31st West Coast Conference on Formal Linguistics (WCCFL 31)",
         "pages": "160--169",
         "authorsHtml": [
-            "<strong>Erlewine, Michael Yoshitaka</strong>",
-            "Isaac Gould"
+            "Erlewine, Michael Yoshitaka",
+            "<a href=\"https://linguistics.ku.edu/isaac-gould\">Isaac Gould</a>"
+        ],
+        "shortHtml": [
+            "Erlewine",
+            "<a href=\"https://linguistics.ku.edu/isaac-gould\">Gould</a>"
         ],
         "othersHtml": [
-            "Isaac Gould"
+            "<a href=\"https://linguistics.ku.edu/isaac-gould\">Isaac Gould</a>"
         ],
         "editors": [
             {
@@ -2459,7 +2617,7 @@
         "editorsHtml": [
             "Santana-LaBarge, Robert E."
         ],
-        "project": "rc",
+        "project": "japanese-rc",
         "files": [
             {
                 "title": "Interpreting Japanese Head-Internal Relative Clauses",
@@ -2507,7 +2665,11 @@
         },
         "authorsHtml": [
             "<a href=\"http://hkotek.com\">Kotek, Hadas</a>",
-            "<strong>Michael Yoshitaka Erlewine</strong>"
+            "Michael Yoshitaka Erlewine"
+        ],
+        "shortHtml": [
+            "<a href=\"http://hkotek.com\">Kotek</a>",
+            "Erlewine"
         ],
         "othersHtml": [
             "<a href=\"http://hkotek.com\">Hadas Kotek</a>"
@@ -2565,6 +2727,9 @@
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
         ],
+        "shortHtml": [
+            "Erlewine"
+        ],
         "othersHtml": [
             
         ],
@@ -2615,6 +2780,9 @@
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
         ],
+        "shortHtml": [
+            "Erlewine"
+        ],
         "othersHtml": [
             
         ],
@@ -2662,8 +2830,12 @@
             "event": "current"
         },
         "authorsHtml": [
-            "<strong>Erlewine, Michael Yoshitaka</strong>",
+            "Erlewine, Michael Yoshitaka",
             "<a href=\"http://hkotek.com\">Hadas Kotek</a>"
+        ],
+        "shortHtml": [
+            "Erlewine",
+            "<a href=\"http://hkotek.com\">Kotek</a>"
         ],
         "othersHtml": [
             "<a href=\"http://hkotek.com\">Hadas Kotek</a>"
@@ -2717,6 +2889,9 @@
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
         ],
+        "shortHtml": [
+            "Erlewine"
+        ],
         "othersHtml": [
             
         ],
@@ -2764,6 +2939,9 @@
         },
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
+        ],
+        "shortHtml": [
+            "Erlewine"
         ],
         "othersHtml": [
             
@@ -2825,8 +3003,12 @@
             "event": "slides-focus-piedpiping"
         },
         "authorsHtml": [
-            "<strong>Erlewine, Michael Yoshitaka</strong>",
+            "Erlewine, Michael Yoshitaka",
             "<a href=\"http://hkotek.com\">Hadas Kotek</a>"
+        ],
+        "shortHtml": [
+            "Erlewine",
+            "<a href=\"http://hkotek.com\">Kotek</a>"
         ],
         "othersHtml": [
             "<a href=\"http://hkotek.com\">Hadas Kotek</a>"
@@ -2853,7 +3035,7 @@
             "Ethan Poole",
             "Amanda Rysling"
         ],
-        "project": "piedpiping",
+        "project": "focus-piedpiping",
         "files": [
             {
                 "title": "Handout",
@@ -2917,7 +3099,11 @@
         },
         "authorsHtml": [
             "<a href=\"http://hkotek.com\">Kotek, Hadas</a>",
-            "<strong>Michael Yoshitaka Erlewine</strong>"
+            "Michael Yoshitaka Erlewine"
+        ],
+        "shortHtml": [
+            "<a href=\"http://hkotek.com\">Kotek</a>",
+            "Erlewine"
         ],
         "othersHtml": [
             "<a href=\"http://hkotek.com\">Hadas Kotek</a>"
@@ -2972,6 +3158,9 @@
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
         ],
+        "shortHtml": [
+            "Erlewine"
+        ],
         "othersHtml": [
             
         ],
@@ -3021,6 +3210,9 @@
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
         ],
+        "shortHtml": [
+            "Erlewine"
+        ],
         "othersHtml": [
             
         ],
@@ -3067,6 +3259,9 @@
         },
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
+        ],
+        "shortHtml": [
+            "Erlewine"
         ],
         "othersHtml": [
             
@@ -3150,6 +3345,9 @@
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
         ],
+        "shortHtml": [
+            "Erlewine"
+        ],
         "othersHtml": [
             
         ],
@@ -3190,6 +3388,9 @@
         },
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
+        ],
+        "shortHtml": [
+            "Erlewine"
         ],
         "othersHtml": [
             
@@ -3280,6 +3481,9 @@
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
         ],
+        "shortHtml": [
+            "Erlewine"
+        ],
         "othersHtml": [
             
         ],
@@ -3320,6 +3524,9 @@
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
         ],
+        "shortHtml": [
+            "Erlewine"
+        ],
         "othersHtml": [
             
         ],
@@ -3357,6 +3564,9 @@
         "year": "2009",
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
+        ],
+        "shortHtml": [
+            "Erlewine"
         ],
         "othersHtml": [
             
@@ -3397,6 +3607,9 @@
         },
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
+        ],
+        "shortHtml": [
+            "Erlewine"
         ],
         "othersHtml": [
             
