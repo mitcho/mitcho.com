@@ -1,0 +1,8 @@
+{% assign papers = (site.data.bib | where: "project", include.project | order: "year" | reverse) %}
+<ul class='research-group'>
+{% for paper in papers %}
+	{% unless paper.keywords contains 'hidden' %}
+	<li>{% include research-single-formal.html paper = paper projectlink = true %}</li>
+	{% endunless %}
+{% endfor %}
+</ul>

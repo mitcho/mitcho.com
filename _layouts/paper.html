@@ -18,7 +18,12 @@ layout: default
 		</div>
 		
 		{% if paper.project != null %}
-		<p class='post-meta'><strong>Project:</strong> <a class='pill' href='/projects/#{{ paper.project | uri_escape }}'>{{ site.data.projects[paper.project]['title'] | markdownify | replace: '<p>','' | replace: '</p>','' }}</a></p>
+		{% assign projects = (site.pages | where_exp:"page","page.projects contains paper.project") %}
+		<p class='post-meta'><strong>Project{% if projects.length > 1 %}s{% endif %}:</strong> 
+			{% for project in projects %}
+<a class='pill' href='{{ project.url | urlescape }}'>{{ project.title | markdownify | replace: '<p>','' | replace: '</p>','' }}</a> 
+			{% endfor %}
+		</p>
 		{% endif %}
 		
 		{% if paper.abstract %}
