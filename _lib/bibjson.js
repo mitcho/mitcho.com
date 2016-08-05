@@ -19,6 +19,7 @@ var authorUrls = {
 	'Levin, Theodore': 'https://sites.google.com/site/tfranklevin/',
 	'Kotek, Hadas': 'http://hkotek.com',
 	'Sudo, Yasutada': 'http://web.mit.edu/ysudo/www/',
+	'Gould, Isaac': 'https://linguistics.ku.edu/isaac-gould'
 };
 
 function cleanup(text) {
