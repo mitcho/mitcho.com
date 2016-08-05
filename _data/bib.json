@@ -1,7 +1,346 @@
 [
     {
-        "citationKey": "talk:chuj-lsa",
+        "citationKey": "talk:sluicing-keio",
         "entryType": "unpublished",
+        "keywords": [
+            "sluicing",
+            "focus",
+            "questions",
+            "ellipsis",
+            "syntax",
+            "semantics",
+            "Japanese"
+        ],
+        "authors": [
+            {
+                "name": "Mizuno, Teruyuki",
+                "lastName": "Mizuno",
+                "displayName": "Teruyuki Mizuno"
+            },
+            {
+                "name": "Erlewine, Michael Yoshitaka",
+                "lastName": "Erlewine",
+                "displayName": "Michael Yoshitaka Erlewine"
+            }
+        ],
+        "author": "Mizuno, Teruyuki and Erlewine, Michael Yoshitaka",
+        "title": "Contrast sluicing and complementary questions",
+        "note": "Presented at Theoretical Linguistics at Keio 2016",
+        "year": "2016",
+        "abstract": "We investigate the constraints that govern contrast sluicing in Japanese and English. We will introduce the notion of a <em>complementary question</em>, which is central to the licensing of contrast sluicing. For the first time, we discuss contrast sluicing between multiple <em>wh</em> question antecedent and slucing clauses, and observe a curious pattern of grammaticality in Japanese. This pattern constitutes a puzzle for the LF syntax of sluicing and/or pair-list multiple <em>wh</em> questions.\n",
+        "handout": {
+            "source": "/Users/mitcho/Dropbox/academic/projects/multiple-wh-sluicing/keio/handout.pdf",
+            "target": "/research/handout-sluicing-keio.pdf",
+            "event": "handout-sluicing-keio"
+        },
+        "authorsHtml": [
+            "Mizuno, Teruyuki",
+            "<strong>Michael Yoshitaka Erlewine</strong>"
+        ],
+        "othersHtml": [
+            "Teruyuki Mizuno"
+        ],
+        "project": "contrast-sluicing",
+        "files": [
+            {
+                "title": "Handout",
+                "event": "handout-sluicing-keio",
+                "url": "/research/handout-sluicing-keio.pdf",
+                "type": "pdf"
+            }
+        ],
+        "url": "/research/handout-sluicing-keio.pdf"
+    },
+    {
+        "citationKey": "talk:shi-keio",
+        "entryType": "unpublished",
+        "keywords": [
+            "focus",
+            "Mandarin Chinese",
+            "semantics",
+            "pragmatics",
+            "questions",
+            "cleft",
+            "QUD"
+        ],
+        "authors": [
+            {
+                "name": "Erlewine, Michael Yoshitaka",
+                "lastName": "Erlewine",
+                "displayName": "Michael Yoshitaka Erlewine"
+            }
+        ],
+        "author": "Erlewine, Michael Yoshitaka",
+        "title": "Encoding QUD congruence in Mandarin Chinese",
+        "note": "Presented at Theoretical Linguistics at Keio 2016",
+        "year": "2016",
+        "abstract": "I report on a particle in Mandarin Chinese which grammatically encodes congruence with an accepted Question Under Discussion (QUD). This is the marker <em>shì</em> in its so-called “focus marker” use (Teng, 1979, a.o.). This results in cleft semantics as in Velleman et al. (2012). I unify the behavior of <em>shì</em> in declaratives with the understudied behavior of <em>shì</em> in questions. I discuss the syntax/semantics of QUD congruence and differences between the distribution of <em>shì</em> and &#8216;only.’",
+        "handout": {
+            "source": "/Users/mitcho/Dropbox/academic/projects/shi/keio/handout-2up.pdf",
+            "target": "/research/handout-shi-keio.pdf",
+            "event": "handout-shi-keio"
+        },
+        "slides": {
+            "source": "/Users/mitcho/Dropbox/academic/projects/shi/keio/slides-trans.pdf",
+            "target": "/research/slides-shi-keio.pdf",
+            "event": "slides-shi-keio"
+        },
+        "authorsHtml": [
+            "Erlewine, Michael Yoshitaka"
+        ],
+        "othersHtml": [
+            
+        ],
+        "project": "clefts",
+        "files": [
+            {
+                "title": "Handout",
+                "event": "handout-shi-keio",
+                "url": "/research/handout-shi-keio.pdf",
+                "type": "pdf"
+            },
+            {
+                "title": "Slides",
+                "event": "slides-shi-keio",
+                "url": "/research/slides-shi-keio.pdf",
+                "type": "pdf"
+            }
+        ],
+        "url": "/research/handout-shi-keio.pdf"
+    },
+    {
+        "citationKey": "focus-adverbs",
+        "entryType": "unpublished",
+        "keywords": [
+            "hidden"
+        ],
+        "authors": [
+            {
+                "name": "Erlewine, Michael Yoshitaka",
+                "lastName": "Erlewine",
+                "displayName": "Michael Yoshitaka Erlewine"
+            }
+        ],
+        "author": "Erlewine, Michael Yoshitaka",
+        "title": "Focus-sensitive adverbs in Mandarin Chinese",
+        "year": "in progress",
+        "authorsHtml": [
+            "Erlewine, Michael Yoshitaka"
+        ],
+        "othersHtml": [
+            
+        ],
+        "files": [
+            
+        ]
+    },
+    {
+        "citationKey": "tanglewood-salt",
+        "entryType": "inproceedings",
+        "keywords": [
+            "semantics",
+            "Tanglewood",
+            "focus",
+            "covert movement",
+            "covert pied-piping",
+            "only",
+            "Association with Focus"
+        ],
+        "authors": [
+            {
+                "name": "Erlewine, Michael Yoshitaka",
+                "lastName": "Erlewine",
+                "displayName": "Michael Yoshitaka Erlewine"
+            },
+            {
+                "name": "Kotek, Hadas",
+                "lastName": "Kotek",
+                "displayName": "Hadas Kotek",
+                "url": "http://hkotek.com"
+            }
+        ],
+        "author": "Erlewine, Michael Yoshitaka and Kotek, Hadas",
+        "title": "<em>Tanglewood</em> untangled",
+        "year": "to appear",
+        "abstract": "We argue for the existence of covert focus movement in English focus association. Primary evidence comes from Tanglewood configurations of the form in Kratzer (1991). We show that Tanglewood configurations are island-sensitive, which is unpredicted by Kratzer&#8217;s focus-index proposal. We propose that Tanglewood configurations always involve covert movement of the overt focus&mdash;possibly with pied-piping (Drubig, 1994; Krifka, 2006; Wagner, 2006; Erlewine and Kotek, 2014)---to bind a bound variable in the ellipsis site. We show that covert focus movement is different from QR and can be long-distance.",
+        "booktitle": "Proceedings of SALT XXVI",
+        "authorsHtml": [
+            "<strong>Erlewine, Michael Yoshitaka</strong>",
+            "<a href=\"http://hkotek.com\">Hadas Kotek</a>"
+        ],
+        "othersHtml": [
+            "<a href=\"http://hkotek.com\">Hadas Kotek</a>"
+        ],
+        "project": "piedpiping",
+        "files": [
+            
+        ]
+    },
+    {
+        "citationKey": "tanglewood",
+        "entryType": "unpublished",
+        "keywords": [
+            "semantics",
+            "syntax",
+            "covert focus movement",
+            "covert pied-piping",
+            "island-sensitivity",
+            "variable binding",
+            "only",
+            "focus",
+            "Association with Focus"
+        ],
+        "authors": [
+            {
+                "name": "Erlewine, Michael Yoshitaka",
+                "lastName": "Erlewine",
+                "displayName": "Michael Yoshitaka Erlewine"
+            },
+            {
+                "name": "Kotek, Hadas",
+                "lastName": "Kotek",
+                "displayName": "Hadas Kotek",
+                "url": "http://hkotek.com"
+            }
+        ],
+        "author": "Erlewine, Michael Yoshitaka and Kotek, Hadas",
+        "title": "Focus association by movement: Evidence from Tanglewood",
+        "url": "http://ling.auf.net/lingbuzz/003068/current.pdf",
+        "note": "Manuscript, National University of Singapore and McGill University",
+        "year": "2016",
+        "abstract": "We argue for the existence of covert focus movement in English focus association. Our evidence comes from Tanglewood configurations of the form in Kratzer 1991. We show that Tanglewood configurations are sensitive to syntactic islands, contrary to Kratzer&#8217;s claims and predictions. We propose that Tanglewood configurations always involve covert movement of the focused constituent&mdash;possibly with covert pied-piping (Drubig 1994; Krifka 1996, 2006; Tancredi 1997, 2004; Wagner 2006; Erlewine and Kotek 2014)---to bind a bound variable in the ellipsis site. This availability of covert pied-piping explains examples such as Kratzer&#8217;s which are apparently not island-sensitive. We show that covert focus movement is long-distance and not simply QR. Kratzer&#8217;s proposal that ellipsis enforces the identity of focus indices and many other previous approaches are shown to overgenerate Tanglewood readings.",
+        "authorsHtml": [
+            "<strong>Erlewine, Michael Yoshitaka</strong>",
+            "<a href=\"http://hkotek.com\">Hadas Kotek</a>"
+        ],
+        "othersHtml": [
+            "<a href=\"http://hkotek.com\">Hadas Kotek</a>"
+        ],
+        "project": "piedpiping",
+        "files": [
+            {
+                "title": "Focus association by movement: Evidence from Tanglewood",
+                "event": "tanglewood",
+                "url": "http://ling.auf.net/lingbuzz/003068/current.pdf",
+                "type": "pdf"
+            }
+        ]
+    },
+    {
+        "citationKey": "sluicing-lsj",
+        "entryType": "inproceedings",
+        "keywords": [
+            "sluicing",
+            "focus",
+            "questions",
+            "ellipsis",
+            "syntax",
+            "semantics",
+            "Japanese"
+        ],
+        "authors": [
+            {
+                "name": "Mizuno, Teruyuki",
+                "lastName": "Mizuno",
+                "displayName": "Teruyuki Mizuno"
+            },
+            {
+                "name": "Erlewine, Michael Yoshitaka",
+                "lastName": "Erlewine",
+                "displayName": "Michael Yoshitaka Erlewine"
+            }
+        ],
+        "author": "Mizuno, Teruyuki and Erlewine, Michael Yoshitaka",
+        "title": "<span lang=\"ja\">多重wh疑問文のペアリスト解釈とスルーシング</span> [Sluicing and the pair-list interpretation of multiple <em>wh</em>-questions]",
+        "year": "2016",
+        "abstract": "<span lang=\"ja\">本稿では、日本語と英語における対比スルージング (contrast sluicing) を支配する制約を考察する。具体的には、多重 wh 疑問文が埋め込まれた構造における対比スルージングとそのペアリスト解釈の観察を基に、対比スルージングの認可に関与する意味的制約の解明を試みる。</span>",
+        "booktitle": "<span lang=\"ja\">日本言語学会第152回大会予稿集</span> [Proceedings of the 152nd meeting of the Linguistic Society of Japan]",
+        "pages": "204--209",
+        "paper": {
+            "source": "/Users/mitcho/Dropbox/academic/projects/multiple-wh-sluicing/LSJ/E-7_152.pdf",
+            "target": "/research/sluicing-lsj.pdf",
+            "event": "sluicing-lsj"
+        },
+        "author-ja": "水野 輝之、アーリーワイン マイケル芳貴",
+        "authorsHtml": [
+            "Mizuno, Teruyuki",
+            "<strong>Michael Yoshitaka Erlewine</strong>"
+        ],
+        "othersHtml": [
+            "Teruyuki Mizuno"
+        ],
+        "project": "contrast-sluicing",
+        "files": [
+            {
+                "title": "<span lang=\"ja\">多重wh疑問文のペアリスト解釈とスルーシング</span> [Sluicing and the pair-list interpretation of multiple <em>wh</em>-questions]",
+                "event": "sluicing-lsj",
+                "url": "/research/sluicing-lsj.pdf",
+                "type": "pdf"
+            }
+        ],
+        "url": "/research/sluicing-lsj.pdf",
+        "pageRange": [
+            "204",
+            "209"
+        ]
+    },
+    {
+        "citationKey": "talk:batak-afla",
+        "entryType": "unpublished",
+        "keywords": [
+            "Austronesian",
+            "Austronesian voice",
+            "A'",
+            "Toba Batak"
+        ],
+        "authors": [
+            {
+                "name": "Erlewine, Michael Yoshitaka",
+                "lastName": "Erlewine",
+                "displayName": "Michael Yoshitaka Erlewine"
+            }
+        ],
+        "author": "Erlewine, Michael Yoshitaka",
+        "title": "Multiple extraction and voice in Toba Batak",
+        "note": "Presented at AFLA 23",
+        "year": "2016",
+        "abstract": "Toba Batak has a Malay/Indonesian-type two-way voice system and is thought to only allow extraction of one DP at a time (Cole and Hermon, 2008). I show that it is possible to simultaneously extract multiple DPs to the left-periphery, but only if they are formally focused (<em>wh</em> or <em>only</em>). Such patterns of possible multiple extractions motivate <em>CT-splitting</em> (Martinović, 2015; Aldridge, 2015): CT starts as a single head, but sometimes splits. In particular, I propose that different probes are associated with C and T, but they must first probe together from the joint CT head, and split into C and T if no target is found. Furthermore I show that when multiple DPs are fronted, voice morphology tracks the DP moved to immediately preverbal position. ",
+        "handout": {
+            "source": "/Users/mitcho/Dropbox/academic/projects/batak/afla2016/handout-2up.pdf",
+            "target": "/research/handout-batak-afla.pdf",
+            "event": "handout-batak-afla"
+        },
+        "slides": {
+            "source": "/Users/mitcho/Dropbox/academic/projects/batak/afla2016/slides-trans.pdf",
+            "target": "/research/slides-batak-afla.pdf",
+            "event": "slides-batak-afla"
+        },
+        "authorsHtml": [
+            "Erlewine, Michael Yoshitaka"
+        ],
+        "othersHtml": [
+            
+        ],
+        "project": "voice",
+        "files": [
+            {
+                "title": "Handout",
+                "event": "handout-batak-afla",
+                "url": "/research/handout-batak-afla.pdf",
+                "type": "pdf"
+            },
+            {
+                "title": "Slides",
+                "event": "slides-batak-afla",
+                "url": "/research/slides-batak-afla.pdf",
+                "type": "pdf"
+            }
+        ],
+        "url": "/research/handout-batak-afla.pdf"
+    },
+    {
+        "citationKey": "chuj-nels",
+        "entryType": "inproceedings",
         "keywords": [
             "free relative",
             "relative clause",
@@ -26,18 +365,23 @@
         ],
         "author": "Kotek, Hadas and Erlewine, Michael Yoshitaka",
         "title": "Unifying definite and indefinite free relatives: Evidence from Mayan",
-        "note": "Presented at LSA 90",
-        "year": "2016",
-        "abstract": "We investigate definite and indefinite free relatives in Chuj, a Mayan language of Guatemala. Indefinite free relatives in Chuj are equivalent in size to definite free relatives, contrary to a well-supported conjecture by Šimík (2011) that indefinite free relatives are always reduced clauses (specifically, modal existential <em>wh</em>-constructions). We show that the non-island status of indefinite free relatives is due to their being CPs without a DP layer; it is not the case that extraction out of relative clauses on indefinites can somehow proceed without island violations.",
+        "year": "in press",
+        "abstract": "We investigate definite and indefinite free relatives in Chuj, a Mayan language of Guatemala. Indefinite free relatives in Chuj are equivalent in size to definite free relatives, contrary to a well-supported conjecture by Šimík (2011) that indefinite free relatives are always reduced clauses (specifically, modal existential <em>wh</em>-constructions). We show that the non-island status of indefinite free relatives is due to their being CPs without a DP layer; it is not the case that extraction out of relative clauses on indefinites can somehow proceed without island violations. We also present supporting evidence from two other Mayan languages, Yucatec Maya and Kaqchikel.",
+        "booktitle": "Proceedings of NELS 46",
+        "paper": {
+            "source": "/Users/mitcho/Dropbox/academic/projects/chuj/nels2015/nels-paper/nels-paper.pdf",
+            "target": "/research/chuj-nels.pdf",
+            "event": "chuj-nels"
+        },
         "handout": {
             "source": "/Users/mitcho/Dropbox/academic/projects/chuj/lsa2016/slides/handout-2up.pdf",
-            "target": "/research/handout-chuj-lsa.pdf",
-            "event": "handout-chuj-lsa"
+            "target": "/research/handout-chuj-nels.pdf",
+            "event": "handout-chuj-nels"
         },
         "slides": {
             "source": "/Users/mitcho/Dropbox/academic/projects/chuj/lsa2016/slides/slides-trans.pdf",
-            "target": "/research/slides-chuj-lsa.pdf",
-            "event": "slides-chuj-lsa"
+            "target": "/research/slides-chuj-nels.pdf",
+            "event": "slides-chuj-nels"
         },
         "authorsHtml": [
             "<a href=\"http://hkotek.com\">Kotek, Hadas</a>",
@@ -49,19 +393,145 @@
         "project": "wh",
         "files": [
             {
-                "title": "Handout",
-                "event": "handout-chuj-lsa",
-                "url": "/research/handout-chuj-lsa.pdf",
+                "title": "Unifying definite and indefinite free relatives: Evidence from Mayan",
+                "event": "chuj-nels",
+                "url": "/research/chuj-nels.pdf",
                 "type": "pdf"
             },
             {
-                "title": "Slides",
-                "event": "slides-chuj-lsa",
-                "url": "/research/slides-chuj-lsa.pdf",
+                "title": "Associated handout",
+                "event": "handout-chuj-nels",
+                "url": "/research/handout-chuj-nels.pdf",
+                "type": "pdf"
+            },
+            {
+                "title": "Associated slides",
+                "event": "slides-chuj-nels",
+                "url": "/research/slides-chuj-nels.pdf",
                 "type": "pdf"
             }
         ],
-        "url": "/research/handout-chuj-lsa.pdf"
+        "url": "/research/chuj-nels.pdf"
+    },
+    {
+        "citationKey": "talk:even",
+        "entryType": "unpublished",
+        "keywords": [
+            "semantics",
+            "even",
+            "presupposition",
+            "focus",
+            "ACD",
+            "copy theory"
+        ],
+        "authors": [
+            {
+                "name": "Erlewine, Michael Yoshitaka",
+                "lastName": "Erlewine",
+                "displayName": "Michael Yoshitaka Erlewine"
+            }
+        ],
+        "author": "Erlewine, Michael Yoshitaka",
+        "title": "Focus association into copies and the scope of <em>even</em>",
+        "note": "Poster presented at SALT 26",
+        "year": "2016",
+        "abstract": "I present an analysis of the syntax/semantics of English adverb <em>even</em> which accounts for the conditions under which it can associate with material outside of its surface scope. When <em>even</em> associates with a constituent outside of its surface scope, it is actually associating with a lower copy of the focused constituent, within the scope of <em>even</em>. This approach allows for a fresh perspective on the interaction of <em>even</em> and Antecedent-Contained Deletion (ACD). Nakanishi (2012) presents ACD evidence in support of the Scope Theory, but upon closer inspection, I show that the ACD data forms an argument against the Scope Theory and for the view that <em>even</em> is always interpreted in its pronounced position (Rooth, 1985).",
+        "poster": {
+            "source": "/Users/mitcho/Dropbox/academic/projects/even/salt2016/poster-20160511-reduced.pdf",
+            "target": "/research/poster-even.pdf",
+            "event": "poster-even"
+        },
+        "handout": {
+            "source": "/Users/mitcho/Dropbox/academic/projects/even/salt2016/salt2016-handout.pdf",
+            "target": "/research/handout-even.pdf",
+            "event": "handout-even"
+        },
+        "authorsHtml": [
+            "Erlewine, Michael Yoshitaka"
+        ],
+        "othersHtml": [
+            
+        ],
+        "project": "backwards-association",
+        "files": [
+            {
+                "title": "Poster",
+                "event": "poster-even",
+                "url": "/research/poster-even.pdf",
+                "type": "pdf"
+            },
+            {
+                "title": "Handout",
+                "event": "handout-even",
+                "url": "/research/handout-even.pdf",
+                "type": "pdf"
+            }
+        ],
+        "url": "/research/poster-even.pdf"
+    },
+    {
+        "citationKey": "talk:tanglewood",
+        "entryType": "unpublished",
+        "keywords": [
+            "semantics",
+            "Tanglewood",
+            "focus",
+            "covert movement",
+            "covert pied-piping",
+            "only",
+            "Association with Focus"
+        ],
+        "authors": [
+            {
+                "name": "Erlewine, Michael Yoshitaka",
+                "lastName": "Erlewine",
+                "displayName": "Michael Yoshitaka Erlewine"
+            },
+            {
+                "name": "Kotek, Hadas",
+                "lastName": "Kotek",
+                "displayName": "Hadas Kotek",
+                "url": "http://hkotek.com"
+            }
+        ],
+        "author": "Erlewine, Michael Yoshitaka and Kotek, Hadas",
+        "title": "Untangling <em>Tanglewood</em> using covert focus movement",
+        "note": "Poster presented at SALT 26",
+        "year": "2016",
+        "abstract": "We argue for the existence of covert focus movement in English focus association. Primary evidence comes from Tanglewood configurations of the form in Kratzer (1991). We show that Tanglewood configurations are island-sensitive, which is unpredicted by Kratzer&#8217;s focus-index proposal. We propose that Tanglewood configurations always involve covert movement of the overt focus&mdash;possibly with pied-piping (Drubig, 1994; Krifka, 2006; Wagner, 2006; Erlewine and Kotek, 2014)---to bind a bound variable in the ellipsis site. We show that covert focus movement is different from QR and can be long-distance.",
+        "poster": {
+            "source": "/Users/mitcho/Dropbox/academic/projects/piedpiping/salt2016/poster/poster-final-reduced.pdf",
+            "target": "/research/poster-tanglewood.pdf",
+            "event": "poster-tanglewood"
+        },
+        "handout": {
+            "source": "/Users/mitcho/Dropbox/academic/projects/piedpiping/salt2016/handout/handout.pdf",
+            "target": "/research/handout-tanglewood.pdf",
+            "event": "handout-tanglewood"
+        },
+        "authorsHtml": [
+            "<strong>Erlewine, Michael Yoshitaka</strong>",
+            "<a href=\"http://hkotek.com\">Hadas Kotek</a>"
+        ],
+        "othersHtml": [
+            "<a href=\"http://hkotek.com\">Hadas Kotek</a>"
+        ],
+        "project": "piedpiping",
+        "files": [
+            {
+                "title": "Poster",
+                "event": "poster-tanglewood",
+                "url": "/research/poster-tanglewood.pdf",
+                "type": "pdf"
+            },
+            {
+                "title": "Handout",
+                "event": "handout-tanglewood",
+                "url": "/research/handout-tanglewood.pdf",
+                "type": "pdf"
+            }
+        ],
+        "url": "/research/poster-tanglewood.pdf"
     },
     {
         "citationKey": "review:sato",
@@ -86,14 +556,20 @@
         "year": "2016",
         "journal": "Oceanic Linguistics",
         "volume": "55",
+        "pages": "298--306",
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
         ],
         "othersHtml": [
             
         ],
+        "project": "voice",
         "files": [
             
+        ],
+        "pageRange": [
+            "298",
+            "306"
         ]
     },
     {
@@ -195,7 +671,7 @@
         "title": "Focus adverbs at the <em>v</em>P and higher edges",
         "note": "Presented (most recently) at the University of Washington",
         "year": "2015",
-        "abstract": "Focus-sensitive operators must associate with a focused constituent (the associate) in their c-command domain (Jackendoff, 1972; Rooth, 1985, 1992; Tancredi, 1990). However, I show that this c-command requirement is insufficient to capture the distribution of focus adverbs (e.g. ‘only’) in Mandarin Chinese and Vietnamese. Focus adverbs in these languages must be as low as possible while c-commanding their focus associate, within a particular extended vP domain. The generalization is similar to what has been described for German by Jacobs (1983) and Büring & Hartmann (2001), but without a formal account.\n\nI present an analysis which derives the behavior observed in Mandarin and Vietnamese using a system of ranked, violable constraints. Optimizing cyclically, rather than globally, at each phase level, allows for apparent optionality in the position of focus adverbs and correctly identifies the vP edge as the locus of operators which associate long-distance. I show how this general system can also extend to the behavior of Romance, Bantu, and Chadic languages where foci are required to be low in the clause.",
+        "abstract": "Focus-sensitive operators must associate with a focused constituent (the associate) in their c-command domain (Jackendoff, 1972; Rooth, 1985, 1992; Tancredi, 1990). However, I show that this c-command requirement is insufficient to capture the distribution of focus adverbs (e.g. &#8216;only&#8217;) in Mandarin Chinese and Vietnamese. Focus adverbs in these languages must be as low as possible while c-commanding their focus associate, within a particular extended vP domain. The generalization is similar to what has been described for German by Jacobs (1983) and Büring & Hartmann (2001), but without a formal account.\n\nI present an analysis which derives the behavior observed in Mandarin and Vietnamese using a system of ranked, violable constraints. Optimizing cyclically, rather than globally, at each phase level, allows for apparent optionality in the position of focus adverbs and correctly identifies the vP edge as the locus of operators which associate long-distance. I show how this general system can also extend to the behavior of Romance, Bantu, and Chadic languages where foci are required to be low in the clause.",
         "handout": {
             "source": "/Users/mitcho/Dropbox/academic/projects/focus-adverbs/washington/handout-2up.pdf",
             "target": "/research/handout-focus-adverb-edges.pdf",
@@ -230,8 +706,8 @@
         "url": "/research/handout-focus-adverb-edges.pdf"
     },
     {
-        "citationKey": "talk:chuj-wscla",
-        "entryType": "unpublished",
+        "citationKey": "chuj-wscla",
+        "entryType": "inproceedings",
         "keywords": [
             "Chuj",
             "Mayan",
@@ -256,10 +732,11 @@
         "author": "Kotek, Hadas and Erlewine, Michael Yoshitaka",
         "title": "Non-interrogative <em>wh</em>-constructions in Chuj",
         "note": "Presented at the 21st Workshop on Structure and Constituency in Languages of the Americas",
-        "year": "2016",
+        "year": "to appear",
         "abstract": "We present a comprehensive survey of non-interrogative uses of <em>wh</em>-words in Chuj, an understudied Mayan language of Guatemala. Cross-linguistically, <em>wh</em>-words are commonly used not only for question-formation but also in a range of other constructions, including in quantification and in the formation of relative clauses. We will show that Chuj can use <em>wh</em>-words to form indefinites in certain limited environments, and that it can additionally use <em>wh</em>-words to form free choice items and a universal quantifier. In addition, Chuj uses <em>wh</em>-words to form free relatives, including definite free relatives but also typologically rare indefinite free relatives.",
+        "booktitle": "Proceedings of the Workshop on the Structure and Constituency of the Languages of the Americas (WSCLA) 21",
         "handout": {
-            "source": "/Users/mitcho/Dropbox/academic/projects/chuj/wscla2016/slides/handout-2up.pdf",
+            "source": "/Users/mitcho/Dropbox/academic/projects/chuj/wscla2016/slides/WSCLA-handout-2up.pdf",
             "target": "/research/handout-chuj-wscla.pdf",
             "event": "handout-chuj-wscla"
         },
@@ -294,7 +771,7 @@
     },
     {
         "citationKey": "japanese-rc",
-        "entryType": "unpublished",
+        "entryType": "article",
         "keywords": [
             "Japanese",
             "relativization",
@@ -321,10 +798,10 @@
             }
         ],
         "author": "Erlewine, Michael Yoshitaka and Gould, Isaac",
-        "title": "Unifying Japanese relative clauses: copies in context",
-        "note": "Manuscript, National University of Singapore and the University of Kansas",
-        "year": "2015",
+        "title": "Unifying Japanese relative clauses: copy-chains and context-sensitivity",
+        "year": "accepted",
         "abstract": "We offer a new, unified approach to the derivation and interpretation of head-external, head-internal, and heretofore understudied doubly-headed relative clauses in Japanese. Our proposal is motivated by new data on the interpretation of these different forms of relative clauses with quantificational heads, in different contexts. Head-internal and doubly-headed relative clauses are interpreted as definite descriptions with their quantificational head interpreted in their surface, relative-clause-internal positions. We show that the complex patterns of possible interpretations, as well as the shape of observed inter-speaker variation, are derived by interpreting definite descriptions using a maximal informativeness semantics and a simple assumption regarding the role of contextual information, which we call the Salient Sets Restriction. \n\nSyntactically, we propose a novel DP head-raising derivation for relative clauses that takes advantage of the Copy Theory of movement and the late-merger of relative clauses. This allows for the unification of head-internal and doubly-headed relativization strategies with the familiar head-external form, which would otherwise not be possible. We believe this approach is suitable for head-raising relative clauses in other languages as well, including English. Our proposal avoids some complications of previous head-raising derivations, instead taking advantage of independently motivated mechanisms of copy-chain resolution at LF.",
+        "journal": "Glossa",
         "paper": {
             "target": "http://ling.auf.net/lingbuzz/002806/current.pdf",
             "event": "current"
@@ -339,7 +816,7 @@
         "project": "rc",
         "files": [
             {
-                "title": "Unifying Japanese relative clauses: copies in context",
+                "title": "Unifying Japanese relative clauses: copy-chains and context-sensitivity",
                 "event": "current",
                 "url": "http://ling.auf.net/lingbuzz/002806/current.pdf",
                 "type": "pdf"
@@ -378,7 +855,7 @@
         "title": "<em>Even</em>-NPIs in Dharamsala Tibetan",
         "url": "http://ling.auf.net/lingbuzz/002739/current.pdf",
         "year": "to appear",
-        "abstract": "In this paper we investigate two series of Negative Polarity Items (NPIs) in Dharamsala Tibetan: one series uses the numeral ‘one’ with an <em>even</em> particle, with an optional nominal domain. The other series combines a <em>wh</em>-word with the same <em>even</em> particle, and may appear with or without the numeral ‘one.’ We discuss the relation of these NPIs to indefinite expressions in Dharamsala Tibetan, and document their syntactic licensing conditions. We show that NPIs are licensed in the scope of a clause-mate negation and in questions, but not in other downward-entailing environments. \n\nWe then present a compositional semantics for these two types of NPIs which explains their negative-polarity dependency, based on Lahiri’s (1998) analysis of similar constructions in Hindi. Our analysis for <em>wh</em>-<em>even</em> NPIs takes advantage of the Hamblin (1973) denotation of <em>wh</em>-words as sets of alternatives and the fact that <em>even</em> introduces two presuppositions&mdash;an additive one and a scalar one. Allowing the additive component of <em>even</em> to scope independently of the scalar part, the additive part of <em>even</em> is used to generate an indefinite out of the <em>wh</em>-word. The scalar component will be used to ensure that <em>even</em>-NPIs can only be used in downward entailing contexts.",
+        "abstract": "In this paper we investigate two series of Negative Polarity Items (NPIs) in Dharamsala Tibetan: one series uses the numeral &#8216;one&#8217; with an <em>even</em> particle, with an optional nominal domain. The other series combines a <em>wh</em>-word with the same <em>even</em> particle, and may appear with or without the numeral &#8216;one.&#8217; We discuss the relation of these NPIs to indefinite expressions in Dharamsala Tibetan, and document their syntactic licensing conditions. We show that NPIs are licensed in the scope of a clause-mate negation and in questions, but not in other downward-entailing environments. \n\nWe then present a compositional semantics for these two types of NPIs which explains their negative-polarity dependency, based on Lahiri&#8217;s (1998) analysis of similar constructions in Hindi. Our analysis for <em>wh</em>-<em>even</em> NPIs takes advantage of the Hamblin (1973) denotation of <em>wh</em>-words as sets of alternatives and the fact that <em>even</em> introduces two presuppositions&mdash;an additive one and a scalar one. Allowing the additive component of <em>even</em> to scope independently of the scalar part, the additive part of <em>even</em> is used to generate an indefinite out of the <em>wh</em>-word. The scalar component will be used to ensure that <em>even</em>-NPIs can only be used in downward entailing contexts.",
         "journal": "Linguistic Analysis",
         "slides": {
             "source": "/Users/mitcho/Dropbox/academic/projects/tibetan/slides/slides-trans.pdf",
@@ -406,49 +883,6 @@
                 "url": "/research/slides-tibetan-npi.pdf",
                 "type": "pdf"
             }
-        ]
-    },
-    {
-        "citationKey": "talk:chuj-nels",
-        "entryType": "unpublished",
-        "keywords": [
-            "free relative",
-            "relative clause",
-            "Mayan",
-            "Chuj",
-            "syntax",
-            "semantics",
-            "wh-words",
-            "hidden"
-        ],
-        "authors": [
-            {
-                "name": "Kotek, Hadas",
-                "lastName": "Kotek",
-                "displayName": "Hadas Kotek",
-                "url": "http://hkotek.com"
-            },
-            {
-                "name": "Erlewine, Michael Yoshitaka",
-                "lastName": "Erlewine",
-                "displayName": "Michael Yoshitaka Erlewine"
-            }
-        ],
-        "author": "Kotek, Hadas and Erlewine, Michael Yoshitaka",
-        "title": "Unifying definite and indefinite free relatives: Evidence from Mayan",
-        "note": "Presented at NELS 46",
-        "year": "2015",
-        "abstract": "We investigate definite and indefinite free relatives in Chuj, a Mayan language of Guatemala. Indefinite free relatives in Chuj are equivalent in size to definite free relatives, contrary to a well-supported conjecture by Šimík (2011) that indefinite free relatives are always reduced clauses (specifically, modal existential <em>wh</em>-constructions). We show that the non-island status of indefinite free relatives is due to their being CPs without a DP layer; it is not the case that extraction out of relative clauses on indefinites can somehow proceed without island violations.",
-        "authorsHtml": [
-            "<a href=\"http://hkotek.com\">Kotek, Hadas</a>",
-            "<strong>Michael Yoshitaka Erlewine</strong>"
-        ],
-        "othersHtml": [
-            "<a href=\"http://hkotek.com\">Hadas Kotek</a>"
-        ],
-        "project": "wh",
-        "files": [
-            
         ]
     },
     {
@@ -571,7 +1005,7 @@
         "title": "The semantics of the Mandarin focus marker <em>shì</em>",
         "note": "Presented at the 9th meeting of the European Association of Chinese Linguistics (EACL 9)",
         "year": "2015",
-        "abstract": "I investigate the semantics of <em>shì</em> 是 in its focus marker use. <em>Shì</em> associates with focus in declaratives, where it has been described as contributing \"emphasis\" or \"contrast\" and can also appear in questions. I argue that <em>shì</em> is a focus-sensitive adverb contributing <em>cleft semantics</em>, akin to the semantics of English <em>it</em>-clefts, requiring congruence to the Question Under Discussion. The semantics of \"cleft questions\" with <em>shì</em> is also explained.",
+        "abstract": "I investigate the semantics of <em>shì</em> 是 in its focus marker use. <em>Shì</em> associates with focus in declaratives, where it has been described as contributing \"emphasis\" or \"contrast\" and can also appear in questions. I argue that <em>shì</em> is a focus-sensitive adverb contributing <em>cleft semantics</em>, akin to the semantics of English <em>it</em>-clefts, requiring congruence to the Question Under Discussion. The semantics of \"cleft questions\" with <em>shì</em> is also explained.",
         "handout": {
             "source": "/Users/mitcho/Dropbox/academic/projects/shi/eacl/handout-2up.pdf",
             "target": "/research/handout-shi-eacl.pdf",
@@ -747,7 +1181,7 @@
         "url": "http://comparatives.mit.edu/erlewine.pdf",
         "note": "Presented at the MIT Workshop on Comparatives",
         "year": "2010",
-        "abstract": "Recent analyses of the Mandarin bi comparative (Xiang 2005, Erlewine 2007, Lin 2009) assume a \"direct analysis\" à la Heim (1985) whereby the semantics of the comparative applies the single gradable predicate to both the standard and the target. In this talk I present a slew of evidence for syntactic dependencies (movement chains) which exist simultaneously between the predicate and the target and between the predicate and the standard. Both the target and the standard are thus shown to be independently dependent on the predicate of comparison—a hypothesis I dub \"Independent Dependency.\"",
+        "abstract": "Recent analyses of the Mandarin bi comparative (Xiang 2005, Erlewine 2007, Lin 2009) assume a \"direct analysis\" à la Heim (1985) whereby the semantics of the comparative applies the single gradable predicate to both the standard and the target. In this talk I present a slew of evidence for syntactic dependencies (movement chains) which exist simultaneously between the predicate and the target and between the predicate and the standard. Both the target and the standard are thus shown to be independently dependent on the predicate of comparison&mdash;a hypothesis I dub \"Independent Dependency.\"",
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
         ],
@@ -792,11 +1226,12 @@
         "author": "Erlewine, Michael Yoshitaka and Kotek, Hadas",
         "editor": "Ershova, Ksenia and Falk, Joshua and Geiger, Jeffrey and Hebert, Zachary and Lewis, Robert and Munoz, Patrick and Pillion, Betsy and Phillips, Jacob",
         "title": "The structure and interpretation of non-restrictive relatives: Evidence from relative pronoun pied-piping",
-        "year": "to appear",
+        "year": "2016",
         "abstract": "English is one of many languages in which relative clauses (RC) can be constructed using <em>wh</em>-words as <em>relative pronouns</em>. The relative pronoun originates lower in the clause and A-moves to the edge of the RC. This movement can <em>pied-pipe</em> other material with it, resulting in <em>relative pronoun pied-piping</em> (RPPP).\n\nIn this paper, we investigate the structure and interpretation of English <em>non-restrictive relative clauses</em>. We propose that in non-restrictive relatives, relative pronouns are interpreted <em>in-situ</em> within the pied-piped constituent at LF, using Rooth- Hamblin alternative computation (Hamblin, 1973; Rooth, 1985, 1992, a.o.). Evidence comes from the presence of <em>intervention effects</em> in RPPP; intervention effects (Beck, 2006; Sauerland & Heck, 2003, a.o.) can be used to diagnose regions of alternative computation (see Kotek & Erlewine, to appear; Erlewine & Kotek, 2014). The proposal here has the consequence that non-restrictive relatives are fundamentally <em>proposition-denoting</em> in contrast to restrictive relatives which are <em>property-denoting</em>.",
         "booktitle": "Proceedings of the 51st Meeting of the Chicago Linguistic Society (CLS 51)",
+        "pages": "149--163",
         "paper": {
-            "source": "/Users/mitcho/Dropbox/academic/projects/RC pied-piping/cls-proceedings/cls51-web-revised.pdf",
+            "source": "/Users/mitcho/Dropbox/academic/projects/RC pied-piping/cls-proceedings/CLS51_Erlewine_Kotek_final.pdf",
             "target": "/research/rppp-cls.pdf",
             "event": "rppp-cls"
         },
@@ -879,7 +1314,11 @@
                 "type": "pdf"
             }
         ],
-        "url": "/research/rppp-cls.pdf"
+        "url": "/research/rppp-cls.pdf",
+        "pageRange": [
+            "149",
+            "163"
+        ]
     },
     {
         "citationKey": "minimality-focus",
@@ -949,7 +1388,7 @@
     },
     {
         "citationKey": "sfp-fofc",
-        "entryType": "unpublished",
+        "entryType": "article",
         "keywords": [
             "Mandarin Chinese",
             "FOFC",
@@ -968,9 +1407,9 @@
         "author": "Erlewine, Michael Yoshitaka",
         "title": "Low sentence-final particles in Mandarin Chinese and the Final-over-Final Constraint",
         "url": "http://ling.auf.net/lingbuzz/002495/current.pdf",
-        "note": "Manuscript, McGill",
-        "year": "2015",
-        "abstract": "Mandarin Chinese clausal syntax can be described as strictly head-initial, with the exception of certain &#8220;particles&#8221; which are linearized at the end of the clause. Previous work on these sentence-final particles (SFPs) has assumed that all SFPs are very high, in the CP periphery. In this paper I show that a subset of SFPs are actually in a lower, clause-medial position, based on the scopal interaction of these SFPs with negation, modals, quantificational subjects, and alternative question disjunction. I identify this position as coinciding with the lower (<em>v</em>P) phase edge.\n\nAs SFPs are head-final heads with head-initial complements, they have been discussed as an important apparent exception to the Final-over-Final Constraint (FOFC), a proposed universal on structure building and linearization. The existence of exceptions to FOFC at the <em>v</em>P edge in addition to the CP edge teaches us that, in its most general form, FOFC does not hold across phase boundaries.",
+        "year": "to appear",
+        "abstract": "Mandarin Chinese clausal syntax can be described as strictly head-initial, with the exception of certain &#8220;particles&#8221; which are linearized at the end of the clause. Previous work on these sentence-final particles (SFPs) has assumed that all SFPs are very high, in the CP periphery. In this paper I show that a subset of SFPs are in a lower, clause-medial position, based on the scopal interaction of these SFPs with negation, modals, quantificational subjects, and alternative question disjunction. I identify this position as coinciding with the edge of the lower phase, traditionally identified as <em>v</em>P.\n\nAs SFPs are head-final heads with head-initial complements, they have been discussed as an important apparent exception to the Final-over-Final Constraint (FOFC), a proposed universal on structure-building and linearization. The existence of exceptions to FOFC in a clause-medial position in addition to the CP edge motivates the view that FOFC holds only within individual Spell-Out domains.",
+        "journal": "Journal of East Asian Linguistics",
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
         ],
@@ -1632,6 +2071,7 @@
             "target": "/research/handout-voice-afla.pdf",
             "event": "handout-voice-afla"
         },
+        "publisher": "Asia-Pacific Linguistics",
         "authorsHtml": [
             "<strong>Erlewine, Michael Yoshitaka</strong>",
             "<a href=\"https://sites.google.com/site/tfranklevin/\">Theodore Levin</a>",
@@ -2112,10 +2552,16 @@
         ],
         "author": "Erlewine, Michael Yoshitaka",
         "title": "Anti-locality and optimality in Kaqchikel Agent Focus",
-        "url": "http://ling.auf.net/lingbuzz/001841/current.pdf",
-        "year": "to appear",
+        "url": "http://link.springer.com/article/10.1007/s11049-015-9310-z",
+        "year": "2016",
         "abstract": "Many Mayan languages show a syntactically ergative extraction asymmetry whereby the A-bar-extraction of subjects of transitive verbs requires special verbal morphology, known as Agent Focus. In this paper I investigate the syntax of Agent Focus in Kaqchikel, a Mayan language spoken in Guatemala. I argue that this extraction asymmetry in Kaqchikel is the result of a particular anti-locality constraint which bans movement that is too close. Support for this claim comes from new data on the distribution of Agent Focus in Kaqchikel that show this locality-sensitivity.\n\nThe distribution and realization of Agent Focus will then be modeled using a system of ranked, violable constraints operating over competing derivations. This theoretical choice will be supported by details in the pattern of agreement in Agent Focus. I will then show how rerankings of the proposed constraints can model the attested distribution of Agent Focus in a number of other Mayan languages. I also discuss extensions of this approach to other patterns of anti-agreement.",
         "journal": "Natural Language &amp; Linguistic Theory",
+        "volume": "34",
+        "pages": "429--479",
+        "paper": {
+            "target": "http://ling.auf.net/lingbuzz/001841/current.pdf",
+            "event": "current"
+        },
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
         ],
@@ -2127,9 +2573,19 @@
             {
                 "title": "Anti-locality and optimality in Kaqchikel Agent Focus",
                 "event": "af",
+                "url": "http://link.springer.com/article/10.1007/s11049-015-9310-z",
+                "type": ""
+            },
+            {
+                "title": "Preprint",
+                "event": "current",
                 "url": "http://ling.auf.net/lingbuzz/001841/current.pdf",
                 "type": "pdf"
             }
+        ],
+        "pageRange": [
+            "429",
+            "479"
         ]
     },
     {
@@ -2196,9 +2652,11 @@
         "title": "A streamlined approach to online linguistic surveys",
         "url": "http://link.springer.com/article/10.1007/s11049-015-9305-9",
         "note": "Tools available at <a href=\"http://turktools.net\">turktools.net</a>",
-        "year": "to appear",
+        "year": "2016",
         "abstract": "More and more researchers in linguistics use large-scale experiments to test hypotheses about the data they research, in addition to more traditional informant work. In this paper we describe a new set of free, open-source tools that allow linguists with little background in programming or experimental methods to post studies online. These tools allow for the creation of a wide range of linguistic tasks, including linguistic grammaticality surveys, sentence completion tasks, and picture-matching tasks. Our tools further help streamline the design of such experiments and assist in the extraction and analysis of the resulting data. Surveys created using the tools described in this paper can be posted on Amazon.com&#8217;s Mechanical Turk, a popular crowdsourcing platform which mediates between &#8216;Requesters&#8217; who can post surveys online and &#8216;Workers&#8217; who complete them. This allows many linguistic surveys to be completed within hours or days and at low costs of $50 or less. Alternatively, researchers can host these randomized experiments on their own servers using a supplied server-side component.",
         "journal": "Natural Language &amp; Linguistic Theory",
+        "volume": "34",
+        "pages": "481--495",
         "paper": {
             "target": "http://ling.auf.net/lingbuzz/001802/current.pdf",
             "event": "current"
@@ -2219,11 +2677,15 @@
                 "type": ""
             },
             {
-                "title": "Associated paper",
+                "title": "Preprint",
                 "event": "current",
                 "url": "http://ling.auf.net/lingbuzz/001802/current.pdf",
                 "type": "pdf"
             }
+        ],
+        "pageRange": [
+            "481",
+            "495"
         ]
     },
     {
@@ -2348,18 +2810,17 @@
         "author": "Erlewine, Michael Yoshitaka and Kotek, Hadas",
         "editor": "Huang, Hsin-Lun and Poole, Ethan and Rysling, Amanda",
         "title": "Intervention in focus pied-piping",
-        "url": "http://semanticsarchive.net/Archive/WIzNzViN/erlewine-kotek-nels2013-preprint.pdf",
         "year": "2014",
         "booktitle": "Proceedings of NELS 43",
         "volume": "1",
         "pages": "117--130",
         "handout": {
-            "source": "/Users/mitcho/Dropbox/academic/projects/piedpiping/handouts/nels/handout-nels2012.pdf",
+            "source": "/Users/mitcho/Dropbox/academic/projects/piedpiping/talks/nels/handout-nels2012.pdf",
             "target": "/research/handout-focus-piedpiping.pdf",
             "event": "handout-focus-piedpiping"
         },
         "slides": {
-            "source": "/Users/mitcho/Dropbox/academic/projects/piedpiping/handouts/nels/slides-nels.pdf",
+            "source": "/Users/mitcho/Dropbox/academic/projects/piedpiping/talks/nels/slides-nels.pdf",
             "target": "/research/slides-focus-piedpiping.pdf",
             "event": "slides-focus-piedpiping"
         },
@@ -2395,24 +2856,19 @@
         "project": "piedpiping",
         "files": [
             {
-                "title": "Intervention in focus pied-piping",
-                "event": "focus-piedpiping",
-                "url": "http://semanticsarchive.net/Archive/WIzNzViN/erlewine-kotek-nels2013-preprint.pdf",
-                "type": "pdf"
-            },
-            {
-                "title": "Associated handout",
+                "title": "Handout",
                 "event": "handout-focus-piedpiping",
                 "url": "/research/handout-focus-piedpiping.pdf",
                 "type": "pdf"
             },
             {
-                "title": "Associated slides",
+                "title": "Slides",
                 "event": "slides-focus-piedpiping",
                 "url": "/research/slides-focus-piedpiping.pdf",
                 "type": "pdf"
             }
         ],
+        "url": "/research/handout-focus-piedpiping.pdf",
         "pageRange": [
             "117",
             "130"
@@ -2447,9 +2903,10 @@
         "author": "Kotek, Hadas and Erlewine, Michael Yoshitaka",
         "title": "Covert pied-piping in English multiple <em>wh</em>-questions",
         "url": "http://ling.auf.net/lingbuzz/001736/current.pdf",
-        "year": "to appear",
+        "year": "in press",
         "abstract": "In this paper we argue for the existence of covert pied-piping in wh-questions through a previously unnoticed pattern of intervention effects in superiority-obeying English multiple wh-questions. We show that the preference of covert pied-piping is for movement of larger constituents, unlike overt pied-piping. We argue that this discrepancy stems from conflicting requirements of PF and LF: overt pied-piping feeds both LF and PF, but covert pied-piping feeds LF only. The study of covert pied-piping thus reveals the true preference of LF and Core Syntax with regard to pied-piping: larger pied-piping constituents are preferred over smaller ones. This preference can be overridden by certain PF constraints that apply to overt pied-piping.",
         "journal": "Linguistic Inquiry",
+        "volume": "47",
         "handout": {
             "target": "/research/handout-focus-piedpiping.pdf",
             "event": "handout-focus-piedpiping"

@@ -40,6 +40,7 @@ function cleanup(text) {
 	text = text.replace(/{\\em ([^}]*?)}/g,'<em>$1</em>');
 	text = text.replace(/\\textit{([^}]*?)}/g,'<em>$1</em>');
 	text = text.replace(/\\textbf{([^}]*?)}/g,'<strong>$1</strong>');
+	text = text.replace(/{\\ja ([^}]*?)}/g,'<span lang="ja">$1</span>');
 	text = text.replace(/{(.+?)}/g,'$1');
 
  	text = text.replace(/``/,'&#8220;');
@@ -120,7 +121,7 @@ function convertItem(item) {
 		keywords: [],
 		authors: []
 	};
-	var keys = ['AUTHOR', 'EDITOR', 'TITLE', 'URL', 'NOTE', 'YEAR', 'ABSTRACT', 'BOOKTITLE', 'JOURNAL', 'VOLUME', 'PAGES', 'SCHOOL', 'PAPER', 'HANDOUT', 'SLIDES', 'PUBLISHER'];
+	var keys = ['AUTHOR', 'EDITOR', 'TITLE', 'URL', 'NOTE', 'YEAR', 'ABSTRACT', 'BOOKTITLE', 'JOURNAL', 'VOLUME', 'PAGES', 'SCHOOL', 'PAPER', 'POSTER', 'HANDOUT', 'SLIDES', 'PUBLISHER', 'AUTHOR-JA'];
 	for (i in keys) {
 		if (keys[i] in item.entryTags)
 			newItem[keys[i].toLowerCase()] = cleanup(item.entryTags[keys[i]], keys[i]);
@@ -163,7 +164,7 @@ function convertItem(item) {
 	}
 	
 	// find local files
-	var fileKeys = ['paper','handout','slides'];
+	var fileKeys = ['paper','poster','handout','slides'];
 	var associated = ('url' in newItem);
 	for ( i in fileKeys ) {
 		var fileType = fileKeys[i];

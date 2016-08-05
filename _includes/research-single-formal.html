@@ -12,7 +12,11 @@
 {% capture pages %}{% if paper.pages != null %}, pages {{ paper.pages | replace:'--','&ndash;' }}{% endif %}{% endcapture %}
 
 {% if paper.authorsHtml != null %}
-	{{ paper.authorsHtml | array_to_sentence_string }}, {{paper.year}}.
+	{% if paper.author-ja != null %}
+		{{ paper.author-ja }} [{{ paper.authorsHtml | array_to_sentence_string }}], {{paper.year}}.
+	{% else %}
+		{{ paper.authorsHtml | array_to_sentence_string }}, {{paper.year}}.
+	{% endif %}
 {% else %}
 	Edited by {{ paper.editorsHtml | array_to_sentence_string }}, {{paper.year}}.
 {% endif %}
