@@ -85,8 +85,8 @@ function authorsHtml(authors) {
 			item = author.displayName;
 		}
 		
-		if ( authors.length > 1 && author.name == 'Erlewine, Michael Yoshitaka' )
-			item = '<strong>' + item + '</strong>';
+// 		if ( authors.length > 1 && author.name == 'Erlewine, Michael Yoshitaka' )
+// 			item = '<strong>' + item + '</strong>';
 		
 		if ( 'url' in author )
 			item = '<a href="' + encodeURI(author.url) + '">' + item + '</a>';
