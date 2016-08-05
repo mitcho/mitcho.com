@@ -22,7 +22,7 @@ module Jekyll
       path = destination(dest)
       FileUtils.mkdir_p(File.dirname(path))
 
-      ['paper','handout','slides'].each do |type|
+      ['paper','handout','slides','poster'].each do |type|
         if data['paper'].key? type and data['paper'][type].key? 'source'
           source = data['paper'][type]['source']
           target = File.join(site.dest, data['paper'][type]['target'])
