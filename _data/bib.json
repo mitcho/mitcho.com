@@ -1059,7 +1059,8 @@
             "semantics",
             "pragmatics",
             "questions",
-            "cleft"
+            "cleft",
+            "hidden"
         ],
         "authors": [
             {
@@ -2389,7 +2390,6 @@
         "editor": "Urtzi Etxeberria and Anamaria Fălăuş and Aritz Irurtzun and Bryan Leferman",
         "title": "Explaining leftward focus association with <em>even</em> but not <em>only</em>",
         "url": "http://semanticsarchive.net/sub2013/SeparateArticles/Erlewine.pdf",
-        "note": "(Superseded by <a href=\"http://mitcho.com/research/dissertation.html\">my dissertation</a>.)",
         "year": "2014",
         "abstract": "The ability of English VP-<em>even</em> but not VP-<em>only</em> to associate with a leftward subject (Jackendoff, 1972) has been a long-standing puzzle for the theory of focus association, and runs counter to the generalization that focus-sensitive operators associate with a focused constituent in their scope. Here I argue that such backwards association is illusory. In cases of apparent leftward subject association, <em>even</em> is associating with the subject&#8217;s predicate-internal lower copy of movement, which is within the scope of <em>even</em>. The same configuration with <em>only</em> yields an uninterpretable structure, due to independent differences in the semantic contribution of <em>even</em> and <em>only</em>. I then show that this pattern of association extends to other cases of movement as well: in general, <em>even</em> but not <em>only</em> is able to associate with material which has moved out of the operator&#8217;s scope. Patterns of leftward focus association present a new argument against the scope theory of <em>even</em>.",
         "booktitle": "Proceedings of <a href=\"https://sites.google.com/site/sub18bc/\">Sinn und Bedeutung 18</a>",
@@ -2399,6 +2399,7 @@
             "target": "/research/handout-leftward.pdf",
             "event": "handout-leftward"
         },
+        "webnote": "(Superseded by <a href=\"http://mitcho.com/research/dissertation.html\">my dissertation</a>.)",
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
         ],
@@ -2479,11 +2480,11 @@
         "editor": "Santana-LaBarge, Robert E.",
         "title": "Anti-Locality and Kaqchikel Agent Focus",
         "url": "http://www.lingref.com/cpp/wccfl/31/paper3017.pdf",
-        "note": "(Superseded by <a href=\"http://mitcho.com/research/af.html\">&#8220;Anti-locality and optimality in Kaqchikel Agent Focus&#8221;</a> to appear in NLLT.)",
         "year": "2014",
         "abstract": "In many Mayan languages, A-bar extraction of subjects of transitive clauses triggers a change to that verb&#8217;s morphology, known as Agent Focus. Previous researchers have assumed an exceptionless correlation between AF and the A-bar extraction of a transitive subject. In this paper new data from Kaqchikel (Mayan, Guatemala) shows that AF is a response to A-bar movement of a transitive subject that is too short. Movement of a transitive subject does not trigger AF if the movement chain is made longer by adding intervening material. An anti-locality constraint is proposed: \"Spec-to-Spec Anti-Locality,\" which bans movement between successive specifier positions. Spec-to-Spec Anti-Locality explains the full distributional pattern of AF in Kaqchikel. ",
         "booktitle": "Proceedings of the 31st West Coast Conference on Formal Linguistics (WCCFL 31)",
         "pages": "150--159",
+        "webnote": "(Superseded by <a href=\"http://mitcho.com/research/af.html\">&#8220;Anti-locality and optimality in Kaqchikel Agent Focus&#8221;</a> in NLLT.)",
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
         ],

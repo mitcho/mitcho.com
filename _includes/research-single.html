@@ -58,6 +58,10 @@ In <em>{{paper.booktitle}}</em>{{pages}}.
 {{paper.note}}.
 {% endif %}
 
+{% if paper.webnote != null %}
+{{paper.webnote}}.
+{% endif %}
+
 {% if paper.entryType == 'phdthesis' %}
 {{paper.school}} dissertation.
 {% endif %}
