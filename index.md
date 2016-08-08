@@ -32,8 +32,9 @@ See the [Projects](/projects) page for descriptions of projects and downloadable
 *	**August 7--9, 2016**: I return to Tokyo to give two talks at the [Theoretical Linguistics at Keio (TaLK) semantics workshop](https://sites.google.com/site/talk2016semantics/):
 	* ["Encoding QUD congruence in Mandarin Chinese,"](/research/talk-shi-keio.html) and
 	* ["Contrast sluicing and complementary questions"](/research/talk-sluicing-keio.html) with Teruyuki Mizuno.
+*	**September 2016**: Hadas Kotek will present our joint work on focus association and *Tanglewood* constructions. See also our [recent manuscript](/research/tanglewood.html).
 *	**September 8, 2016**: MIT Ling Lunch
-*	**October 2016**: Mizuno Teruyuki will present our joint work on contrast sluicing at [Japanese/Korean Linguistics 24](http://pj.ninjal.ac.jp/jk2016/).
+*	**October 2016**: Teruyuki Mizuno will present our joint work on contrast sluicing at [Japanese/Korean Linguistics 24](http://pj.ninjal.ac.jp/jk2016/).
 *	**October 14, 2016**: I am an invited speaker at the Workshop on Word Order of Heads <span lang="zh-TW">中心語詞序研討會</span> at the Chinese University of Hong Kong.
 *	**February 2017**: The National University of Singapore will be hosting **[GLOW in Asia XI](http://lingconf.com/glowinasia2017/)**!
 
@@ -42,7 +43,7 @@ See the [Projects](/projects) page for descriptions of projects and downloadable
 *	**Paper accepted, August 2016:** ["Low sentence-final particles in Mandarin Chinese and the Final-over-Final Constraint,"](/research/sfp-fofc.html) accepted for publication in [*Journal of East Asian Linguistics*](http://link.springer.com/journal/10831).
 *	**Paper accepted, July 2016:** ["Unifying Japanese relative clauses: copy-chains and context-sensitivity"](/research/japanese-rc.html) with Isaac Gould, accepted for publication in [*Glossa*](http://glossa-journal.org), pending minor revisions.
 *	**New paper, July 2016:** ["Focus association by movement: Evidence from Tanglewood"](/research/tanglewood.html) with Hadas Kotek. See also the associated [SALT talk](/research/talk-tanglewood.html). (Email for the [SALT proceedings paper](/reserach/tanglewood-salt.html).)
-*	**Talk, June 2016:** <span lang='ja'>[日本言語学会第152回大会](http://www.ls-japan.org/modules/documents/index.php?cat_id=30&ml_lang=ja)で水野輝之と「多重 wh 疑問文のペアリスト解釈とスルーシング」を発表しました.</span> "Sluicing and the pair-list interpretation of multiple wh-questions" with Teruyuki Mizuno at [The 152nd meeting of the Linguistic Society of Japan](http://www.ls-japan.org/modules/documents/index.php?cat_id=30&ml_lang=en).
+*	**Talk, June 2016:** <span lang='ja'>[日本言語学会第152回大会](http://www.ls-japan.org/modules/documents/index.php?cat_id=30&ml_lang=ja)で水野輝之と[「多重 wh 疑問文のペアリスト解釈とスルーシング」](/research/sluicing-lsj.html)を発表しました.</span> ["Sluicing and the pair-list interpretation of multiple wh-questions"](/research/sluicing-lsj.html) with Teruyuki Mizuno at [The 152nd meeting of the Linguistic Society of Japan](http://www.ls-japan.org/modules/documents/index.php?cat_id=30&ml_lang=en).
 *	**Interview:** I [was interviewed](http://unravellingmag.com/articles/form-function-fieldwork/) in the latest issue of [Unravel](http://unravellingmag.com/), the accessible linguistics magazine.
 *	**Talk, June 2016:** ["Multiple extraction and voice in Toba Batak"](/research/talk-batak-afla.html) at [Austronesian Formal Linguistics Association (AFLA) 23](https://sites.google.com/site/afla23tufs/)
 *	**New review, June 2016:** My invited book review of [*Minimalist Interfaces: Evidence from Indonesian and Javanese*](https://benjamins.com/#catalog/books/la.155) by Yosuke Sato [appeared in *Oceanic Linguistics* 55(1)](http://muse.jhu.edu/article/619295).
