@@ -1,4 +1,4 @@
-{% assign papers = (site.data.bib | where: "project", include.project | order: "year" | reverse) %}
+{% assign papers = (site.data.bib | where: "project", include.project | sort: "year" | reverse) %}
 <ul class='research-group'>
 {% for paper in papers %}
 	{% unless paper.keywords contains 'hidden' %}
