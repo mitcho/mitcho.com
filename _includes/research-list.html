@@ -4,6 +4,9 @@
 {% assign papers = (site.data.bib | where: 'entryType', 'article' | sort: 'year' | reverse) %}				
 {% include research-group.html title='Journal articles' papers = papers %}
 
+{% assign papers = (site.data.bib | where: 'entryType', 'bookreview' | sort: 'year' | reverse) %}				
+{% include research-group.html title='Book reviews' papers = papers %}
+
 {% assign papers = (site.data.bib | where: 'entryType', 'incollection' | sort: 'year' | reverse) %}
 {% include research-group.html title='Papers in edited volumes' papers = papers %}
 
