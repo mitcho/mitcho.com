@@ -44,6 +44,11 @@ function cleanup(text) {
 	text = text.replace(/{\\ja ([^}]*?)}/g,'<span lang="ja">$1</span>');
 	text = text.replace(/{(.+?)}/g,'$1');
 
+	// faux markdown
+	text = text.replace(/\*\*(.*?)\*\*/g,'<strong>$1</strong>');
+	text = text.replace(/\*([^*]*?)\*/g,'<em>$1</em>');
+	text = text.replace(/\[([^*]*?)\]\(([^)\s]*?)\)/g,'<a href="$2">$1</a>');
+
  	text = text.replace(/``/,'&#8220;');
  	text = text.replace(/''/g,'&#8221;');
  	text = text.replace(/`/g,'&#8216;');
@@ -128,7 +133,7 @@ function convertItem(item) {
 		keywords: [],
 		authors: []
 	};
-	var keys = ['AUTHOR', 'EDITOR', 'TITLE', 'URL', 'NOTE', 'YEAR', 'ABSTRACT', 'BOOKTITLE', 'JOURNAL', 'VOLUME', 'PAGES', 'SCHOOL', 'PAPER', 'POSTER', 'HANDOUT', 'SLIDES', 'PUBLISHER', 'AUTHOR-JA', 'WEBNOTE'];
+	var keys = ['AUTHOR', 'EDITOR', 'TITLE', 'URL', 'NOTE', 'YEAR', 'ABSTRACT', 'BOOKTITLE', 'JOURNAL', 'VOLUME', 'PAGES', 'SCHOOL', 'PAPER', 'POSTER', 'HANDOUT', 'SLIDES', 'PUBLISHER', 'AUTHOR-JA', 'WEBNOTE', 'PREPRINT'];
 	for (i in keys) {
 		if (keys[i] in item.entryTags)
 			newItem[keys[i].toLowerCase()] = cleanup(item.entryTags[keys[i]], keys[i]);
@@ -158,6 +163,11 @@ function convertItem(item) {
 			if (newItem.keywords[i] === 'srps') {
 				newItem.keywords.splice(i, 1);
 			}
+			
+			// book reviews change the entryType
+			if (newItem.keywords[i] === 'book review') {
+				newItem.entryType = 'bookreview';
+			}
 		}
 	}
 	
@@ -172,7 +182,7 @@ function convertItem(item) {
 	}
 	
 	// find local files
-	var fileKeys = ['paper','poster','handout','slides'];
+	var fileKeys = ['paper','preprint','poster','handout','slides'];
 	var associated = ('url' in newItem);
 	for ( i in fileKeys ) {
 		var fileType = fileKeys[i];
