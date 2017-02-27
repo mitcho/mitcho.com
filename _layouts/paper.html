@@ -17,13 +17,21 @@ layout: default
 		<p>{% include research-single.html paper=paper %}</p>
 		</div>
 		
-		{% if paper.project != null %}
-		{% assign projects = (site.pages | where_exp:"page","page.projects contains paper.project") %}
-		<p class='post-meta'><strong>Project{% if projects.length > 1 %}s{% endif %}:</strong> 
-			{% for project in projects %}
-<a class='pill' href='{{ project.url | urlescape }}'>{{ project.title | markdownify | replace: '<p>','' | replace: '</p>','' }}</a> 
+		{% if paper.projects != null %}
+		
+			{% assign projects = "" | split: "|" %}
+			{% for project in paper.projects %}
+				{% assign superprojs = (site.pages | where_exp:"page", "page.projects contains project") %}
+				{% for superproj in superprojs %}
+				{% assign projects = projects | push: superproj %}
+				{% endfor %}
 			{% endfor %}
-		</p>
+		
+			<p class='post-meta'><strong>Project{% if projects.size > 1 %}s{% endif %}:</strong> 
+				{% for project in projects %}
+	<a class='pill' href='{{ project.url | urlescape }}'>{{ project.title | markdownify | replace: '<p>','' | replace: '</p>','' | strip }}</a> &nbsp; 
+				{% endfor %}
+			</p>
 		{% endif %}
 		
 		{% if paper.abstract %}

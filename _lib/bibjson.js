@@ -131,7 +131,8 @@ function convertItem(item) {
 		citationKey: item.citationKey.toLowerCase(),
 		entryType: item.entryType.toLowerCase(),
 		keywords: [],
-		authors: []
+		authors: [],
+		projects: []
 	};
 	var keys = ['AUTHOR', 'EDITOR', 'TITLE', 'URL', 'NOTE', 'YEAR', 'ABSTRACT', 'BOOKTITLE', 'JOURNAL', 'VOLUME', 'PAGES', 'SCHOOL', 'PAPER', 'POSTER', 'HANDOUT', 'SLIDES', 'PUBLISHER', 'AUTHOR-JA', 'WEBNOTE', 'PREPRINT'];
 	for (i in keys) {
@@ -151,24 +152,27 @@ function convertItem(item) {
 		newItem['editorsHtml'] = authorsHtml(newItem['editors']);
 	}
 	
+	var tmpkeywords = [];
 	if ('KEYWORDS' in item.entryTags) {
-		newItem.keywords = item.entryTags.KEYWORDS.split(/, */);
-		for (i in newItem.keywords) {
-			if (newItem.keywords[i].search(/^project:/) > -1) {
-				newItem.project = newItem.keywords[i].replace(/^project:/,'');
-				newItem.keywords.splice(i, 1);
+		tmpkeywords = item.entryTags.KEYWORDS.split(/, */);
+		tmpkeywords.forEach(function(word) {
+			if (word.search(/^project:/) > -1) {
+				newItem.projects.push(word.replace(/^project:/,''));
+				return;
 			}
 			
-			// srps is a magic keyword; hide it
-			if (newItem.keywords[i] === 'srps') {
-				newItem.keywords.splice(i, 1);
+			// srps is a magic keyword; skip it
+			if (word === 'srps') {
+				return;
 			}
 			
 			// book reviews change the entryType
-			if (newItem.keywords[i] === 'book review') {
+			if (word === 'book review') {
 				newItem.entryType = 'bookreview';
 			}
-		}
+			
+			newItem.keywords.push(word);
+		});
 	}
 	
 	newItem.files = [];
