@@ -9,11 +9,9 @@ projects:
 
 Many previous theories have proposed *covert movement* for both syntactic and interpretational purposes. In cases of overt movement, we often observe *pied-piping*---additional material dislocated together with the logically attracted material. In joint work with [**Hadas Kotek**](//hkotek.com), I have investigated the question of whether covert movement also triggers pied-piping. Following previous work on the interpretation of overtly pied-piped constituents (Krifka, 2006; Cable, 2010), we propose the use of focus intervention effects (Beck, 2006) to diagnose the existence and size of covert pied-piping. The results show that **covert pied-piping does exist**, and that the constituent covertly pied-piped is the *largest* among those options for overt pied-piping.
 
-Our work investigating the status of the in-situ *wh*-word in English multiple *wh*-questions using this diagnostic has been accepted for publication with *Linguistic Inquiry*.
-
 {% include project-papers.html project = "piedpiping" %}
 
-Our diagnostic also shows that focused constituents which are pronounced in-situ in English **undergo covert focus movement with pied-piping**, as proposed previously in Drubig (1994), Krifka (2006), and Wagner (2006), contra Rooth (1985, 1992), as reported in a NELS proceedings paper. In more recent work, we show that covert pied-piping in focus association explains previously unnoticed patterns of island-sensitivity in *Tanglewood* constructions (Kratzer, 1991).
+Our diagnostic also shows that focused constituents which are pronounced in-situ in English **undergo covert focus movement with pied-piping**, as proposed previously in Drubig (1994), Krifka (2006), and Wagner (2006), contra Rooth (1985, 1992), as reported in a NELS proceedings paper. In more recent work, we have also [developed additional, independent arguments for this approach](/projects/focus-movement.html).
 
 {% include project-papers.html project = "focus-piedpiping" %}
 
