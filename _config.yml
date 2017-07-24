@@ -1,8 +1,7 @@
 # Site settings
 title: Michael Yoshitaka ERLEWINE (mitcho)
 email: mitcho@mitcho.com
-description: > # this means to ignore newlines until "baseurl:"
-  I am an Assistant Professor in linguistics at the National University of Singapore. I study the structure of sentences (syntax) and how these structures map to meaning (semantics). Much of my work is based on fieldwork on understudied and endangered languages.
+description: ""
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://mitcho.com" # the base hostname & protocol for your site
 
