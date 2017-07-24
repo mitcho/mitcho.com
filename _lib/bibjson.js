@@ -134,7 +134,7 @@ function convertItem(item) {
 		authors: [],
 		projects: []
 	};
-	var keys = ['AUTHOR', 'EDITOR', 'TITLE', 'URL', 'NOTE', 'YEAR', 'ABSTRACT', 'BOOKTITLE', 'JOURNAL', 'VOLUME', 'PAGES', 'SCHOOL', 'PAPER', 'POSTER', 'HANDOUT', 'SLIDES', 'PUBLISHER', 'AUTHOR-JA', 'WEBNOTE', 'PREPRINT'];
+	var keys = ['AUTHOR', 'EDITOR', 'TITLE', 'URL', 'NOTE', 'YEAR', 'ABSTRACT', 'BOOKTITLE', 'JOURNAL', 'VOLUME', 'NUMBER', 'PAGES', 'SCHOOL', 'PAPER', 'POSTER', 'HANDOUT', 'SLIDES', 'PUBLISHER', 'AUTHOR-JA', 'WEBNOTE', 'PREPRINT'];
 	for (i in keys) {
 		if (keys[i] in item.entryTags)
 			newItem[keys[i].toLowerCase()] = cleanup(item.entryTags[keys[i]], keys[i]);
@@ -161,8 +161,8 @@ function convertItem(item) {
 				return;
 			}
 			
-			// srps is a magic keyword; skip it
-			if (word === 'srps') {
+			// srps and noelements are a magic keyword; skip it
+			if (word === 'srps' || word === 'noelements') {
 				return;
 			}
 			
