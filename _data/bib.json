@@ -1,5 +1,219 @@
 [
     {
+        "citationKey": "haishi",
+        "entryType": "unpublished",
+        "keywords": [
+            "disjunction",
+            "alternative questions",
+            "wh-quantification",
+            "Alternative Semantics",
+            "Mandarin Chinese",
+            "semantics",
+            "intervention effects",
+            "islands"
+        ],
+        "authors": [
+            {
+                "name": "Erlewine, Michael Yoshitaka",
+                "lastName": "Erlewine",
+                "displayName": "Michael Yoshitaka Erlewine"
+            }
+        ],
+        "projects": [
+            "haishi"
+        ],
+        "author": "Erlewine, Michael Yoshitaka",
+        "title": "Two disjunctions in Mandarin Chinese",
+        "url": "http://lingbuzz.auf.net/lingbuzz/003553/current.pdf",
+        "note": "Manuscript, National University of Singapore",
+        "year": "2017",
+        "abstract": "Mandarin Chinese has two disjunctors, <em>háishi</em> and <em>huòzhe</em>. Alternative questions use <em>háishi</em> whereas logical, boolean disjunction is expressed with <em>huòzhe</em>. Building on previous decompositional analyses of disjunction, I propose that <em>háishi</em> spells out the junctor head J which projects its disjuncts as Roothian alternatives, whereas <em>huòzhe</em> spells out a version of the J head that must be existential closed, forming a quantifier. This account contrasts from previous work on disjunction in Mandarin, which requires <em>hàishi</em> to move at LF or which requires the two disjunctors to differ in the size of disjuncts. Evidence comes from focus intervention effects and island (in)sensitivity.\n\nI also consider environments where <em>háishi</em> and <em>huòzhe</em> are interchangeable, with disjunctive or conjunctive interpretation, which are also precisely where <em>wh</em>-phrases are used quantificationally. I offer a semantic characterization for these environments and argue against possible syntactic accounts. The distributions and interpretations of these disjunctors and <em>wh</em>-phrases in Mandarin Chinese form an argument for the two-dimensional Roothian Alternative Semantics framework over similar one-dimensional frameworks such as Hamblin semantics, from an empirical domain other than focus.",
+        "authorsHtml": [
+            "Erlewine, Michael Yoshitaka"
+        ],
+        "shortHtml": [
+            "Erlewine"
+        ],
+        "othersHtml": [
+            
+        ],
+        "files": [
+            {
+                "title": "Two disjunctions in Mandarin Chinese",
+                "event": "haishi",
+                "url": "http://lingbuzz.auf.net/lingbuzz/003553/current.pdf",
+                "type": "pdf"
+            }
+        ]
+    },
+    {
+        "citationKey": "talk:already",
+        "entryType": "talk",
+        "keywords": [
+            "syntax",
+            "Singlish",
+            "FOFC",
+            "sentence-final particles",
+            "contact"
+        ],
+        "authors": [
+            {
+                "name": "Erlewine, Michael Yoshitaka",
+                "lastName": "Erlewine",
+                "displayName": "Michael Yoshitaka Erlewine"
+            }
+        ],
+        "projects": [
+            "sfp-sg"
+        ],
+        "author": "Erlewine, Michael Yoshitaka",
+        "title": "The limits of relexification: The story of Singlish <em>already</em>",
+        "note": "Presented at the 2017 summer meeting of the Society for Pidgin and Creole Linguistics, University of Tampere",
+        "year": "2017",
+        "abstract": "I investigate the syntax/semantics of Singlish (also: Colloquial Singapore English) sentence-final <em>already</em> and related sentence-final particles (SFPs) in Chinese languages in its contact ecology. Based on new evidence from their semantic scope, I show that Singlish <em>already</em> unambiguously attaches high to its host clause (above TP), whereas the related substrate <em>le/liao/laa</em> SFPs attach unambiguously to a clause-medial position (between VP and TP). I propose that this unambiguously high attachment of Singlish <em>already</em> was triggered by a structural universal, the Final-over-Final Constraint, and the availability of verbal inflection in Singlish, unlike in its substrate Chinese languages.",
+        "slides": {
+            "source": "/Users/mitcho/Dropbox/academic/projects/singlish/spcl/slides-trans.pdf",
+            "target": "/research/slides-already.pdf",
+            "event": "slides-already"
+        },
+        "authorsHtml": [
+            "Erlewine, Michael Yoshitaka"
+        ],
+        "shortHtml": [
+            "Erlewine"
+        ],
+        "othersHtml": [
+            
+        ],
+        "files": [
+            {
+                "title": "Slides",
+                "event": "slides-already",
+                "url": "/research/slides-already.pdf",
+                "type": "pdf"
+            }
+        ],
+        "url": "/research/slides-already.pdf"
+    },
+    {
+        "citationKey": "talk:manang",
+        "entryType": "talk",
+        "keywords": [
+            "Toba Batak",
+            "NPI",
+            "free choice",
+            "wh-words",
+            "semantics",
+            "Alternative Semantics",
+            "quantification",
+            "disjunction"
+        ],
+        "authors": [
+            {
+                "name": "Erlewine, Michael Yoshitaka",
+                "lastName": "Erlewine",
+                "displayName": "Michael Yoshitaka Erlewine"
+            }
+        ],
+        "projects": [
+            "manang"
+        ],
+        "author": "Erlewine, Michael Yoshitaka",
+        "title": "Quantifying over alternatives with Toba Batak <em>manang</em>",
+        "note": "Presented at AFLA 24, Triple A 4",
+        "year": "2017",
+        "abstract": "I report on the use and distribution of <em>manang</em> in Toba Batak, an Austronesian language of northern Sumatra, Indonesia. <em>Manang</em> is used to form logical disjunctions, alternative questions, <em>wh</em>-Negative Polarity Items (NPIs), and <em>wh</em>-Free Choice Items (FCIs), and also appears optionally on embedded questions. It does not, however, form simple <em>wh</em>-indefinites.\n\nI propose that <em>manang</em> is the spellout of maximally two logical operators: <strong>J</strong>, which collects the ordinary semantic values of disjuncts into a set of alternatives, and <strong>∃</strong>, which creates an existential quantifier from a set of alternatives. Using a two-dimensional Alternative Semantics (Rooth 1985, 1992), I derive the different disjunctive and <em>wh</em>-quantifying uses of <em>manang</em> and various constraints on their interpretation. I additionally report on the use of <em>manang</em> in embedded questions.",
+        "handout": {
+            "source": "/Users/mitcho/Dropbox/academic/projects/manang/afla2017/handout-2up.pdf",
+            "target": "/research/handout-manang.pdf",
+            "event": "handout-manang"
+        },
+        "authorsHtml": [
+            "Erlewine, Michael Yoshitaka"
+        ],
+        "shortHtml": [
+            "Erlewine"
+        ],
+        "othersHtml": [
+            
+        ],
+        "files": [
+            {
+                "title": "Handout",
+                "event": "handout-manang",
+                "url": "/research/handout-manang.pdf",
+                "type": "pdf"
+            }
+        ],
+        "url": "/research/handout-manang.pdf"
+    },
+    {
+        "citationKey": "talk:batak-glow",
+        "entryType": "talk",
+        "keywords": [
+            "syntax",
+            "Toba Batak",
+            "Austronesian",
+            "Austronesian voice",
+            "movement",
+            "extraction asymmetries",
+            "nominal licensing",
+            "licensing by adjacency",
+            "C and T",
+            "probing",
+            "bundling"
+        ],
+        "authors": [
+            {
+                "name": "Erlewine, Michael Yoshitaka",
+                "lastName": "Erlewine",
+                "displayName": "Michael Yoshitaka Erlewine"
+            }
+        ],
+        "projects": [
+            "batak"
+        ],
+        "author": "Erlewine, Michael Yoshitaka",
+        "title": "Extraction and licensing in Toba Batak",
+        "note": "Presented at GLOW 40",
+        "year": "2017",
+        "abstract": "I investigate patterns of preverbal fronting in Toba Batak, a predicate-initial Austronesian language of northern Sumatra. Contrary to the claims of previous work on the language, I show that multiple constituents can be simultaneously fronted, though only in limited configurations. I argue that the heads C and T are present in Toba Batak, with their traditional division of labor, but extraction patterns are restricted by the limited means of nominal licensing (abstract Case) in the language. In addition, the features of C and T have the option of being bundled together on a single head, inheriting properties of both C and T and probing together for the joint satisfaction of their probes. This study sheds light on the relationship between western Austronesian voice system languages and the clause periphery in other language families.",
+        "handout": {
+            "source": "/Users/mitcho/Dropbox/academic/projects/batak/glow2017/handout-2up.pdf",
+            "target": "/research/handout-batak-glow.pdf",
+            "event": "handout-batak-glow"
+        },
+        "slides": {
+            "source": "/Users/mitcho/Dropbox/academic/projects/batak/glow2017/slides-trans.pdf",
+            "target": "/research/slides-batak-glow.pdf",
+            "event": "slides-batak-glow"
+        },
+        "authorsHtml": [
+            "Erlewine, Michael Yoshitaka"
+        ],
+        "shortHtml": [
+            "Erlewine"
+        ],
+        "othersHtml": [
+            
+        ],
+        "files": [
+            {
+                "title": "Handout",
+                "event": "handout-batak-glow",
+                "url": "/research/handout-batak-glow.pdf",
+                "type": "pdf"
+            },
+            {
+                "title": "Slides",
+                "event": "slides-batak-glow",
+                "url": "/research/slides-batak-glow.pdf",
+                "type": "pdf"
+            }
+        ],
+        "url": "/research/handout-batak-glow.pdf"
+    },
+    {
         "citationKey": "focus-binding-pg",
         "entryType": "inproceedings",
         "keywords": [
@@ -61,7 +275,7 @@
     },
     {
         "citationKey": "talk:batak-lsa",
-        "entryType": "unpublished",
+        "entryType": "talk",
         "keywords": [
             "Austronesian",
             "Austronesian voice",
@@ -134,7 +348,8 @@
             "licensing by adjacency",
             "C and T",
             "probing",
-            "bundling"
+            "bundling",
+            "complex probing"
         ],
         "authors": [
             {
@@ -150,8 +365,8 @@
         "title": "Extraction and licensing in Toba Batak",
         "url": "http://lingbuzz.auf.net/lingbuzz/003261/current.pdf",
         "note": "Manuscript, National University of Singapore",
-        "year": "2016",
-        "abstract": "I investigate patterns of preverbal fronting in Toba Batak, a predicate-initial Austronesian language of northern Sumatra. Contrary to the claims of previous work on the language, I show that multiple constituents can be simultaneously fronted, though only in limited configurations. I argue that the heads C and T are present in Toba Batak, with their traditional division of labor, but extraction patterns are restricted by the limited means of nominal licensing (abstract Case) in the language. In addition, the features of C and T have the option of being bundled together on a single head, inheriting properties of both C and T and probing together for the joint satisfaction of their probes. This study sheds light on the relationship between western Austronesian voice system languages and the clause periphery in other language families.",
+        "year": "2017",
+        "abstract": "I investigate patterns of preverbal fronting in Toba Batak, a predicate-initial Austronesian language of northern Sumatra. Contrary to the claims of previous work on the language, I show that multiple constituents can be simultaneously fronted, though only in limited configurations. I argue that the distinct heads C and T are present in Toba Batak, with their common division of labor, but extraction patterns are restricted by the limited means of nominal licensing (abstract Case) in the language. In addition, the features of C and T have the option of being bundled together on a single head, inheriting properties of both C and T and probing together for the joint satisfaction of their probes. Such complex probes are unable to skip partially matching goals. This study sheds light on the relationship between western Austronesian voice system languages and the clause periphery in other language families.",
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
         ],
@@ -172,7 +387,7 @@
     },
     {
         "citationKey": "talk:focus-minimality",
-        "entryType": "unpublished",
+        "entryType": "talk",
         "keywords": [
             "only",
             "Mandarin Chinese",
@@ -232,8 +447,8 @@
         "url": "/research/handout-focus-minimality.pdf"
     },
     {
-        "citationKey": "talk:kaqchikel-ae",
-        "entryType": "unpublished",
+        "citationKey": "kaqchikel-ae",
+        "entryType": "inproceedings",
         "keywords": [
             "argument ellipsis",
             "Kaqchikel",
@@ -259,9 +474,10 @@
         ],
         "author": "Erlewine, Michael Yoshitaka and Levin, Theodore",
         "title": "On the unavailability of argument ellipsis in Kaqchikel",
-        "note": "Presented at Form and Analysis in Mayan Linguistics 4, LSA 2017",
-        "year": "2017",
-        "abstract": "We argue against the Anti-Agreement Hypothesis for argument ellipsis—which posits that argument ellipsis is possible only if the argument is not φ-agreed with—with new evidence from Kaqchikel (Mayan; Guatemala). We show that sloppy interpretations of null arguments (described in the literature as indicative of “argument ellipsis”) are unavailable even when the arguments are not Agreed with. This runs counter to predictions of the prominent Anti-Agreement Hypothesis, which Otaki et al. (2013) claim is supported by Kaqchikel. The behavior of Kaqchikel is instead consistent with Bošković’s (2016) proposal tying the (un)availability of argument ellipsis to the NP/DP distinction. On this view, DP languages, like Kaqchikel, are expected to deny argument ellipsis, even in the absense of φ-agreement.",
+        "url": "http://lingbuzz.auf.net/lingbuzz/003503/current.pdf",
+        "year": "to appear",
+        "abstract": "Argument ellipsis refers to the phenomenon of unpronounced nominal arguments that are interpreted as full noun phrases. One particularly influential account claims that argument ellipsis is possible if and only if the argument is not φ-agreed with — the Anti-Agreement Hypothesis (Saito 2007, Şener and Takahashi 2010). Otaki, Sugisaki, Yusa, and Koizumi (2013) show that null subjects and objects in Kaqchikel are not interpreted as full noun phrases, and therefore not the result of argument ellipsis. They say that these facts lend support to the Anti-Agreement Hypothesis, given that Kaqchikel verbs agree with both subjects and objects. \n\nIn this paper, we consider additional syntactic environments not considered by Otaki et al. and show that the interpretation of Kaqchikel null arguments in fact cannot be held up as support for the Anti-Agreement Hypothesis. The empirical testing ground we introduce is the Agent Focus construction in Kaqchikel, where transitive verbs only exhibit φ-agreement with one argument (see e.g. Preminger, 2011, 2014, Erlewine, 2016). We show that, in Agent Focus constructions, even arguments that are not Agreed with disallow argument ellipsis. This fuller set of data from Kaqchikel thus provides empirical and conceptual evidence against the Anti-Agreement Hypothesis for argument ellipsis, contrary to the conclusions of Otaki et al.",
+        "booktitle": "Proceedings of Form and Analysis in Mayan Linguistics 4",
         "poster": {
             "source": "/Users/mitcho/Dropbox/academic/projects/argument-ellipsis/Presentations/LSA/poster-final.pdf",
             "target": "/research/poster-kaqchikel-ae.pdf",
@@ -285,19 +501,24 @@
         ],
         "files": [
             {
-                "title": "Poster",
+                "title": "On the unavailability of argument ellipsis in Kaqchikel",
+                "event": "kaqchikel-ae",
+                "url": "http://lingbuzz.auf.net/lingbuzz/003503/current.pdf",
+                "type": "pdf"
+            },
+            {
+                "title": "Associated poster",
                 "event": "poster-kaqchikel-ae",
                 "url": "/research/poster-kaqchikel-ae.pdf",
                 "type": "pdf"
             },
             {
-                "title": "Handout",
+                "title": "Associated handout",
                 "event": "handout-kaqchikel-ae",
                 "url": "/research/handout-kaqchikel-ae.pdf",
                 "type": "pdf"
             }
-        ],
-        "url": "/research/poster-kaqchikel-ae.pdf"
+        ]
     },
     {
         "citationKey": "vietnamese-only",
@@ -322,10 +543,14 @@
         ],
         "author": "Erlewine, Michael Yoshitaka",
         "title": "Vietnamese focus particles and derivation by phase",
-        "url": "http://ling.auf.net/lingbuzz/003177/current.pdf",
+        "url": "https://link.springer.com/article/10.1007/s10831-017-9156-y",
         "year": "to appear",
         "abstract": "I show that the focus-sensitive operator &#8216;only&#8217; chỉ in Vietnamese is a sentential modifier and required to be as low as possible in its phase while taking its focus associate in its scope. I show that this &#8220;as low as possible&#8221; requirement cannot be violated even in order to yield a different meaning. Within a phase-based, bottom-up conception of structure-building, I analyze this behavior as the result of sentential focus particles adjoining as early as possible while being interpretable. The fact that this requirement only holds between different adjunction positions in each phase is naturally explained by the theory of derivation by phase (Chomsky, 2000, 2001) and provides a new kind of evidence for this form of cyclic structure-building. This work also provides cross-linguistic support for one aspect of the controversial analysis of German focus particles as sentential modifiers (Jacobs, 1983, 1986; Büring and Hartmann, 2001), which similarly requires an &#8216;&#8216;as low as possible&#8221; requirement on sentential focus particles.",
         "journal": "Journal of East Asian Linguistics",
+        "paper": {
+            "target": "http://ling.auf.net/lingbuzz/003177/current.pdf",
+            "event": "current"
+        },
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
         ],
@@ -339,6 +564,12 @@
             {
                 "title": "Vietnamese focus particles and derivation by phase",
                 "event": "vietnamese-only",
+                "url": "https://link.springer.com/article/10.1007/s10831-017-9156-y",
+                "type": ""
+            },
+            {
+                "title": "Preprint",
+                "event": "current",
                 "url": "http://ling.auf.net/lingbuzz/003177/current.pdf",
                 "type": "pdf"
             }
@@ -346,7 +577,7 @@
     },
     {
         "citationKey": "talk:sfp",
-        "entryType": "unpublished",
+        "entryType": "talk",
         "keywords": [
             "Mandarin Chinese",
             "FOFC",
@@ -435,11 +666,12 @@
         "author": "Mizuno, Teruyuki and Erlewine, Michael Yoshitaka",
         "editor": "Funakoshi, Kenshi and Kawahara, Shigeto and Tancredi, Christopher D.",
         "title": "Constraints on contrast sluicing",
-        "year": "to appear",
+        "year": "2017",
         "abstract": "In this paper we investigate contrast sluicing in Japanese and English. The evidence presented here sheds light on the LF syntax of multiple wh-questions and the derivation of sluicing in Japanese, as well as the syntax/semantics of contrast. This paper is organized into two parts. Section 1 discusses the syntax of sluicing in Japanese with novel data on contrast sluicing with multiple whquestions. Section 2 investigates a semantic constraint on contrast reflected in\nboth sluicing and unreduced contrasting questions.",
         "booktitle": "Japanese/Korean Linguistics 24",
+        "pages": "201--214",
         "paper": {
-            "source": "/Users/mitcho/Dropbox/academic/projects/multiple-wh-sluicing/JK-proceedings/submission/preprint.pdf",
+            "source": "/Users/mitcho/Dropbox/academic/projects/multiple-wh-sluicing/JK-proceedings/revision/preprint.pdf",
             "target": "/research/sluicing-jk.pdf",
             "event": "sluicing-jk"
         },
@@ -495,7 +727,11 @@
                 "type": "pdf"
             }
         ],
-        "url": "/research/sluicing-jk.pdf"
+        "url": "/research/sluicing-jk.pdf",
+        "pageRange": [
+            "201",
+            "214"
+        ]
     },
     {
         "citationKey": "nakanishi",
@@ -546,7 +782,7 @@
     },
     {
         "citationKey": "talk:batak-linglunch",
-        "entryType": "unpublished",
+        "entryType": "talk",
         "keywords": [
             "Austronesian",
             "Austronesian voice",
@@ -630,6 +866,7 @@
         "year": "2016",
         "journal": "Computational Linguistics",
         "volume": "42",
+        "number": "4",
         "pages": "837--839",
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
@@ -655,7 +892,7 @@
     },
     {
         "citationKey": "talk:shi-keio",
-        "entryType": "unpublished",
+        "entryType": "talk",
         "keywords": [
             "focus",
             "Mandarin Chinese",
@@ -1311,6 +1548,7 @@
         "year": "2016",
         "journal": "Oceanic Linguistics",
         "volume": "55",
+        "number": "1",
         "pages": "298--306",
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
@@ -1447,7 +1685,7 @@
     },
     {
         "citationKey": "talk:focus-adverb-edges",
-        "entryType": "unpublished",
+        "entryType": "talk",
         "keywords": [
             "only",
             "Mandarin Chinese",
@@ -1624,6 +1862,7 @@
         "abstract": "We offer a new, unified approach to the derivation and interpretation of head-external, head-internal, and heretofore understudied doubly-headed relative clauses in Japanese. Our proposal is motivated by new data on the interpretation of these different forms of relative clauses with quantificational heads, in different contexts. Head-internal and doubly-headed relative clauses are interpreted as definite descriptions with their quantificational head interpreted in their surface, relative-clause-internal positions. We show that the complex patterns of possible interpretations, as well as the shape of observed inter-speaker variation, are derived by interpreting definite descriptions using a maximal informativeness semantics and a simple assumption regarding the role of contextual information, which we call the <em>Salient Sets Restriction</em>. \n\nSyntactically, we propose a novel DP head-raising derivation for relative clauses that takes advantage of the Copy Theory of movement and the late-merger of relative clauses. This allows for the unification of head-internal and doubly-headed relativization strategies with the familiar head-external form, which would otherwise not be possible. We believe this approach is suitable for head-raising relative clauses in other languages as well, including English. Our proposal avoids some complications of previous head-raising derivations, instead taking advantage of independently motivated mechanisms of copy-chain resolution at LF.",
         "journal": "Glossa",
         "volume": "1",
+        "number": "51",
         "pages": "1--40",
         "paper": {
             "target": "http://doi.org/10.5334/gjgl.174",
@@ -1690,6 +1929,7 @@
         "abstract": "In this paper we investigate two series of Negative Polarity Items (NPIs) in Dharamsala Tibetan: one series uses the numeral &#8216;one&#8217; with an <em>even</em> particle, with an optional nominal domain. The other series combines a <em>wh</em>-word with the same <em>even</em> particle, and may appear with or without the numeral &#8216;one.&#8217; We discuss the relation of these NPIs to indefinite expressions in Dharamsala Tibetan, and document their syntactic licensing conditions. We show that NPIs are licensed in the scope of a clause-mate negation and in questions, but not in other downward-entailing environments. \n\nWe then present a compositional semantics for these two types of NPIs which explains their negative-polarity dependency, based on Lahiri&#8217;s (1998) analysis of similar constructions in Hindi. Our analysis for <em>wh</em>-<em>even</em> NPIs takes advantage of the Hamblin (1973) denotation of <em>wh</em>-words as sets of alternatives and the fact that <em>even</em> introduces two presuppositions&mdash;an additive one and a scalar one. Allowing the additive component of <em>even</em> to scope independently of the scalar part, the additive part of <em>even</em> is used to generate an indefinite out of the <em>wh</em>-word. The scalar component will be used to ensure that <em>even</em>-NPIs can only be used in downward entailing contexts.",
         "journal": "Linguistic Analysis",
         "volume": "40",
+        "number": "3--4",
         "pages": "129--165",
         "slides": {
             "source": "/Users/mitcho/Dropbox/academic/projects/tibetan/slides/slides-trans.pdf",
@@ -1781,7 +2021,7 @@
     },
     {
         "citationKey": "talk:shi-eacl",
-        "entryType": "unpublished",
+        "entryType": "talk",
         "keywords": [
             "focus",
             "Mandarin Chinese",
@@ -1853,7 +2093,8 @@
             "relative clause",
             "relative pronoun",
             "intervention effects",
-            "Alternative Semantics"
+            "Alternative Semantics",
+            "noelements"
         ],
         "authors": [
             {
@@ -1903,7 +2144,7 @@
     },
     {
         "citationKey": "talk:comp",
-        "entryType": "unpublished",
+        "entryType": "talk",
         "keywords": [
             "hidden",
             "comparative",
@@ -1924,10 +2165,15 @@
         ],
         "author": "Erlewine, Michael Yoshitaka",
         "title": "Independent Dependency in the Mandarin <em>bǐ</em> comparative",
-        "url": "http://comparatives.mit.edu/erlewine.pdf",
+        "url": "https://mitcho.com/research/handout-comp.pdf",
         "note": "Presented at the MIT Workshop on Comparatives",
         "year": "2010",
         "abstract": "Recent analyses of the Mandarin bi comparative (Xiang 2005, Erlewine 2007, Lin 2009) assume a \"direct analysis\" à la Heim (1985) whereby the semantics of the comparative applies the single gradable predicate to both the standard and the target. In this talk I present a slew of evidence for syntactic dependencies (movement chains) which exist simultaneously between the predicate and the target and between the predicate and the standard. Both the target and the standard are thus shown to be independently dependent on the predicate of comparison&mdash;a hypothesis I dub \"Independent Dependency.\"",
+        "handout": {
+            "source": "/Users/mitcho/Dropbox/academic/projects/bi/handout-20101113-comparatives/handout-20101113-2up.pdf",
+            "target": "/research/handout-comp.pdf",
+            "event": "handout-comp"
+        },
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
         ],
@@ -1941,7 +2187,13 @@
             {
                 "title": "Independent Dependency in the Mandarin <em>bǐ</em> comparative",
                 "event": "talk:comp",
-                "url": "http://comparatives.mit.edu/erlewine.pdf",
+                "url": "https://mitcho.com/research/handout-comp.pdf",
+                "type": "pdf"
+            },
+            {
+                "title": "Associated handout",
+                "event": "handout-comp",
+                "url": "/research/handout-comp.pdf",
                 "type": "pdf"
             }
         ]
@@ -2298,7 +2550,7 @@
     },
     {
         "citationKey": "talk:af-restructuring",
-        "entryType": "unpublished",
+        "entryType": "talk",
         "keywords": [
             "Kaqchikel",
             "morphology",
@@ -2357,7 +2609,7 @@
     },
     {
         "citationKey": "talk:blocking-cns2014",
-        "entryType": "unpublished",
+        "entryType": "talk",
         "keywords": [
             "experimental",
             "English",
@@ -2456,7 +2708,7 @@
     },
     {
         "citationKey": "talk:blocking-lsa2014",
-        "entryType": "unpublished",
+        "entryType": "talk",
         "keywords": [
             "morphology",
             "syntax",
@@ -2679,7 +2931,7 @@
     },
     {
         "citationKey": "talk:teal9",
-        "entryType": "unpublished",
+        "entryType": "talk",
         "keywords": [
             "only",
             "Mandarin Chinese",
@@ -2761,7 +3013,7 @@
         "editor": "Coon, Jessica and Massam, Diane and Travis, Lisa deMena",
         "title": "Ergativity and Austronesian-type voice systems",
         "url": "http://ling.auf.net/lingbuzz/002629/current.pdf",
-        "year": "to appear",
+        "year": "2017",
         "abstract": "In an Austronesian-type voice system, a single argument is designated the \"pivot\" in each clause, with verbal morphology indicating the choice of pivot and corresponding changes in case marking and extraction possibilities. It has been suggested that ergativity plays a crucial role in Austronesian-type voice systems. In this paper, we argue that voice marking and case reflect separate but interacting systems, which can be dissociated from each other, based on the behavior of voice in Dinka (Nilotic; South Sudan) and Balinese (Austronesian; Indonesia). These languages exhibit familiar voice morphology, but can clearly be shown to not involve any ergativity. Instead, we propose that what unifies &#8220;voice&#8221; system behavior is a lack of structural licensing for the subject in Non-Subject Voices. We show that different voice systems solve this problem in different ways: Balinese licenses the subject under adjacency with the verb, whereas Dinka allows for last resort assignment of genitive case like in many Austronesian languages of the Philippines and of Taiwan.\n\nInvited contribution.",
         "booktitle": "Oxford Handbook of Ergativity",
         "pages": "373--396",
@@ -3339,7 +3591,8 @@
             "morphology",
             "syntax",
             "Distributed Morphology",
-            "causative"
+            "causative",
+            "noelements"
         ],
         "authors": [
             {
@@ -3425,6 +3678,7 @@
         "abstract": "Many Mayan languages show a syntactically ergative extraction asymmetry whereby the A-bar-extraction of subjects of transitive verbs requires special verbal morphology, known as Agent Focus. In this paper I investigate the syntax of Agent Focus in Kaqchikel, a Mayan language spoken in Guatemala. I argue that this extraction asymmetry in Kaqchikel is the result of a particular anti-locality constraint which bans movement that is too close. Support for this claim comes from new data on the distribution of Agent Focus in Kaqchikel that show this locality-sensitivity.\n\nThe distribution and realization of Agent Focus will then be modeled using a system of ranked, violable constraints operating over competing derivations. This theoretical choice will be supported by details in the pattern of agreement in Agent Focus. I will then show how rerankings of the proposed constraints can model the attested distribution of Agent Focus in a number of other Mayan languages. I also discuss extensions of this approach to other patterns of anti-agreement.",
         "journal": "Natural Language &amp; Linguistic Theory",
         "volume": "34",
+        "number": "2",
         "pages": "429--479",
         "paper": {
             "target": "http://ling.auf.net/lingbuzz/001841/current.pdf",
@@ -3481,9 +3735,8 @@
         "author": "Erlewine, Michael Yoshitaka",
         "title": "Clausal comparison without degree abstraction in Mandarin Chinese",
         "url": "http://lingbuzz.auf.net/lingbuzz/001687/current.pdf",
-        "note": "minor revisions pending",
-        "year": "accepted",
-        "abstract": "This paper argues (a) that the bǐ comparative construction in Mandarin Chinese is a form of clausal comparative and (b) that Mandarin Chinese lacks abstraction over degree variables.\n\nBeck et al. (2004) proposes that languages may vary in whether or not they allow for abstraction over degree variables. In previous work, comparatives with clausal standards have been uniformly analyzed cross-linguistically as involving an A&#8217;-movement step abstracting over a degree variable, and thereby predicted to not occur in languages without degree abstraction. The paper shows that clausal comparison without degree abstraction is not only theoretically possible but attested, contributing to the cross-linguistic typology of degree constructions.\n\nI first present evidence from bǐ comparatives involving various types of movement chains, which shows that a phrasal analysis is untenable. I detail the comparative deletion enforced in bǐ comparatives and show that various properties of bǐ comparatives fall out of general constraints on ellipsis parallelism. I then argue that the computation of bǐ comparatives does not&mdash;and cannot---involve abstraction over a degree argument. Gradable predicates in Mandarin can take their degree argument last, allowing for clausal comparison without using degree abstraction.\n",
+        "year": "to appear",
+        "abstract": "This paper argues (a) that the bǐ comparative construction in Mandarin Chinese is a form of clausal comparative and (b) that Mandarin Chinese lacks abstraction over degree variables. Beck, Oda, and Sugisaki (2004) propose that languages may vary in whether or not they allow for abstraction over degree variables through movement. In previous work, comparatives with clausal standards have been uniformly analyzed cross-linguistically as involving A-movement of a degree operator, and are thereby predicted to not occur in languages without degree abstraction. The paper shows that clausal comparison without degree abstraction is not only theoretically possible but attested, contributing to the cross-linguistic typology of degree constructions. Along the way, I detail the syntactic derivation of bǐ comparatives and the obligatory ellipsis operation (comparative deletion) in their derivation.",
         "journal": "Natural Language &amp; Linguistic Theory",
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
@@ -3534,6 +3787,7 @@
         "abstract": "More and more researchers in linguistics use large-scale experiments to test hypotheses about the data they research, in addition to more traditional informant work. In this paper we describe a new set of free, open-source tools that allow linguists with little background in programming or experimental methods to post studies online. These tools allow for the creation of a wide range of linguistic tasks, including linguistic grammaticality surveys, sentence completion tasks, and picture-matching tasks. Our tools further help streamline the design of such experiments and assist in the extraction and analysis of the resulting data. Surveys created using the tools described in this paper can be posted on Amazon.com&#8217;s Mechanical Turk, a popular crowdsourcing platform which mediates between &#8216;Requesters&#8217; who can post surveys online and &#8216;Workers&#8217; who complete them. This allows many linguistic surveys to be completed within hours or days and at low costs of $50 or less. Alternatively, researchers can host these randomized experiments on their own servers using a supplied server-side component.",
         "journal": "Natural Language &amp; Linguistic Theory",
         "volume": "34",
+        "number": "2",
         "pages": "481--495",
         "paper": {
             "target": "http://ling.auf.net/lingbuzz/001802/current.pdf",
@@ -3628,7 +3882,7 @@
     },
     {
         "citationKey": "talk:glow2012",
-        "entryType": "unpublished",
+        "entryType": "talk",
         "keywords": [
             "hidden"
         ],
@@ -3699,16 +3953,22 @@
             }
         ],
         "projects": [
-            "piedpiping",
+            "focus-piedpiping",
             "focus-movement"
         ],
         "author": "Erlewine, Michael Yoshitaka and Kotek, Hadas",
         "editor": "Huang, Hsin-Lun and Poole, Ethan and Rysling, Amanda",
         "title": "Intervention in focus pied-piping",
         "year": "2014",
+        "abstract": "In this paper we propose a new argument in support of the view that focus association involves covert focus movement with pied-piping, as proposed by Drubig (1994) and more recently supported by Krifka (2006) and Wagner (2006), and against the more prominent approach which does not involve movement (Rooth 1985, 1992). The evidence will come from an interaction between the interpretation of pied-piped constituents with focus intervention effects (Beck 2006).",
         "booktitle": "Proceedings of NELS 43",
         "volume": "1",
         "pages": "117--130",
+        "paper": {
+            "source": "/Users/mitcho/Dropbox/academic/projects/piedpiping/nels-paper/erlewine-kotek-nels43-preprint.pdf",
+            "target": "/research/focus-piedpiping.pdf",
+            "event": "focus-piedpiping"
+        },
         "handout": {
             "source": "/Users/mitcho/Dropbox/academic/projects/piedpiping/talks/nels/handout-nels2012.pdf",
             "target": "/research/handout-focus-piedpiping.pdf",
@@ -3754,19 +4014,25 @@
         ],
         "files": [
             {
-                "title": "Handout",
+                "title": "Intervention in focus pied-piping",
+                "event": "focus-piedpiping",
+                "url": "/research/focus-piedpiping.pdf",
+                "type": "pdf"
+            },
+            {
+                "title": "Associated handout",
                 "event": "handout-focus-piedpiping",
                 "url": "/research/handout-focus-piedpiping.pdf",
                 "type": "pdf"
             },
             {
-                "title": "Slides",
+                "title": "Associated slides",
                 "event": "slides-focus-piedpiping",
                 "url": "/research/slides-focus-piedpiping.pdf",
                 "type": "pdf"
             }
         ],
-        "url": "/research/handout-focus-piedpiping.pdf",
+        "url": "/research/focus-piedpiping.pdf",
         "pageRange": [
             "117",
             "130"
@@ -3808,6 +4074,7 @@
         "abstract": "In this paper we argue for the existence of covert pied-piping in wh-questions through a previously unnoticed pattern of intervention effects in superiority-obeying English multiple wh-questions. We show that the preference of covert pied-piping is for movement of larger constituents, unlike overt pied-piping. We argue that this discrepancy stems from conflicting requirements of PF and LF: overt pied-piping feeds both LF and PF, but covert pied-piping feeds LF only. The study of covert pied-piping thus reveals the true preference of LF and Core Syntax with regard to pied-piping: larger pied-piping constituents are preferred over smaller ones. This preference can be overridden by certain PF constraints that apply to overt pied-piping.",
         "journal": "Linguistic Inquiry",
         "volume": "47",
+        "number": "4",
         "pages": "669--693",
         "paper": {
             "target": "http://ling.auf.net/lingbuzz/001736/current.pdf",
@@ -3925,7 +4192,7 @@
     },
     {
         "citationKey": "talk:af-aimm",
-        "entryType": "unpublished",
+        "entryType": "talk",
         "keywords": [
             "hidden",
             "Kaqchikel",
@@ -3959,16 +4226,17 @@
         ]
     },
     {
-        "citationKey": "haishi",
+        "citationKey": "haishi-cls",
         "entryType": "inproceedings",
         "keywords": [
             "alternative questions",
             "focus",
             "Mandarin Chinese",
             "intervention effects",
-            "syntax",
             "semantics",
-            "islands"
+            "islands",
+            "disjunction",
+            "Alternative Semantics"
         ],
         "authors": [
             {
@@ -3989,13 +4257,13 @@
         "pages": "221--234",
         "paper": {
             "source": "/Users/mitcho/Dropbox/academic/projects/haishi/cls48-proceedings/erlewine-cls48-preprint.pdf",
-            "target": "/research/haishi.pdf",
-            "event": "haishi"
+            "target": "/research/haishi-cls.pdf",
+            "event": "haishi-cls"
         },
         "handout": {
             "source": "/Users/mitcho/Dropbox/academic/projects/haishi/cls48/handout-cls2012.pdf",
-            "target": "/research/handout-haishi.pdf",
-            "event": "handout-haishi"
+            "target": "/research/handout-haishi-cls.pdf",
+            "event": "handout-haishi-cls"
         },
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
@@ -4043,18 +4311,18 @@
         "files": [
             {
                 "title": "Alternative questions through focus alternatives in Mandarin Chinese",
-                "event": "haishi",
-                "url": "/research/haishi.pdf",
+                "event": "haishi-cls",
+                "url": "/research/haishi-cls.pdf",
                 "type": "pdf"
             },
             {
                 "title": "Associated handout",
-                "event": "handout-haishi",
-                "url": "/research/handout-haishi.pdf",
+                "event": "handout-haishi-cls",
+                "url": "/research/handout-haishi-cls.pdf",
                 "type": "pdf"
             }
         ],
-        "url": "/research/haishi.pdf",
+        "url": "/research/haishi-cls.pdf",
         "pageRange": [
             "221",
             "234"
@@ -4081,7 +4349,6 @@
         ],
         "author": "Erlewine, Michael Yoshitaka",
         "title": "The verbal nature of Mandarin comparative <em>bǐ</em>",
-        "note": "Linguistic Society of Taiwan",
         "year": "2008",
         "booktitle": "Proceedings of the National Conference on Linguistics 2008",
         "authorsHtml": [
@@ -4200,7 +4467,7 @@
     },
     {
         "citationKey": "talk:isle2",
-        "entryType": "unpublished",
+        "entryType": "talk",
         "keywords": [
             "corpus",
             "computational"
@@ -4264,7 +4531,7 @@
         ],
         "author": "Erlewine, Michael Yoshitaka",
         "title": "Sentence-final <em>only</em> and the interpretation of focus in Mandarin Chinese",
-        "url": "http://naccl.osu.edu/files/NACCL-22_2_33_erlewine.pdf",
+        "url": "https://naccl.osu.edu/sites/naccl.osu.edu/files/NACCL-22_2_33_erlewine.pdf",
         "year": "2010",
         "abstract": "In this paper I document the complex interactions between the Mandarin sentence-final <em>only</em> item <em>éryǐ</em> and the focus marker <em>shì</em>. Following work on Chinese Sentence-Final Particles (SFP), <em>éryǐ</em> syntactically is in the CP-domain and thus should scope above TP-level operators such as negation, and this is indeed normally the case. However, the introduction of the focus marker <em>shì</em> can force the sentence-final <em>éryǐ</em> to take scope below the TP-level negation, creating a problem for the theory of Mandarin SFP.\n\nI propose that <em>shì</em> unambiguously marks the semantic scope of Mandarin focus-sensitive operators which involve Association With Focus. I show how this analysis preserves the expected syntactic cartography while computing the correct semantic scope. A compositional syntax/semantics utilizing focus movement is also presented.",
         "booktitle": "The Proceedings of the 22nd North American Conference of Chinese Linguistics (NACCL 22) and the 18th Annual Meeting of the International Association of Chinese Linguistics (IACL 18)",
@@ -4282,7 +4549,7 @@
             {
                 "title": "Sentence-final <em>only</em> and the interpretation of focus in Mandarin Chinese",
                 "event": "eryi",
-                "url": "http://naccl.osu.edu/files/NACCL-22_2_33_erlewine.pdf",
+                "url": "https://naccl.osu.edu/sites/naccl.osu.edu/files/NACCL-22_2_33_erlewine.pdf",
                 "type": "pdf"
             }
         ],
@@ -4296,7 +4563,8 @@
         "entryType": "url",
         "keywords": [
             "ubiquity",
-            "hidden"
+            "hidden",
+            "noelements"
         ],
         "authors": [
             {
