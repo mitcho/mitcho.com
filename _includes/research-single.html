@@ -41,12 +41,14 @@
 	{% endif %}
 {% endif %}
 
+<br/>
+
 {% if paper.journal != null %}
-In <em>{{paper.journal}}</em>{% if paper.volume != null %} {{paper.volume}}{% if paper.number != null %}:{{paper.number}}{% endif %}{% endif %}{{pages}}.
+<em>{{paper.journal}}</em>{% if paper.volume != null %} {{paper.volume}}{% if paper.number != null %}:{{paper.number}}{% endif %}{% endif %}{{pages}}.
 {% endif %}
 
 {% if paper.booktitle != null %}
-In <em>{{paper.booktitle}}</em>{{pages}}.
+<em>{{paper.booktitle}}</em>{{pages}}.
 {% endif %}
 
 {% if paper.entryType == 'book' %}
