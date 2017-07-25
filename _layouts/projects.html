@@ -13,7 +13,7 @@ layout: default
 		{{ content }}
 		
 		{% for project in site.data.projects %}
-			{% assign projects = (site.pages | where_exp:"page","page.projects contains project") %}
+			{% assign projects = site.pages | where_exp:"page","page.projects contains project" %}
 			{% for link in projects %}
 <h3><a href='{{ link.url | urlescape }}'>{{ link.title | markdownify | replace: '<p>','' | replace: '</p>','' }}</a></h3>
 			{% endfor %}

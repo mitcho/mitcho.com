@@ -21,7 +21,7 @@ layout: default
 		
 			{% assign projects = "" | split: "|" %}
 			{% for project in paper.projects %}
-				{% assign superprojs = (site.pages | where_exp:"page", "page.projects contains project") %}
+				{% assign superprojs = site.pages | where_exp:"page", "page.projects contains project" %}
 				{% for superproj in superprojs %}
 				{% assign projects = projects | push: superproj %}
 				{% endfor %}

@@ -10,7 +10,7 @@ markdown:    kramdown
 highlighter: pygments
 exclude:     ["_hidden"]
 timezone:    America/New_York
-gems:
+plugins:
   - jekyll-redirect-from
   - jemoji
 
