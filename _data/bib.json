@@ -24,7 +24,7 @@
         ],
         "author": "Erlewine, Michael Yoshitaka",
         "title": "Two disjunctions in Mandarin Chinese",
-        "url": "http://lingbuzz.auf.net/lingbuzz/003553/current.pdf",
+        "url": "http://lingbuzz.auf.net/lingbuzz/003575/current.pdf",
         "note": "Manuscript, National University of Singapore",
         "year": "2017",
         "abstract": "Mandarin Chinese has two disjunctors, <em>háishi</em> and <em>huòzhe</em>. Alternative questions use <em>háishi</em> whereas logical, boolean disjunction is expressed with <em>huòzhe</em>. Building on previous decompositional analyses of disjunction, I propose that <em>háishi</em> spells out the junctor head J which projects its disjuncts as Roothian alternatives, whereas <em>huòzhe</em> spells out a version of the J head that must be existential closed, forming a quantifier. This account contrasts from previous work on disjunction in Mandarin, which requires <em>hàishi</em> to move at LF or which requires the two disjunctors to differ in the size of disjuncts. Evidence comes from focus intervention effects and island (in)sensitivity.\n\nI also consider environments where <em>háishi</em> and <em>huòzhe</em> are interchangeable, with disjunctive or conjunctive interpretation, which are also precisely where <em>wh</em>-phrases are used quantificationally. I offer a semantic characterization for these environments and argue against possible syntactic accounts. The distributions and interpretations of these disjunctors and <em>wh</em>-phrases in Mandarin Chinese form an argument for the two-dimensional Roothian Alternative Semantics framework over similar one-dimensional frameworks such as Hamblin semantics, from an empirical domain other than focus.",
@@ -41,13 +41,13 @@
             {
                 "title": "Two disjunctions in Mandarin Chinese",
                 "event": "haishi",
-                "url": "http://lingbuzz.auf.net/lingbuzz/003553/current.pdf",
+                "url": "http://lingbuzz.auf.net/lingbuzz/003575/current.pdf",
                 "type": "pdf"
             }
         ]
     },
     {
-        "citationKey": "talk:already",
+        "citationKey": "talk:spcl2017",
         "entryType": "talk",
         "keywords": [
             "syntax",
@@ -73,8 +73,8 @@
         "abstract": "I investigate the syntax/semantics of Singlish (also: Colloquial Singapore English) sentence-final <em>already</em> and related sentence-final particles (SFPs) in Chinese languages in its contact ecology. Based on new evidence from their semantic scope, I show that Singlish <em>already</em> unambiguously attaches high to its host clause (above TP), whereas the related substrate <em>le/liao/laa</em> SFPs attach unambiguously to a clause-medial position (between VP and TP). I propose that this unambiguously high attachment of Singlish <em>already</em> was triggered by a structural universal, the Final-over-Final Constraint, and the availability of verbal inflection in Singlish, unlike in its substrate Chinese languages.",
         "slides": {
             "source": "/Users/mitcho/Dropbox/academic/projects/singlish/spcl/slides-trans.pdf",
-            "target": "/research/slides-already.pdf",
-            "event": "slides-already"
+            "target": "/research/slides-spcl2017.pdf",
+            "event": "slides-spcl2017"
         },
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
@@ -88,15 +88,15 @@
         "files": [
             {
                 "title": "Slides",
-                "event": "slides-already",
-                "url": "/research/slides-already.pdf",
+                "event": "slides-spcl2017",
+                "url": "/research/slides-spcl2017.pdf",
                 "type": "pdf"
             }
         ],
-        "url": "/research/slides-already.pdf"
+        "url": "/research/slides-spcl2017.pdf"
     },
     {
-        "citationKey": "talk:manang",
+        "citationKey": "talk:triplea2017",
         "entryType": "talk",
         "keywords": [
             "Toba Batak",
@@ -125,8 +125,8 @@
         "abstract": "I report on the use and distribution of <em>manang</em> in Toba Batak, an Austronesian language of northern Sumatra, Indonesia. <em>Manang</em> is used to form logical disjunctions, alternative questions, <em>wh</em>-Negative Polarity Items (NPIs), and <em>wh</em>-Free Choice Items (FCIs), and also appears optionally on embedded questions. It does not, however, form simple <em>wh</em>-indefinites.\n\nI propose that <em>manang</em> is the spellout of maximally two logical operators: <strong>J</strong>, which collects the ordinary semantic values of disjuncts into a set of alternatives, and <strong>∃</strong>, which creates an existential quantifier from a set of alternatives. Using a two-dimensional Alternative Semantics (Rooth 1985, 1992), I derive the different disjunctive and <em>wh</em>-quantifying uses of <em>manang</em> and various constraints on their interpretation. I additionally report on the use of <em>manang</em> in embedded questions.",
         "handout": {
             "source": "/Users/mitcho/Dropbox/academic/projects/manang/afla2017/handout-2up.pdf",
-            "target": "/research/handout-manang.pdf",
-            "event": "handout-manang"
+            "target": "/research/handout-triplea2017.pdf",
+            "event": "handout-triplea2017"
         },
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
@@ -140,15 +140,15 @@
         "files": [
             {
                 "title": "Handout",
-                "event": "handout-manang",
-                "url": "/research/handout-manang.pdf",
+                "event": "handout-triplea2017",
+                "url": "/research/handout-triplea2017.pdf",
                 "type": "pdf"
             }
         ],
-        "url": "/research/handout-manang.pdf"
+        "url": "/research/handout-triplea2017.pdf"
     },
     {
-        "citationKey": "talk:batak-glow",
+        "citationKey": "talk:glow2017",
         "entryType": "talk",
         "keywords": [
             "syntax",
@@ -180,13 +180,13 @@
         "abstract": "I investigate patterns of preverbal fronting in Toba Batak, a predicate-initial Austronesian language of northern Sumatra. Contrary to the claims of previous work on the language, I show that multiple constituents can be simultaneously fronted, though only in limited configurations. I argue that the heads C and T are present in Toba Batak, with their traditional division of labor, but extraction patterns are restricted by the limited means of nominal licensing (abstract Case) in the language. In addition, the features of C and T have the option of being bundled together on a single head, inheriting properties of both C and T and probing together for the joint satisfaction of their probes. This study sheds light on the relationship between western Austronesian voice system languages and the clause periphery in other language families.",
         "handout": {
             "source": "/Users/mitcho/Dropbox/academic/projects/batak/glow2017/handout-2up.pdf",
-            "target": "/research/handout-batak-glow.pdf",
-            "event": "handout-batak-glow"
+            "target": "/research/handout-glow2017.pdf",
+            "event": "handout-glow2017"
         },
         "slides": {
             "source": "/Users/mitcho/Dropbox/academic/projects/batak/glow2017/slides-trans.pdf",
-            "target": "/research/slides-batak-glow.pdf",
-            "event": "slides-batak-glow"
+            "target": "/research/slides-glow2017.pdf",
+            "event": "slides-glow2017"
         },
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
@@ -200,18 +200,18 @@
         "files": [
             {
                 "title": "Handout",
-                "event": "handout-batak-glow",
-                "url": "/research/handout-batak-glow.pdf",
+                "event": "handout-glow2017",
+                "url": "/research/handout-glow2017.pdf",
                 "type": "pdf"
             },
             {
                 "title": "Slides",
-                "event": "slides-batak-glow",
-                "url": "/research/slides-batak-glow.pdf",
+                "event": "slides-glow2017",
+                "url": "/research/slides-glow2017.pdf",
                 "type": "pdf"
             }
         ],
-        "url": "/research/handout-batak-glow.pdf"
+        "url": "/research/handout-glow2017.pdf"
     },
     {
         "citationKey": "focus-binding-pg",
@@ -272,67 +272,6 @@
             }
         ],
         "url": "/research/focus-binding-pg.pdf"
-    },
-    {
-        "citationKey": "talk:batak-lsa",
-        "entryType": "talk",
-        "keywords": [
-            "Austronesian",
-            "Austronesian voice",
-            "A'",
-            "Toba Batak",
-            "syntax",
-            "movement"
-        ],
-        "authors": [
-            {
-                "name": "Erlewine, Michael Yoshitaka",
-                "lastName": "Erlewine",
-                "displayName": "Michael Yoshitaka Erlewine"
-            }
-        ],
-        "projects": [
-            "batak"
-        ],
-        "author": "Erlewine, Michael Yoshitaka",
-        "title": "C and T in Toba Batak",
-        "note": "Presented at LSA 2017",
-        "year": "2017",
-        "abstract": "I investigate patterns of preverbal fronting in Toba Batak, a predicate-initial Austronesian language of northern Sumatra. Contrary to the claims of previous work on the language, I show that multiple constituents can be simultaneously fronted, though only in limited configurations. I argue that the heads C and T are present in Toba Batak, with their traditional division of labor, but extraction patterns are restricted by the limited means of nominal licensing (abstract Case) in the language. In addition, the features of C and T have the option of being bundled together on a single head, inheriting properties of both C and T and probing together for the joint satisfaction of their probes. This study sheds light on the relationship between western Austronesian voice system languages and the clause periphery in other language families.",
-        "handout": {
-            "source": "/Users/mitcho/Dropbox/academic/projects/batak/lsa2017/handout-1up.pdf",
-            "target": "/research/handout-batak-lsa.pdf",
-            "event": "handout-batak-lsa"
-        },
-        "slides": {
-            "source": "/Users/mitcho/Dropbox/academic/projects/batak/lsa2017/slides-trans.pdf",
-            "target": "/research/slides-batak-lsa.pdf",
-            "event": "slides-batak-lsa"
-        },
-        "authorsHtml": [
-            "Erlewine, Michael Yoshitaka"
-        ],
-        "shortHtml": [
-            "Erlewine"
-        ],
-        "othersHtml": [
-            
-        ],
-        "files": [
-            {
-                "title": "Handout",
-                "event": "handout-batak-lsa",
-                "url": "/research/handout-batak-lsa.pdf",
-                "type": "pdf"
-            },
-            {
-                "title": "Slides",
-                "event": "slides-batak-lsa",
-                "url": "/research/slides-batak-lsa.pdf",
-                "type": "pdf"
-            }
-        ],
-        "url": "/research/handout-batak-lsa.pdf"
     },
     {
         "citationKey": "batak",
@@ -447,80 +386,6 @@
         "url": "/research/handout-focus-minimality.pdf"
     },
     {
-        "citationKey": "kaqchikel-ae",
-        "entryType": "inproceedings",
-        "keywords": [
-            "argument ellipsis",
-            "Kaqchikel",
-            "Mayan",
-            "agreement",
-            "Agent Focus"
-        ],
-        "authors": [
-            {
-                "name": "Erlewine, Michael Yoshitaka",
-                "lastName": "Erlewine",
-                "displayName": "Michael Yoshitaka Erlewine"
-            },
-            {
-                "name": "Levin, Theodore",
-                "lastName": "Levin",
-                "displayName": "Theodore Levin",
-                "url": "https://sites.google.com/site/tfranklevin/"
-            }
-        ],
-        "projects": [
-            
-        ],
-        "author": "Erlewine, Michael Yoshitaka and Levin, Theodore",
-        "title": "On the unavailability of argument ellipsis in Kaqchikel",
-        "url": "http://lingbuzz.auf.net/lingbuzz/003503/current.pdf",
-        "year": "to appear",
-        "abstract": "Argument ellipsis refers to the phenomenon of unpronounced nominal arguments that are interpreted as full noun phrases. One particularly influential account claims that argument ellipsis is possible if and only if the argument is not φ-agreed with — the Anti-Agreement Hypothesis (Saito 2007, Şener and Takahashi 2010). Otaki, Sugisaki, Yusa, and Koizumi (2013) show that null subjects and objects in Kaqchikel are not interpreted as full noun phrases, and therefore not the result of argument ellipsis. They say that these facts lend support to the Anti-Agreement Hypothesis, given that Kaqchikel verbs agree with both subjects and objects. \n\nIn this paper, we consider additional syntactic environments not considered by Otaki et al. and show that the interpretation of Kaqchikel null arguments in fact cannot be held up as support for the Anti-Agreement Hypothesis. The empirical testing ground we introduce is the Agent Focus construction in Kaqchikel, where transitive verbs only exhibit φ-agreement with one argument (see e.g. Preminger, 2011, 2014, Erlewine, 2016). We show that, in Agent Focus constructions, even arguments that are not Agreed with disallow argument ellipsis. This fuller set of data from Kaqchikel thus provides empirical and conceptual evidence against the Anti-Agreement Hypothesis for argument ellipsis, contrary to the conclusions of Otaki et al.",
-        "booktitle": "Proceedings of Form and Analysis in Mayan Linguistics 4",
-        "poster": {
-            "source": "/Users/mitcho/Dropbox/academic/projects/argument-ellipsis/Presentations/LSA/poster-final.pdf",
-            "target": "/research/poster-kaqchikel-ae.pdf",
-            "event": "poster-kaqchikel-ae"
-        },
-        "handout": {
-            "source": "/Users/mitcho/Dropbox/academic/projects/argument-ellipsis/Presentations/handout-famli.pdf",
-            "target": "/research/handout-kaqchikel-ae.pdf",
-            "event": "handout-kaqchikel-ae"
-        },
-        "authorsHtml": [
-            "Erlewine, Michael Yoshitaka",
-            "<a href=\"https://sites.google.com/site/tfranklevin/\">Theodore Levin</a>"
-        ],
-        "shortHtml": [
-            "Erlewine",
-            "<a href=\"https://sites.google.com/site/tfranklevin/\">Levin</a>"
-        ],
-        "othersHtml": [
-            "<a href=\"https://sites.google.com/site/tfranklevin/\">Theodore Levin</a>"
-        ],
-        "files": [
-            {
-                "title": "On the unavailability of argument ellipsis in Kaqchikel",
-                "event": "kaqchikel-ae",
-                "url": "http://lingbuzz.auf.net/lingbuzz/003503/current.pdf",
-                "type": "pdf"
-            },
-            {
-                "title": "Associated poster",
-                "event": "poster-kaqchikel-ae",
-                "url": "/research/poster-kaqchikel-ae.pdf",
-                "type": "pdf"
-            },
-            {
-                "title": "Associated handout",
-                "event": "handout-kaqchikel-ae",
-                "url": "/research/handout-kaqchikel-ae.pdf",
-                "type": "pdf"
-            }
-        ]
-    },
-    {
         "citationKey": "vietnamese-only",
         "entryType": "article",
         "keywords": [
@@ -576,7 +441,7 @@
         ]
     },
     {
-        "citationKey": "talk:sfp",
+        "citationKey": "talk:cuhk2016",
         "entryType": "talk",
         "keywords": [
             "Mandarin Chinese",
@@ -603,14 +468,15 @@
         "abstract": "Mandarin Chinese clausal syntax can be described as strictly head-initial, with the exception of certain &#8220;particles&#8221; which are linearized at the end of the clause. Previous work on these sentence-final particles (SFPs) has assumed that all SFPs are very high, in the CP periphery. In the absence of information from linear order, I consider the semantic scope of these SFPs to determine their structural height. Using evidence from scopal interaction with negation, modals, quantificational subjects, and alternative question disjunction, I show that a subset of SFPs&mdash;specifically, sentence-final <em>le</em> and <em>éryǐ</em> &#8216;only,&#8217; both in the lowest class of SFPs (Paul, 2014, 2015)---are in a lower, clause-medial position. I identify the position of these low SFPs as coinciding with the edge of the lower phase, traditionally identified as vP.\n\nAs SFPs are head-final heads with head-initial complements, they have been discussed as an important apparent exception to theFinal-over-Final Constraint (FOFC; Holmberg 2000; Biberauer, Holmberg, and Roberts 2014), a proposed universal on structure-building and linearization. Iargue that the very limited distribution of apparent FOFC violations should be taken to support a modification to FOFC, rather than its outright rejection (contra Paul 2015). In particular, the existence of apparent exceptions to FOFC in a clause-medialposition in addition to the CP edge motivatesthe view that FOFC holds onlywithin individual Spell-Out domains. I hypothesize that languages that previously have been shown to obey FOFC across these domains are also languages with richer verbal morphology, which can be taken to extend or suspend Spell-Out of the lower phase. Apparent exceptions to FOFC are thus predicted to be possible (a) at phase boundaries (b) in analytic languages. This helps to explain previous observations that certain sets of languages, especially with little to no verbal inflection, are more prone to heads that seem to run counter to FOFC.",
         "handout": {
             "source": "/Users/mitcho/Dropbox/academic/projects/sfp/cuhk/handout-2up.pdf",
-            "target": "/research/handout-sfp.pdf",
-            "event": "handout-sfp"
+            "target": "/research/handout-cuhk2016.pdf",
+            "event": "handout-cuhk2016"
         },
         "slides": {
             "source": "/Users/mitcho/Dropbox/academic/projects/sfp/cuhk/slides-trans.pdf",
-            "target": "/research/slides-sfp.pdf",
-            "event": "slides-sfp"
+            "target": "/research/slides-cuhk2016.pdf",
+            "event": "slides-cuhk2016"
         },
+        "invited": true,
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
         ],
@@ -623,18 +489,18 @@
         "files": [
             {
                 "title": "Handout",
-                "event": "handout-sfp",
-                "url": "/research/handout-sfp.pdf",
+                "event": "handout-cuhk2016",
+                "url": "/research/handout-cuhk2016.pdf",
                 "type": "pdf"
             },
             {
                 "title": "Slides",
-                "event": "slides-sfp",
-                "url": "/research/slides-sfp.pdf",
+                "event": "slides-cuhk2016",
+                "url": "/research/slides-cuhk2016.pdf",
                 "type": "pdf"
             }
         ],
-        "url": "/research/handout-sfp.pdf"
+        "url": "/research/handout-cuhk2016.pdf"
     },
     {
         "citationKey": "sluicing-jk",
@@ -781,117 +647,7 @@
         ]
     },
     {
-        "citationKey": "talk:batak-linglunch",
-        "entryType": "talk",
-        "keywords": [
-            "Austronesian",
-            "Austronesian voice",
-            "A'",
-            "Toba Batak",
-            "syntax",
-            "movement",
-            "hidden"
-        ],
-        "authors": [
-            {
-                "name": "Erlewine, Michael Yoshitaka",
-                "lastName": "Erlewine",
-                "displayName": "Michael Yoshitaka Erlewine"
-            }
-        ],
-        "projects": [
-            "batak"
-        ],
-        "author": "Erlewine, Michael Yoshitaka",
-        "title": "C-T head splitting: Evidence from Toba Batak",
-        "note": "Presented at MIT Ling Lunch",
-        "year": "2016",
-        "abstract": "Recent work has proposed a tight coupling between the traditional heads of C and T. I argue for the C-T head-splitting hypothesis&mdash;the idea that C and T begin as a single CT head and can split (Martinović, 2015)---with new evidence from Toba Batak (Austronesian; Indonesia). Evidence comes from patterns of possible multiple extractions. Although Batak has traditionally been described as only allowing extraction of one argument at a time (Cole & Hermon 2008), extraction of two DPs is possible if and only if they are both formally focused (<em>wh</em> or with &#8216;only&#8217;); otherwise the only possible pattern with two fronted constituents is a focused non-DP followed by a non-focused DP. I propose that C and T first try to probe together (as CT) for the joint satisfaction of their probes (focus and D features); if this fails, CT splits into C and T, which probe separately. This hypothesis is supported by the distribution of the particle <em>na</em> in two internally-consistent ideolects, which provides overt morphological support for the CT head-splitting view. I also discuss lessons for the analysis of Austronesian voice systems.\n",
-        "handout": {
-            "source": "/Users/mitcho/Dropbox/academic/projects/batak/linglunch/handout-2up.pdf",
-            "target": "/research/handout-batak-linglunch.pdf",
-            "event": "handout-batak-linglunch"
-        },
-        "slides": {
-            "source": "/Users/mitcho/Dropbox/academic/projects/batak/linglunch/slides.pdf",
-            "target": "/research/slides-batak-linglunch.pdf",
-            "event": "slides-batak-linglunch"
-        },
-        "authorsHtml": [
-            "Erlewine, Michael Yoshitaka"
-        ],
-        "shortHtml": [
-            "Erlewine"
-        ],
-        "othersHtml": [
-            
-        ],
-        "files": [
-            {
-                "title": "Handout",
-                "event": "handout-batak-linglunch",
-                "url": "/research/handout-batak-linglunch.pdf",
-                "type": "pdf"
-            },
-            {
-                "title": "Slides",
-                "event": "slides-batak-linglunch",
-                "url": "/research/slides-batak-linglunch.pdf",
-                "type": "pdf"
-            }
-        ],
-        "url": "/research/handout-batak-linglunch.pdf"
-    },
-    {
-        "citationKey": "review:winter",
-        "entryType": "bookreview",
-        "keywords": [
-            "book review",
-            "semantics",
-            "teaching"
-        ],
-        "authors": [
-            {
-                "name": "Erlewine, Michael Yoshitaka",
-                "lastName": "Erlewine",
-                "displayName": "Michael Yoshitaka Erlewine"
-            }
-        ],
-        "projects": [
-            
-        ],
-        "author": "Erlewine, Michael Yoshitaka",
-        "title": "Review of Yoad Winter <em>Elements of Formal Semantics: An Introduction to the Mathematical Theory of Meaning in Natural Language</em>",
-        "url": "http://www.mitpressjournals.org/doi/abs/10.1162/COLI_r_00271",
-        "year": "2016",
-        "journal": "Computational Linguistics",
-        "volume": "42",
-        "number": "4",
-        "pages": "837--839",
-        "authorsHtml": [
-            "Erlewine, Michael Yoshitaka"
-        ],
-        "shortHtml": [
-            "Erlewine"
-        ],
-        "othersHtml": [
-            
-        ],
-        "files": [
-            {
-                "title": "Review of Yoad Winter <em>Elements of Formal Semantics: An Introduction to the Mathematical Theory of Meaning in Natural Language</em>",
-                "event": "review:winter",
-                "url": "http://www.mitpressjournals.org/doi/abs/10.1162/COLI_r_00271",
-                "type": ""
-            }
-        ],
-        "pageRange": [
-            "837",
-            "839"
-        ]
-    },
-    {
-        "citationKey": "talk:shi-keio",
+        "citationKey": "talk:talk2016-shi",
         "entryType": "talk",
         "keywords": [
             "focus",
@@ -919,13 +675,13 @@
         "abstract": "I report on a particle in Mandarin Chinese which grammatically encodes congruence with an accepted Question Under Discussion (QUD). This is the marker <em>shì</em> in its so-called &#8220;focus marker&#8221; use (Teng, 1979, a.o.). This results in cleft semantics as in Velleman et al. (2012). I unify the behavior of <em>shì</em> in declaratives with the understudied behavior of <em>shì</em> in questions. I discuss the syntax/semantics of QUD congruence and differences between the distribution of <em>shì</em> and &#8216;only.&#8217;",
         "handout": {
             "source": "/Users/mitcho/Dropbox/academic/projects/shi/keio/handout-2up.pdf",
-            "target": "/research/handout-shi-keio.pdf",
-            "event": "handout-shi-keio"
+            "target": "/research/handout-talk2016-shi.pdf",
+            "event": "handout-talk2016-shi"
         },
         "slides": {
             "source": "/Users/mitcho/Dropbox/academic/projects/shi/keio/slides-trans.pdf",
-            "target": "/research/slides-shi-keio.pdf",
-            "event": "slides-shi-keio"
+            "target": "/research/slides-talk2016-shi.pdf",
+            "event": "slides-talk2016-shi"
         },
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
@@ -939,50 +695,18 @@
         "files": [
             {
                 "title": "Handout",
-                "event": "handout-shi-keio",
-                "url": "/research/handout-shi-keio.pdf",
+                "event": "handout-talk2016-shi",
+                "url": "/research/handout-talk2016-shi.pdf",
                 "type": "pdf"
             },
             {
                 "title": "Slides",
-                "event": "slides-shi-keio",
-                "url": "/research/slides-shi-keio.pdf",
+                "event": "slides-talk2016-shi",
+                "url": "/research/slides-talk2016-shi.pdf",
                 "type": "pdf"
             }
         ],
-        "url": "/research/handout-shi-keio.pdf"
-    },
-    {
-        "citationKey": "focus-adverbs",
-        "entryType": "unpublished",
-        "keywords": [
-            "hidden"
-        ],
-        "authors": [
-            {
-                "name": "Erlewine, Michael Yoshitaka",
-                "lastName": "Erlewine",
-                "displayName": "Michael Yoshitaka Erlewine"
-            }
-        ],
-        "projects": [
-            
-        ],
-        "author": "Erlewine, Michael Yoshitaka",
-        "title": "The uniform syntax of Mandarin Chinese focus particles: <em>shì</em>, <em>zhǐ</em>, and <em>zhǐyǒu</em>",
-        "year": "in progress",
-        "authorsHtml": [
-            "Erlewine, Michael Yoshitaka"
-        ],
-        "shortHtml": [
-            "Erlewine"
-        ],
-        "othersHtml": [
-            
-        ],
-        "files": [
-            
-        ]
+        "url": "/research/handout-talk2016-shi.pdf"
     },
     {
         "citationKey": "tanglewood-salt",
@@ -2020,7 +1744,7 @@
         ]
     },
     {
-        "citationKey": "talk:shi-eacl",
+        "citationKey": "talk:eacl2015",
         "entryType": "talk",
         "keywords": [
             "focus",
@@ -2048,13 +1772,13 @@
         "abstract": "I investigate the semantics of <em>shì</em> 是 in its focus marker use. <em>Shì</em> associates with focus in declaratives, where it has been described as contributing \"emphasis\" or \"contrast\" and can also appear in questions. I argue that <em>shì</em> is a focus-sensitive adverb contributing <em>cleft semantics</em>, akin to the semantics of English <em>it</em>-clefts, requiring congruence to the Question Under Discussion. The semantics of \"cleft questions\" with <em>shì</em> is also explained.",
         "handout": {
             "source": "/Users/mitcho/Dropbox/academic/projects/shi/eacl/handout-2up.pdf",
-            "target": "/research/handout-shi-eacl.pdf",
-            "event": "handout-shi-eacl"
+            "target": "/research/handout-eacl2015.pdf",
+            "event": "handout-eacl2015"
         },
         "slides": {
             "source": "/Users/mitcho/Dropbox/academic/projects/shi/eacl/slides.pdf",
-            "target": "/research/slides-shi-eacl.pdf",
-            "event": "slides-shi-eacl"
+            "target": "/research/slides-eacl2015.pdf",
+            "event": "slides-eacl2015"
         },
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
@@ -2068,18 +1792,18 @@
         "files": [
             {
                 "title": "Handout",
-                "event": "handout-shi-eacl",
-                "url": "/research/handout-shi-eacl.pdf",
+                "event": "handout-eacl2015",
+                "url": "/research/handout-eacl2015.pdf",
                 "type": "pdf"
             },
             {
                 "title": "Slides",
-                "event": "slides-shi-eacl",
-                "url": "/research/slides-shi-eacl.pdf",
+                "event": "slides-eacl2015",
+                "url": "/research/slides-eacl2015.pdf",
                 "type": "pdf"
             }
         ],
-        "url": "/research/handout-shi-eacl.pdf"
+        "url": "/research/handout-eacl2015.pdf"
     },
     {
         "citationKey": "rppp",
@@ -2142,7 +1866,7 @@
         "url": "http://ling.auf.net/lingbuzz/002700/current.pdf"
     },
     {
-        "citationKey": "talk:comp",
+        "citationKey": "talk:comp2010",
         "entryType": "talk",
         "keywords": [
             "hidden",
@@ -2164,14 +1888,13 @@
         ],
         "author": "Erlewine, Michael Yoshitaka",
         "title": "Independent Dependency in the Mandarin <em>bǐ</em> comparative",
-        "url": "https://mitcho.com/research/handout-comp.pdf",
         "note": "Presented at the MIT Workshop on Comparatives",
         "year": "2010",
         "abstract": "Recent analyses of the Mandarin bi comparative (Xiang 2005, Erlewine 2007, Lin 2009) assume a \"direct analysis\" à la Heim (1985) whereby the semantics of the comparative applies the single gradable predicate to both the standard and the target. In this talk I present a slew of evidence for syntactic dependencies (movement chains) which exist simultaneously between the predicate and the target and between the predicate and the standard. Both the target and the standard are thus shown to be independently dependent on the predicate of comparison&mdash;a hypothesis I dub \"Independent Dependency.\"",
         "handout": {
             "source": "/Users/mitcho/Dropbox/academic/projects/bi/handout-20101113-comparatives/handout-20101113-2up.pdf",
-            "target": "/research/handout-comp.pdf",
-            "event": "handout-comp"
+            "target": "/research/handout-comp2010.pdf",
+            "event": "handout-comp2010"
         },
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
@@ -2184,18 +1907,13 @@
         ],
         "files": [
             {
-                "title": "Independent Dependency in the Mandarin <em>bǐ</em> comparative",
-                "event": "talk:comp",
-                "url": "https://mitcho.com/research/handout-comp.pdf",
-                "type": "pdf"
-            },
-            {
-                "title": "Associated handout",
-                "event": "handout-comp",
-                "url": "/research/handout-comp.pdf",
+                "title": "Handout",
+                "event": "handout-comp2010",
+                "url": "/research/handout-comp2010.pdf",
                 "type": "pdf"
             }
-        ]
+        ],
+        "url": "/research/handout-comp2010.pdf"
     },
     {
         "citationKey": "rppp-cls",
@@ -2458,49 +2176,6 @@
         ]
     },
     {
-        "citationKey": "mitwpl-comparatives",
-        "entryType": "book",
-        "keywords": [
-            "comparative"
-        ],
-        "authors": [
-            
-        ],
-        "projects": [
-            
-        ],
-        "editor": "Erlewine, Michael Yoshitaka and Sudo, Yasutada",
-        "title": "Proceedings of the MIT Workshop on Comparatives",
-        "url": "http://mitwpl.mit.edu/catalog/mwpl69/",
-        "year": "2014",
-        "publisher": "Cambridge: MIT Working Papers in Linguistics",
-        "editors": [
-            {
-                "name": "Erlewine, Michael Yoshitaka",
-                "lastName": "Erlewine",
-                "displayName": "Michael Yoshitaka Erlewine"
-            },
-            {
-                "name": "Sudo, Yasutada",
-                "lastName": "Sudo",
-                "displayName": "Yasutada Sudo",
-                "url": "http://web.mit.edu/ysudo/www/"
-            }
-        ],
-        "editorsHtml": [
-            "Erlewine, Michael Yoshitaka",
-            "<a href=\"http://web.mit.edu/ysudo/www/\">Yasutada Sudo</a>"
-        ],
-        "files": [
-            {
-                "title": "Proceedings of the MIT Workshop on Comparatives",
-                "event": "mitwpl-comparatives",
-                "url": "http://mitwpl.mit.edu/catalog/mwpl69/",
-                "type": ""
-            }
-        ]
-    },
-    {
         "citationKey": "closeness",
         "entryType": "unpublished",
         "keywords": [
@@ -2548,7 +2223,7 @@
         ]
     },
     {
-        "citationKey": "talk:af-restructuring",
+        "citationKey": "talk:ssila2015",
         "entryType": "talk",
         "keywords": [
             "Kaqchikel",
@@ -2573,13 +2248,13 @@
         "year": "2015",
         "handout": {
             "source": "/Users/mitcho/Dropbox/academic/projects/kaqchikel/ssila/handout-ssila-2up.pdf",
-            "target": "/research/handout-af-restructuring.pdf",
-            "event": "handout-af-restructuring"
+            "target": "/research/handout-ssila2015.pdf",
+            "event": "handout-ssila2015"
         },
         "slides": {
             "source": "/Users/mitcho/Dropbox/academic/projects/kaqchikel/ssila/slides-ssila-trans.pdf",
-            "target": "/research/slides-af-restructuring.pdf",
-            "event": "slides-af-restructuring"
+            "target": "/research/slides-ssila2015.pdf",
+            "event": "slides-ssila2015"
         },
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
@@ -2593,21 +2268,21 @@
         "files": [
             {
                 "title": "Handout",
-                "event": "handout-af-restructuring",
-                "url": "/research/handout-af-restructuring.pdf",
+                "event": "handout-ssila2015",
+                "url": "/research/handout-ssila2015.pdf",
                 "type": "pdf"
             },
             {
                 "title": "Slides",
-                "event": "slides-af-restructuring",
-                "url": "/research/slides-af-restructuring.pdf",
+                "event": "slides-ssila2015",
+                "url": "/research/slides-ssila2015.pdf",
                 "type": "pdf"
             }
         ],
-        "url": "/research/handout-af-restructuring.pdf"
+        "url": "/research/handout-ssila2015.pdf"
     },
     {
-        "citationKey": "talk:blocking-cns2014",
+        "citationKey": "poster:cns2014",
         "entryType": "talk",
         "keywords": [
             "experimental",
@@ -2706,7 +2381,7 @@
         ]
     },
     {
-        "citationKey": "talk:blocking-lsa2014",
+        "citationKey": "talk:lsa2014-blocking",
         "entryType": "talk",
         "keywords": [
             "morphology",
@@ -2737,8 +2412,8 @@
         "year": "2014",
         "slides": {
             "source": "/Users/mitcho/Dropbox/academic/projects/blocking/slides/slides-lsa2014.pdf",
-            "target": "/research/slides-blocking-lsa2014.pdf",
-            "event": "slides-blocking-lsa2014"
+            "target": "/research/slides-lsa2014-blocking.pdf",
+            "event": "slides-lsa2014-blocking"
         },
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka",
@@ -2754,12 +2429,12 @@
         "files": [
             {
                 "title": "Slides",
-                "event": "slides-blocking-lsa2014",
-                "url": "/research/slides-blocking-lsa2014.pdf",
+                "event": "slides-lsa2014-blocking",
+                "url": "/research/slides-lsa2014-blocking.pdf",
                 "type": "pdf"
             }
         ],
-        "url": "/research/slides-blocking-lsa2014.pdf"
+        "url": "/research/slides-lsa2014-blocking.pdf"
     },
     {
         "citationKey": "haplology",
@@ -2837,11 +2512,6 @@
             "target": "/research/sfp.pdf",
             "event": "sfp"
         },
-        "handout": {
-            "source": "/Users/mitcho/Dropbox/academic/projects/sfp/naccl-handout/naccl-handout-2up.pdf",
-            "target": "/research/handout-sfp.pdf",
-            "event": "handout-sfp"
-        },
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
         ],
@@ -2856,12 +2526,6 @@
                 "title": "Sentence-final particles at the <em>v</em>P phase edge",
                 "event": "sfp",
                 "url": "/research/sfp.pdf",
-                "type": "pdf"
-            },
-            {
-                "title": "Associated handout",
-                "event": "handout-sfp",
-                "url": "/research/handout-sfp.pdf",
                 "type": "pdf"
             }
         ],
@@ -2929,7 +2593,7 @@
         ]
     },
     {
-        "citationKey": "talk:teal9",
+        "citationKey": "talk:teal2014",
         "entryType": "talk",
         "keywords": [
             "only",
@@ -2954,8 +2618,8 @@
         "abstract": "Focus-sensitive operators must associate with a focused constituent (the associate) in their c-command domain (Jackendoff, 1972; Rooth, 1985, 1992; Tancredi, 1990). However, I show that this c-command requirement is insufficient to capture the distribution of focus adverbs (e.g. <em>only</em>) in Mandarin Chinese and Vietnamese. I show that focus adverbs must be as low as possible while c-commanding their focus associate, within a particular extended vP domain. The generalization is similar to what has been described for German by Büring and Hartmann (2001), but without an explanation. I propose a syntax for focus adverbs which, together with the standard Roothian semantics of focus, derives this behavior.",
         "handout": {
             "source": "/Users/mitcho/Dropbox/academic/projects/focus-adverbs/teal/handout-teal2014.pdf",
-            "target": "/research/handout-teal9.pdf",
-            "event": "handout-teal9"
+            "target": "/research/handout-teal2014.pdf",
+            "event": "handout-teal2014"
         },
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
@@ -2969,12 +2633,12 @@
         "files": [
             {
                 "title": "Handout",
-                "event": "handout-teal9",
-                "url": "/research/handout-teal9.pdf",
+                "event": "handout-teal2014",
+                "url": "/research/handout-teal2014.pdf",
                 "type": "pdf"
             }
         ],
-        "url": "/research/handout-teal9.pdf"
+        "url": "/research/handout-teal2014.pdf"
     },
     {
         "citationKey": "voice-oup",
@@ -4189,7 +3853,7 @@
         ]
     },
     {
-        "citationKey": "talk:af-aimm",
+        "citationKey": "talk:aimm2012",
         "entryType": "talk",
         "keywords": [
             "hidden",
@@ -4464,7 +4128,7 @@
         ]
     },
     {
-        "citationKey": "talk:isle2",
+        "citationKey": "talk:isle2011",
         "entryType": "talk",
         "keywords": [
             "corpus",
@@ -4486,8 +4150,8 @@
         "year": "2011",
         "slides": {
             "source": "/Users/mitcho/Dropbox/academic/projects/hyperlinks/isle2/isle-presentation.pdf",
-            "target": "/research/slides-isle2.pdf",
-            "event": "slides-isle2"
+            "target": "/research/slides-isle2011.pdf",
+            "event": "slides-isle2011"
         },
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
@@ -4501,12 +4165,12 @@
         "files": [
             {
                 "title": "Slides",
-                "event": "slides-isle2",
-                "url": "/research/slides-isle2.pdf",
+                "event": "slides-isle2011",
+                "url": "/research/slides-isle2011.pdf",
                 "type": "pdf"
             }
         ],
-        "url": "/research/slides-isle2.pdf"
+        "url": "/research/slides-isle2011.pdf"
     },
     {
         "citationKey": "eryi",
@@ -4554,45 +4218,6 @@
         "pageRange": [
             "18",
             "35"
-        ]
-    },
-    {
-        "citationKey": "naturalsyntax",
-        "entryType": "url",
-        "keywords": [
-            "ubiquity",
-            "hidden"
-        ],
-        "authors": [
-            {
-                "name": "Erlewine, Michael Yoshitaka",
-                "lastName": "Erlewine",
-                "displayName": "Michael Yoshitaka Erlewine"
-            }
-        ],
-        "projects": [
-            
-        ],
-        "author": "Erlewine, Michael Yoshitaka",
-        "title": "How natural should a natural interface be?",
-        "url": "http://mitcho.com/blog/projects/how-natural-should-a-natural-interface-be/",
-        "year": "2009",
-        "authorsHtml": [
-            "Erlewine, Michael Yoshitaka"
-        ],
-        "shortHtml": [
-            "Erlewine"
-        ],
-        "othersHtml": [
-            
-        ],
-        "files": [
-            {
-                "title": "How natural should a natural interface be?",
-                "event": "naturalsyntax",
-                "url": "http://mitcho.com/blog/projects/how-natural-should-a-natural-interface-be/",
-                "type": ""
-            }
         ]
     },
     {

@@ -140,6 +140,11 @@ function convertItem(item) {
 			newItem[keys[i].toLowerCase()] = cleanup(item.entryTags[keys[i]], keys[i]);
 	}
 	
+	if (newItem.citationKey.match(/^invited:/)) {
+		newItem.citationKey = newItem.citationKey.replace(/^invited:/, 'talk:');
+		newItem.invited = true;
+	}
+	
 	if ('AUTHOR' in item.entryTags) {
 		newItem['authors'] = parseAuthors(cleanup(item.entryTags['AUTHOR']));
 		newItem['authorsHtml'] = authorsHtml(newItem['authors']);
@@ -161,6 +166,12 @@ function convertItem(item) {
 				return;
 			}
 			
+			// yesweb is a magic keyword: add to website, even if no project
+			if (word === 'yesweb') {
+				newItem.yesweb = true;
+				return;
+			}
+			
 			// srps and noelements are a magic keyword; skip it
 			if (word === 'srps' || word === 'noelements') {
 				return;
@@ -173,6 +184,11 @@ function convertItem(item) {
 			
 			newItem.keywords.push(word);
 		});
+	}
+	
+	// if there are no projects, remove it!
+	if (newItem.projects.length == 0 && !newItem.yesweb) {
+		return false;
 	}
 	
 	newItem.files = [];
@@ -260,7 +276,9 @@ for (i in bib) {
 		!('EDITOR' in item.entryTags && item.entryTags.EDITOR.search('Erlewine') > -1))
 		continue;
 	
-	mybib.push(convertItem(item));
+	var converted = convertItem(item);
+	if ( converted !== false )
+		mybib.push(converted);
 }
 
 console.log(format(JSON.stringify(mybib)));
