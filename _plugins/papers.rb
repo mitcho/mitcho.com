@@ -27,7 +27,9 @@ module Jekyll
           source = data['paper'][type]['source']
           target = File.join(site.dest, data['paper'][type]['target'])
           FileUtils.cp(source, target)
-          puts "cp #{source} #{target}"
+          if self.site.config["verbose"]
+            puts "cp #{source} #{target}"
+          end
         end
       end
 

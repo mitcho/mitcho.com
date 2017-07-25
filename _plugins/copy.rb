@@ -10,7 +10,9 @@ module Jekyll
           Dir.glob(copy).each do |source|
             target = File.join(page.site.dest, page.dir, File.basename(source))
             FileUtils.cp(source, target)
-            puts "cp #{source} #{target}"
+            if page.site.config.verbose
+              puts "cp #{source} #{target}"
+            end
           end
         end
       end

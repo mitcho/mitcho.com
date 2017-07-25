@@ -1,6 +1,6 @@
 module Jekyll
   # run bibjson at the beginning of build
-  Jekyll::Hooks.register :site, :pre_render do |site|
+  Jekyll::Hooks.register :site, :after_init do |site|
     puts "bibjson..."
     # todo what happens if there's an error?
     `node _lib/bibjson.js > _data/bib.json`
@@ -11,7 +11,9 @@ module Jekyll
     source = '/Users/mitcho/Dropbox/academic/cv/erlewine-cv.pdf'
     target = File.join(site.dest, '/erlewine-cv.pdf')
     FileUtils.cp(source, target)
-    puts "cp cv #{target}"
+    if site.config["verbose"]
+      puts "cp cv #{target}"
+    end
   end
 
   # not working... todo fixme
