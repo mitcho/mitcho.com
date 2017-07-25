@@ -1,7 +1,9 @@
 module Jekyll
   # run bibjson at the beginning of build
   Jekyll::Hooks.register :site, :after_init do |site|
-    puts "bibjson..."
+    if site.config["verbose"]
+      puts "bibjson..."
+    end
     # todo what happens if there's an error?
     `node _lib/bibjson.js > _data/bib.json`
   end

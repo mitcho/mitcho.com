@@ -26,9 +26,13 @@ module Jekyll
         if data['paper'].key? type and data['paper'][type].key? 'source'
           source = data['paper'][type]['source']
           target = File.join(site.dest, data['paper'][type]['target'])
-          FileUtils.cp(source, target)
-          if self.site.config["verbose"]
-            puts "cp #{source} #{target}"
+          
+          if !self.site.config["incremental"] || self.site.regenerator.modified?(source)
+            FileUtils.cp(source, target)
+            if self.site.config.verbose
+              puts "cp #{source} #{target}"
+            end
+            self.site.regenerator.add(source)
           end
         end
       end
