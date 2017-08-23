@@ -2,23 +2,22 @@
 {% include research-group.html title='Dissertation' papers = papers %}
 
 {% assign papers = (site.data.bib | where: 'entryType', 'article' | sort: 'year' | reverse) %}				
-{% include research-group.html title='Journal articles' papers = papers %}
+{% include research-group.html title='Journal articles' papers = papers number='desc' %}
 
 {% assign papers = (site.data.bib | where: 'entryType', 'bookreview' | sort: 'year' | reverse) %}				
-{% include research-group.html title='Book reviews' papers = papers %}
+{% include research-group.html title='Book reviews' papers = papers number='desc' %}
 
 {% assign papers = (site.data.bib | where: 'entryType', 'incollection' | sort: 'year' | reverse) %}
-{% include research-group.html title='Papers in edited volumes' papers = papers %}
+{% include research-group.html title='Papers in edited volumes' papers = papers number='desc' %}
 
 {% assign papers = (site.data.bib | where: 'entryType', 'inproceedings' | sort: 'year' | reverse) %}
-{% include research-group.html title='Proceedings papers' papers = papers %}
+{% include research-group.html title='Proceedings papers' papers = papers number='desc' %}
 
 {% assign papers = (site.data.bib | where: 'entryType', 'book') %}
-{% include research-group.html title='Edited volumes' papers = papers %}
+{% include research-group.html title='Edited volumes' papers = papers number='desc' %}
 
 {% assign papers = (site.data.bib | where: 'entryType', 'mastersthesis' | sort: 'year' | reverse) %}
 {% include research-group.html title='MA thesis' papers = papers %}
-
 
 {% assign papers = (site.data.bib | where: 'entryType', 'unpublished' | sort: 'year' | reverse) %}
 {% include research-group.html title='Manuscripts' papers = papers %}

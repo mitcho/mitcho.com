@@ -2,10 +2,22 @@
 <h2>{{include.title}}</h2>
 {% endif %}
 
+{% if include.number != null %}
+<ol class='research-group'>
+{% else %}
 <ul class='research-group'>
+{% endif %}
 {% for paper in include.papers %}
 	{% unless paper.keywords contains 'hidden' %}
-	<li>{% include research-single.html paper = paper projectlink = true short = true %}</li>
+	{% if include.number == 'desc' %}
+	<li value="{{forloop.length | minus:forloop.index0}}">
+	{% else %}
+	<li>
+	{% endif %}{% include research-single.html paper = paper projectlink = true short = true %}</li>
 	{% endunless %}
 {% endfor %}
+{% if include.number != null %}
+</ol>
+{% else %}
 </ul>
+{% endif %}
