@@ -155,6 +155,8 @@ a {
 	border-radius: 6px;
 	padding: 4px;
 	margin-right: 5px;
+	line-height: $pill-height;
+	margin-bottom: 8px;
 	
 	&:hover, &:focus, &:active {
 		color: $grey-color-dark;
