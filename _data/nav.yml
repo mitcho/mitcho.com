@@ -10,6 +10,9 @@
 - title: "teaching"
   href: "/teaching"
 
+- title: "awesome!"
+  href: "http://www.awesomefoundation.org/en/chapters/singapore"
+
 - title: "code"
   href: "/code"
   sub:
