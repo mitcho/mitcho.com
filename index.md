@@ -30,15 +30,13 @@ See the [Projects](/projects) page for descriptions of projects and downloadable
 
 ## Current teaching
 
-...
-
-## Upcoming
-
-*	**July 8, 2017**: [Sapporo Semantics Workshop](https://asiansemantics.wordpress.com/program/), presenting new joint work with Theresa Helke: "Rules of inference and the restrictor view of conditionals"
-*	**August 2017**: I am holding a [**"Workshop on Quirks of Subject Extraction"**](/subjex/) at NUS. All are welcome!
+*	[EL4203 Semantics](/nus/sem2017/)
+*	[EL5101 Grammatical Analysis](/nus/gram2017/)
 
 ## Recent
 
+*	**August 2017**: I held a [**"Workshop on Quirks of Subject Extraction"**](/subjex/) at NUS. I also presented my own work on [anti-locality approaches to quirks of subject extraction](/research/talk-anti-locality.html).
+*	**Talk, July 2017**: I presented new joint work with Theresa Helke, "Rules of inference and the restrictor view of conditionals," at the [Sapporo Semantics Workshop](https://asiansemantics.wordpress.com/program/).
 *	**New paper, July 2017**: ["Two disjunctions in Mandarin Chinese"](/research/haishi.html). Comments welcome!
 *	**Paper revised, July 2017**: ["Extraction and licensing in Toba Batak](/research/batak.html). See also [the associated talk](/research/talk-batak-glow.html), presented at [GLOW 40](https://glow2017.wordpress.com/) etc.
 *	**Talk, June 2017**: ["The limits of relexification: The story of Singlish *already*"](/research/talk-already.html) at [the summer conference of the Society of Pidgin and Creole Linguistics](http://www.uta.fi/ltl/SPCL2017.html).

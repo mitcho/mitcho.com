@@ -1,5 +1,52 @@
 [
     {
+        "citationKey": "talk:anti-locality",
+        "entryType": "talk",
+        "keywords": [
+            "subject",
+            "A'",
+            "anti-locality",
+            "extraction asymmetries",
+            "anti-agreement",
+            "that-trace",
+            "resumption",
+            "highest subject restriction"
+        ],
+        "authors": [
+            {
+                "name": "Erlewine, Michael Yoshitaka",
+                "lastName": "Erlewine",
+                "displayName": "Michael Yoshitaka Erlewine"
+            }
+        ],
+        "projects": [
+            "anti-locality"
+        ],
+        "author": "Erlewine, Michael Yoshitaka",
+        "title": "The anti-locality signature of quirks of subject extraction",
+        "url": "https://mitcho.com/subjex/erlewine.pdf",
+        "note": "Presented at the Workshop on Quirks of Subject Extraction",
+        "year": "2017",
+        "abstract": "In many languages, one property of subjects that distinguishes them from other arguments is their uniquely high position in the clause. A&#8217;-extraction of the subject thus may uniquely run afowl of anti-locality constraints on movement, which ban movement which is too close (see e.g. Grohmann 2003, Cheng 2007, Erlewine 2016, 2017, Bošković 2016, Douglas 2016). Quirks of subject extraction that are driven by anti-locality constraints exhibit a particular \"signature\": (a) obviation when additional material is added above the subject, (b) its applicability to non-subjects that are exceptionally high, and (c) no correlation with other subjecthood properties such as case. Relevant examples from Highest Subject Restriction, subject anti-agreement, and complementizer-trace effects are discussed.",
+        "authorsHtml": [
+            "Erlewine, Michael Yoshitaka"
+        ],
+        "shortHtml": [
+            "Erlewine"
+        ],
+        "othersHtml": [
+            
+        ],
+        "files": [
+            {
+                "title": "The anti-locality signature of quirks of subject extraction",
+                "event": "talk:anti-locality",
+                "url": "https://mitcho.com/subjex/erlewine.pdf",
+                "type": "pdf"
+            }
+        ]
+    },
+    {
         "citationKey": "haishi",
         "entryType": "unpublished",
         "keywords": [
@@ -245,7 +292,7 @@
         "author": "Erlewine, Michael Yoshitaka and Kotek, Hadas",
         "title": "Focus association by movement: Evidence from binding and parasitic gaps",
         "year": "to appear",
-        "abstract": "Under the influential Roothian proposal for focus association, focused phrases remain in-situ at LF (Rooth, 1985, 1992). However, a recent line of work has resurrected the idea that focus association involves covert movement: specifically, the associate of English sentential only must covertly move to only, with the possibility of covert pied-piping (Drubig, 1994; Krifka, 1996, 2006; Tancredi, 1997, 2004; Wagner, 2006; Erlewine and Kotek, 2014, to appear). In this paper we contribute to this emerging consensus view with additional evidence from reflexive binding and parasitic gap licensing.",
+        "abstract": "Under the influential Roothian proposal for focus association, focused phrases remain in-situ at LF (Rooth, 1985, 1992). However, a recent line of work has resurrected the idea that focus association involves covert movement: specifically, the associate of English sentential only must covertly move to only, with the possibility of covert pied-piping (Drubig, 1994; Krifka, 1996, 2006; Tancredi, 1997, 2004; Wagner, 2006; Erlewine and Kotek, 2014, to appear). In this paper we contribute to this emerging consensus view with additional evidence from reflexive binding and parasitic gap licensing.\n\n<strong>This paper supplements <a href=\"/research/tanglewood.html\">“Focus association by movement: Evidence from <em>Tanglewood</em>“</a> in <em>LI</em>.</strong>",
         "booktitle": "Proceedings of Sinn und Bedeutung 21",
         "paper": {
             "source": "/Users/mitcho/Dropbox/academic/projects/tanglewood/sub-proceedings/preprint.pdf",
@@ -386,6 +433,81 @@
         "url": "/research/handout-focus-minimality.pdf"
     },
     {
+        "citationKey": "kaqchikel-ae",
+        "entryType": "inproceedings",
+        "keywords": [
+            "argument ellipsis",
+            "Kaqchikel",
+            "Mayan",
+            "agreement",
+            "Agent Focus"
+        ],
+        "authors": [
+            {
+                "name": "Erlewine, Michael Yoshitaka",
+                "lastName": "Erlewine",
+                "displayName": "Michael Yoshitaka Erlewine"
+            },
+            {
+                "name": "Levin, Theodore",
+                "lastName": "Levin",
+                "displayName": "Theodore Levin",
+                "url": "https://sites.google.com/site/tfranklevin/"
+            }
+        ],
+        "projects": [
+            
+        ],
+        "author": "Erlewine, Michael Yoshitaka and Levin, Theodore",
+        "title": "On the unavailability of argument ellipsis in Kaqchikel",
+        "url": "http://lingbuzz.auf.net/lingbuzz/003503/current.pdf",
+        "year": "to appear",
+        "abstract": "Argument ellipsis refers to the phenomenon of unpronounced nominal arguments that are interpreted as full noun phrases. One particularly influential account claims that argument ellipsis is possible if and only if the argument is not φ-agreed with — the Anti-Agreement Hypothesis (Saito 2007, Şener and Takahashi 2010). Otaki, Sugisaki, Yusa, and Koizumi (2013) show that null subjects and objects in Kaqchikel are not interpreted as full noun phrases, and therefore not the result of argument ellipsis. They say that these facts lend support to the Anti-Agreement Hypothesis, given that Kaqchikel verbs agree with both subjects and objects. \n\nIn this paper, we consider additional syntactic environments not considered by Otaki et al. and show that the interpretation of Kaqchikel null arguments in fact cannot be held up as support for the Anti-Agreement Hypothesis. The empirical testing ground we introduce is the Agent Focus construction in Kaqchikel, where transitive verbs only exhibit φ-agreement with one argument (see e.g. Preminger, 2011, 2014, Erlewine, 2016). We show that, in Agent Focus constructions, even arguments that are not Agreed with disallow argument ellipsis. This fuller set of data from Kaqchikel thus provides empirical and conceptual evidence against the Anti-Agreement Hypothesis for argument ellipsis, contrary to the conclusions of Otaki et al.",
+        "booktitle": "Proceedings of Form and Analysis in Mayan Linguistics 4",
+        "poster": {
+            "source": "/Users/mitcho/Dropbox/academic/projects/argument-ellipsis/Presentations/LSA/poster-final.pdf",
+            "target": "/research/poster-kaqchikel-ae.pdf",
+            "event": "poster-kaqchikel-ae"
+        },
+        "handout": {
+            "source": "/Users/mitcho/Dropbox/academic/projects/argument-ellipsis/Presentations/handout-famli.pdf",
+            "target": "/research/handout-kaqchikel-ae.pdf",
+            "event": "handout-kaqchikel-ae"
+        },
+        "authorsHtml": [
+            "Erlewine, Michael Yoshitaka",
+            "<a href=\"https://sites.google.com/site/tfranklevin/\">Theodore Levin</a>"
+        ],
+        "shortHtml": [
+            "Erlewine",
+            "<a href=\"https://sites.google.com/site/tfranklevin/\">Levin</a>"
+        ],
+        "othersHtml": [
+            "<a href=\"https://sites.google.com/site/tfranklevin/\">Theodore Levin</a>"
+        ],
+        "yesweb": true,
+        "files": [
+            {
+                "title": "On the unavailability of argument ellipsis in Kaqchikel",
+                "event": "kaqchikel-ae",
+                "url": "http://lingbuzz.auf.net/lingbuzz/003503/current.pdf",
+                "type": "pdf"
+            },
+            {
+                "title": "Associated poster",
+                "event": "poster-kaqchikel-ae",
+                "url": "/research/poster-kaqchikel-ae.pdf",
+                "type": "pdf"
+            },
+            {
+                "title": "Associated handout",
+                "event": "handout-kaqchikel-ae",
+                "url": "/research/handout-kaqchikel-ae.pdf",
+                "type": "pdf"
+            }
+        ]
+    },
+    {
         "citationKey": "vietnamese-only",
         "entryType": "article",
         "keywords": [
@@ -410,7 +532,7 @@
         "title": "Vietnamese focus particles and derivation by phase",
         "url": "https://link.springer.com/article/10.1007/s10831-017-9156-y",
         "year": "to appear",
-        "abstract": "I show that the focus-sensitive operator &#8216;only&#8217; chỉ in Vietnamese is a sentential modifier and required to be as low as possible in its phase while taking its focus associate in its scope. I show that this &#8220;as low as possible&#8221; requirement cannot be violated even in order to yield a different meaning. Within a phase-based, bottom-up conception of structure-building, I analyze this behavior as the result of sentential focus particles adjoining as early as possible while being interpretable. The fact that this requirement only holds between different adjunction positions in each phase is naturally explained by the theory of derivation by phase (Chomsky, 2000, 2001) and provides a new kind of evidence for this form of cyclic structure-building. This work also provides cross-linguistic support for one aspect of the controversial analysis of German focus particles as sentential modifiers (Jacobs, 1983, 1986; Büring and Hartmann, 2001), which similarly requires an &#8216;&#8216;as low as possible&#8221; requirement on sentential focus particles.",
+        "abstract": "I show that the focus-sensitive operator &#8216;only&#8217; chỉ in Vietnamese is a sentential modifier and required to be as low as possible in its phase while taking its focus associate in its scope. I show that this &#8220;as low as possible&#8221; requirement cannot be violated even in order to yield a different meaning. Within a phase-based, bottom-up conception of structure-building, I analyze this behavior as the result of sentential focus particles adjoining as early as possible while being interpretable. The fact that this requirement only holds between different adjunction positions in each phase is naturally explained by the theory of derivation by phase (Chomsky, 2000, 2001) and provides a new kind of evidence for this form of cyclic structure-building. This work also provides cross-linguistic support for one aspect of the controversial analysis of German focus particles as sentential modifiers (Jacobs, 1983, 1986; Büring and Hartmann, 2001), which similarly requires an &#8216;&#8216;as low as possible&#8221; requirement on sentential focus particles.\n\n<strong>See also <a href=\"/research/minimality-focus.html\">“Minimality and focus-sensitive adverb placement”</a> in <em>NELS 45</em>, which discusses various alternative analyses.</strong>",
         "journal": "Journal of East Asian Linguistics",
         "paper": {
             "target": "http://ling.auf.net/lingbuzz/003177/current.pdf",
@@ -647,6 +769,55 @@
         ]
     },
     {
+        "citationKey": "review:winter",
+        "entryType": "bookreview",
+        "keywords": [
+            "book review",
+            "semantics",
+            "teaching"
+        ],
+        "authors": [
+            {
+                "name": "Erlewine, Michael Yoshitaka",
+                "lastName": "Erlewine",
+                "displayName": "Michael Yoshitaka Erlewine"
+            }
+        ],
+        "projects": [
+            
+        ],
+        "author": "Erlewine, Michael Yoshitaka",
+        "title": "Review of Yoad Winter <em>Elements of Formal Semantics: An Introduction to the Mathematical Theory of Meaning in Natural Language</em>",
+        "url": "http://www.mitpressjournals.org/doi/abs/10.1162/COLI_r_00271",
+        "year": "2016",
+        "journal": "Computational Linguistics",
+        "volume": "42",
+        "number": "4",
+        "pages": "837--839",
+        "authorsHtml": [
+            "Erlewine, Michael Yoshitaka"
+        ],
+        "shortHtml": [
+            "Erlewine"
+        ],
+        "othersHtml": [
+            
+        ],
+        "yesweb": true,
+        "files": [
+            {
+                "title": "Review of Yoad Winter <em>Elements of Formal Semantics: An Introduction to the Mathematical Theory of Meaning in Natural Language</em>",
+                "event": "review:winter",
+                "url": "http://www.mitpressjournals.org/doi/abs/10.1162/COLI_r_00271",
+                "type": ""
+            }
+        ],
+        "pageRange": [
+            "837",
+            "839"
+        ]
+    },
+    {
         "citationKey": "talk:talk2016-shi",
         "entryType": "talk",
         "keywords": [
@@ -741,7 +912,7 @@
         "title": "<em>Tanglewood</em> untangled",
         "url": "http://journals.linguisticsociety.org/proceedings/index.php/SALT/article/download/26.224/3642.pdf",
         "year": "2016",
-        "abstract": "We argue for the existence of covert focus movement in English focus association. Primary evidence comes from Tanglewood configurations of the form in Kratzer (1991). We show that Tanglewood configurations are island-sensitive, which is unpredicted by Kratzer&#8217;s focus-index proposal. We propose that Tanglewood configurations always involve covert movement of the overt focus&mdash;possibly with pied-piping (Drubig, 1994; Krifka, 2006; Wagner, 2006; Erlewine and Kotek, 2014)---to bind a bound variable in the ellipsis site. We show that covert focus movement is different from QR and can be long-distance.",
+        "abstract": "We argue for the existence of covert focus movement in English focus association. Primary evidence comes from Tanglewood configurations of the form in Kratzer (1991). We show that Tanglewood configurations are island-sensitive, which is unpredicted by Kratzer&#8217;s focus-index proposal. We propose that Tanglewood configurations always involve covert movement of the overt focus&mdash;possibly with pied-piping (Drubig, 1994; Krifka, 2006; Wagner, 2006; Erlewine and Kotek, 2014)---to bind a bound variable in the ellipsis site. We show that covert focus movement is different from QR and can be long-distance.\n\n<strong>See <a href=\"/research/tanglewood.html\">“Focus association by movement: Evidence from <em>Tanglewood</em>“</a> in <em>LI</em>.</strong>",
         "booktitle": "Proceedings of SALT 26",
         "pages": "224--243",
         "poster": {
@@ -965,7 +1136,7 @@
         "editor": "Nomoto, Hiroki and Miyauchi, Takuya and Shiohara, Asako",
         "title": "Multiple extraction and voice in Toba Batak",
         "year": "2016",
-        "abstract": "I investigate A’-extraction in Toba Batak. Contrary to the claims of previous work on the language (especially Cole and Hermon 2008), I show that multiple, simultaneous extractions to the left periphery is possible, though only in limited configurations. The pattern of possible and impossible multiple extractions motivates a particular organization of the left periphery: specifically, features associated with C and T begin on a single head, probing together, and then splitting if joint probing yields no matching target. I model this using CT head-splitting (Martinović 2015). The distribution of the optional particle <em>na</em> further supports this approach. Finally, I discuss lessons for the analysis of Austronesian voice and the role of Case.",
+        "abstract": "I investigate A’-extraction in Toba Batak. Contrary to the claims of previous work on the language (especially Cole and Hermon 2008), I show that multiple, simultaneous extractions to the left periphery is possible, though only in limited configurations. The pattern of possible and impossible multiple extractions motivates a particular organization of the left periphery: specifically, features associated with C and T begin on a single head, probing together, and then splitting if joint probing yields no matching target. I model this using CT head-splitting (Martinović 2015). The distribution of the optional particle <em>na</em> further supports this approach. Finally, I discuss lessons for the analysis of Austronesian voice and the role of Case.\n\n<strong>For full discussion, see <a href=\"/research/batak.html\">“Extraction and licensing in Toba Batak”</a>.</strong>",
         "booktitle": "AFLA 23: The Proceedings of the 23rd Meeting of the Austronesian Formal Linguistics Association",
         "pages": "81--95",
         "paper": {
@@ -1330,7 +1501,7 @@
         "editor": "Bade, Nadine and Berezovskaya, Polina and Schöller, Anthea",
         "title": "Intervention effects in relative pronoun pied-piping: experimental evidence",
         "year": "2016",
-        "abstract": "This paper contributes experimental evidence regarding the question of how relative pronouns are interpreted in English non-restrictive relative clauses with relative pronoun pied- piping (RPPP). Kotek and Erlewine (2015) and Erlewine and Kotek (to appear) claim that the wh-relative pronoun is sensitive to intervention effects inside its pied-piping constituent (cf Sauerland and Heck, 2003; Cable, 2010; Kotek and Erlewine, to appear). In this paper we present the results of a web-based grammaticality judgment survey which supports this claim. We discuss the nature of the intervention judgment, which is notoriously subtle, and how it might be modeled in grammar. The sensitivity of RPPP to intervention effects has important implications for the formal analysis of English non-restrictive relative clauses, supporting the view that relative pronouns are interpreted in-situ without covert movement out of its pied-piping.",
+        "abstract": "This paper contributes experimental evidence regarding the question of how relative pronouns are interpreted in English non-restrictive relative clauses with relative pronoun pied- piping (RPPP). Kotek and Erlewine (2015) and Erlewine and Kotek (to appear) claim that the wh-relative pronoun is sensitive to intervention effects inside its pied-piping constituent (cf Sauerland and Heck, 2003; Cable, 2010; Kotek and Erlewine, to appear). In this paper we present the results of a web-based grammaticality judgment survey which supports this claim. We discuss the nature of the intervention judgment, which is notoriously subtle, and how it might be modeled in grammar. The sensitivity of RPPP to intervention effects has important implications for the formal analysis of English non-restrictive relative clauses, supporting the view that relative pronouns are interpreted in-situ without covert movement out of its pied-piping.\n\n<strong>This paper reports on experimental evidence to support <a href=\"/research/tanglewood.html\">“The structure and interpretation of non-restrictive relatives”</a> in <em>CLS 51</em>.</strong>",
         "booktitle": "Proceedings of Sinn und Bedeutung 20",
         "pages": "448--461",
         "paper": {
@@ -1947,7 +2118,7 @@
         "editor": "Ershova, Ksenia and Falk, Joshua and Geiger, Jeffrey and Hebert, Zachary and Lewis, Robert and Munoz, Patrick and Pillion, Betsy and Phillips, Jacob",
         "title": "The structure and interpretation of non-restrictive relatives: Evidence from relative pronoun pied-piping",
         "year": "2016",
-        "abstract": "English is one of many languages in which relative clauses (RC) can be constructed using <em>wh</em>-words as <em>relative pronouns</em>. The relative pronoun originates lower in the clause and A-moves to the edge of the RC. This movement can <em>pied-pipe</em> other material with it, resulting in <em>relative pronoun pied-piping</em> (RPPP).\n\nIn this paper, we investigate the structure and interpretation of English <em>non-restrictive relative clauses</em>. We propose that in non-restrictive relatives, relative pronouns are interpreted <em>in-situ</em> within the pied-piped constituent at LF, using Rooth- Hamblin alternative computation (Hamblin, 1973; Rooth, 1985, 1992, a.o.). Evidence comes from the presence of <em>intervention effects</em> in RPPP; intervention effects (Beck, 2006; Sauerland & Heck, 2003, a.o.) can be used to diagnose regions of alternative computation (see Kotek & Erlewine, to appear; Erlewine & Kotek, 2014). The proposal here has the consequence that non-restrictive relatives are fundamentally <em>proposition-denoting</em> in contrast to restrictive relatives which are <em>property-denoting</em>.",
+        "abstract": "English is one of many languages in which relative clauses (RC) can be constructed using <em>wh</em>-words as <em>relative pronouns</em>. The relative pronoun originates lower in the clause and A-moves to the edge of the RC. This movement can <em>pied-pipe</em> other material with it, resulting in <em>relative pronoun pied-piping</em> (RPPP).\n\nIn this paper, we investigate the structure and interpretation of English <em>non-restrictive relative clauses</em>. We propose that in non-restrictive relatives, relative pronouns are interpreted <em>in-situ</em> within the pied-piped constituent at LF, using Rooth- Hamblin alternative computation (Hamblin, 1973; Rooth, 1985, 1992, a.o.). Evidence comes from the presence of <em>intervention effects</em> in RPPP; intervention effects (Beck, 2006; Sauerland & Heck, 2003, a.o.) can be used to diagnose regions of alternative computation (see Kotek & Erlewine, to appear; Erlewine & Kotek, 2014). The proposal here has the consequence that non-restrictive relatives are fundamentally <em>proposition-denoting</em> in contrast to restrictive relatives which are <em>property-denoting</em>.\n\n<strong>See also <a href=\"/research/rppp-sub.html\">Intervention effects in relative pronoun pied-piping: experimental evidence</a> in <em>SuB 20</em> for supporting experimental evidence.</strong>",
         "booktitle": "Proceedings of the 51st Meeting of the Chicago Linguistic Society (CLS 51)",
         "pages": "149--163",
         "paper": {
@@ -2066,7 +2237,7 @@
         "editor": "Bui, Thuy and Özyıldız, Deniz",
         "title": "Minimality and focus-sensitive adverb placement",
         "year": "2015",
-        "abstract": "In this paper I discuss the distribution of focus-sensitive adverbs in Vietnamese, which exhibits a Minimality effect. Given a fixed position for focus β, there may be different structural heights within a given phase where an adverb α associating with that focus β can adjoin. The focus-sensitive adverb α must appear in the position which minimizes the structural distance between it and its focus associate β. This translates into a requirement that focus-sensitive adverbs adjoin as low as possible, within a particular set of possible adjunction positions.\n\nMuch previous literature on Minimality has focused on whether or not such effects derive from transderivational competition, based primarily on Minimality effects on movement. I show that previous approaches to well-studied Minimality patterns which avoid transderivational competition do not extend to the pattern observed here. In contrast, we can develop a uniform treatment of Minimality effects if we adopt transderivational competition as in early Minimalist work such as Chomsky (1992).",
+        "abstract": "In this paper I discuss the distribution of focus-sensitive adverbs in Vietnamese, which exhibits a Minimality effect. Given a fixed position for focus β, there may be different structural heights within a given phase where an adverb α associating with that focus β can adjoin. The focus-sensitive adverb α must appear in the position which minimizes the structural distance between it and its focus associate β. This translates into a requirement that focus-sensitive adverbs adjoin as low as possible, within a particular set of possible adjunction positions.\n\nMuch previous literature on Minimality has focused on whether or not such effects derive from transderivational competition, based primarily on Minimality effects on movement. I show that previous approaches to well-studied Minimality patterns which avoid transderivational competition do not extend to the pattern observed here. In contrast, we can develop a uniform treatment of Minimality effects if we adopt transderivational competition as in early Minimalist work such as Chomsky (1992).\n\n<strong>For also <a href=\"/research/vietnamese-only.html\">\"Vietnamese focus particles and derivation by phase”</a> in <em>JEAL</em>. This paper supplements the <em>JEAL</em> paper with discussions of alternative analyses.</strong>",
         "booktitle": "Proceedings of NELS 45",
         "volume": "1",
         "pages": "193--202",
@@ -2173,6 +2344,50 @@
         "pageRange": [
             "37",
             "75"
+        ]
+    },
+    {
+        "citationKey": "mitwpl-comparatives",
+        "entryType": "book",
+        "keywords": [
+            "comparative"
+        ],
+        "authors": [
+            
+        ],
+        "projects": [
+            
+        ],
+        "editor": "Erlewine, Michael Yoshitaka and Sudo, Yasutada",
+        "title": "Proceedings of the MIT Workshop on Comparatives",
+        "url": "http://mitwpl.mit.edu/catalog/mwpl69/",
+        "year": "2014",
+        "publisher": "Cambridge: MIT Working Papers in Linguistics",
+        "editors": [
+            {
+                "name": "Erlewine, Michael Yoshitaka",
+                "lastName": "Erlewine",
+                "displayName": "Michael Yoshitaka Erlewine"
+            },
+            {
+                "name": "Sudo, Yasutada",
+                "lastName": "Sudo",
+                "displayName": "Yasutada Sudo",
+                "url": "http://web.mit.edu/ysudo/www/"
+            }
+        ],
+        "editorsHtml": [
+            "Erlewine, Michael Yoshitaka",
+            "<a href=\"http://web.mit.edu/ysudo/www/\">Yasutada Sudo</a>"
+        ],
+        "yesweb": true,
+        "files": [
+            {
+                "title": "Proceedings of the MIT Workshop on Comparatives",
+                "event": "mitwpl-comparatives",
+                "url": "http://mitwpl.mit.edu/catalog/mwpl69/",
+                "type": ""
+            }
         ]
     },
     {
@@ -2505,7 +2720,7 @@
         "author": "Erlewine, Michael Yoshitaka",
         "title": "Sentence-final particles at the <em>v</em>P phase edge",
         "year": "to appear",
-        "abstract": "I propose that the low class of Sentence-Final Particles (SFPs) in Mandarin Chinese (sentence-final <em>le</em>, <em>éryǐ</em>, <em>láizhe</em>...) are head-final heads in the extended <em>v</em>P periphery, rather than in the CP domain as previously analyzed, substantiating a prediction made by Hsieh & Sybesma (2011). Evidence for the proposal comes from the semantic scope of sentence-final <em>éryǐ</em> and <em>le</em> with respect to negation and modals. Consequences for the syntax of Chinese SFPs and for the Final-over-Final Constraint (FOFC) are discussed.\n\n<strong><a href=\"https://mitcho.com/research/sfp-fofc.html\">See new <em>JEAL</em> paper</a></strong>",
+        "abstract": "I propose that the low class of Sentence-Final Particles (SFPs) in Mandarin Chinese (sentence-final <em>le</em>, <em>éryǐ</em>, <em>láizhe</em>...) are head-final heads in the extended <em>v</em>P periphery, rather than in the CP domain as previously analyzed, substantiating a prediction made by Hsieh & Sybesma (2011). Evidence for the proposal comes from the semantic scope of sentence-final <em>éryǐ</em> and <em>le</em> with respect to negation and modals. Consequences for the syntax of Chinese SFPs and for the Final-over-Final Constraint (FOFC) are discussed.\n\n<strong>For full discussion, see <a href=\"https://mitcho.com/research/sfp-fofc.html\">“Low sentence-final particles in Mandarin Chinese and the Final-over-Final Constraint”</a> in <em>JEAL</strong></em>",
         "booktitle": "Proceedings of the 25th North American Conference of Chinese Linguistics (NACCL 25)",
         "paper": {
             "source": "/Users/mitcho/Dropbox/academic/projects/sfp/naccl-proceedings/erlewine-naccl25-preprint.pdf",
@@ -2920,7 +3135,7 @@
             }
         ],
         "projects": [
-            "that-trace"
+            "anti-locality"
         ],
         "author": "Erlewine, Michael Yoshitaka",
         "editor": "Halpert, Claire and Kotek, Hadas and van Urk, Coppe",
@@ -3210,7 +3425,7 @@
         "title": "Interpreting Japanese Head-Internal Relative Clauses",
         "url": "http://www.lingref.com/cpp/wccfl/31/paper3018.pdf",
         "year": "2014",
-        "abstract": "This paper proposes a new kind of semantic analysis for Japanese head-internal relative clauses (HIRCs), based on new empirical observations concerning the interpretation of HIRCs with quantificational heads. The analysis involves abstraction over the domain of the HIRC&#8217;s head quantifier via null operator movement. The entire HIRC is then interpreted as a definite description, using a maximal informativeness semantics for definiteness (von Fintel, Fox, and Iatridou 2012) and an assumption about the role of context in the interpretation of referential expressions. This analysis accounts for the new data, the island sensitivity of HIRCs, and the fact that quantificational heads take scope within the HIRC. Finally, previous analyses for the semantics of Japanese HIRC are discussed in relation to the new data presented. \n\n<strong><a href=\"https://mitcho.com/research/japanese-rc.html\">See new <em>Glossa</em> paper</a></strong>",
+        "abstract": "This paper proposes a new kind of semantic analysis for Japanese head-internal relative clauses (HIRCs), based on new empirical observations concerning the interpretation of HIRCs with quantificational heads. The analysis involves abstraction over the domain of the HIRC&#8217;s head quantifier via null operator movement. The entire HIRC is then interpreted as a definite description, using a maximal informativeness semantics for definiteness (von Fintel, Fox, and Iatridou 2012) and an assumption about the role of context in the interpretation of referential expressions. This analysis accounts for the new data, the island sensitivity of HIRCs, and the fact that quantificational heads take scope within the HIRC. Finally, previous analyses for the semantics of Japanese HIRC are discussed in relation to the new data presented. \n\n<strong>For full discussion, see <a href=\"https://mitcho.com/research/japanese-rc.html\">“Unifying Japanese relative clauses”</a> in <em>Glossa</em>.</strong>",
         "booktitle": "Proceedings of the 31st West Coast Conference on Formal Linguistics (WCCFL 31)",
         "pages": "160--169",
         "authorsHtml": [
@@ -3914,7 +4129,7 @@
         "editor": "Beltrama, Andrea and Chatzikonstantinou, Tasos and Lee, Jackson L. and Pham, Mike and Rak, Diane",
         "title": "Alternative questions through focus alternatives in Mandarin Chinese",
         "year": "2014",
-        "abstract": "While the syntax of wh-in-situ in Mandarin Chinese has been central to discussions of the linguistic theory of covert movement (Huang, 1982), little attention has been paid to the syntax and semantics of alternative questions in Mandarin. I argue that alternative-question-triggering disjunctions in Mandarin are interpreted <em>in-situ</em> at LF using a process of alternative computation, supported by evidence from island sensitivity and focus intervention effects. I offer a proposal for the different semantics of alternative-question-triggering disjunction (<em>háishì</em>) and logical disjunction (<em>hùozhe</em>), in languages such as Mandarin which lexicalize this difference, and show that it can explain the distribution of question &#8220;force&#8221; in Mandarin clauses involving disjunction.",
+        "abstract": "While the syntax of wh-in-situ in Mandarin Chinese has been central to discussions of the linguistic theory of covert movement (Huang, 1982), little attention has been paid to the syntax and semantics of alternative questions in Mandarin. I argue that alternative-question-triggering disjunctions in Mandarin are interpreted <em>in-situ</em> at LF using a process of alternative computation, supported by evidence from island sensitivity and focus intervention effects. I offer a proposal for the different semantics of alternative-question-triggering disjunction (<em>háishì</em>) and logical disjunction (<em>hùozhe</em>), in languages such as Mandarin which lexicalize this difference, and show that it can explain the distribution of question &#8220;force&#8221; in Mandarin clauses involving disjunction.\n\n<strong>Superseded by <a href=\"/research/haishi.html\">“Two disjunctions in Mandarin Chinese”</a></strong>\n",
         "booktitle": "Proceedings of the 48th Meeting of the Chicago Linguistic Society (CLS 48)",
         "pages": "221--234",
         "paper": {
@@ -4051,7 +4266,7 @@
         "title": "Share to Compare: the Mandarin <em>bǐ</em> Comparative",
         "url": "http://www.lingref.com/cpp/wccfl/29/paper2687.pdf",
         "year": "2012",
-        "abstract": "This paper argues against Direct Analysis approaches to the Mandarin <em>bǐ</em> comparative construction. Instead, I propose that the derivation of a <em>bǐ</em> comparative involves the construction of two full TPs: one for the target and one for the standard. This view is motivated by comparatives where material has moved simultaneously from the predicate into the target and into the standard, which are difficult to capture within a Direct Analysis. A technical implementation of this proposal is presented in which common material in the two TPs&#8217; predicates is obligatorily multidominated. ",
+        "abstract": "This paper argues against Direct Analysis approaches to the Mandarin <em>bǐ</em> comparative construction. Instead, I propose that the derivation of a <em>bǐ</em> comparative involves the construction of two full TPs: one for the target and one for the standard. This view is motivated by comparatives where material has moved simultaneously from the predicate into the target and into the standard, which are difficult to capture within a Direct Analysis. A technical implementation of this proposal is presented in which common material in the two TPs&#8217; predicates is obligatorily multidominated. \n\n<strong>For full discussion, see <a href=\"https://mitcho.com/research/bi.html\">“Clausal comparison without degree abstraction in Mandarin Chinese”</a> in <em>NLLT</em>.</strong>",
         "booktitle": "Proceedings of the 29th West Coast Conference on Formal Linguistics (WCCFL 29)",
         "pages": "54--62",
         "handout": {
@@ -4195,7 +4410,7 @@
         "title": "Sentence-final <em>only</em> and the interpretation of focus in Mandarin Chinese",
         "url": "https://naccl.osu.edu/sites/naccl.osu.edu/files/NACCL-22_2_33_erlewine.pdf",
         "year": "2010",
-        "abstract": "In this paper I document the complex interactions between the Mandarin sentence-final <em>only</em> item <em>éryǐ</em> and the focus marker <em>shì</em>. Following work on Chinese Sentence-Final Particles (SFP), <em>éryǐ</em> syntactically is in the CP-domain and thus should scope above TP-level operators such as negation, and this is indeed normally the case. However, the introduction of the focus marker <em>shì</em> can force the sentence-final <em>éryǐ</em> to take scope below the TP-level negation, creating a problem for the theory of Mandarin SFP.\n\nI propose that <em>shì</em> unambiguously marks the semantic scope of Mandarin focus-sensitive operators which involve Association With Focus. I show how this analysis preserves the expected syntactic cartography while computing the correct semantic scope. A compositional syntax/semantics utilizing focus movement is also presented.",
+        "abstract": "In this paper I document the complex interactions between the Mandarin sentence-final <em>only</em> item <em>éryǐ</em> and the focus marker <em>shì</em>. Following work on Chinese Sentence-Final Particles (SFP), <em>éryǐ</em> syntactically is in the CP-domain and thus should scope above TP-level operators such as negation, and this is indeed normally the case. However, the introduction of the focus marker <em>shì</em> can force the sentence-final <em>éryǐ</em> to take scope below the TP-level negation, creating a problem for the theory of Mandarin SFP.\n\nI propose that <em>shì</em> unambiguously marks the semantic scope of Mandarin focus-sensitive operators which involve Association With Focus. I show how this analysis preserves the expected syntactic cartography while computing the correct semantic scope. A compositional syntax/semantics utilizing focus movement is also presented.\n\n<strong>This analysis is superseded by that in <a href=\"https://mitcho.com/research/sfp-fofc.html\">“Low sentence-final particles in Mandarin Chinese and the Final-over-Final Constraint”</a> in <em>JEAL</strong></em>",
         "booktitle": "The Proceedings of the 22nd North American Conference of Chinese Linguistics (NACCL 22) and the 18th Annual Meeting of the International Association of Chinese Linguistics (IACL 18)",
         "pages": "18--35",
         "authorsHtml": [
