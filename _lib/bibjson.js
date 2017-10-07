@@ -15,11 +15,12 @@ paperarchive = paperarchive.replace(/@comment{BibDesk Static Groups{(.|\n)*}}/m,
 var bib = parser.toJSON(paperarchive);
 
 var authorUrls = {
-	'van Urk, Coppe': 'http://web.mit.edu/cvanurk/www/',
+	'van Urk, Coppe': 'http://webspace.qmul.ac.uk/cvanurk/',
 	'Levin, Theodore': 'https://sites.google.com/site/tfranklevin/',
-	'Kotek, Hadas': 'http://hkotek.com',
-	'Sudo, Yasutada': 'http://web.mit.edu/ysudo/www/',
-	'Gould, Isaac': 'https://linguistics.ku.edu/isaac-gould'
+	'Kotek, Hadas': 'http://hkotek.com/',
+	'Sudo, Yasutada': 'http://www.ucl.ac.uk/~ucjtudo/',
+	'Gould, Isaac': 'http://cms.ewha.ac.kr/user/indexSub.action?codyMenuSeq=2917484&siteId=englishe&menuUIType=top&dum=dum&prfId=3226638&command=view&prfSeq=9662215',
+	'Mizuno, Teruyuki': 'https://teruyukimizuno.wordpress.com/'
 };
 
 function cleanup(text) {

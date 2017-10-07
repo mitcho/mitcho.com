@@ -283,7 +283,7 @@
                 "name": "Kotek, Hadas",
                 "lastName": "Kotek",
                 "displayName": "Hadas Kotek",
-                "url": "http://hkotek.com"
+                "url": "http://hkotek.com/"
             }
         ],
         "projects": [
@@ -301,14 +301,14 @@
         },
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka",
-            "<a href=\"http://hkotek.com\">Hadas Kotek</a>"
+            "<a href=\"http://hkotek.com/\">Hadas Kotek</a>"
         ],
         "shortHtml": [
             "Erlewine",
-            "<a href=\"http://hkotek.com\">Kotek</a>"
+            "<a href=\"http://hkotek.com/\">Kotek</a>"
         ],
         "othersHtml": [
-            "<a href=\"http://hkotek.com\">Hadas Kotek</a>"
+            "<a href=\"http://hkotek.com/\">Hadas Kotek</a>"
         ],
         "files": [
             {
@@ -640,7 +640,8 @@
             {
                 "name": "Mizuno, Teruyuki",
                 "lastName": "Mizuno",
-                "displayName": "Teruyuki Mizuno"
+                "displayName": "Teruyuki Mizuno",
+                "url": "https://teruyukimizuno.wordpress.com/"
             },
             {
                 "name": "Erlewine, Michael Yoshitaka",
@@ -669,15 +670,15 @@
             "event": "handout-sluicing-jk"
         },
         "authorsHtml": [
-            "Mizuno, Teruyuki",
+            "<a href=\"https://teruyukimizuno.wordpress.com/\">Mizuno, Teruyuki</a>",
             "Michael Yoshitaka Erlewine"
         ],
         "shortHtml": [
-            "Mizuno",
+            "<a href=\"https://teruyukimizuno.wordpress.com/\">Mizuno</a>",
             "Erlewine"
         ],
         "othersHtml": [
-            "Teruyuki Mizuno"
+            "<a href=\"https://teruyukimizuno.wordpress.com/\">Teruyuki Mizuno</a>"
         ],
         "editors": [
             {
@@ -723,7 +724,7 @@
     },
     {
         "citationKey": "nakanishi",
-        "entryType": "unpublished",
+        "entryType": "article",
         "keywords": [
             "even",
             "association with focus",
@@ -747,9 +748,9 @@
         "author": "Erlewine, Michael Yoshitaka",
         "title": "<em>Even</em> doesn&#8217;t move but associates into traces: A reply to Nakanishi 2012",
         "url": "http://ling.auf.net/lingbuzz/003132/current.pdf",
-        "note": "Manuscript, National University of Singapore",
-        "year": "2016",
+        "year": "accepted",
         "abstract": "Nakanishi 2012 presents a novel argument for the so-called &#8220;scope theory&#8221; of English VP-<em>even</em>, based on examples with antecedent-contained deletion (ACD). Nakanishi&#8217;s argument is based on the assumption that <em>even</em> cannot associate with a focus which has moved out of its scope. I show that this assumption is incorrect, defusing Nakanishi&#8217;s argument.\n\nI propose that when <em>even</em> associates with a focus which has moved out of its scope, it actually associates with focused material in the lower copies of movement (trace positions). A closer look at Nakanishi&#8217;s ACD examples as well as additional predictions of the scope theory then form arguments <em>against</em> the scope theory. I conclude that English VP-<em>even</em> must always be interpreted in its pronounced position. The patterns of focus association with <em>even</em> presented here constitute a new argument for the copy theory of movement.",
+        "journal": "Natural Language Semantics",
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
         ],
@@ -901,7 +902,7 @@
                 "name": "Kotek, Hadas",
                 "lastName": "Kotek",
                 "displayName": "Hadas Kotek",
-                "url": "http://hkotek.com"
+                "url": "http://hkotek.com/"
             }
         ],
         "projects": [
@@ -927,14 +928,14 @@
         },
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka",
-            "<a href=\"http://hkotek.com\">Hadas Kotek</a>"
+            "<a href=\"http://hkotek.com/\">Hadas Kotek</a>"
         ],
         "shortHtml": [
             "Erlewine",
-            "<a href=\"http://hkotek.com\">Kotek</a>"
+            "<a href=\"http://hkotek.com/\">Kotek</a>"
         ],
         "othersHtml": [
-            "<a href=\"http://hkotek.com\">Hadas Kotek</a>"
+            "<a href=\"http://hkotek.com/\">Hadas Kotek</a>"
         ],
         "editors": [
             {
@@ -1013,7 +1014,7 @@
                 "name": "Kotek, Hadas",
                 "lastName": "Kotek",
                 "displayName": "Hadas Kotek",
-                "url": "http://hkotek.com"
+                "url": "http://hkotek.com/"
             }
         ],
         "projects": [
@@ -1027,14 +1028,14 @@
         "journal": "Linguistic Inquiry",
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka",
-            "<a href=\"http://hkotek.com\">Hadas Kotek</a>"
+            "<a href=\"http://hkotek.com/\">Hadas Kotek</a>"
         ],
         "shortHtml": [
             "Erlewine",
-            "<a href=\"http://hkotek.com\">Kotek</a>"
+            "<a href=\"http://hkotek.com/\">Kotek</a>"
         ],
         "othersHtml": [
-            "<a href=\"http://hkotek.com\">Hadas Kotek</a>"
+            "<a href=\"http://hkotek.com/\">Hadas Kotek</a>"
         ],
         "files": [
             {
@@ -1061,7 +1062,8 @@
             {
                 "name": "Mizuno, Teruyuki",
                 "lastName": "Mizuno",
-                "displayName": "Teruyuki Mizuno"
+                "displayName": "Teruyuki Mizuno",
+                "url": "https://teruyukimizuno.wordpress.com/"
             },
             {
                 "name": "Erlewine, Michael Yoshitaka",
@@ -1085,15 +1087,15 @@
         },
         "author-ja": "水野 輝之、アーリーワイン マイケル芳貴",
         "authorsHtml": [
-            "Mizuno, Teruyuki",
+            "<a href=\"https://teruyukimizuno.wordpress.com/\">Mizuno, Teruyuki</a>",
             "Michael Yoshitaka Erlewine"
         ],
         "shortHtml": [
-            "Mizuno",
+            "<a href=\"https://teruyukimizuno.wordpress.com/\">Mizuno</a>",
             "Erlewine"
         ],
         "othersHtml": [
-            "Teruyuki Mizuno"
+            "<a href=\"https://teruyukimizuno.wordpress.com/\">Teruyuki Mizuno</a>"
         ],
         "files": [
             {
@@ -1228,7 +1230,7 @@
                 "name": "Kotek, Hadas",
                 "lastName": "Kotek",
                 "displayName": "Hadas Kotek",
-                "url": "http://hkotek.com"
+                "url": "http://hkotek.com/"
             },
             {
                 "name": "Erlewine, Michael Yoshitaka",
@@ -1263,15 +1265,15 @@
             "event": "slides-chuj-nels"
         },
         "authorsHtml": [
-            "<a href=\"http://hkotek.com\">Kotek, Hadas</a>",
+            "<a href=\"http://hkotek.com/\">Kotek, Hadas</a>",
             "Michael Yoshitaka Erlewine"
         ],
         "shortHtml": [
-            "<a href=\"http://hkotek.com\">Kotek</a>",
+            "<a href=\"http://hkotek.com/\">Kotek</a>",
             "Erlewine"
         ],
         "othersHtml": [
-            "<a href=\"http://hkotek.com\">Hadas Kotek</a>"
+            "<a href=\"http://hkotek.com/\">Hadas Kotek</a>"
         ],
         "editors": [
             {
@@ -1486,7 +1488,7 @@
                 "name": "Kotek, Hadas",
                 "lastName": "Kotek",
                 "displayName": "Hadas Kotek",
-                "url": "http://hkotek.com"
+                "url": "http://hkotek.com/"
             },
             {
                 "name": "Erlewine, Michael Yoshitaka",
@@ -1520,15 +1522,15 @@
             "event": "slides-rppp-sub"
         },
         "authorsHtml": [
-            "<a href=\"http://hkotek.com\">Kotek, Hadas</a>",
+            "<a href=\"http://hkotek.com/\">Kotek, Hadas</a>",
             "Michael Yoshitaka Erlewine"
         ],
         "shortHtml": [
-            "<a href=\"http://hkotek.com\">Kotek</a>",
+            "<a href=\"http://hkotek.com/\">Kotek</a>",
             "Erlewine"
         ],
         "othersHtml": [
-            "<a href=\"http://hkotek.com\">Hadas Kotek</a>"
+            "<a href=\"http://hkotek.com/\">Hadas Kotek</a>"
         ],
         "editors": [
             {
@@ -1655,7 +1657,7 @@
                 "name": "Kotek, Hadas",
                 "lastName": "Kotek",
                 "displayName": "Hadas Kotek",
-                "url": "http://hkotek.com"
+                "url": "http://hkotek.com/"
             },
             {
                 "name": "Erlewine, Michael Yoshitaka",
@@ -1687,15 +1689,15 @@
             "event": "slides-chuj-wscla"
         },
         "authorsHtml": [
-            "<a href=\"http://hkotek.com\">Kotek, Hadas</a>",
+            "<a href=\"http://hkotek.com/\">Kotek, Hadas</a>",
             "Michael Yoshitaka Erlewine"
         ],
         "shortHtml": [
-            "<a href=\"http://hkotek.com\">Kotek</a>",
+            "<a href=\"http://hkotek.com/\">Kotek</a>",
             "Erlewine"
         ],
         "othersHtml": [
-            "<a href=\"http://hkotek.com\">Hadas Kotek</a>"
+            "<a href=\"http://hkotek.com/\">Hadas Kotek</a>"
         ],
         "files": [
             {
@@ -1745,7 +1747,7 @@
                 "name": "Gould, Isaac",
                 "lastName": "Gould",
                 "displayName": "Isaac Gould",
-                "url": "https://linguistics.ku.edu/isaac-gould"
+                "url": "http://cms.ewha.ac.kr/user/indexSub.action?codyMenuSeq=2917484&siteId=englishe&menuUIType=top&dum=dum&prfId=3226638&command=view&prfSeq=9662215"
             }
         ],
         "projects": [
@@ -1765,14 +1767,14 @@
         },
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka",
-            "<a href=\"https://linguistics.ku.edu/isaac-gould\">Isaac Gould</a>"
+            "<a href=\"http://cms.ewha.ac.kr/user/indexSub.action?codyMenuSeq=2917484&siteId=englishe&menuUIType=top&dum=dum&prfId=3226638&command=view&prfSeq=9662215\">Isaac Gould</a>"
         ],
         "shortHtml": [
             "Erlewine",
-            "<a href=\"https://linguistics.ku.edu/isaac-gould\">Gould</a>"
+            "<a href=\"http://cms.ewha.ac.kr/user/indexSub.action?codyMenuSeq=2917484&siteId=englishe&menuUIType=top&dum=dum&prfId=3226638&command=view&prfSeq=9662215\">Gould</a>"
         ],
         "othersHtml": [
-            "<a href=\"https://linguistics.ku.edu/isaac-gould\">Isaac Gould</a>"
+            "<a href=\"http://cms.ewha.ac.kr/user/indexSub.action?codyMenuSeq=2917484&siteId=englishe&menuUIType=top&dum=dum&prfId=3226638&command=view&prfSeq=9662215\">Isaac Gould</a>"
         ],
         "files": [
             {
@@ -1812,7 +1814,7 @@
                 "name": "Kotek, Hadas",
                 "lastName": "Kotek",
                 "displayName": "Hadas Kotek",
-                "url": "http://hkotek.com"
+                "url": "http://hkotek.com/"
             }
         ],
         "projects": [
@@ -1837,14 +1839,14 @@
         },
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka",
-            "<a href=\"http://hkotek.com\">Hadas Kotek</a>"
+            "<a href=\"http://hkotek.com/\">Hadas Kotek</a>"
         ],
         "shortHtml": [
             "Erlewine",
-            "<a href=\"http://hkotek.com\">Kotek</a>"
+            "<a href=\"http://hkotek.com/\">Kotek</a>"
         ],
         "othersHtml": [
-            "<a href=\"http://hkotek.com\">Hadas Kotek</a>"
+            "<a href=\"http://hkotek.com/\">Hadas Kotek</a>"
         ],
         "files": [
             {
@@ -1883,7 +1885,7 @@
                 "name": "Kotek, Hadas",
                 "lastName": "Kotek",
                 "displayName": "Hadas Kotek",
-                "url": "http://hkotek.com"
+                "url": "http://hkotek.com/"
             },
             {
                 "name": "Erlewine, Michael Yoshitaka",
@@ -1900,15 +1902,15 @@
         "year": "2015",
         "abstract": "This paper investigates non-interrogative uses of <em>wh</em>-words in Chuj, an understudied Mayan language of Guatemala. Cross-linguistically, <em>wh</em>-words are commonly used not only for question-formation but also in a range of other constructions, including in quantification and in the formation of relative clauses. We will show that Chuj can use <em>wh</em>-words to form indefinites in certain limited environments, and that it can additionally use <em>wh</em>-words to form free choice items and a universal quantifier. In addition, Chuj uses <em>wh</em>-words to form free relatives, including definite free relatives but also typologically rare indefinite free relatives. We describe the licensing environments and structural size of these two types of free relatives and show that, despite surface similarities, they are two distinct constructions.",
         "authorsHtml": [
-            "<a href=\"http://hkotek.com\">Kotek, Hadas</a>",
+            "<a href=\"http://hkotek.com/\">Kotek, Hadas</a>",
             "Michael Yoshitaka Erlewine"
         ],
         "shortHtml": [
-            "<a href=\"http://hkotek.com\">Kotek</a>",
+            "<a href=\"http://hkotek.com/\">Kotek</a>",
             "Erlewine"
         ],
         "othersHtml": [
-            "<a href=\"http://hkotek.com\">Hadas Kotek</a>"
+            "<a href=\"http://hkotek.com/\">Hadas Kotek</a>"
         ],
         "files": [
             
@@ -1995,7 +1997,7 @@
                 "name": "Kotek, Hadas",
                 "lastName": "Kotek",
                 "displayName": "Hadas Kotek",
-                "url": "http://hkotek.com"
+                "url": "http://hkotek.com/"
             },
             {
                 "name": "Erlewine, Michael Yoshitaka",
@@ -2016,15 +2018,15 @@
             "event": "current"
         },
         "authorsHtml": [
-            "<a href=\"http://hkotek.com\">Kotek, Hadas</a>",
+            "<a href=\"http://hkotek.com/\">Kotek, Hadas</a>",
             "Michael Yoshitaka Erlewine"
         ],
         "shortHtml": [
-            "<a href=\"http://hkotek.com\">Kotek</a>",
+            "<a href=\"http://hkotek.com/\">Kotek</a>",
             "Erlewine"
         ],
         "othersHtml": [
-            "<a href=\"http://hkotek.com\">Hadas Kotek</a>"
+            "<a href=\"http://hkotek.com/\">Hadas Kotek</a>"
         ],
         "files": [
             {
@@ -2108,7 +2110,7 @@
                 "name": "Kotek, Hadas",
                 "lastName": "Kotek",
                 "displayName": "Hadas Kotek",
-                "url": "http://hkotek.com"
+                "url": "http://hkotek.com/"
             }
         ],
         "projects": [
@@ -2133,14 +2135,14 @@
         },
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka",
-            "<a href=\"http://hkotek.com\">Hadas Kotek</a>"
+            "<a href=\"http://hkotek.com/\">Hadas Kotek</a>"
         ],
         "shortHtml": [
             "Erlewine",
-            "<a href=\"http://hkotek.com\">Kotek</a>"
+            "<a href=\"http://hkotek.com/\">Kotek</a>"
         ],
         "othersHtml": [
-            "<a href=\"http://hkotek.com\">Hadas Kotek</a>"
+            "<a href=\"http://hkotek.com/\">Hadas Kotek</a>"
         ],
         "editors": [
             {
@@ -2373,12 +2375,12 @@
                 "name": "Sudo, Yasutada",
                 "lastName": "Sudo",
                 "displayName": "Yasutada Sudo",
-                "url": "http://web.mit.edu/ysudo/www/"
+                "url": "http://www.ucl.ac.uk/~ucjtudo/"
             }
         ],
         "editorsHtml": [
             "Erlewine, Michael Yoshitaka",
-            "<a href=\"http://web.mit.edu/ysudo/www/\">Yasutada Sudo</a>"
+            "<a href=\"http://www.ucl.ac.uk/~ucjtudo/\">Yasutada Sudo</a>"
         ],
         "yesweb": true,
         "files": [
@@ -2524,7 +2526,7 @@
                 "name": "Kotek, Hadas",
                 "lastName": "Kotek",
                 "displayName": "Hadas Kotek",
-                "url": "http://hkotek.com"
+                "url": "http://hkotek.com/"
             },
             {
                 "name": "Sugawara, Ayaka",
@@ -2563,7 +2565,7 @@
             "Hisagi, Miwako",
             "Michael Yoshitaka Erlewine",
             "Sachiko Kato",
-            "<a href=\"http://hkotek.com\">Hadas Kotek</a>",
+            "<a href=\"http://hkotek.com/\">Hadas Kotek</a>",
             "Ayaka Sugawara",
             "Daichi Yasunaga",
             "Dimitrios Pantazis",
@@ -2574,7 +2576,7 @@
             "Hisagi",
             "Erlewine",
             "Kato",
-            "<a href=\"http://hkotek.com\">Kotek</a>",
+            "<a href=\"http://hkotek.com/\">Kotek</a>",
             "Sugawara",
             "Yasunaga",
             "Pantazis",
@@ -2584,7 +2586,7 @@
         "othersHtml": [
             "Miwako Hisagi",
             "Sachiko Kato",
-            "<a href=\"http://hkotek.com\">Hadas Kotek</a>",
+            "<a href=\"http://hkotek.com/\">Hadas Kotek</a>",
             "Ayaka Sugawara",
             "Daichi Yasunaga",
             "Dimitrios Pantazis",
@@ -2615,7 +2617,7 @@
                 "name": "Kotek, Hadas",
                 "lastName": "Kotek",
                 "displayName": "Hadas Kotek",
-                "url": "http://hkotek.com"
+                "url": "http://hkotek.com/"
             }
         ],
         "projects": [
@@ -2632,14 +2634,14 @@
         },
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka",
-            "<a href=\"http://hkotek.com\">Hadas Kotek</a>"
+            "<a href=\"http://hkotek.com/\">Hadas Kotek</a>"
         ],
         "shortHtml": [
             "Erlewine",
-            "<a href=\"http://hkotek.com\">Kotek</a>"
+            "<a href=\"http://hkotek.com/\">Kotek</a>"
         ],
         "othersHtml": [
-            "<a href=\"http://hkotek.com\">Hadas Kotek</a>"
+            "<a href=\"http://hkotek.com/\">Hadas Kotek</a>"
         ],
         "files": [
             {
@@ -2881,7 +2883,7 @@
                 "name": "van Urk, Coppe",
                 "lastName": "van Urk",
                 "displayName": "Coppe van Urk",
-                "url": "http://web.mit.edu/cvanurk/www/"
+                "url": "http://webspace.qmul.ac.uk/cvanurk/"
             }
         ],
         "projects": [
@@ -2899,16 +2901,16 @@
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka",
             "<a href=\"https://sites.google.com/site/tfranklevin/\">Theodore Levin</a>",
-            "<a href=\"http://web.mit.edu/cvanurk/www/\">Coppe van Urk</a>"
+            "<a href=\"http://webspace.qmul.ac.uk/cvanurk/\">Coppe van Urk</a>"
         ],
         "shortHtml": [
             "Erlewine",
             "<a href=\"https://sites.google.com/site/tfranklevin/\">Levin</a>",
-            "<a href=\"http://web.mit.edu/cvanurk/www/\">Van Urk</a>"
+            "<a href=\"http://webspace.qmul.ac.uk/cvanurk/\">Van Urk</a>"
         ],
         "othersHtml": [
             "<a href=\"https://sites.google.com/site/tfranklevin/\">Theodore Levin</a>",
-            "<a href=\"http://web.mit.edu/cvanurk/www/\">Coppe van Urk</a>"
+            "<a href=\"http://webspace.qmul.ac.uk/cvanurk/\">Coppe van Urk</a>"
         ],
         "editors": [
             {
@@ -2971,7 +2973,7 @@
                 "name": "van Urk, Coppe",
                 "lastName": "van Urk",
                 "displayName": "Coppe van Urk",
-                "url": "http://web.mit.edu/cvanurk/www/"
+                "url": "http://webspace.qmul.ac.uk/cvanurk/"
             }
         ],
         "projects": [
@@ -2998,16 +3000,16 @@
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka",
             "<a href=\"https://sites.google.com/site/tfranklevin/\">Theodore Levin</a>",
-            "<a href=\"http://web.mit.edu/cvanurk/www/\">Coppe van Urk</a>"
+            "<a href=\"http://webspace.qmul.ac.uk/cvanurk/\">Coppe van Urk</a>"
         ],
         "shortHtml": [
             "Erlewine",
             "<a href=\"https://sites.google.com/site/tfranklevin/\">Levin</a>",
-            "<a href=\"http://web.mit.edu/cvanurk/www/\">Van Urk</a>"
+            "<a href=\"http://webspace.qmul.ac.uk/cvanurk/\">Van Urk</a>"
         ],
         "othersHtml": [
             "<a href=\"https://sites.google.com/site/tfranklevin/\">Theodore Levin</a>",
-            "<a href=\"http://web.mit.edu/cvanurk/www/\">Coppe van Urk</a>"
+            "<a href=\"http://webspace.qmul.ac.uk/cvanurk/\">Coppe van Urk</a>"
         ],
         "editors": [
             {
@@ -3165,19 +3167,19 @@
                 "name": "Kotek, Hadas",
                 "lastName": "Kotek",
                 "displayName": "Hadas Kotek",
-                "url": "http://hkotek.com"
+                "url": "http://hkotek.com/"
             },
             {
                 "name": "van Urk, Coppe",
                 "lastName": "van Urk",
                 "displayName": "Coppe van Urk",
-                "url": "http://web.mit.edu/cvanurk/www/"
+                "url": "http://webspace.qmul.ac.uk/cvanurk/"
             }
         ],
         "editorsHtml": [
             "Halpert, Claire",
-            "<a href=\"http://hkotek.com\">Hadas Kotek</a>",
-            "<a href=\"http://web.mit.edu/cvanurk/www/\">Coppe van Urk</a>"
+            "<a href=\"http://hkotek.com/\">Hadas Kotek</a>",
+            "<a href=\"http://webspace.qmul.ac.uk/cvanurk/\">Coppe van Urk</a>"
         ],
         "files": [
             {
@@ -3414,7 +3416,7 @@
                 "name": "Gould, Isaac",
                 "lastName": "Gould",
                 "displayName": "Isaac Gould",
-                "url": "https://linguistics.ku.edu/isaac-gould"
+                "url": "http://cms.ewha.ac.kr/user/indexSub.action?codyMenuSeq=2917484&siteId=englishe&menuUIType=top&dum=dum&prfId=3226638&command=view&prfSeq=9662215"
             }
         ],
         "projects": [
@@ -3430,14 +3432,14 @@
         "pages": "160--169",
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka",
-            "<a href=\"https://linguistics.ku.edu/isaac-gould\">Isaac Gould</a>"
+            "<a href=\"http://cms.ewha.ac.kr/user/indexSub.action?codyMenuSeq=2917484&siteId=englishe&menuUIType=top&dum=dum&prfId=3226638&command=view&prfSeq=9662215\">Isaac Gould</a>"
         ],
         "shortHtml": [
             "Erlewine",
-            "<a href=\"https://linguistics.ku.edu/isaac-gould\">Gould</a>"
+            "<a href=\"http://cms.ewha.ac.kr/user/indexSub.action?codyMenuSeq=2917484&siteId=englishe&menuUIType=top&dum=dum&prfId=3226638&command=view&prfSeq=9662215\">Gould</a>"
         ],
         "othersHtml": [
-            "<a href=\"https://linguistics.ku.edu/isaac-gould\">Isaac Gould</a>"
+            "<a href=\"http://cms.ewha.ac.kr/user/indexSub.action?codyMenuSeq=2917484&siteId=englishe&menuUIType=top&dum=dum&prfId=3226638&command=view&prfSeq=9662215\">Isaac Gould</a>"
         ],
         "editors": [
             {
@@ -3476,7 +3478,7 @@
                 "name": "Kotek, Hadas",
                 "lastName": "Kotek",
                 "displayName": "Hadas Kotek",
-                "url": "http://hkotek.com"
+                "url": "http://hkotek.com/"
             },
             {
                 "name": "Erlewine, Michael Yoshitaka",
@@ -3498,15 +3500,15 @@
             "event": "slides-blocking-lsa2014"
         },
         "authorsHtml": [
-            "<a href=\"http://hkotek.com\">Kotek, Hadas</a>",
+            "<a href=\"http://hkotek.com/\">Kotek, Hadas</a>",
             "Michael Yoshitaka Erlewine"
         ],
         "shortHtml": [
-            "<a href=\"http://hkotek.com\">Kotek</a>",
+            "<a href=\"http://hkotek.com/\">Kotek</a>",
             "Erlewine"
         ],
         "othersHtml": [
-            "<a href=\"http://hkotek.com\">Hadas Kotek</a>"
+            "<a href=\"http://hkotek.com/\">Hadas Kotek</a>"
         ],
         "files": [
             {
@@ -3650,7 +3652,7 @@
                 "name": "Kotek, Hadas",
                 "lastName": "Kotek",
                 "displayName": "Hadas Kotek",
-                "url": "http://hkotek.com"
+                "url": "http://hkotek.com/"
             }
         ],
         "projects": [
@@ -3672,14 +3674,14 @@
         },
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka",
-            "<a href=\"http://hkotek.com\">Hadas Kotek</a>"
+            "<a href=\"http://hkotek.com/\">Hadas Kotek</a>"
         ],
         "shortHtml": [
             "Erlewine",
-            "<a href=\"http://hkotek.com\">Kotek</a>"
+            "<a href=\"http://hkotek.com/\">Kotek</a>"
         ],
         "othersHtml": [
-            "<a href=\"http://hkotek.com\">Hadas Kotek</a>"
+            "<a href=\"http://hkotek.com/\">Hadas Kotek</a>"
         ],
         "files": [
             {
@@ -3826,7 +3828,7 @@
                 "name": "Kotek, Hadas",
                 "lastName": "Kotek",
                 "displayName": "Hadas Kotek",
-                "url": "http://hkotek.com"
+                "url": "http://hkotek.com/"
             }
         ],
         "projects": [
@@ -3858,14 +3860,14 @@
         },
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka",
-            "<a href=\"http://hkotek.com\">Hadas Kotek</a>"
+            "<a href=\"http://hkotek.com/\">Hadas Kotek</a>"
         ],
         "shortHtml": [
             "Erlewine",
-            "<a href=\"http://hkotek.com\">Kotek</a>"
+            "<a href=\"http://hkotek.com/\">Kotek</a>"
         ],
         "othersHtml": [
-            "<a href=\"http://hkotek.com\">Hadas Kotek</a>"
+            "<a href=\"http://hkotek.com/\">Hadas Kotek</a>"
         ],
         "editors": [
             {
@@ -3933,7 +3935,7 @@
                 "name": "Kotek, Hadas",
                 "lastName": "Kotek",
                 "displayName": "Hadas Kotek",
-                "url": "http://hkotek.com"
+                "url": "http://hkotek.com/"
             },
             {
                 "name": "Erlewine, Michael Yoshitaka",
@@ -3966,15 +3968,15 @@
             "event": "slides-focus-piedpiping"
         },
         "authorsHtml": [
-            "<a href=\"http://hkotek.com\">Kotek, Hadas</a>",
+            "<a href=\"http://hkotek.com/\">Kotek, Hadas</a>",
             "Michael Yoshitaka Erlewine"
         ],
         "shortHtml": [
-            "<a href=\"http://hkotek.com\">Kotek</a>",
+            "<a href=\"http://hkotek.com/\">Kotek</a>",
             "Erlewine"
         ],
         "othersHtml": [
-            "<a href=\"http://hkotek.com\">Hadas Kotek</a>"
+            "<a href=\"http://hkotek.com/\">Hadas Kotek</a>"
         ],
         "files": [
             {

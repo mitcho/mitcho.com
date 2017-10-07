@@ -23,38 +23,35 @@
 	.site-header {
 		margin-right: $nav-width; // to avoid collision with image
 		// todo: instead move part of the head info to the bottom of the page when too narrow.
-	}
-	
-	.site-header a small {
-		display: inline;
-	}
 
-	h1.name span {
-		display: inline;
-		font-size: 0.8em;
-	}
-	h1.name span:before {
-		content: '(';
-	}
-	h1.name span:after {
-		content: ')';
-	}
-
-	#imagewrap {
-		position: absolute;
-		top: 15px;
-		right: 15px;
-		max-width: 50%;
-	}
-	
-	.site-header ul {
-		padding-left: 0px;
-		li {
-			display: inline-block;
-			padding-right: 10px;			
+		a small {
+			display: inline;
 		}
-	}	
+		
+		h1.name span:before {
+			content: '(';
+		}
+		h1.name span:after {
+			content: ')';
+		}
 
+	
+		#imagewrap {
+			position: absolute;
+			top: 15px;
+			right: 15px;
+			max-width: 50%;
+		}
+	
+		ul {
+			padding-left: 0px;
+			li {
+				display: inline-block;
+				padding-right: 10px;			
+			}
+		}	
+	}
+	
 	.site-footer, .col2 {
 		border-top: 1px solid #e5e5e5;
 	}
@@ -74,20 +71,38 @@
 		}
 	}
 
-	h1.name span {
-		font-size: 0.45em;
-	}
-
 	.site-header {
 		margin-right: 0px;
-	}
-	#imagewrap {
-		width: 100%;
-		position: relative;
-		right: 0px;
-		top: 0px;
-		max-width: none;
-		padding-bottom: 0;
-	}
 
+		h1.name, p {
+			margin-right: 120px;
+		}
+
+		h1.name span {
+			display: block;
+			font-size: 0.5em;
+		}
+		
+		#imagewrap {
+			position: absolute;
+			top: 15px;
+			right: 15px;
+			max-width: 50%;
+			width: 130px !important;
+		}
+
+		#image {
+			background-repeat: none;
+			background-image: url('../images/littleindia-130x130.jpg');
+			background: -webkit-image-set( url('../images/littleindia-130x130.jpg') 1x, url('../images/littleindia-130x130x2.jpg') 2x );
+			width: 130px;
+			height: 130px;
+		}
+	}
+}
+
+@include media-query($on-smallphone) {
+	.site-header p span {
+		display: inline;
+	}	
 }
