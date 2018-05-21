@@ -7,6 +7,7 @@ projects:
 - tibetan-npi
 - manang
 - rppp
+- burmese-ma
 ---
 
 Aside from their canonical interrogative use, *wh*-words are used in many languages to build a range of quantificational expressions. What syntactic and semantic strategies are employed to quantify over the alternatives introduced by *wh*-words? To answer this question, I have investigated a number of non-interrogative *wh*-constructions --- often with [**Hadas Kotek**](http://hkotek.com) --- in Toba Batak (Austronesian), Chuj (Mayan), Dharamsala Tibetan, and English.

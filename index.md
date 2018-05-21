@@ -21,76 +21,45 @@ I am an Assistant Professor in **Linguistics** at the [National University of Si
 ## Areas of interest
 
 *   syntax and semantics of focus, movement, and scope-taking
-*	Alternative Semantics: focus, *wh*, questions, disjunction
+*   Alternative Semantics: focus, *wh*, questions, QUDs, disjunction
 *   the syntax of movement, case, and agreement
 
-My work has investigated: Mandarin Chinese; English; Japanese; Austronesian: Toba Batak (Indonesia) and Squliq Atayal (Taiwan); Mayan: Kaqchikel and Chuj (Guatemala); Tibetan; Vietnamese...
+My work has investigated: Mandarin Chinese; English; Japanese; Austronesian: Toba Batak (Indonesia) and Squliq Atayal (Taiwan); Mayan: Kaqchikel and Chuj (Guatemala); Tibetan; Vietnamese; Burmese...
 
 See the [Projects](/projects) page for descriptions of projects and downloadable papers.
 
 ## This semester
 
-*	[EL4203 Semantics](/nus/sem2017/)
-*	[EL5101 Grammatical Analysis](/nus/gram2017/)
+*	GET1036 The Logic of Language
 *	[Syntax/semantics reading group](/nus/synsem/)
 
 ## Upcoming
 
-*	**January 2018:** I will be at the LSA in Salt Lake City, presenting...
-	*	_Thursday poster:_ "The typology of nominal licensing in Austronesian voice languages" with [Ted Levin](https://sites.google.com/site/tfranklevin/) and Coppe van Urk
-	*	_Saturday 9am:_ "Intervention tracks scope-rigidity in Japanese" with [Hadas Kotek](http://hkotek.com)
-	*	_Sunday last talk:_ "A syntactic universal in a contact language: The story of Singlish *already*"
-*	**March 2018:** "The role of nominal licensing in Austronesian voice systems" with [Ted Levin](https://sites.google.com/site/tfranklevin/) and Coppe van Urk at the [Syntactic asymmetries workshop](https://sites.google.com/view/asymmetries2018/home) at DGfS
+*	**May--June 2018:** [Linguistics Summer School in the Indian Mountains (LISSIM) 11](http://www.fosssil.in/lissim_11.htm)
+*	**June 2018:** Fieldwork (Tibetan) in Dharamsala
+*	**July 2018:** I'll be in Japan, giving a couple talks.
+	* July 14: Kwansei Gakuin University colloquium
+	* July 28: [Tokai Semantics Workshop](https://sites.google.com/site/semanticsworkshopintokai/home)
+*	**October 2018:** [Recent Issues in the Syntax of Questions](https://www.ling.uni-konstanz.de/fachbereich/aktuelles-und-termine/risq-2018/) workshop, Konstanz
+*	**October 2018:** [3rd Asian Junior Linguists conference (AJL3)](https://sites.google.com/view/ajl3/), University of Hong Kong
 
 ## Recent
 
-*	**Paper accepted, September 2017**: ["*Even* doesn't move but associates into traces"](https://mitcho.com/research/nakanishi.html) has been accepted with *Natural Language Semantics*, pending minor revisions.
-*	**August 2017**: I held a [**"Workshop on Quirks of Subject Extraction"**](/subjex/) at NUS. I also presented my own work on [anti-locality approaches to quirks of subject extraction](/research/talk-anti-locality.html).
-*	**Talk, July 2017**: I presented new joint work with Theresa Helke, "Rules of inference and the restrictor view of conditionals," at the [Sapporo Semantics Workshop](https://asiansemantics.wordpress.com/program/).
-*	**New paper, July 2017**: ["Two disjunctions in Mandarin Chinese"](/research/haishi.html). Comments welcome!
-*	**Paper revised, July 2017**: ["Extraction and licensing in Toba Batak](/research/batak.html). See also [the associated talk](/research/talk-batak-glow.html), presented at [GLOW 40](https://glow2017.wordpress.com/) etc.
-*	**Talk, June 2017**: ["The limits of relexification: The story of Singlish *already*"](/research/talk-already.html) at [the summer conference of the Society of Pidgin and Creole Linguistics](http://www.uta.fi/ltl/SPCL2017.html).
-*	**Talk, June 2017**: ["Quantifying over alternatives with Toba Batak *manang*"](/research/talk-manang.html) at [Triple A 4](https://lingconf.com/afla24), a workshop for semantic fieldworkers. Comments welcome!
-*	**New paper, June 2017**: ["On the unavailability of argument ellipsis in Kaqchikel"](/research/kaqchikel-ae.html) with [Ted Levin](https://sites.google.com/site/tfranklevin/) to appear in *Proceedings of FAMLi 4*.
-*	**Paper updated, May 2017**: Posted [the final, accepted version of my paper on the Mandarin *bǐ* comparatives](/research/bi.html), to appear in *Natural Language & Linguistic Theory*!
-*	**Paper online, May 2017**: ["Vietnamese focus particles and derivation by phase"](/research/vietnamese-only.html), to appear with the *Journal of East Asian Linguistics*, is now ["online first"](https://link.springer.com/article/10.1007/s10831-017-9156-y)
-*	**Public talk, May 2017**: I led a workshop on language documentation and the grammar of Kristang at the first ever [*Festa di Papia Kristang* (Kristang Language Festival)](http://festa.kristang.com/)!
-*	**February 2017**: We hosted **[GLOW in Asia XI](http://lingconf.com/glowinasia2017/)** 🌴 at the National University of Singapore!
-*	**New paper, February 2017**: ["Focus association by movement: Evidence from binding and parasitic gaps"](/research/focus-binding-pg.html) with [Hadas Kotek](http://hkotek.com), to appear in *Proceedings of Sinn und Bedeutung 21*.
-*	**New paper, Feburary 2017**: ["Constraints on constrast sluicing"](/research/sluicing-jk.html) with [Teruyuki Mizuno](https://teruyukimizuno.wordpress.com/), to appear in *Japanese/Korean Linguistics 24*.
-*	**Paper published, February 2017**: ["Why the null complementizer is special in complementizer-trace effects"](/research/that-trace.html) has appeared in [*A Pesky Set: Papers for David Pesetsky*](https://lingconf.com/dp60/book/)! I also designed [the cover](https://i2.wp.com/lingconf.com/dp60/wp-content/uploads/sites/5/2016/09/cover-final-small.jpg).
-*	**Paper published, January 2017**: ["Low sentence-final particles in Mandarin Chinese and the Final-over-Final Constraint"](/research/sfp-fofc.html) has appeared in [*Journal of East Asian Linguistics*](http://link.springer.com/journal/10831) 26! (See also [a recent talk](/research/talk-sfp.html) based on this paper.)
+*	**Poster, May 2018:** ["The expression of exhaustivity and scalarity in Burmese"](/research/poster-burmese-salt.html) with Keely New at [SALT 28](http://web.mit.edu/linguistics/SALT28/)
+*	**Paper published, May 2018:** ["Clausal comparison without degree abstraction in Mandarin Chinese"](/research/bi.html), has appeared in [*Natural Language & Linguistic Theory*](https://link.springer.com/article/10.1007/s11049-017-9383-y).
+*	**Talk, May 2018:** ["Agent extraction and topicalization in Bikol"](/research/talk-bikol-afla.html) with Cheryl Lim at [AFLA 25](http://ilas.ling.sinica.edu.tw/afla25/)
+*	**Talk, March 2018:** ["A syntactic universal in a contact language: The story of Singlish *already*"](/research/talk-lsa2018-singlish.html), Chulalongkorn University, Bangkok
+*	**Paper accepted, March 2018:** ["*Wh*-indeterminates in Chuj (Mayan)"](/research/chuj-wh.html) with Hadas Kotek has been accepted with the *Canadian Journal of Linguistics*
+*	**Paper online, March 2018:** ["*Even* doesn't move but associates into traces,"](/research/nakanishi.html) to appear in *Natural Language Semantics*, is now ["online first"](https://link.springer.com/article/10.1007%2Fs11050-018-9142-6)
+*	**March 2018:** We hosted a [Workshop on **Current Issues in Comparative Syntax**](https://lingconf.com/compsyn/), where I talked [about Singlish](/research/talk-lsa2018-singlish.html).
+*	**Talks, January 2018:** I was at the LSA in Salt Lake City, presenting...
+	*	["The typology of nominal licensing in Austronesian voice languages"](/research/poster-voice-lsa.html) poster with [Ted Levin](https://sites.google.com/site/tfranklevin/) and [Coppe van Urk](http://webspace.qmul.ac.uk/cvanurk/)
+	*	["Intervention tracks scope-rigidity in Japanese"](/research/talk-lsa2018-intervention.html) with [Hadas Kotek](http://hkotek.com)
+	*	["A syntactic universal in a contact language: The story of Singlish *already*"](/research/talk-lsa2018-singlish.html)
+*	**Paper accepted, December 2017:** ["Extraction and licensing in Toba Batak](/research/batak.html) has been accepted with *Language*! See also [the associated talk](/research/talk-glow2017.html).
+*	**New paper, December 2017:** ["Movement and alternatives don't mix: Evidence from Japanese"](https://mitcho.com/research/japanese-intervention-ac.html) with [Hadas Kotek](http://hkotek.com), in the *Proceedings of the 21st Amsterdam Colloquium*
+*	**Paper published, November 2017:** ["Vietnamese focus particles and derivation by phase"](/research/vietnamese-only.html) has appeared in [a special issue on Vietnamese syntax/semantics of the *Journal of East Asian Linguistics*](https://link.springer.com/journal/10831/26/4/page/1).
+*	**New paper, November 2017:** ["Intervention tracks scope-rigidity in Japanese"](https://mitcho.com/research/japanese-intervention-lenls.html) with [Hadas Kotek](http://hkotek.com), in the *Proceedings of LENLS 14*
+*	**November 2017:** I edited the [*Proceedings of GLOW in Asia XI*](https://glowlinguistics.org/asia11/proceedings/), showcasing work from the conference we held in Singapore in early 2017. It has now appeared with MIT Working Papers in Linguistics! It makes a great gift for friends and family.
+*	**August 2017:** I held a [**"Workshop on Quirks of Subject Extraction"**](/subjex/) at NUS. I also presented my own work on [anti-locality approaches to quirks of subject extraction](/research/talk-anti-locality.html).
 
-<!--
-*	**Paper accepted, December 2016**: ["Covert focus movement: Evidence from Tanglewood"](/research/tanglewood.html) with [Hadas Kotek](http://hkotek.com) has been accepted with *Linguistic Inquiry*!
-*	**Paper published, December 2016:** My paper ["Unifying Japanese relative clauses: copy-chains and context-sensitivity"](/research/japanese-rc.html) with Isaac Gould has appeared in [*Glossa*](http://glossa-journal.org)!
-*	**Paper published, November 2016**: ["Focus association into copies and the scope of *even*"](/research/even-salt.html) is out in *Proceedings of SALT 26*.
-*	**Paper published, October 2016**: ["Covert pied-piping in English multiple *wh*-questions"](http://www.mitpressjournals.org/doi/abs/10.1162/LING_a_00226) with [Hadas Kotek](http://hkotek.com) has appeared in *Linguistic Inquiry* 47:4!
--->
-
-<!--
-*	**Talk, May 11--13, 2017**: "Extraction and licensing in Toba Batak" at the [Southeast Asian Linguistics Society
-(SEALS 27)](http://jakarta.shh.mpg.de/seals27/) in Padang, Indonesia.
--->
-
-<!--
-*	**Talk, October 2016**: Teruyuki Mizuno presented our joint work, ["Constraints on constrast sluicing,"](/research/sluicing-jk.html) at [Japanese/Korean Linguistics 24](http://pj.ninjal.ac.jp/jk2016/).
-
-*	**New paper, September 2016**: ["*Even* doesn't move but associates into traces: A reply to Nakanishi 2012"](/research/nakanishi.html).
-*	**Talks, August 2016**: I presented ["Encoding QUD congruence in Mandarin Chinese"](/research/talk-shi-keio.html) at [Theoretical Linguistics at Keio (TaLK) semantics workshop](https://sites.google.com/site/talk2016semantics/).
-*	**Interview:** I [was interviewed](http://unravellingmag.com/articles/form-function-fieldwork/) in the latest issue of [Unravel](http://unravellingmag.com/), the accessible linguistics magazine.
-*	**New review, June 2016:** My invited book review of [*Minimalist Interfaces: Evidence from Indonesian and Javanese*](https://benjamins.com/#catalog/books/la.155) by Yosuke Sato [appeared in *Oceanic Linguistics* 55(1)](http://muse.jhu.edu/article/619295).
-*	**New paper, May 2016:** ["Unifying definite and indefinite free relatives: Evidence from Mayan"](/research/chuj-nels.html) with [Hadas Kotek](http://hkotek.com), to appear in *Proceedings of NELS 46*.
--->
-
-<!--
-*	**Talk, April 2016:** ["Non-interrogative *wh*-constructions in Chuj"](/research/talk-chuj-wscla.html) with [Hadas Kotek](http://hkotek.com) at [WSCLA 21](https://sites.google.com/site/wscla2016/).
-*	**New paper, February 2016:** ["Intervention effects in relative pronoun pied-piping: experimental evidence"](/research/rppp-sub.html) with [Hadas Kotek](http://hkotek.com) to appear in *Proceedings of Sinn und Bedeutung 20*.
-*	**Paper accepted, February 2016:** ["*Even*-NPIs in Dharamsala Tibetan"](/research/tibetan-npi.html) with [Hadas Kotek](http://hkotek.com) for *Linguistic Analysis* special issue on South Asian languages. See also [our associated talk](/research/talk-tibetan-icolsi.html).
-*	**Talk, January 2016**: ["Unifying definite and indefinite free relatives: Evidence from Mayan"](/research/talk-chuj-lsa.html) with [Hadas Kotek](http://hkotek.com) at [LSA 2016](http://www.linguisticsociety.org/node/5653/schedule).
-*	**Paper accepted, November 2015:** ["Clausal comparison without degree abstraction in Mandarin Chinese"](/research/bi.html) for *NLLT*. Minor revisions pending.
-*	**New paper, September 2015:** ["Relative pronoun pied-piping in English non-restrictive relatives"](/research/rppp.html) with [Hadas Kotek](http://hkotek.com). See also our related [CLS paper](/research/rppp-cls.html) and [Sinn und Bedeutung talk](/research/talk-rppp-sub.html).
-*	**New paper, August 2015:** ["Ergativity and Austronesian-type voice systems"](/research/voice-oup.html) with Ted Levin and Coppe van Urk, to appear in the *Oxford Handbook of Ergativity*
--->
-
-<!--*	**Talk, September 2015:** ["The semantics of the Mandarin focus marker *shì*"](/research/talk-shi-eacl.html), at [European Association of Chinese Linguistics 9](http://www.ilg.uni-stuttgart.de/EACL9/).-->

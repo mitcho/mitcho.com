@@ -1,11 +1,12 @@
 // Michael Yoshitaka Erlewine <mitcho@mitcho.com>
-// Dedicated to the public domain, 2014
+// Dedicated to the public domain, 2014--2018
 
 var parser = require('bibtex-parser-js'),
 	format = require('jsonf'),
 	fs = require('fs'),
 	util = require('util'),
-	path = require('path');
+	path = require('path'),
+	process = require('process');
 
 var bibpath = '/Users/mitcho/Dropbox/academic/paperarchive/paperarchive.bib';
 var paperarchive = fs.readFileSync(bibpath).toString();
@@ -215,10 +216,11 @@ function convertItem(item) {
 		// if there's a local file:
 		if ( newItem[fileType].search('file://') > -1 ) {
 			newFile.source = newItem[fileType].replace('file://', '').replace('%20', ' ');
-			newFile.target = '/research/' + (fileType != 'paper' ? fileType + '-' : '') + newItem.citationKey.replace('talk:', '') + path.extname(newItem[fileType]);
+			newFile.target = '/research/' + (fileType != 'paper' ? fileType + '-' : '') + newItem.citationKey.replace(/(talk|poster):/, '') + path.extname(newItem[fileType]);
 	
 			if ( !fs.existsSync(newFile.source) ) {
 				console.error('Could not find ' + fileType + ': ' + newFile.source);
+				process.exit(1);
 				continue;
 			}
 			
@@ -245,7 +247,7 @@ function convertItem(item) {
 			fileTitle = newItem.title;
 			associated = true;
 		}
-		
+
 		newItem.files.push({
 			title: fileTitle,
 			event: newFile.event,

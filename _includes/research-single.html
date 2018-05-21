@@ -6,7 +6,7 @@
 	{% capture title %}<em>{{paper.title}}</em>.{% endcapture %}
 {% endif %}
 {% if paper.entryType == 'book' %}
-	{% capture title %}<em>{{paper.title}}</em>.{% endcapture %}
+	{% capture title %}<em>{{paper.title}}</em>{% if paper.volume != null %}, volume {{paper.volume}}{% endif %}.{% endcapture %}
 {% endif %}
 
 {% capture pages %}{% if paper.pages != null %}, pages {{ paper.pages | replace:'--','&ndash;' }}{% endif %}{% endcapture %}
@@ -47,7 +47,7 @@
 <em>{{paper.journal}}</em>{% if paper.volume != null %} {{paper.volume}}{% if paper.number != null %}:{{paper.number}}{% endif %}{% endif %}{{pages}}.
 {% endif %}
 
-{% if paper.booktitle != null %}
+{% if paper.booktitle != null and paper.entryType != 'book' %}
 <em>{{paper.booktitle}}</em>{{pages}}.
 {% endif %}
 

@@ -1,5 +1,552 @@
 [
     {
+        "citationKey": "clitics",
+        "entryType": "unpublished",
+        "keywords": [
+            "Austronesian voice",
+            "Austronesian",
+            "Philippine-type",
+            "cliticization",
+            "clitic pronouns",
+            "phase"
+        ],
+        "authors": [
+            {
+                "name": "Erlewine, Michael Yoshitaka",
+                "lastName": "Erlewine",
+                "displayName": "Michael Yoshitaka Erlewine"
+            },
+            {
+                "name": "Levin, Theodore",
+                "lastName": "Levin",
+                "displayName": "Theodore Levin",
+                "url": "https://sites.google.com/site/tfranklevin/"
+            }
+        ],
+        "projects": [
+            "voice-non-subject"
+        ],
+        "author": "Erlewine, Michael Yoshitaka and Levin, Theodore",
+        "title": "Clitic pronouns and the lower phase edge",
+        "note": "Manuscript, National University of Singapore",
+        "year": "to appear",
+        "abstract": "Pronominal paradigms in Philippine-type languages show a robust and curious gap: in transitive clauses pivot arguments and non-pivot agents may have bound pronominal forms, appearing as second position clitics, but pronominal non-pivot themes must be full, free pronouns. This gap teaches us about the organization of the lower phase edge. As cliticization involves a syntactic dependency between the host and argument position and all syntactic dependencies are constrained by phases, the gap is explained if pivots and non-pivot agents are speciﬁers of the phase head, making them the only DPs accessible for operations from outside of the phase.",
+        "authorsHtml": [
+            "Erlewine, Michael Yoshitaka",
+            "<a href=\"https://sites.google.com/site/tfranklevin/\">Theodore Levin</a>"
+        ],
+        "shortHtml": [
+            "Erlewine",
+            "<a href=\"https://sites.google.com/site/tfranklevin/\">Levin</a>"
+        ],
+        "othersHtml": [
+            "<a href=\"https://sites.google.com/site/tfranklevin/\">Theodore Levin</a>"
+        ],
+        "files": [
+            
+        ]
+    },
+    {
+        "citationKey": "talk:bikol-afla",
+        "entryType": "talk",
+        "keywords": [
+            "extraction asymmetries",
+            "Austronesian",
+            "Bikol",
+            "Austronesian voice",
+            "probing",
+            "syntax"
+        ],
+        "authors": [
+            {
+                "name": "Lim, Cheryl",
+                "lastName": "Lim",
+                "displayName": "Cheryl Lim"
+            },
+            {
+                "name": "Erlewine, Michael Yoshitaka",
+                "lastName": "Erlewine",
+                "displayName": "Michael Yoshitaka Erlewine"
+            }
+        ],
+        "projects": [
+            "voice-non-subject"
+        ],
+        "author": "Lim, Cheryl and Erlewine, Michael Yoshitaka",
+        "title": "Agent extraction and topicalization in Bikol",
+        "note": "Presented at AFLA 25, Academia Sinica",
+        "year": "2018",
+        "abstract": "We investigate patterns of A’-dependencies (especially topics) in Bikol, a Central Philippine language closely related to Tagalog. We show that topicalization can target non-subject agents, although local clefting is strictly limited to the subject. We propose that topicalization involves a [TOP] probe, which can skip a non-topic subject, whereas clefting involves probing for [D], which cannot skip the subject (Aldridge 2004, 2017). Subjects and non-subject agents are the only DPs at the edge of the vP phase edge, explaining the impossibility of topicalizing non-subject themes. Finally, we show that topicalization can feed long-distance clefting, supporting the view that apparent &#8220;subject-only’’ extraction restriction on clefting is not based on thematic role, but rather locality-based.",
+        "handout": {
+            "source": "/Users/mitcho/Dropbox/academic/projects/singlanglab/bikol/output/handout-afla-final.pdf",
+            "target": "/research/handout-bikol-afla.pdf",
+            "event": "handout-bikol-afla"
+        },
+        "authorsHtml": [
+            "Lim, Cheryl",
+            "Michael Yoshitaka Erlewine"
+        ],
+        "shortHtml": [
+            "Lim",
+            "Erlewine"
+        ],
+        "othersHtml": [
+            "Cheryl Lim"
+        ],
+        "files": [
+            {
+                "title": "Handout",
+                "event": "handout-bikol-afla",
+                "url": "/research/handout-bikol-afla.pdf",
+                "type": "pdf"
+            }
+        ],
+        "url": "/research/handout-bikol-afla.pdf"
+    },
+    {
+        "citationKey": "glowinasia1",
+        "entryType": "book",
+        "keywords": [
+            
+        ],
+        "authors": [
+            
+        ],
+        "projects": [
+            
+        ],
+        "editor": "Erlewine, Michael Yoshitaka",
+        "title": "Proceedings of GLOW in Asia XI",
+        "url": "http://mitwpl.mit.edu/catalog/mwpl84/",
+        "year": "2017",
+        "abstract": "GLOW in Asia XI was held at the National University of Singapore, February 20–22, 2017, hosted by the Department of English Language & Literature.  We are proud to have had this opportunity to host the first GLOW in Asia meeting in Southeast Asia. Approximately 100 scholars participated in total, resulting in a vibrant and stimulating event. The meeting was characterized by the diversity of languages and regions represented, attracting leading and emerging scholars from across as well as beyond Asia.\n\nIn addition to plenary talks by Edith Aldridge, Rajesh Bhatt, and Timothy J. Vance, 16 oral presentations and 22 poster presentations were given across three days. We are pleased to present this two-volume collection of 34 papers from the meeting.",
+        "booktitle": "Proceedings of GLOW in Asia XI",
+        "volume": "1",
+        "publisher": "MIT Working Papers in Linguistics",
+        "preprint": {
+            "target": "https://glowlinguistics.org/asia11/proceedings/",
+            "event": "proceedings"
+        },
+        "editors": [
+            {
+                "name": "Erlewine, Michael Yoshitaka",
+                "lastName": "Erlewine",
+                "displayName": "Michael Yoshitaka Erlewine"
+            }
+        ],
+        "editorsHtml": [
+            "Erlewine, Michael Yoshitaka"
+        ],
+        "yesweb": true,
+        "files": [
+            {
+                "title": "Proceedings of GLOW in Asia XI",
+                "event": "glowinasia1",
+                "url": "http://mitwpl.mit.edu/catalog/mwpl84/",
+                "type": ""
+            },
+            {
+                "title": "Associated preprint",
+                "event": "proceedings",
+                "url": "https://glowlinguistics.org/asia11/proceedings/",
+                "type": ""
+            }
+        ]
+    },
+    {
+        "citationKey": "glowinasia2",
+        "entryType": "book",
+        "keywords": [
+            
+        ],
+        "authors": [
+            
+        ],
+        "projects": [
+            
+        ],
+        "editor": "Erlewine, Michael Yoshitaka",
+        "title": "Proceedings of GLOW in Asia XI",
+        "url": "http://mitwpl.mit.edu/catalog/mwpl85/",
+        "year": "2017",
+        "abstract": "GLOW in Asia XI was held at the National University of Singapore, February 20–22, 2017, hosted by the Department of English Language & Literature.  We are proud to have had this opportunity to host the first GLOW in Asia meeting in Southeast Asia. Approximately 100 scholars participated in total, resulting in a vibrant and stimulating event. The meeting was characterized by the diversity of languages and regions represented, attracting leading and emerging scholars from across as well as beyond Asia.\n\nIn addition to plenary talks by Edith Aldridge, Rajesh Bhatt, and Timothy J. Vance, 16 oral presentations and 22 poster presentations were given across three days. We are pleased to present this two-volume collection of 34 papers from the meeting.",
+        "booktitle": "Proceedings of GLOW in Asia XI",
+        "volume": "2",
+        "publisher": "MIT Working Papers in Linguistics",
+        "preprint": {
+            "target": "https://glowlinguistics.org/asia11/proceedings/",
+            "event": "proceedings"
+        },
+        "editors": [
+            {
+                "name": "Erlewine, Michael Yoshitaka",
+                "lastName": "Erlewine",
+                "displayName": "Michael Yoshitaka Erlewine"
+            }
+        ],
+        "editorsHtml": [
+            "Erlewine, Michael Yoshitaka"
+        ],
+        "yesweb": true,
+        "files": [
+            {
+                "title": "Proceedings of GLOW in Asia XI",
+                "event": "glowinasia2",
+                "url": "http://mitwpl.mit.edu/catalog/mwpl85/",
+                "type": ""
+            },
+            {
+                "title": "Associated preprint",
+                "event": "proceedings",
+                "url": "https://glowlinguistics.org/asia11/proceedings/",
+                "type": ""
+            }
+        ]
+    },
+    {
+        "citationKey": "talk:lsa2018-intervention",
+        "entryType": "talk",
+        "keywords": [
+            "scope",
+            "intervention effects",
+            "Japanese",
+            "Alternative Semantics",
+            "reconstruction",
+            "scope-rigidity"
+        ],
+        "authors": [
+            {
+                "name": "Erlewine, Michael Yoshitaka",
+                "lastName": "Erlewine",
+                "displayName": "Michael Yoshitaka Erlewine"
+            },
+            {
+                "name": "Kotek, Hadas",
+                "lastName": "Kotek",
+                "displayName": "Hadas Kotek",
+                "url": "http://hkotek.com/"
+            }
+        ],
+        "projects": [
+            "japanese-intervention"
+        ],
+        "author": "Erlewine, Michael Yoshitaka and Kotek, Hadas",
+        "title": "Intervention tracks scope-rigidity in Japanese",
+        "note": "Presented at LSA 92",
+        "year": "2018",
+        "abstract": "Intervention effects refer to the inability of an in-situ <em>wh</em>-phrase to be preceded by certain quantificational elements. The characterization of which quantifiers are interveners, and the nature of intervention itself, has been subject to great debate. We show that the following holds in Japanese: The intervention/scope-rigidity generalization: Scope-rigid quantifiers above an insitu wh cause intervention. Quantifiers that allow scope ambiguities - i.e., those that allow reconstruction - do not. This correlation is explained by a widely-discussed incompatibility between predicate abstraction (for quantifier scope-taking) and the computation of Rooth-Hamblin alternatives (for <em>wh</em>-in-situ).",
+        "handout": {
+            "source": "/Users/mitcho/Dropbox/academic/projects/japanese-intervention/lsa/talk/handout.pdf",
+            "target": "/research/handout-lsa2018-intervention.pdf",
+            "event": "handout-lsa2018-intervention"
+        },
+        "slides": {
+            "source": "/Users/mitcho/Dropbox/academic/projects/japanese-intervention/lsa/talk/slides-trans-cut.pdf",
+            "target": "/research/slides-lsa2018-intervention.pdf",
+            "event": "slides-lsa2018-intervention"
+        },
+        "authorsHtml": [
+            "Erlewine, Michael Yoshitaka",
+            "<a href=\"http://hkotek.com/\">Hadas Kotek</a>"
+        ],
+        "shortHtml": [
+            "Erlewine",
+            "<a href=\"http://hkotek.com/\">Kotek</a>"
+        ],
+        "othersHtml": [
+            "<a href=\"http://hkotek.com/\">Hadas Kotek</a>"
+        ],
+        "files": [
+            {
+                "title": "Handout",
+                "event": "handout-lsa2018-intervention",
+                "url": "/research/handout-lsa2018-intervention.pdf",
+                "type": "pdf"
+            },
+            {
+                "title": "Slides",
+                "event": "slides-lsa2018-intervention",
+                "url": "/research/slides-lsa2018-intervention.pdf",
+                "type": "pdf"
+            }
+        ],
+        "url": "/research/handout-lsa2018-intervention.pdf"
+    },
+    {
+        "citationKey": "talk:lsa2018-singlish",
+        "entryType": "talk",
+        "keywords": [
+            "syntax",
+            "Singlish",
+            "FOFC",
+            "sentence-final particles",
+            "contact"
+        ],
+        "authors": [
+            {
+                "name": "Erlewine, Michael Yoshitaka",
+                "lastName": "Erlewine",
+                "displayName": "Michael Yoshitaka Erlewine"
+            }
+        ],
+        "projects": [
+            "sfp-sg"
+        ],
+        "author": "Erlewine, Michael Yoshitaka",
+        "title": "A syntactic universal in a contact language: The story of Singlish <em>already</em>",
+        "note": "Presented at LSA 92",
+        "year": "2018",
+        "abstract": "I investigate the syntax/semantics of sentence-final <em>already</em> in Singlish (also: Colloquial Singapore English). Bao (1995, 2005) proposes that <em>already</em> is a relexification inheriting the syntax/semantics of Chinese sentence-final <em>le/liao</em>. The semantic scope of Singlish <em>already</em> shows that it unambiguously attaches high to its host clause (above TP), whereas Chinese <em>le/liao</em> attaches between VP and TP. This discrepancy in height is explained by an interaction between the Final-over-Final Constraint (Biberauer, Holmberts, and Roberts 2014 a.o.), enforced over Spell-Out domains, and verbal inflection suspending Spell-Out at vP in Singlish but not Chinese.",
+        "handout": {
+            "source": "/Users/mitcho/Dropbox/academic/projects/singlish/lsa/handout.pdf",
+            "target": "/research/handout-lsa2018-singlish.pdf",
+            "event": "handout-lsa2018-singlish"
+        },
+        "slides": {
+            "source": "/Users/mitcho/Dropbox/academic/projects/singlish/lsa/slides-trans.pdf",
+            "target": "/research/slides-lsa2018-singlish.pdf",
+            "event": "slides-lsa2018-singlish"
+        },
+        "authorsHtml": [
+            "Erlewine, Michael Yoshitaka"
+        ],
+        "shortHtml": [
+            "Erlewine"
+        ],
+        "othersHtml": [
+            
+        ],
+        "files": [
+            {
+                "title": "Handout",
+                "event": "handout-lsa2018-singlish",
+                "url": "/research/handout-lsa2018-singlish.pdf",
+                "type": "pdf"
+            },
+            {
+                "title": "Slides",
+                "event": "slides-lsa2018-singlish",
+                "url": "/research/slides-lsa2018-singlish.pdf",
+                "type": "pdf"
+            }
+        ],
+        "url": "/research/handout-lsa2018-singlish.pdf"
+    },
+    {
+        "citationKey": "poster:voice-lsa",
+        "entryType": "talk",
+        "keywords": [
+            "Austronesian voice",
+            "Austronesian",
+            "syntax",
+            "case",
+            "typology",
+            "Toba Batak",
+            "Tagalog",
+            "Atayal",
+            "Balinese"
+        ],
+        "authors": [
+            {
+                "name": "Erlewine, Michael Yoshitaka",
+                "lastName": "Erlewine",
+                "displayName": "Michael Yoshitaka Erlewine"
+            },
+            {
+                "name": "Levin, Theodore",
+                "lastName": "Levin",
+                "displayName": "Theodore Levin",
+                "url": "https://sites.google.com/site/tfranklevin/"
+            },
+            {
+                "name": "van Urk, Coppe",
+                "lastName": "van Urk",
+                "displayName": "Coppe van Urk",
+                "url": "http://webspace.qmul.ac.uk/cvanurk/"
+            }
+        ],
+        "projects": [
+            "voice"
+        ],
+        "author": "Erlewine, Michael Yoshitaka and Levin, Theodore and van Urk, Coppe",
+        "title": "The typology of nominal licensing in Austronesian voice languages",
+        "note": "Poster presented at LSA 92",
+        "year": "2018",
+        "abstract": "Many Austronesian languages display a voice system. One argument of each clause (the \"subject\") is in a dedicated form and/or position, affecting the case-marking and/or word order of other arguments. We posit two parameters to explain case and word order properties of non-subject arguments: (i) accusative parameter: <em>v</em> can/cannot assign accusative case; (ii) last-resort licensing parameter: DPs lacking Case-licensing are licensed by insertion of a case-marker or under adjacency with the verb. Atayal, Tagalog, Balinese, and Toba Batak exemplify the four language types predicted by these parameters. This also makes accurate predictions for other aspects of these languages.",
+        "poster": {
+            "source": "/Users/mitcho/Dropbox/academic/projects/voice/lsa2018/poster-web.pdf",
+            "target": "/research/poster-poster:voice-lsa.pdf",
+            "event": "poster-poster:voice-lsa"
+        },
+        "authorsHtml": [
+            "Erlewine, Michael Yoshitaka",
+            "<a href=\"https://sites.google.com/site/tfranklevin/\">Theodore Levin</a>",
+            "<a href=\"http://webspace.qmul.ac.uk/cvanurk/\">Coppe van Urk</a>"
+        ],
+        "shortHtml": [
+            "Erlewine",
+            "<a href=\"https://sites.google.com/site/tfranklevin/\">Levin</a>",
+            "<a href=\"http://webspace.qmul.ac.uk/cvanurk/\">Van Urk</a>"
+        ],
+        "othersHtml": [
+            "<a href=\"https://sites.google.com/site/tfranklevin/\">Theodore Levin</a>",
+            "<a href=\"http://webspace.qmul.ac.uk/cvanurk/\">Coppe van Urk</a>"
+        ],
+        "files": [
+            {
+                "title": "Poster",
+                "event": "poster-poster:voice-lsa",
+                "url": "/research/poster-poster:voice-lsa.pdf",
+                "type": "pdf"
+            }
+        ],
+        "url": "/research/poster-poster:voice-lsa.pdf"
+    },
+    {
+        "citationKey": "japanese-intervention-ac",
+        "entryType": "inproceedings",
+        "keywords": [
+            "scope",
+            "intervention effects",
+            "Japanese",
+            "Alternative Semantics",
+            "reconstruction",
+            "scope-rigidity"
+        ],
+        "authors": [
+            {
+                "name": "Erlewine, Michael Yoshitaka",
+                "lastName": "Erlewine",
+                "displayName": "Michael Yoshitaka Erlewine"
+            },
+            {
+                "name": "Kotek, Hadas",
+                "lastName": "Kotek",
+                "displayName": "Hadas Kotek",
+                "url": "http://hkotek.com/"
+            }
+        ],
+        "projects": [
+            "japanese-intervention"
+        ],
+        "author": "Erlewine, Michael Yoshitaka and Kotek, Hadas",
+        "editor": "Cremers, Alexandre and van Gessel, Thom and Roelofsen, Floris",
+        "title": "Movement and alternatives don&#8217;t mix: Evidence from Japanese",
+        "year": "2017",
+        "abstract": "Certain quantiﬁcational elements (&#8216;ìnterveners’’) have long been known to disrupt the interpretation of wh-in-situ (Hoji 1985 and many others), but the correct description of the set of interveners and the nature of intervention eﬀects have been the subject of continued debate. In Erlewine and Kotek (2017), we oﬀer a new generalization concerning the nature of intervener-hood in Japanese: A quantiﬁer acts as an intervener if and only if it is scope-rigid. We argue that this generalization is explained by — and in turn supports Kotek’s (2017) account of intervention eﬀects as reﬂecting a logical incompatibility between Predicate Abstraction and the computation of Rooth-Hamblin alternatives. In this paper we provide additional evidence in support of the above generalization, and test several of its predictions.",
+        "booktitle": "Proceedings of the 21st Amsterdam Colloquium",
+        "pages": "245--254",
+        "paper": {
+            "source": "/Users/mitcho/Dropbox/academic/projects/japanese-intervention/ac2017/paper/final.pdf",
+            "target": "/research/japanese-intervention-ac.pdf",
+            "event": "japanese-intervention-ac"
+        },
+        "authorsHtml": [
+            "Erlewine, Michael Yoshitaka",
+            "<a href=\"http://hkotek.com/\">Hadas Kotek</a>"
+        ],
+        "shortHtml": [
+            "Erlewine",
+            "<a href=\"http://hkotek.com/\">Kotek</a>"
+        ],
+        "othersHtml": [
+            "<a href=\"http://hkotek.com/\">Hadas Kotek</a>"
+        ],
+        "editors": [
+            {
+                "name": "Cremers, Alexandre",
+                "lastName": "Cremers",
+                "displayName": "Alexandre Cremers"
+            },
+            {
+                "name": "van Gessel, Thom",
+                "lastName": "van Gessel",
+                "displayName": "Thom van Gessel"
+            },
+            {
+                "name": "Roelofsen, Floris",
+                "lastName": "Roelofsen",
+                "displayName": "Floris Roelofsen"
+            }
+        ],
+        "editorsHtml": [
+            "Cremers, Alexandre",
+            "Thom van Gessel",
+            "Floris Roelofsen"
+        ],
+        "files": [
+            {
+                "title": "Movement and alternatives don&#8217;t mix: Evidence from Japanese",
+                "event": "japanese-intervention-ac",
+                "url": "/research/japanese-intervention-ac.pdf",
+                "type": "pdf"
+            }
+        ],
+        "url": "/research/japanese-intervention-ac.pdf",
+        "pageRange": [
+            "245",
+            "254"
+        ]
+    },
+    {
+        "citationKey": "japanese-intervention-lenls",
+        "entryType": "inproceedings",
+        "keywords": [
+            "scope",
+            "intervention effects",
+            "Japanese",
+            "Alternative Semantics",
+            "reconstruction",
+            "scope-rigidity"
+        ],
+        "authors": [
+            {
+                "name": "Erlewine, Michael Yoshitaka",
+                "lastName": "Erlewine",
+                "displayName": "Michael Yoshitaka Erlewine"
+            },
+            {
+                "name": "Kotek, Hadas",
+                "lastName": "Kotek",
+                "displayName": "Hadas Kotek",
+                "url": "http://hkotek.com/"
+            }
+        ],
+        "projects": [
+            "japanese-intervention"
+        ],
+        "author": "Erlewine, Michael Yoshitaka and Kotek, Hadas",
+        "title": "Intervention tracks scope-rigidity in Japanese",
+        "year": "2017",
+        "abstract": "Certain quantifiers are known to disrupt the interpretation of <em>wh</em>-in-situ (Beck 2006 and many others). In this literature on intervention effects, the precise characterization of the set of interveners as well as the nature of intervention have been the subject of continued debate. Building on Shibata’s (2015a) work on disjunction and other work on the behavior of quantifiers in Japanese, we offer a new generalization concerning the nature of intervention in Japanese: A quantifier is a potential intervener if and only if it is scope-rigid. This generalization is explained by — and in turn supports — Kotek’s (2017) account of intervention effects as reflecting a deep incompatibility between Predicate Abstraction and the pointwise computation of Rooth-Hamblin alternatives.",
+        "booktitle": "Proceedings of LENLS 14",
+        "paper": {
+            "source": "/Users/mitcho/Dropbox/academic/projects/japanese-intervention/lenls2017/preproceedings/paper-revised.pdf",
+            "target": "/research/japanese-intervention-lenls.pdf",
+            "event": "japanese-intervention-lenls"
+        },
+        "authorsHtml": [
+            "Erlewine, Michael Yoshitaka",
+            "<a href=\"http://hkotek.com/\">Hadas Kotek</a>"
+        ],
+        "shortHtml": [
+            "Erlewine",
+            "<a href=\"http://hkotek.com/\">Kotek</a>"
+        ],
+        "othersHtml": [
+            "<a href=\"http://hkotek.com/\">Hadas Kotek</a>"
+        ],
+        "files": [
+            {
+                "title": "Intervention tracks scope-rigidity in Japanese",
+                "event": "japanese-intervention-lenls",
+                "url": "/research/japanese-intervention-lenls.pdf",
+                "type": "pdf"
+            }
+        ],
+        "url": "/research/japanese-intervention-lenls.pdf"
+    },
+    {
         "citationKey": "talk:anti-locality",
         "entryType": "talk",
         "keywords": [
@@ -101,7 +648,8 @@
             "Singlish",
             "FOFC",
             "sentence-final particles",
-            "contact"
+            "contact",
+            "hidden"
         ],
         "authors": [
             {
@@ -322,7 +870,7 @@
     },
     {
         "citationKey": "batak",
-        "entryType": "unpublished",
+        "entryType": "article",
         "keywords": [
             "syntax",
             "Toba Batak",
@@ -349,10 +897,13 @@
         ],
         "author": "Erlewine, Michael Yoshitaka",
         "title": "Extraction and licensing in Toba Batak",
-        "url": "http://lingbuzz.auf.net/lingbuzz/003261/current.pdf",
-        "note": "Manuscript, National University of Singapore",
-        "year": "2017",
+        "year": "to appear",
         "abstract": "I investigate patterns of preverbal fronting in Toba Batak, a predicate-initial Austronesian language of northern Sumatra. Contrary to the claims of previous work on the language, I show that multiple constituents can be simultaneously fronted, though only in limited configurations. I argue that the distinct heads C and T are present in Toba Batak, with their common division of labor, but extraction patterns are restricted by the limited means of nominal licensing (abstract Case) in the language. In addition, the features of C and T have the option of being bundled together on a single head, inheriting properties of both C and T and probing together for the joint satisfaction of their probes. Such complex probes are unable to skip partially matching goals. This study sheds light on the relationship between western Austronesian voice system languages and the clause periphery in other language families.",
+        "journal": "Language",
+        "preprint": {
+            "target": "http://lingbuzz.auf.net/lingbuzz/003261/current.pdf",
+            "event": "current"
+        },
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
         ],
@@ -364,12 +915,13 @@
         ],
         "files": [
             {
-                "title": "Extraction and licensing in Toba Batak",
-                "event": "batak",
+                "title": "Preprint",
+                "event": "current",
                 "url": "http://lingbuzz.auf.net/lingbuzz/003261/current.pdf",
                 "type": "pdf"
             }
-        ]
+        ],
+        "url": "http://lingbuzz.auf.net/lingbuzz/003261/current.pdf"
     },
     {
         "citationKey": "talk:focus-minimality",
@@ -531,9 +1083,12 @@
         "author": "Erlewine, Michael Yoshitaka",
         "title": "Vietnamese focus particles and derivation by phase",
         "url": "https://link.springer.com/article/10.1007/s10831-017-9156-y",
-        "year": "to appear",
+        "year": "2017",
         "abstract": "I show that the focus-sensitive operator &#8216;only&#8217; chỉ in Vietnamese is a sentential modifier and required to be as low as possible in its phase while taking its focus associate in its scope. I show that this &#8220;as low as possible&#8221; requirement cannot be violated even in order to yield a different meaning. Within a phase-based, bottom-up conception of structure-building, I analyze this behavior as the result of sentential focus particles adjoining as early as possible while being interpretable. The fact that this requirement only holds between different adjunction positions in each phase is naturally explained by the theory of derivation by phase (Chomsky, 2000, 2001) and provides a new kind of evidence for this form of cyclic structure-building. This work also provides cross-linguistic support for one aspect of the controversial analysis of German focus particles as sentential modifiers (Jacobs, 1983, 1986; Büring and Hartmann, 2001), which similarly requires an &#8216;&#8216;as low as possible&#8221; requirement on sentential focus particles.\n\n<strong>See also <a href=\"/research/minimality-focus.html\">“Minimality and focus-sensitive adverb placement”</a> in <em>NELS 45</em>, which discusses various alternative analyses.</strong>",
         "journal": "Journal of East Asian Linguistics",
+        "volume": "26",
+        "number": "4",
+        "pages": "325--349",
         "paper": {
             "target": "http://ling.auf.net/lingbuzz/003177/current.pdf",
             "event": "current"
@@ -560,6 +1115,10 @@
                 "url": "http://ling.auf.net/lingbuzz/003177/current.pdf",
                 "type": "pdf"
             }
+        ],
+        "pageRange": [
+            "325",
+            "349"
         ]
     },
     {
@@ -655,7 +1214,7 @@
         "author": "Mizuno, Teruyuki and Erlewine, Michael Yoshitaka",
         "editor": "Funakoshi, Kenshi and Kawahara, Shigeto and Tancredi, Christopher D.",
         "title": "Constraints on contrast sluicing",
-        "year": "2017",
+        "year": "2018",
         "abstract": "In this paper we investigate contrast sluicing in Japanese and English. The evidence presented here sheds light on the LF syntax of multiple wh-questions and the derivation of sluicing in Japanese, as well as the syntax/semantics of contrast. This paper is organized into two parts. Section 1 discusses the syntax of sluicing in Japanese with novel data on contrast sluicing with multiple whquestions. Section 2 investigates a semantic constraint on contrast reflected in\nboth sluicing and unreduced contrasting questions.",
         "booktitle": "Japanese/Korean Linguistics 24",
         "pages": "201--214",
@@ -747,10 +1306,14 @@
         ],
         "author": "Erlewine, Michael Yoshitaka",
         "title": "<em>Even</em> doesn&#8217;t move but associates into traces: A reply to Nakanishi 2012",
-        "url": "http://ling.auf.net/lingbuzz/003132/current.pdf",
-        "year": "accepted",
-        "abstract": "Nakanishi 2012 presents a novel argument for the so-called &#8220;scope theory&#8221; of English VP-<em>even</em>, based on examples with antecedent-contained deletion (ACD). Nakanishi&#8217;s argument is based on the assumption that <em>even</em> cannot associate with a focus which has moved out of its scope. I show that this assumption is incorrect, defusing Nakanishi&#8217;s argument.\n\nI propose that when <em>even</em> associates with a focus which has moved out of its scope, it actually associates with focused material in the lower copies of movement (trace positions). A closer look at Nakanishi&#8217;s ACD examples as well as additional predictions of the scope theory then form arguments <em>against</em> the scope theory. I conclude that English VP-<em>even</em> must always be interpreted in its pronounced position. The patterns of focus association with <em>even</em> presented here constitute a new argument for the copy theory of movement.",
+        "url": "https://link.springer.com/article/10.1007%2Fs11050-018-9142-6",
+        "year": "to appear",
+        "abstract": "Nakanishi 2012 presents a novel argument for the so-called &#8220;scope theory’’ of English VP-<em>even</em>, based on examples with antecedent-contained deletion (ACD). Nakanishi’s argument is based on the assumption that <em>even</em> cannot associate with a focus which has moved out of its LF scope. I show that this assumption is incorrect, defusing Nakanishi’s argument.\n\nI propose that when <em>even</em> associates with a focus which has moved out of its surface scope, it actually associates with focused material in the lower copies of movement (trace positions). I show that a closer look at ACD examples of Nakanishi’s type in fact forms a new argument against the scope theory. I conclude that English VP-<em>even</em> must always be interpreted in its pronounced position. The patterns of focus association with <em>even</em> presented here constitute a new argument for the copy theory of movement.",
         "journal": "Natural Language Semantics",
+        "preprint": {
+            "target": "http://ling.auf.net/lingbuzz/003132/current.pdf",
+            "event": "current"
+        },
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
         ],
@@ -764,6 +1327,12 @@
             {
                 "title": "<em>Even</em> doesn&#8217;t move but associates into traces: A reply to Nakanishi 2012",
                 "event": "nakanishi",
+                "url": "https://link.springer.com/article/10.1007%2Fs11050-018-9142-6",
+                "type": "1007%2Fs11050-018-9142-6"
+            },
+            {
+                "title": "Associated preprint",
+                "event": "current",
                 "url": "http://ling.auf.net/lingbuzz/003132/current.pdf",
                 "type": "pdf"
             }
@@ -1669,14 +2238,15 @@
             "free-relative"
         ],
         "author": "Kotek, Hadas and Erlewine, Michael Yoshitaka",
+        "editor": "Keough, Megan and Weber, Natalie and Anghelescu, Andrei and Chen, Sihwei and Guntly, Erin and Johnson, Khia and Reisinger, Daniel and Tkachman, Oksana",
         "title": "Non-interrogative <em>wh</em>-constructions in Chuj (Mayan)",
-        "year": "to appear",
+        "year": "2018",
         "abstract": "We present a comprehensive survey of non-interrogative uses of <em>wh</em>-words in Chuj, an understudied Mayan language of Guatemala. Cross-linguistically, <em>wh</em>-words are commonly used not only for question-formation but also in a range of other constructions, including in quantification and in the formation of relative clauses. We will show that Chuj can use <em>wh</em>-words to form indefinites in certain limited environments, and that it can additionally use <em>wh</em>-words to form free choice items and a universal quantifier. In addition, Chuj uses <em>wh</em>-words to form free relatives, including definite free relatives but also typologically rare indefinite free relatives.",
         "booktitle": "Proceedings of the Workshop on the Structure and Constituency of the Languages of the Americas (WSCLA) 21",
+        "pages": "101--115",
         "paper": {
-            "source": "/Users/mitcho/Dropbox/academic/projects/chuj/wscla2016/proceedings/wscla2016-paper.pdf",
-            "target": "/research/chuj-wscla.pdf",
-            "event": "chuj-wscla"
+            "target": "http://epub.linguistics.ubc.ca/wp-content/uploads/2018/01/WSCLA21-08-Kotek_Erlewine.pdf",
+            "event": "WSCLA21-08-Kotek_Erlewine"
         },
         "handout": {
             "source": "/Users/mitcho/Dropbox/academic/projects/chuj/wscla2016/slides/WSCLA-handout-2up.pdf",
@@ -1699,11 +2269,63 @@
         "othersHtml": [
             "<a href=\"http://hkotek.com/\">Hadas Kotek</a>"
         ],
+        "editors": [
+            {
+                "name": "Keough, Megan",
+                "lastName": "Keough",
+                "displayName": "Megan Keough"
+            },
+            {
+                "name": "Weber, Natalie",
+                "lastName": "Weber",
+                "displayName": "Natalie Weber"
+            },
+            {
+                "name": "Anghelescu, Andrei",
+                "lastName": "Anghelescu",
+                "displayName": "Andrei Anghelescu"
+            },
+            {
+                "name": "Chen, Sihwei",
+                "lastName": "Chen",
+                "displayName": "Sihwei Chen"
+            },
+            {
+                "name": "Guntly, Erin",
+                "lastName": "Guntly",
+                "displayName": "Erin Guntly"
+            },
+            {
+                "name": "Johnson, Khia",
+                "lastName": "Johnson",
+                "displayName": "Khia Johnson"
+            },
+            {
+                "name": "Reisinger, Daniel",
+                "lastName": "Reisinger",
+                "displayName": "Daniel Reisinger"
+            },
+            {
+                "name": "Tkachman, Oksana",
+                "lastName": "Tkachman",
+                "displayName": "Oksana Tkachman"
+            }
+        ],
+        "editorsHtml": [
+            "Keough, Megan",
+            "Natalie Weber",
+            "Andrei Anghelescu",
+            "Sihwei Chen",
+            "Erin Guntly",
+            "Khia Johnson",
+            "Daniel Reisinger",
+            "Oksana Tkachman"
+        ],
         "files": [
             {
                 "title": "Non-interrogative <em>wh</em>-constructions in Chuj (Mayan)",
-                "event": "chuj-wscla",
-                "url": "/research/chuj-wscla.pdf",
+                "event": "WSCLA21-08-Kotek_Erlewine",
+                "url": "http://epub.linguistics.ubc.ca/wp-content/uploads/2018/01/WSCLA21-08-Kotek_Erlewine.pdf",
                 "type": "pdf"
             },
             {
@@ -1719,7 +2341,11 @@
                 "type": "pdf"
             }
         ],
-        "url": "/research/chuj-wscla.pdf"
+        "url": "http://epub.linguistics.ubc.ca/wp-content/uploads/2018/01/WSCLA21-08-Kotek_Erlewine.pdf",
+        "pageRange": [
+            "101",
+            "115"
+        ]
     },
     {
         "citationKey": "japanese-rc",
@@ -1869,16 +2495,15 @@
         ]
     },
     {
-        "citationKey": "chuj-descriptive",
-        "entryType": "unpublished",
+        "citationKey": "chuj-wh",
+        "entryType": "article",
         "keywords": [
             "Chuj",
             "Mayan",
             "wh-words",
             "free relative",
             "wh-indefinite",
-            "wh-words",
-            "hidden"
+            "wh-words"
         ],
         "authors": [
             {
@@ -1897,10 +2522,14 @@
             "free-relative"
         ],
         "author": "Kotek, Hadas and Erlewine, Michael Yoshitaka",
-        "title": "Non-interrogative <em>wh</em>-constructions in Chuj",
-        "note": "Manuscript, McGill University and National University of Singapore",
-        "year": "2015",
-        "abstract": "This paper investigates non-interrogative uses of <em>wh</em>-words in Chuj, an understudied Mayan language of Guatemala. Cross-linguistically, <em>wh</em>-words are commonly used not only for question-formation but also in a range of other constructions, including in quantification and in the formation of relative clauses. We will show that Chuj can use <em>wh</em>-words to form indefinites in certain limited environments, and that it can additionally use <em>wh</em>-words to form free choice items and a universal quantifier. In addition, Chuj uses <em>wh</em>-words to form free relatives, including definite free relatives but also typologically rare indefinite free relatives. We describe the licensing environments and structural size of these two types of free relatives and show that, despite surface similarities, they are two distinct constructions.",
+        "title": "<em>Wh</em>-indeterminates in Chuj (Mayan)",
+        "year": "to appear",
+        "abstract": "This paper investigates the varied uses of <em>wh</em>-words in Chuj, an understudied Mayan language of Guatemala. Cross-linguistically, <em>wh</em>-words are commonly used not only for question-formation but also in a range of other constructions, including in <em>wh</em>-quantification, indefinites, and the formation of relative clauses. In Chuj, we will show that <em>wh</em>-words are used to form indefinites in certain limited environments, universal quantifiers, free choice items, and two kinds of free relatives &mdash; definite free relatives but also typologically rarer indefinite free relatives. We sketch an analysis of each construction, and discuss generalizations concerning their distribution. The varied uses of <em>wh</em>-words in Chuj supports the view that <em>wh</em>-words are used in two capacities: to generate alternatives, and to create a movement/binding relation.",
+        "journal": "Canadian Journal of Linguistics",
+        "preprint": {
+            "target": "https://ling.auf.net/lingbuzz/003954/current.pdf",
+            "event": "current"
+        },
         "authorsHtml": [
             "<a href=\"http://hkotek.com/\">Kotek, Hadas</a>",
             "Michael Yoshitaka Erlewine"
@@ -1913,8 +2542,14 @@
             "<a href=\"http://hkotek.com/\">Hadas Kotek</a>"
         ],
         "files": [
-            
-        ]
+            {
+                "title": "Preprint",
+                "event": "current",
+                "url": "https://ling.auf.net/lingbuzz/003954/current.pdf",
+                "type": "pdf"
+            }
+        ],
+        "url": "https://ling.auf.net/lingbuzz/003954/current.pdf"
     },
     {
         "citationKey": "talk:eacl2015",
@@ -2364,7 +2999,8 @@
         "title": "Proceedings of the MIT Workshop on Comparatives",
         "url": "http://mitwpl.mit.edu/catalog/mwpl69/",
         "year": "2014",
-        "publisher": "Cambridge: MIT Working Papers in Linguistics",
+        "abstract": "Recent crosslinguistic studies of comparative constructions such as Beck, Oda, and Sugisaki (2004) and Kennedy (2007) among others have not only broadened our understanding of how natural language expresses comparison, but also raised theoretical issues of how languages can differ both semantically and syntactically in what types of comparison can be expressed in what forms. The aim of this workshop is to provide an opportunity for linguists in the Cambridge area (and beyond) who are interested in this topic to share their recent findings and discuss their implications on the crosslinguistic typology of comparative constructions.",
+        "publisher": "MIT Working Papers in Linguistics",
         "editors": [
             {
                 "name": "Erlewine, Michael Yoshitaka",
@@ -3084,7 +3720,7 @@
         "title": "Subject marking on non-subjects in Squliq Atayal",
         "year": "to appear",
         "abstract": "I investigate the distribution of the morpheme <em>qu</em> in Squliq Atayal (Formosan). <em>Qu</em> normally marks the sentence-final subject, which is cross-referenced by voice morphology on the verb. I show that <em>qu</em> can optionally mark specific, non-subject arguments in cases where the actual subject is not in sentence-final position. I propose that <em>qu</em> is a marker on topics licensed in a particular structural position (Spec,TopicP). While the subject will normally be in this position, when it is not, another [+specific] DP can occupy this position and be <em>qu</em>-marked. Consequences for theories of Austronesian voice will be discussed.",
-        "booktitle": "Proceedings of <a href=\"http://www.uta.edu/faculty/sabbagh/afla20/\">the 20th meeting of the Austronesian Formal Linguistics Association (AFLA 20)</a>",
+        "booktitle": "Proceedings of the 20th Meeting of the Austronesian Formal Linguistics Association (AFLA 20)",
         "paper": {
             "source": "/Users/mitcho/Dropbox/academic/projects/squliq/afla/erlewine-afla20-proceedings.pdf",
             "target": "/research/squliq.pdf",
@@ -3613,10 +4249,17 @@
         ],
         "author": "Erlewine, Michael Yoshitaka",
         "title": "Clausal comparison without degree abstraction in Mandarin Chinese",
-        "url": "http://lingbuzz.auf.net/lingbuzz/001687/current.pdf",
-        "year": "to appear",
+        "url": "https://link.springer.com/article/10.1007/s11049-017-9383-y",
+        "year": "2018",
         "abstract": "This paper argues (a) that the bǐ comparative construction in Mandarin Chinese is a form of clausal comparative and (b) that Mandarin Chinese lacks abstraction over degree variables. Beck, Oda, and Sugisaki (2004) propose that languages may vary in whether or not they allow for abstraction over degree variables through movement. In previous work, comparatives with clausal standards have been uniformly analyzed cross-linguistically as involving A-movement of a degree operator, and are thereby predicted to not occur in languages without degree abstraction. The paper shows that clausal comparison without degree abstraction is not only theoretically possible but attested, contributing to the cross-linguistic typology of degree constructions. Along the way, I detail the syntactic derivation of bǐ comparatives and the obligatory ellipsis operation (comparative deletion) in their derivation.",
         "journal": "Natural Language &amp; Linguistic Theory",
+        "volume": "36",
+        "number": "2",
+        "pages": "445--482",
+        "paper": {
+            "target": "http://lingbuzz.auf.net/lingbuzz/001687/current.pdf",
+            "event": "current"
+        },
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
         ],
@@ -3630,9 +4273,19 @@
             {
                 "title": "Clausal comparison without degree abstraction in Mandarin Chinese",
                 "event": "bi",
+                "url": "https://link.springer.com/article/10.1007/s11049-017-9383-y",
+                "type": ""
+            },
+            {
+                "title": "Preprint",
+                "event": "current",
                 "url": "http://lingbuzz.auf.net/lingbuzz/001687/current.pdf",
                 "type": "pdf"
             }
+        ],
+        "pageRange": [
+            "445",
+            "482"
         ]
     },
     {

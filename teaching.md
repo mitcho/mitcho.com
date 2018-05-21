@@ -5,13 +5,14 @@ permalink: /teaching/
 ---
 
 ## Current
-* [EL5101 Grammatical Analysis](/nus/gram2017/)
-* [EL4203 Semantics](/nus/sem2017/)
+* GET1036 The Logic of Language
 
 ## Previous
 
 NUS:
 
+* [2017--2018 Sem 1 EL5101 Grammatical Analysis](/nus/gram2017/)
+* [2017--2018 Sem 1 EL4203 Semantics](/nus/sem2017/)
 * [2016--2017 Sem 2 EL3212 Field Methods in Linguistics: Kristang](/nus/field2017/)
 * [2016--2017 Sem 2 EL4203 Semantics](/nus/sem2017spring/)
 * [2016--2017 Sem 1 EL5101 Grammatical Analysis](/nus/gram2016/)

@@ -29,14 +29,14 @@ Office hours: Friday 1:30&ndash;3pm and by appointment
 
 <h2>Schedule</h2>
 
-<table>
+<table><tbody>
 <tr><th>Day</th><th>Topic</th><th>Readings (<em>Required</em>)</th><th>Assignments</th></tr>
 <tr><th>3/9</th><td><a href='day01.pdf'>Introduction</a></td><td></td><td></td></tr>
 
 <tr><th colspan='4'>Movement</th></tr>
 <tr><th>8/9</th><td><a href='day02.pdf'>Review: Compositional semantics</a></td><td><em>Heim &amp; Kratzer (1998) sec. 2.1&ndash;2.3, 2.5</em></td><td></td></tr>
 <tr><th>10/9</th><td><a href='day03.pdf'>Review continued, quantifiers in subject position</a></td><td><em>H&amp;K sec. 4.1&ndash;4.3; 5.1&ndash;5.2.3; 6.1&ndash;6.5</em></td><td><a href='assignment1.pdf'>Assignment 1</a></td></tr>
-<tr><th>15/9</th><td><a href='day04.pdf'>Quantifier Raising; predicate abstraction</td><td><em>H&amp;K ch 7 (pages 178&ndash;198)</em>; <a href='datinggame.jpg'>Dating game image</a></td><td>Assignment 1 DUE</td></tr> 
+<tr><th>15/9</th><td><a href='day04.pdf'>Quantifier Raising; predicate abstraction</a></td><td><em>H&amp;K ch 7 (pages 178&ndash;198)</em>; <a href='datinggame.jpg'>Dating game image</a></td><td>Assignment 1 DUE</td></tr> 
 <tr><th>17/9</th><td><a href='day05.pdf'><em>Only</em> as a quantifier</a></td><td><em>Rooth (1985) pp 27&ndash;32, 88&ndash;94</em>; Horn (1969), Bayer (1996) sec. 2.3</td><td></td></tr>
 
 
@@ -49,7 +49,7 @@ Office hours: Friday 1:30&ndash;3pm and by appointment
 <tr><th>8/10</th><td><a href='day11.pdf'>Case study: Defaka (and Dinka)</a></td><td><em>Bennett et al (2012)</em>; Bennett (2009), Van Urk and Richards (to appear)</td><td></td></tr>
 <tr><th>13/10</th><td><strong>Thanksgiving: No class</strong></td><td></td><td></td></tr>
 
-<tr><th colspan='4'>Alternative computation<th></tr>
+<tr><th colspan='4'>Alternative computation</th></tr>
 <tr><th>15/10</th><td><a href='day12.pdf'>Rooth/Hamblin alternative computation</a></td><td><em>Rooth (1985) pp 41&ndash;59, 67&ndash;80</em>; Hamblin (1973)</td><td></td></tr>
 <tr><th>20/10</th><td><a href='day13.pdf'>Case study: Mandarin Chinese</a></td><td><em>Huang (1982) pp 492&ndash;502, 524&ndash;530</em></td><td></td></tr>
 <tr><th>22/10</th><td><a href='day14.pdf'>Unifying focus</a></td><td><em>Rooth (1992)</em>; Rooth (1996), Kadmon (2001)</td><td>Language report 1 DUE</td></tr>
@@ -68,4 +68,5 @@ Office hours: Friday 1:30&ndash;3pm and by appointment
 <tr><th>1/12</th><td><a href='day25.pdf'>Alternative questions</a></td><td><em>Han &amp; Romero (2004)</em></td><td></td></tr>
 <tr><th>3/12</th><td><a href='day26.pdf'>More alternative questions</a></td><td><em>Beck &amp; Kim (2006)</em></td><td></td></tr>
 <tr><th>4/12</th><td><a href='day27.pdf'>Covert focus-movement and NPIs</a> (<strong>starting at 1pm</strong>)</td><td><em>Wagner (2006)</em></td><td>Language report 2 DUE</td></tr>
+</tbody>
 </table>
