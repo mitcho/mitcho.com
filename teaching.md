@@ -4,10 +4,10 @@ layout: page
 permalink: /teaching/
 ---
 
-## Current
-* GET1036 The Logic of Language
-
 ## Previous
+
+Short courses:
+* [The syntax and semantics of focus particles](/teaching/lissim11) at the [Linguistics Summer School in the Indian Mountains (LISSIM) 11](http://www.fosssil.in/lissim_11.htm)
 
 NUS:
 

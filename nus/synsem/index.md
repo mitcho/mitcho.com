@@ -10,9 +10,24 @@ The syntax/semantics reading group at NUS meets weekly during the semester. Each
 
 Announcements are sent to the `synsem` mailing list. Subscribe to `synsem` on [NUS Groups](https://groups.nus.edu.sg/NUSgroups/).
 
-## 2017--2018 Sem 2
+## 2018--2019 Sem 1
 
-We will meet **Wednesdays at 2:30pm**, in the AS5 fifth floor reading room. (Additional syn/sem events are also included, in bold.)
+We will meet **Wednesdays at 2pm**, in the AS5 fifth floor reading room. (Additional syn/sem events are also included, in bold.)
+
+| Day    | Topic/reading                                                                 |
+|--------|-------------------------------------------------------------------------------|
+| Aug 15 | mitcho on relativization in Tibetan |
+| Aug 22 | (no meeting) |
+| Aug 29 | Cardinaletti & Starke 1999 "The typology of structural deficiency: A case study of the three classes of pronouns" |
+| Sep 5 | Heim 1983 "On the projection problem for presuppositions" |
+| Sep 12 | Merchant 2015 [On ineffable predicates: Bilingual Greek--English code-switching under ellipsis](http://home.uchicago.edu/merchant/pubs/CodeSwitchingEllipsisMerchant2015.pdf) |
+| Sep 19 | Huang 1988 ["*Wo pao de kuai* and Chinese phrase structure"](http://scholar.harvard.edu/files/ctjhuang/files/1988.wopaodekuai.pdf) |
+| Sep 26 | *Recess week: no meeting* |
+| Oct 3 | |
+
+## Archives
+
+### 2017--2018 Sem 2
 
 | Day    | Topic/reading                                                                 |
 |--------|-------------------------------------------------------------------------------|
@@ -31,11 +46,7 @@ We will meet **Wednesdays at 2:30pm**, in the AS5 fifth floor reading room. (Add
 | Apr 11 | [Abels 2012 "The Italian left periphery: A view from locality "](https://www.mitpressjournals.org/doi/abs/10.1162/LING_a_00084) |
 | Apr 18 | Naga Selvanathan "The Malay *meN* prefix and A-movement" |
 
-## Archives
-
 ### 2017--2018 Sem 1
-
-We will meet **Thursdays at 11am**, in the AS5 fifth floor reading room. (Syn/sem talks in the department seminar series are also included, in bold.)
 
 | Day    | Topic/reading                                                                 |
 |--------|-------------------------------------------------------------------------------|

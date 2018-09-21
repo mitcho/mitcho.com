@@ -1,5 +1,136 @@
 [
     {
+        "citationKey": "japanese-intervention",
+        "entryType": "unpublished",
+        "keywords": [
+            "scope",
+            "intervention effects",
+            "Japanese",
+            "Alternative Semantics",
+            "reconstruction",
+            "scope-rigidity"
+        ],
+        "authors": [
+            {
+                "name": "Erlewine, Michael Yoshitaka",
+                "lastName": "Erlewine",
+                "displayName": "Michael Yoshitaka Erlewine"
+            },
+            {
+                "name": "Kotek, Hadas",
+                "lastName": "Kotek",
+                "displayName": "Hadas Kotek",
+                "url": "http://hkotek.com/"
+            }
+        ],
+        "projects": [
+            "japanese-intervention"
+        ],
+        "author": "Erlewine, Michael Yoshitaka and Kotek, Hadas",
+        "title": "Intervention tracks scope-rigidity in Japanese",
+        "url": "https://ling.auf.net/lingbuzz/004136/current.pdf",
+        "note": "Manuscript, National University of Singapore and Yale University",
+        "year": "2018",
+        "abstract": "Certain quantificational elements (“interveners”) have long been known to disrupt the interpretation of wh-in-situ (Hoji 1985 and many others), but the correct description of the set of interveners and the nature of intervention effects have been the subject of continued debate. We present a new generalization concerning the nature of intervener-hood in Japanese: A quantifier acts as an intervener if and only if it is scope-rigid. We follow the view that intervention effects reflect a particular LF configuration (Beck 2006 a.o.), but in contrast to previous approaches, we propose that any DP can lead to intervention if it is interpreted in a derived position above a wh-phrase at LF. Quantifiers which appear to be non-interveners are able to avoid this configuration. Intervention is limited to quantifiers interpreted in a derived position via movement, which supports the theory of intervention effects developed in Kotek 2017 as reflecting a logical incompatibility between the Predicate Abstraction rule and the computation of Rooth-Hamblin alternatives.",
+        "authorsHtml": [
+            "Erlewine, Michael Yoshitaka",
+            "<a href=\"http://hkotek.com/\">Hadas Kotek</a>"
+        ],
+        "shortHtml": [
+            "Erlewine",
+            "<a href=\"http://hkotek.com/\">Kotek</a>"
+        ],
+        "othersHtml": [
+            "<a href=\"http://hkotek.com/\">Hadas Kotek</a>"
+        ],
+        "files": [
+            {
+                "title": "Intervention tracks scope-rigidity in Japanese",
+                "event": "japanese-intervention",
+                "url": "https://ling.auf.net/lingbuzz/004136/current.pdf",
+                "type": "pdf"
+            }
+        ]
+    },
+    {
+        "citationKey": "poster:burmese-salt",
+        "entryType": "talk",
+        "keywords": [
+            "Burmese",
+            "focus sensitive operators",
+            "focus",
+            "NPI",
+            "Alternative Semantics"
+        ],
+        "authors": [
+            {
+                "name": "New, Keely",
+                "lastName": "New",
+                "displayName": "Keely New"
+            },
+            {
+                "name": "Erlewine, Michael Yoshitaka",
+                "lastName": "Erlewine",
+                "displayName": "Michael Yoshitaka Erlewine"
+            }
+        ],
+        "projects": [
+            "burmese-ma"
+        ],
+        "author": "New, Keely and Erlewine, Michael Yoshitaka",
+        "title": "The expression of exhaustivity and scalarity in Burmese",
+        "note": "Poster presented at SALT 28",
+        "year": "2018",
+        "abstract": "Colloquial Burmese has a particle <em>ma</em> which in some contexts has an exhaustive use and in other contexts seems to be a scalar particle. Okell’s 1969 reference grammar describes these two uses simply as “hmaA” &#8216;even’ and “hmaB ” &#8216;only’ without describing their distributions. In addition, <em>ma</em> takes <em>wh</em>-phrases to form NPIs.\n\nWe describe the distributions of each of these uses and offer a unified semantics for <em>ma</em> which derives these uses. <em>ma</em> is a not-at-issue scalar exhaustive, expressing that all less likely alternatives are false, akin to Velleman et al’s analysis of clefts. When <em>ma</em> takes wide scope, it contributes exhaustivity, but under the scope of negation, its felicitous use is dependent on the relative likelihood of the prejacent.\n\nWe also offer an analysis for the use of the mood ending <em>–dar</em> as a propositional cleft, explaining its co-occurrance with scalar uses of <em>ma</em>.",
+        "poster": {
+            "source": "/Users/mitcho/Dropbox/academic/projects/singlanglab/burmese/output/poster-salt.pdf",
+            "target": "/research/poster-burmese-salt.pdf",
+            "event": "poster-burmese-salt"
+        },
+        "handout": {
+            "source": "/Users/mitcho/Dropbox/academic/projects/singlanglab/burmese/output/handout-salt-combined.pdf",
+            "target": "/research/handout-burmese-salt.pdf",
+            "event": "handout-burmese-salt"
+        },
+        "slides": {
+            "source": "/Users/mitcho/Dropbox/academic/projects/singlanglab/burmese/output/slides-salt.pdf",
+            "target": "/research/slides-burmese-salt.pdf",
+            "event": "slides-burmese-salt"
+        },
+        "authorsHtml": [
+            "New, Keely",
+            "Michael Yoshitaka Erlewine"
+        ],
+        "shortHtml": [
+            "New",
+            "Erlewine"
+        ],
+        "othersHtml": [
+            "Keely New"
+        ],
+        "files": [
+            {
+                "title": "Poster",
+                "event": "poster-burmese-salt",
+                "url": "/research/poster-burmese-salt.pdf",
+                "type": "pdf"
+            },
+            {
+                "title": "Handout",
+                "event": "handout-burmese-salt",
+                "url": "/research/handout-burmese-salt.pdf",
+                "type": "pdf"
+            },
+            {
+                "title": "Slides",
+                "event": "slides-burmese-salt",
+                "url": "/research/slides-burmese-salt.pdf",
+                "type": "pdf"
+            }
+        ],
+        "url": "/research/poster-burmese-salt.pdf"
+    },
+    {
         "citationKey": "clitics",
         "entryType": "unpublished",
         "keywords": [
@@ -27,9 +158,9 @@
             "voice-non-subject"
         ],
         "author": "Erlewine, Michael Yoshitaka and Levin, Theodore",
-        "title": "Clitic pronouns and the lower phase edge",
+        "title": "Philippine clitic pronouns and the lower phase edge",
         "note": "Manuscript, National University of Singapore",
-        "year": "to appear",
+        "year": "2018",
         "abstract": "Pronominal paradigms in Philippine-type languages show a robust and curious gap: in transitive clauses pivot arguments and non-pivot agents may have bound pronominal forms, appearing as second position clitics, but pronominal non-pivot themes must be full, free pronouns. This gap teaches us about the organization of the lower phase edge. As cliticization involves a syntactic dependency between the host and argument position and all syntactic dependencies are constrained by phases, the gap is explained if pivots and non-pivot agents are speciﬁers of the phase head, making them the only DPs accessible for operations from outside of the phase.",
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka",
@@ -78,7 +209,7 @@
         "year": "2018",
         "abstract": "We investigate patterns of A’-dependencies (especially topics) in Bikol, a Central Philippine language closely related to Tagalog. We show that topicalization can target non-subject agents, although local clefting is strictly limited to the subject. We propose that topicalization involves a [TOP] probe, which can skip a non-topic subject, whereas clefting involves probing for [D], which cannot skip the subject (Aldridge 2004, 2017). Subjects and non-subject agents are the only DPs at the edge of the vP phase edge, explaining the impossibility of topicalizing non-subject themes. Finally, we show that topicalization can feed long-distance clefting, supporting the view that apparent &#8220;subject-only’’ extraction restriction on clefting is not based on thematic role, but rather locality-based.",
         "handout": {
-            "source": "/Users/mitcho/Dropbox/academic/projects/singlanglab/bikol/output/handout-afla-final.pdf",
+            "source": "/Users/mitcho/Dropbox/academic/projects/singlanglab/bikol/output/afla/handout-afla-final.pdf",
             "target": "/research/handout-bikol-afla.pdf",
             "event": "handout-bikol-afla"
         },
@@ -375,8 +506,8 @@
         "abstract": "Many Austronesian languages display a voice system. One argument of each clause (the \"subject\") is in a dedicated form and/or position, affecting the case-marking and/or word order of other arguments. We posit two parameters to explain case and word order properties of non-subject arguments: (i) accusative parameter: <em>v</em> can/cannot assign accusative case; (ii) last-resort licensing parameter: DPs lacking Case-licensing are licensed by insertion of a case-marker or under adjacency with the verb. Atayal, Tagalog, Balinese, and Toba Batak exemplify the four language types predicted by these parameters. This also makes accurate predictions for other aspects of these languages.",
         "poster": {
             "source": "/Users/mitcho/Dropbox/academic/projects/voice/lsa2018/poster-web.pdf",
-            "target": "/research/poster-poster:voice-lsa.pdf",
-            "event": "poster-poster:voice-lsa"
+            "target": "/research/poster-voice-lsa.pdf",
+            "event": "poster-voice-lsa"
         },
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka",
@@ -395,12 +526,12 @@
         "files": [
             {
                 "title": "Poster",
-                "event": "poster-poster:voice-lsa",
-                "url": "/research/poster-poster:voice-lsa.pdf",
+                "event": "poster-voice-lsa",
+                "url": "/research/poster-voice-lsa.pdf",
                 "type": "pdf"
             }
         ],
-        "url": "/research/poster-poster:voice-lsa.pdf"
+        "url": "/research/poster-voice-lsa.pdf"
     },
     {
         "citationKey": "japanese-intervention-ac",
@@ -433,7 +564,7 @@
         "editor": "Cremers, Alexandre and van Gessel, Thom and Roelofsen, Floris",
         "title": "Movement and alternatives don&#8217;t mix: Evidence from Japanese",
         "year": "2017",
-        "abstract": "Certain quantiﬁcational elements (&#8216;ìnterveners’’) have long been known to disrupt the interpretation of wh-in-situ (Hoji 1985 and many others), but the correct description of the set of interveners and the nature of intervention eﬀects have been the subject of continued debate. In Erlewine and Kotek (2017), we oﬀer a new generalization concerning the nature of intervener-hood in Japanese: A quantiﬁer acts as an intervener if and only if it is scope-rigid. We argue that this generalization is explained by — and in turn supports Kotek’s (2017) account of intervention eﬀects as reﬂecting a logical incompatibility between Predicate Abstraction and the computation of Rooth-Hamblin alternatives. In this paper we provide additional evidence in support of the above generalization, and test several of its predictions.",
+        "abstract": "Certain quantiﬁcational elements (&#8216;ìnterveners’’) have long been known to disrupt the interpretation of wh-in-situ (Hoji 1985 and many others), but the correct description of the set of interveners and the nature of intervention eﬀects have been the subject of continued debate. In Erlewine and Kotek (2017), we oﬀer a new generalization concerning the nature of intervener-hood in Japanese: A quantiﬁer acts as an intervener if and only if it is scope-rigid. We argue that this generalization is explained by — and in turn supports Kotek’s (2017) account of intervention eﬀects as reﬂecting a logical incompatibility between Predicate Abstraction and the computation of Rooth-Hamblin alternatives. In this paper we provide additional evidence in support of the above generalization, and test several of its predictions.\n\n<strong>Superseded by <a href=\"/research/japanese-intervention.html\">the full paper</a></strong>",
         "booktitle": "Proceedings of the 21st Amsterdam Colloquium",
         "pages": "245--254",
         "paper": {
@@ -518,7 +649,7 @@
         "author": "Erlewine, Michael Yoshitaka and Kotek, Hadas",
         "title": "Intervention tracks scope-rigidity in Japanese",
         "year": "2017",
-        "abstract": "Certain quantifiers are known to disrupt the interpretation of <em>wh</em>-in-situ (Beck 2006 and many others). In this literature on intervention effects, the precise characterization of the set of interveners as well as the nature of intervention have been the subject of continued debate. Building on Shibata’s (2015a) work on disjunction and other work on the behavior of quantifiers in Japanese, we offer a new generalization concerning the nature of intervention in Japanese: A quantifier is a potential intervener if and only if it is scope-rigid. This generalization is explained by — and in turn supports — Kotek’s (2017) account of intervention effects as reflecting a deep incompatibility between Predicate Abstraction and the pointwise computation of Rooth-Hamblin alternatives.",
+        "abstract": "Certain quantifiers are known to disrupt the interpretation of <em>wh</em>-in-situ (Beck 2006 and many others). In this literature on intervention effects, the precise characterization of the set of interveners as well as the nature of intervention have been the subject of continued debate. Building on Shibata’s (2015a) work on disjunction and other work on the behavior of quantifiers in Japanese, we offer a new generalization concerning the nature of intervention in Japanese: A quantifier is a potential intervener if and only if it is scope-rigid. This generalization is explained by — and in turn supports — Kotek’s (2017) account of intervention effects as reflecting a deep incompatibility between Predicate Abstraction and the pointwise computation of Rooth-Hamblin alternatives.\n\n<strong>Superseded by <a href=\"/research/japanese-intervention.html\">the full paper</a></strong>",
         "booktitle": "Proceedings of LENLS 14",
         "paper": {
             "source": "/Users/mitcho/Dropbox/academic/projects/japanese-intervention/lenls2017/preproceedings/paper-revised.pdf",
@@ -897,12 +1028,15 @@
         ],
         "author": "Erlewine, Michael Yoshitaka",
         "title": "Extraction and licensing in Toba Batak",
-        "year": "to appear",
+        "year": "2018",
         "abstract": "I investigate patterns of preverbal fronting in Toba Batak, a predicate-initial Austronesian language of northern Sumatra. Contrary to the claims of previous work on the language, I show that multiple constituents can be simultaneously fronted, though only in limited configurations. I argue that the distinct heads C and T are present in Toba Batak, with their common division of labor, but extraction patterns are restricted by the limited means of nominal licensing (abstract Case) in the language. In addition, the features of C and T have the option of being bundled together on a single head, inheriting properties of both C and T and probing together for the joint satisfaction of their probes. Such complex probes are unable to skip partially matching goals. This study sheds light on the relationship between western Austronesian voice system languages and the clause periphery in other language families.",
         "journal": "Language",
-        "preprint": {
-            "target": "http://lingbuzz.auf.net/lingbuzz/003261/current.pdf",
-            "event": "current"
+        "volume": "94",
+        "number": "3",
+        "pages": "662--697",
+        "paper": {
+            "target": "https://www.linguisticsociety.org/sites/default/files/08_94.3Erlewine.pdf",
+            "event": "08_94.3Erlewine"
         },
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
@@ -915,13 +1049,17 @@
         ],
         "files": [
             {
-                "title": "Preprint",
-                "event": "current",
-                "url": "http://lingbuzz.auf.net/lingbuzz/003261/current.pdf",
+                "title": "Extraction and licensing in Toba Batak",
+                "event": "08_94.3Erlewine",
+                "url": "https://www.linguisticsociety.org/sites/default/files/08_94.3Erlewine.pdf",
                 "type": "pdf"
             }
         ],
-        "url": "http://lingbuzz.auf.net/lingbuzz/003261/current.pdf"
+        "url": "https://www.linguisticsociety.org/sites/default/files/08_94.3Erlewine.pdf",
+        "pageRange": [
+            "662",
+            "697"
+        ]
     },
     {
         "citationKey": "talk:focus-minimality",
@@ -1591,10 +1729,17 @@
         ],
         "author": "Erlewine, Michael Yoshitaka and Kotek, Hadas",
         "title": "Focus association by movement: Evidence from Tanglewood",
-        "url": "http://ling.auf.net/lingbuzz/003068/current.pdf",
-        "year": "to appear",
+        "url": "https://mitpressjournals.org/doi/abs/10.1162/ling_a_00263",
+        "year": "2018",
         "abstract": "We argue for the existence of covert focus movement in English focus association. Our evidence comes from Tanglewood configurations of the form in Kratzer 1991. We show that Tanglewood configurations are sensitive to syntactic islands, contrary to Kratzer&#8217;s claims and predictions. We propose that Tanglewood configurations always involve covert movement of the focused constituent&mdash;possibly with covert pied-piping (Drubig 1994; Krifka 1996, 2006; Tancredi 1997, 2004; Wagner 2006; Erlewine and Kotek 2014)---to bind a bound variable in the ellipsis site. This availability of covert pied-piping explains examples such as Kratzer&#8217;s which are apparently not island-sensitive. We show that covert focus movement is long-distance and not simply QR. Kratzer&#8217;s proposal that ellipsis enforces the identity of focus indices and many other previous approaches are shown to overgenerate Tanglewood readings.",
         "journal": "Linguistic Inquiry",
+        "volume": "49",
+        "number": "3",
+        "pages": "441--463",
+        "preprint": {
+            "target": "http://ling.auf.net/lingbuzz/003068/current.pdf",
+            "event": "current"
+        },
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka",
             "<a href=\"http://hkotek.com/\">Hadas Kotek</a>"
@@ -1610,9 +1755,19 @@
             {
                 "title": "Focus association by movement: Evidence from Tanglewood",
                 "event": "tanglewood",
+                "url": "https://mitpressjournals.org/doi/abs/10.1162/ling_a_00263",
+                "type": ""
+            },
+            {
+                "title": "Associated preprint",
+                "event": "current",
                 "url": "http://ling.auf.net/lingbuzz/003068/current.pdf",
                 "type": "pdf"
             }
+        ],
+        "pageRange": [
+            "441",
+            "463"
         ]
     },
     {
@@ -2455,7 +2610,7 @@
         "number": "3--4",
         "pages": "129--165",
         "slides": {
-            "source": "/Users/mitcho/Dropbox/academic/projects/tibetan/slides/slides-trans.pdf",
+            "source": "/Users/mitcho/Dropbox/academic/projects/tibetan-npi/slides/slides-trans.pdf",
             "target": "/research/slides-tibetan-npi.pdf",
             "event": "slides-tibetan-npi"
         },
