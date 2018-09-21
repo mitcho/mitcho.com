@@ -7,6 +7,9 @@
     href: "/erlewine-cv.pdf"
     event: "cv"
 
+- title: "lab"
+  href: "/lab"
+
 - title: "teaching"
   href: "/teaching"
 
@@ -15,19 +18,13 @@
 
 - title: "code"
   href: "/code"
-  sub:
-  - title: "GitHub"
-    href: "https://github.com/mitcho"
-
-- title: "photos"
-  sub:
-  - title: "flickr"
-    href: "https://secure.flickr.com/photos/themitcho"
-  - title: "Instagram"
-    href: "https://instagram.com/mitcho"
 
 - title: "blog"
   href: "/blog"
 
 - title: "twitter"
   href: "https://twitter.com/themitcho"
+
+- title: "insta"
+  href: "https://instagram.com/mitcho"
+  
