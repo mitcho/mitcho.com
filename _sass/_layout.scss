@@ -37,9 +37,6 @@
 		margin-bottom: 15px;
 	}
 	#image {
-		background-repeat: none;
-		background-image: url('../images/littleindia-270x150.jpg');
-		background: -webkit-image-set( url('../images/littleindia-270x150.jpg') 1x, url('../images/littleindia-270x150x2.jpg') 2x );
 		width: $nav-width;
 		height: 150px / 270px * $nav-width;
 	}
