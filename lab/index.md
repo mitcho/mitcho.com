@@ -6,6 +6,11 @@ permalink: /lab/
 
 The Syntax/Semantics Lab at the National University of Singapore investigates linguistic theory through the study of languages of Singapore and Southeast Asia.
 
+## Upcoming
+
+* TC is an invited speaker at [Nominals at the Interfaces](https://nominalsattheinterfaces.wordpress.com/invited-speakers/), November 2018
+* Kenyon and mitcho will present at the LSA, January 2019
+
 ## Members
 
 * mitcho, PI
@@ -17,7 +22,11 @@ _Friends and alumni_
 
 * [Bob Beddor](https://www.bobbeddor.com/), NUS Philosophy
 * [Ted Levin](https://sites.google.com/site/tfranklevin/), postdoc 2017--2018
-* [Yosuke Sato](https://scholar.google.com/citations?user=yS1hB4cAAAAJ), co-PI until 2018
+* [Yosuke Sato](https://scholar.google.com/citations?user=yS1hB4cAAAAJ), at NUS until 2018
+
+_Students_
+
+See [the students page](/students).
 
 ## Support
 

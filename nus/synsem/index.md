@@ -20,10 +20,17 @@ We will meet **Wednesdays at 2pm**, in the AS5 fifth floor reading room. (Additi
 | Aug 22 | (no meeting) |
 | Aug 29 | Cardinaletti & Starke 1999 "The typology of structural deficiency: A case study of the three classes of pronouns" |
 | Sep 5 | Heim 1983 "On the projection problem for presuppositions" |
-| Sep 12 | Merchant 2015 [On ineffable predicates: Bilingual Greek--English code-switching under ellipsis](http://home.uchicago.edu/merchant/pubs/CodeSwitchingEllipsisMerchant2015.pdf) |
+| Sep 12 | Merchant 2015 ["On ineffable predicates: Bilingual Greek--English code-switching under ellipsis"](http://home.uchicago.edu/merchant/pubs/CodeSwitchingEllipsisMerchant2015.pdf) |
 | Sep 19 | Huang 1988 ["*Wo pao de kuai* and Chinese phrase structure"](http://scholar.harvard.edu/files/ctjhuang/files/1988.wopaodekuai.pdf) |
 | Sep 26 | *Recess week: no meeting* |
-| Oct 3 | |
+| Oct 3 | Tham Shiao Wei "Agentivity and the encoding of caused events" |
+| Oct 10 | Constant 2014 ["Contrastive topic: Meanings and realizations"](https://scholarworks.umass.edu/dissertations_2/171/) chapters 1 and 2 |
+| Oct 17 | Constant 2014 sections 3.1--3.2, 5 |
+| Oct 24 | Constant 2014 chapter 6 on Mandarin *ne* |
+| **Oct 31 4pm** | TC Chen at dept seminar |
+| **Nov 7 4pm** | Kenyon Branan at dept seminar |
+
+
 
 ## Archives
 
