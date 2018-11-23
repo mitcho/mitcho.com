@@ -16,7 +16,7 @@ excerpt: "Linguist, National University of Singapore: syntax, semantics, fieldwo
 
 ## Hello!
 
-I am an Assistant Professor in **Linguistics** at the [National University of Singapore](http://nus.edu.sg) ([Department of English Language & Literature](http://fas.nus.edu.sg/ell/)). I study the structure of sentences (**syntax**) and how these structures map to meaning (**semantics**). Much of my work is based on **fieldwork** on understudied and endangered languages. I received my Ph.D. from [MIT Linguistics](http://linguistics.mit.edu/) in 2014. In a previous life, I was active in the [Mozilla (Firefox)](http://mozilla.org) and [WordPress](http://wordpress.org) open-source communities.
+I am an Assistant Professor in **Linguistics** at the [National University of Singapore](http://nus.edu.sg) ([Department of English Language & Literature](http://fas.nus.edu.sg/ell/)). I study the structure of sentences (**syntax**) and how these structures map to meaning (**semantics**). Much of my work is based on **fieldwork** on understudied languages, especially of Southeast Asia. I received my Ph.D. from [MIT Linguistics](http://linguistics.mit.edu/) in 2014. In a previous life, I was active in the [Mozilla (Firefox)](http://mozilla.org) and [WordPress](http://wordpress.org) open-source communities.
 
 ## Areas of interest
 
@@ -24,7 +24,11 @@ I am an Assistant Professor in **Linguistics** at the [National University of Si
 *   Alternative Semantics: focus, *wh*, questions, QUDs, disjunction
 *   the syntax of movement, case, and agreement
 
-My work has investigated: Mandarin Chinese; English; Japanese; Austronesian: Toba Batak (Indonesia) and Squliq Atayal (Taiwan); Mayan: Kaqchikel and Chuj (Guatemala); Tibetan; Vietnamese; Burmese...
+My work has investigated:
+* Austronesian: Toba Batak (Indonesia), Bikol (Philippines), and Squliq Atayal (Taiwan);
+* Tibeto-Burman: Tibetan and Burmese;
+* Mayan: Kaqchikel and Chuj (Guatemala);
+* Mandarin Chinese; English; Japanese; Vietnamese; Singlish...
 
 See the [Projects](/projects) page for descriptions of projects and downloadable papers.
 
@@ -35,20 +39,25 @@ See the [Projects](/projects) page for descriptions of projects and downloadable
 
 ## Upcoming
 
-*	**October 8--10, 2018:** Invited talk with Hadas Kotek at [Recent Issues in the Syntax of Questions](https://www.ling.uni-konstanz.de/fachbereich/aktuelles-und-termine/risq-2018/) workshop, Konstanz
-*	**October 13--14, 2018:** Invited talk at [3rd Asian Junior Linguists conference (AJL3)](https://sites.google.com/view/ajl3/), University of Hong Kong
-*	**November 15, 2018:** University of Chicago colloquium
 *	**December 6, 2018:** University of Tübingen colloquium
 *	**January 2019:** I will be at the LSA Annual Meeting in New York City
 	*	_Thursday poster session:_ ["Bikol clefts and topics and the Austronesian subject-only extraction restriction"](/research/bikol.html) with Cheryl Lim
 	*	_Syntax IV, Sunday morning:_ "Long-distance relativization in Tibetan"
+*	**Summer 2019 [TBD]:** A workshop on **Approaches to *Wh*-Intervention** at NUS, co-organized with [Kenyon Branan](https://sites.google.com/view/kbranan/home)
 
 ## Recent
 
+*	**New paper, November 2018:** ["A syntactic universal in a contact language: The story of Singlish *already*"](/research/already.html); comments welcome!
+*	**Talk, November 2018:** University of Chicago colloquium
+*	**New paper, October 2018:** ["The expression of exhaustivity and scalarity in Burmese"](/research/burmese-salt.html) with Keely New, in the *Proceedings of SALT 28*.
+*	**Talks, October 2018:** I gave two invited talks:
+	* [Recent Issues in the Syntax of Questions](https://www.ling.uni-konstanz.de/fachbereich/aktuelles-und-termine/risq-2018/), University of Konstanz, with Hadas Kotek;
+	* [3rd Asian Junior Linguists conference (AJL3)](https://sites.google.com/view/ajl3/), University of Hong Kong.
+*	**New paper, October 2018:** ["Focus association by movement: Evidence from binding and parasitic gaps"](/research/focus-binding-pg.html) with [Hadas Kotek](http://hkotek.com), in the *Proceedings of Sinn und Bedeutung 21*.
 *	**Paper published, September 2018:** ["Extraction and licensing in Toba Batak"](https://www.linguisticsociety.org/sites/default/files/08_94.3Erlewine.pdf) in *Language*!
 *	**New paper, September 2018:** ["Bikol clefts and topics and the Austronesian subject-only extraction restriction"](/research/bikol.html) with Cheryl Lim
 *	**Talks, July 2018:** I gave a couple of talks in Japan:
-	* ["Agent extraction and topicalization in Bikol"](/research/talk-bikol-afla.html) (joint work with Cheryl Lim), Kwansei Gakuin University colloquium
+	* ["Agent extraction and topicalization in Bikol"](/research/bikol.html) (joint work with Cheryl Lim), Kwansei Gakuin University colloquium
 	* "*Wh*-quantification in Alternative Semantics," [Tokai Semantics Workshop](https://sites.google.com/site/semanticsworkshopintokai/home)
 *	**New paper, July 2018:** ["Intervention tracks scope-rigidity in Japanese"](/research/japanese-intervention.html) with [Hadas Kotek](http://hkotek.com)
 *	**Paper published, July 2018:** ["Focus association by movement: Evidence from Tanglewood"](/research/tanglewood.html) with [Hadas Kotek](http://hkotek.com) in *Linguistic Inquiry*

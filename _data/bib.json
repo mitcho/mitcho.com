@@ -1,5 +1,394 @@
 [
     {
+        "citationKey": "already",
+        "entryType": "unpublished",
+        "keywords": [
+            "syntax",
+            "Singlish",
+            "sentence-final particles",
+            "language contact",
+            "Spell-Out",
+            "Final-over-Final Constraint"
+        ],
+        "authors": [
+            {
+                "name": "Erlewine, Michael Yoshitaka",
+                "lastName": "Erlewine",
+                "displayName": "Michael Yoshitaka Erlewine"
+            }
+        ],
+        "projects": [
+            "sfp-sg"
+        ],
+        "author": "Erlewine, Michael Yoshitaka",
+        "title": "A syntactic universal in a contact language: The story of Singlish <em>already</em>",
+        "url": "https://ling.auf.net/lingbuzz/004317/current.pdf",
+        "note": "Manuscript, National University of Singapore",
+        "year": "2018",
+        "abstract": "This paper investigates the syntax and semantics of Singlish (Colloquial Singapore English) sentence-final <em>already</em> and its development in the contact ecology of Singapore. Bao 2005 identifies the Mandarin Chinese sentence-final particle <em>le</em> as one substrate source which lends its syntax and semantics to Singlish <em>already</em>. I follow and refine this view, and further show that the syntax of <em>already</em> differs subtly from that of its substrate cognates: Singlish sentence-final <em>already</em> unambiguously scopes over the entire clause, whereas its substrate cognate particles <em>le/liau/laa</em> are in a clause-medial position. I propose that this difference can be explained through a process of reanalysis forced by the interaction of a syntactic universal, the Final-over-Final Constraint, together with independent differences between Singlish and its substrate Chinese languages.",
+        "handout": {
+            "source": "/Users/mitcho/Dropbox/academic/projects/singlish/lsa/handout.pdf",
+            "target": "/research/handout-already.pdf",
+            "event": "handout-already"
+        },
+        "slides": {
+            "source": "/Users/mitcho/Dropbox/academic/projects/singlish/lsa/slides-trans.pdf",
+            "target": "/research/slides-already.pdf",
+            "event": "slides-already"
+        },
+        "authorsHtml": [
+            "Erlewine, Michael Yoshitaka"
+        ],
+        "shortHtml": [
+            "Erlewine"
+        ],
+        "othersHtml": [
+            
+        ],
+        "files": [
+            {
+                "title": "A syntactic universal in a contact language: The story of Singlish <em>already</em>",
+                "event": "already",
+                "url": "https://ling.auf.net/lingbuzz/004317/current.pdf",
+                "type": "pdf"
+            },
+            {
+                "title": "Associated handout",
+                "event": "handout-already",
+                "url": "/research/handout-already.pdf",
+                "type": "pdf"
+            },
+            {
+                "title": "Associated slides",
+                "event": "slides-already",
+                "url": "/research/slides-already.pdf",
+                "type": "pdf"
+            }
+        ]
+    },
+    {
+        "citationKey": "clitics-lisa",
+        "entryType": "incollection",
+        "keywords": [
+            "Austronesian voice",
+            "Austronesian",
+            "Philippine-type",
+            "cliticization",
+            "clitic pronouns",
+            "phase"
+        ],
+        "authors": [
+            {
+                "name": "Erlewine, Michael Yoshitaka",
+                "lastName": "Erlewine",
+                "displayName": "Michael Yoshitaka Erlewine"
+            },
+            {
+                "name": "Levin, Theodore",
+                "lastName": "Levin",
+                "displayName": "Theodore Levin",
+                "url": "https://sites.google.com/site/tfranklevin/"
+            }
+        ],
+        "projects": [
+            "voice-non-subject"
+        ],
+        "author": "Erlewine, Michael Yoshitaka and Levin, Theodore",
+        "editor": "Kalin, Laura and Paul, Ileana and Vander Klok, Jozina",
+        "title": "Clitic pronouns and the lower phase edge",
+        "year": "2018",
+        "abstract": "Pronominal paradigms in Philippine-type languages show a robust and curious gap: in transitive clauses pivot arguments and non-pivot agents may have bound pronominal forms, appearing as second position clitics, but pronominal non-pivot themes must be full, free pronouns. This gap teaches us about the organization of the lower phase edge. As cliticization involves a syntactic dependency between the host and argument position and all syntactic dependencies are constrained by phases, the gap is explained if pivots and non-pivot agents are speciﬁers of the phase head, making them the only DPs accessible for operations from outside of the phase.",
+        "booktitle": "Heading in the Right Direction: Linguistic Treats for Lisa Travis",
+        "pages": "136--145",
+        "publisher": "McGill Working Papers in Linguistics",
+        "authorsHtml": [
+            "Erlewine, Michael Yoshitaka",
+            "<a href=\"https://sites.google.com/site/tfranklevin/\">Theodore Levin</a>"
+        ],
+        "shortHtml": [
+            "Erlewine",
+            "<a href=\"https://sites.google.com/site/tfranklevin/\">Levin</a>"
+        ],
+        "othersHtml": [
+            "<a href=\"https://sites.google.com/site/tfranklevin/\">Theodore Levin</a>"
+        ],
+        "editors": [
+            {
+                "name": "Kalin, Laura",
+                "lastName": "Kalin",
+                "displayName": "Laura Kalin"
+            },
+            {
+                "name": "Paul, Ileana",
+                "lastName": "Paul",
+                "displayName": "Ileana Paul"
+            },
+            {
+                "name": "Vander Klok, Jozina",
+                "lastName": "Vander Klok",
+                "displayName": "Jozina Vander Klok"
+            }
+        ],
+        "editorsHtml": [
+            "Kalin, Laura",
+            "Ileana Paul",
+            "Jozina Vander Klok"
+        ],
+        "files": [
+            
+        ],
+        "pageRange": [
+            "136",
+            "145"
+        ]
+    },
+    {
+        "citationKey": "burmese-salt",
+        "entryType": "inproceedings",
+        "keywords": [
+            "Burmese",
+            "focus particle",
+            "focus",
+            "exhaustivity",
+            "scalarity",
+            "cleft",
+            "propositional cleft"
+        ],
+        "authors": [
+            {
+                "name": "New, Keely",
+                "lastName": "New",
+                "displayName": "Keely New"
+            },
+            {
+                "name": "Erlewine, Michael Yoshitaka",
+                "lastName": "Erlewine",
+                "displayName": "Michael Yoshitaka Erlewine"
+            }
+        ],
+        "projects": [
+            "burmese-ma"
+        ],
+        "author": "New, Keely and Erlewine, Michael Yoshitaka",
+        "editor": "Maspong, Sireemas and Stefánsdóttir, Brynhildur and Blake, Katherine and Davis, Forrest",
+        "title": "The expression of exhaustivity and scalarity in Burmese",
+        "url": "https://journals.linguisticsociety.org/proceedings/index.php/SALT/article/download/28.271/4045",
+        "year": "2018",
+        "abstract": "The Burmese particle <em>hma</em> expresses exhaustivity in some contexts but a scalar, <em>even</em>-like meaning in other contexts. We detail the distribution of these uses of <em>hma</em> and develop a uni\u0002ed semantics. We propose that <em>hma</em> is a not-at-issue scalar exhaustive, with semantics similar to that proposed for English <em>it</em>-clefts in Velleman, Beaver, Destruel, Bumford, Onea & Coppock 2012. When <em>hma</em> takes wide scope, it leads to an exhaustive, cleft interpretation which is not scale-sensitive. When <em>hma</em> takes scope under negation, the resulting meaning will have a scale-sensitive felicity condition. We also discuss the semantics of the sentence-\u0002final mood marker <em>dar</em>, which we propose is a marker of propositional clefts (Sheil 2016), and its apparent role in the determination of the scope of <em>hma</em>.",
+        "booktitle": "Proceedings of SALT 28",
+        "pages": "271--288",
+        "poster": {
+            "source": "/Users/mitcho/Dropbox/academic/projects/singlanglab/burmese/output/poster-salt.pdf",
+            "target": "/research/poster-burmese-salt.pdf",
+            "event": "poster-burmese-salt"
+        },
+        "handout": {
+            "source": "/Users/mitcho/Dropbox/academic/projects/singlanglab/burmese/output/handout-salt-combined.pdf",
+            "target": "/research/handout-burmese-salt.pdf",
+            "event": "handout-burmese-salt"
+        },
+        "slides": {
+            "source": "/Users/mitcho/Dropbox/academic/projects/singlanglab/burmese/output/slides-salt.pdf",
+            "target": "/research/slides-burmese-salt.pdf",
+            "event": "slides-burmese-salt"
+        },
+        "authorsHtml": [
+            "New, Keely",
+            "Michael Yoshitaka Erlewine"
+        ],
+        "shortHtml": [
+            "New",
+            "Erlewine"
+        ],
+        "othersHtml": [
+            "Keely New"
+        ],
+        "editors": [
+            {
+                "name": "Maspong, Sireemas",
+                "lastName": "Maspong",
+                "displayName": "Sireemas Maspong"
+            },
+            {
+                "name": "Stefánsdóttir, Brynhildur",
+                "lastName": "Stefánsdóttir",
+                "displayName": "Brynhildur Stefánsdóttir"
+            },
+            {
+                "name": "Blake, Katherine",
+                "lastName": "Blake",
+                "displayName": "Katherine Blake"
+            },
+            {
+                "name": "Davis, Forrest",
+                "lastName": "Davis",
+                "displayName": "Forrest Davis"
+            }
+        ],
+        "editorsHtml": [
+            "Maspong, Sireemas",
+            "Brynhildur Stefánsdóttir",
+            "Katherine Blake",
+            "Forrest Davis"
+        ],
+        "files": [
+            {
+                "title": "The expression of exhaustivity and scalarity in Burmese",
+                "event": "burmese-salt",
+                "url": "https://journals.linguisticsociety.org/proceedings/index.php/SALT/article/download/28.271/4045",
+                "type": ""
+            },
+            {
+                "title": "Associated poster",
+                "event": "poster-burmese-salt",
+                "url": "/research/poster-burmese-salt.pdf",
+                "type": "pdf"
+            },
+            {
+                "title": "Associated handout",
+                "event": "handout-burmese-salt",
+                "url": "/research/handout-burmese-salt.pdf",
+                "type": "pdf"
+            },
+            {
+                "title": "Associated slides",
+                "event": "slides-burmese-salt",
+                "url": "/research/slides-burmese-salt.pdf",
+                "type": "pdf"
+            }
+        ],
+        "pageRange": [
+            "271",
+            "288"
+        ]
+    },
+    {
+        "citationKey": "bikol",
+        "entryType": "unpublished",
+        "keywords": [
+            "extraction asymmetries",
+            "Austronesian",
+            "Bikol",
+            "Austronesian voice",
+            "probing",
+            "locality",
+            "clefting",
+            "topicalization",
+            "syntactic ergativity",
+            "syntax"
+        ],
+        "authors": [
+            {
+                "name": "Erlewine, Michael Yoshitaka",
+                "lastName": "Erlewine",
+                "displayName": "Michael Yoshitaka Erlewine"
+            },
+            {
+                "name": "Lim, Cheryl",
+                "lastName": "Lim",
+                "displayName": "Cheryl Lim"
+            }
+        ],
+        "projects": [
+            "voice-non-subject"
+        ],
+        "author": "Erlewine, Michael Yoshitaka and Lim, Cheryl",
+        "title": "Bikol clefts and topics and the Austronesian subject-only extraction restriction",
+        "url": "https://ling.auf.net/lingbuzz/004181/current.pdf",
+        "note": "Manuscript, National University of Singapore",
+        "year": "2018",
+        "abstract": "Many Austronesian languages exhibit an extraction asymmetry whereby only the subject DP can be A&#8217;-extracted. We show that such extraction restrictions can vary between different A&#8217;-constructions in Bikol: local clefting is limited to the subject, whereas topicalization can target subjects and non-subject agents, but not other non-subject DPs. Following the phase-theoretic, locality-based approach to such extraction asymmetries in related Austronesian languages, we propose that clefting and topicalization differ in the featural specifications of their probes, but must always attract their closest matching goal. Evidence for this approach comes from interactions between clefting, topicalization, and hanging topic left dislocation in long-distance configurations. Such data motivates the view that the classic Austronesian subject-only extraction restriction is best characterized in terms of syntactic locality, rather than as a restriction on the grammatical function or morphological case of movement targets.",
+        "authorsHtml": [
+            "Erlewine, Michael Yoshitaka",
+            "Cheryl Lim"
+        ],
+        "shortHtml": [
+            "Erlewine",
+            "Lim"
+        ],
+        "othersHtml": [
+            "Cheryl Lim"
+        ],
+        "files": [
+            {
+                "title": "Bikol clefts and topics and the Austronesian subject-only extraction restriction",
+                "event": "bikol",
+                "url": "https://ling.auf.net/lingbuzz/004181/current.pdf",
+                "type": "pdf"
+            }
+        ]
+    },
+    {
+        "citationKey": "poster:voice-lsa",
+        "entryType": "talk",
+        "keywords": [
+            "Austronesian voice",
+            "Austronesian",
+            "syntax",
+            "case",
+            "typology",
+            "Toba Batak",
+            "Tagalog",
+            "Atayal",
+            "Balinese"
+        ],
+        "authors": [
+            {
+                "name": "Erlewine, Michael Yoshitaka",
+                "lastName": "Erlewine",
+                "displayName": "Michael Yoshitaka Erlewine"
+            },
+            {
+                "name": "Levin, Theodore",
+                "lastName": "Levin",
+                "displayName": "Theodore Levin",
+                "url": "https://sites.google.com/site/tfranklevin/"
+            },
+            {
+                "name": "van Urk, Coppe",
+                "lastName": "van Urk",
+                "displayName": "Coppe van Urk",
+                "url": "http://webspace.qmul.ac.uk/cvanurk/"
+            }
+        ],
+        "projects": [
+            "voice"
+        ],
+        "author": "Erlewine, Michael Yoshitaka and Levin, Theodore and van Urk, Coppe",
+        "title": "The typology of nominal licensing in Austronesian voice languages",
+        "note": "Poster presented at LSA 92",
+        "year": "2018",
+        "abstract": "Many Austronesian languages display a voice system. One argument of each clause (the \"subject\") is in a dedicated form and/or position, affecting the case-marking and/or word order of other arguments. We posit two parameters to explain case and word order properties of non-subject arguments: (i) accusative parameter: <em>v</em> can/cannot assign accusative case; (ii) last-resort licensing parameter: DPs lacking Case-licensing are licensed by insertion of a case-marker or under adjacency with the verb. Atayal, Tagalog, Balinese, and Toba Batak exemplify the four language types predicted by these parameters. This also makes accurate predictions for other aspects of these languages.",
+        "poster": {
+            "source": "/Users/mitcho/Dropbox/academic/projects/voice/lsa2018/poster-web.pdf",
+            "target": "/research/poster-voice-lsa.pdf",
+            "event": "poster-voice-lsa"
+        },
+        "authorsHtml": [
+            "Erlewine, Michael Yoshitaka",
+            "<a href=\"https://sites.google.com/site/tfranklevin/\">Theodore Levin</a>",
+            "<a href=\"http://webspace.qmul.ac.uk/cvanurk/\">Coppe van Urk</a>"
+        ],
+        "shortHtml": [
+            "Erlewine",
+            "<a href=\"https://sites.google.com/site/tfranklevin/\">Levin</a>",
+            "<a href=\"http://webspace.qmul.ac.uk/cvanurk/\">Van Urk</a>"
+        ],
+        "othersHtml": [
+            "<a href=\"https://sites.google.com/site/tfranklevin/\">Theodore Levin</a>",
+            "<a href=\"http://webspace.qmul.ac.uk/cvanurk/\">Coppe van Urk</a>"
+        ],
+        "files": [
+            {
+                "title": "Poster",
+                "event": "poster-voice-lsa",
+                "url": "/research/poster-voice-lsa.pdf",
+                "type": "pdf"
+            }
+        ],
+        "url": "/research/poster-voice-lsa.pdf"
+    },
+    {
         "citationKey": "japanese-intervention",
         "entryType": "unpublished",
         "keywords": [
@@ -60,7 +449,8 @@
             "focus sensitive operators",
             "focus",
             "NPI",
-            "Alternative Semantics"
+            "Alternative Semantics",
+            "hidden"
         ],
         "authors": [
             {
@@ -139,7 +529,8 @@
             "Philippine-type",
             "cliticization",
             "clitic pronouns",
-            "phase"
+            "phase",
+            "hidden"
         ],
         "authors": [
             {
@@ -411,7 +802,8 @@
             "Singlish",
             "FOFC",
             "sentence-final particles",
-            "contact"
+            "contact",
+            "hidden"
         ],
         "authors": [
             {
@@ -464,7 +856,7 @@
         "url": "/research/handout-lsa2018-singlish.pdf"
     },
     {
-        "citationKey": "poster:voice-lsa",
+        "citationKey": "poster-voice-lsa",
         "entryType": "talk",
         "keywords": [
             "Austronesian voice",
@@ -475,7 +867,8 @@
             "Toba Batak",
             "Tagalog",
             "Atayal",
-            "Balinese"
+            "Balinese",
+            "hidden"
         ],
         "authors": [
             {
@@ -504,11 +897,6 @@
         "note": "Poster presented at LSA 92",
         "year": "2018",
         "abstract": "Many Austronesian languages display a voice system. One argument of each clause (the \"subject\") is in a dedicated form and/or position, affecting the case-marking and/or word order of other arguments. We posit two parameters to explain case and word order properties of non-subject arguments: (i) accusative parameter: <em>v</em> can/cannot assign accusative case; (ii) last-resort licensing parameter: DPs lacking Case-licensing are licensed by insertion of a case-marker or under adjacency with the verb. Atayal, Tagalog, Balinese, and Toba Batak exemplify the four language types predicted by these parameters. This also makes accurate predictions for other aspects of these languages.",
-        "poster": {
-            "source": "/Users/mitcho/Dropbox/academic/projects/voice/lsa2018/poster-web.pdf",
-            "target": "/research/poster-voice-lsa.pdf",
-            "event": "poster-voice-lsa"
-        },
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka",
             "<a href=\"https://sites.google.com/site/tfranklevin/\">Theodore Levin</a>",
@@ -524,14 +912,8 @@
             "<a href=\"http://webspace.qmul.ac.uk/cvanurk/\">Coppe van Urk</a>"
         ],
         "files": [
-            {
-                "title": "Poster",
-                "event": "poster-voice-lsa",
-                "url": "/research/poster-voice-lsa.pdf",
-                "type": "pdf"
-            }
-        ],
-        "url": "/research/poster-voice-lsa.pdf"
+            
+        ]
     },
     {
         "citationKey": "japanese-intervention-ac",
@@ -969,14 +1351,15 @@
             "focus-movement"
         ],
         "author": "Erlewine, Michael Yoshitaka and Kotek, Hadas",
+        "editor": "Truswell, Robert and Cummins, Chris and Heycock, Caroline and Rabern, Brian and Rohde, Hannah",
         "title": "Focus association by movement: Evidence from binding and parasitic gaps",
-        "year": "to appear",
+        "year": "2018",
         "abstract": "Under the influential Roothian proposal for focus association, focused phrases remain in-situ at LF (Rooth, 1985, 1992). However, a recent line of work has resurrected the idea that focus association involves covert movement: specifically, the associate of English sentential only must covertly move to only, with the possibility of covert pied-piping (Drubig, 1994; Krifka, 1996, 2006; Tancredi, 1997, 2004; Wagner, 2006; Erlewine and Kotek, 2014, to appear). In this paper we contribute to this emerging consensus view with additional evidence from reflexive binding and parasitic gap licensing.\n\n<strong>This paper supplements <a href=\"/research/tanglewood.html\">“Focus association by movement: Evidence from <em>Tanglewood</em>“</a> in <em>LI</em>.</strong>",
         "booktitle": "Proceedings of Sinn und Bedeutung 21",
+        "pages": "399--407",
         "paper": {
-            "source": "/Users/mitcho/Dropbox/academic/projects/tanglewood/sub-proceedings/preprint.pdf",
-            "target": "/research/focus-binding-pg.pdf",
-            "event": "focus-binding-pg"
+            "target": "https://semanticsarchive.net/Archive/DRjNjViN/ErlewineKotek.pdf",
+            "event": "ErlewineKotek"
         },
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka",
@@ -989,15 +1372,53 @@
         "othersHtml": [
             "<a href=\"http://hkotek.com/\">Hadas Kotek</a>"
         ],
+        "editors": [
+            {
+                "name": "Truswell, Robert",
+                "lastName": "Truswell",
+                "displayName": "Robert Truswell"
+            },
+            {
+                "name": "Cummins, Chris",
+                "lastName": "Cummins",
+                "displayName": "Chris Cummins"
+            },
+            {
+                "name": "Heycock, Caroline",
+                "lastName": "Heycock",
+                "displayName": "Caroline Heycock"
+            },
+            {
+                "name": "Rabern, Brian",
+                "lastName": "Rabern",
+                "displayName": "Brian Rabern"
+            },
+            {
+                "name": "Rohde, Hannah",
+                "lastName": "Rohde",
+                "displayName": "Hannah Rohde"
+            }
+        ],
+        "editorsHtml": [
+            "Truswell, Robert",
+            "Chris Cummins",
+            "Caroline Heycock",
+            "Brian Rabern",
+            "Hannah Rohde"
+        ],
         "files": [
             {
                 "title": "Focus association by movement: Evidence from binding and parasitic gaps",
-                "event": "focus-binding-pg",
-                "url": "/research/focus-binding-pg.pdf",
+                "event": "ErlewineKotek",
+                "url": "https://semanticsarchive.net/Archive/DRjNjViN/ErlewineKotek.pdf",
                 "type": "pdf"
             }
         ],
-        "url": "/research/focus-binding-pg.pdf"
+        "url": "https://semanticsarchive.net/Archive/DRjNjViN/ErlewineKotek.pdf",
+        "pageRange": [
+            "399",
+            "407"
+        ]
     },
     {
         "citationKey": "batak",
@@ -3105,6 +3526,7 @@
         "abstract": "Mandarin Chinese clausal syntax can be described as strictly head-initial, with the exception of certain &#8220;particles&#8221; which are linearized at the end of the clause. Previous work on these sentence-final particles (SFPs) has assumed that all SFPs are very high, in the CP periphery. In this paper I show that a subset of SFPs are in a lower, clause-medial position, based on the scopal interaction of these SFPs with negation, modals, quantificational subjects, and alternative question disjunction. I identify this position as coinciding with the edge of the lower phase, traditionally identified as <em>v</em>P.\n\nAs SFPs are head-final heads with head-initial complements, they have been discussed as an important apparent exception to the Final-over-Final Constraint (FOFC), a proposed universal on structure-building and linearization. The existence of exceptions to FOFC in a clause-medial position in addition to the CP edge motivates the view that FOFC holds only within individual Spell-Out domains.",
         "journal": "Journal of East Asian Linguistics",
         "volume": "26",
+        "number": "1",
         "pages": "37--75",
         "preprint": {
             "target": "http://ling.auf.net/lingbuzz/002495/current.pdf",
