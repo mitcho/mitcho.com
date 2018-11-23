@@ -61,6 +61,7 @@
 	}
 }
 
+// responsive narrow
 @include media-query($on-phone) {
 	.col1 {
 		padding: $small-padding;
@@ -92,9 +93,10 @@
 		}
 
 		#image {
-			background-repeat: none;
-			background-image: url('../images/littleindia-130x130.jpg');
-			background: -webkit-image-set( url('../images/littleindia-130x130.jpg') 1x, url('../images/littleindia-130x130x2.jpg') 2x );
+			display: none;
+		}
+		#image-sq {
+			display: block;
 			width: 130px;
 			height: 130px;
 		}
