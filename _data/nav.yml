@@ -3,6 +3,8 @@
   sub:
   - title: "projects"
     href: "/projects"
+  - title: "videos"
+    href: "https://www.youtube.com/user/mitchoyoshitaka/"
   - title: "PDF cv"
     href: "/erlewine-cv.pdf"
     event: "cv"
@@ -22,12 +24,9 @@
 - title: "code"
   href: "/code"
 
-- title: "blog"
-  href: "/blog"
-
-- title: "twitter"
-  href: "https://twitter.com/themitcho"
-
 - title: "insta"
   href: "https://instagram.com/mitcho"
+
+- title: "twitter (inactive)"
+  href: "https://twitter.com/themitcho"
   

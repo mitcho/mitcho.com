@@ -4,7 +4,8 @@ layout: page
 permalink: /teaching/
 ---
 
-* 2018--2019 Sem 2 EL4212 Field Methods in Linguistics
+* [2020--2021 Sem 1 EL5101 Grammatical Analysis](/nus/gram2020/)
+* [2020--2021 Sem 1 EL4203 Semantics](/nus/sem2020/)
 
 ## Previous
 
@@ -12,6 +13,12 @@ Short courses:
 * [The syntax and semantics of focus particles](/teaching/lissim11) at the [Linguistics Summer School in the Indian Mountains (LISSIM) 11](http://www.fosssil.in/lissim_11.htm)
 
 NUS:
+* [2019--2020 Sem 2 GET1036 The Logic of Langauge](/nus/lol/)
+* [2019--2020 Sem 1 EL5101 Grammatical Analysis](/nus/gram2019/)
+* [2019--2020 Sem 1 EL4203 Semantics](/nus/sem2019/)
+* [2018--2019 Sem 2 GET1036 The Logic of Langauge](/nus/lol/)
+* [2018--2019 Sem 2 EL4212 Field Methods in Linguistics: Burmese](/nus/field2019/)
+* [2017--2018 Sem 2 GET1036 The Logic of Langauge](/nus/lol/)
 * [2017--2018 Sem 1 EL5101 Grammatical Analysis](/nus/gram2017/)
 * [2017--2018 Sem 1 EL4203 Semantics](/nus/sem2017/)
 * [2016--2017 Sem 2 EL3212 Field Methods in Linguistics: Kristang](/nus/field2017/)
@@ -22,8 +29,5 @@ NUS:
 
 McGill:
 * [Fall 2014 graduate seminar: Focus, wh, and friends](/mcgill/focus-wh/) with [Hadas Kotek](http://hkotek.com)
+* [McGill Whinter 2015 wh-indefinites reading group](/mcgill/wh-indefs/) with [Hadas Kotek](http://hkotek.com)
 
-## Reading groups
-
-* [Syntax/semantics reading group at NUS](/nus/synsem/)
-* [McGill Whinter 2015: wh-indefinites](/mcgill/wh-indefs/) with [Hadas Kotek](http://hkotek.com)
