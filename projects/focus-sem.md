@@ -13,7 +13,7 @@ My student Keely New and I have investigated **the Burmese focus particle *hma**
 
 {% include project-papers.html project = "burmese-ma" %}
 
-In recent work, I have studied **the Tibetan particle *yin.n'ang***. *Yin.n'ang* has three uses: (a) as a counterexpectational discourse particle (like English 'but' or 'however'), (b) as a scalar concessive particle, and (c) to form free choice items with *wh*-words. Morphologically, *yin.n'ang* is transparently the combination of a copular verb, conditional ending, and scalar particle (e.g. 'even'). I develop a compositional semantics for three functions from these ingredients, and also advocate for the extension of this approach to **Japanese *demo*** which has a similar distribution and (historical) morphological makeup.
+In recent work, I have studied **the Tibetan particle *yin.na'ang***. *Yin.na'ang* has three uses: (a) as a counterexpectational discourse particle (like English 'but' or 'however'), (b) as a scalar concessive particle, and (c) to form free choice items with *wh*-words. Morphologically, *yin.na'ang* is transparently the combination of a copular verb, conditional ending, and scalar particle (e.g. 'even'). I develop a compositional semantics for three functions from these ingredients, and also advocate for the extension of this approach to **Japanese *demo*** which has a similar distribution and (historical) morphological makeup.
 
 {% include project-papers.html project = "tibetan-yine" %}
 

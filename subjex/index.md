@@ -11,6 +11,8 @@ copy:
 
 *Location:* National University of Singapore, [AS7](http://map.nus.edu.sg/#page=map&long=103.7711662000000000&lat=1.2946206530000000) room 06-42
 
+**Selected papers from the Workshop appear in [the *Glossa* Special Collection on Subject Extraction](https://www.glossa-journal.org/collections/special/subject-extraction/)**
+
 [![The speakers](speakers-small.jpg)](speakers.jpg)
 
 In many languages of the world, the extraction (e.g. questioning or relativization) of subjects behaves differently from that of non-subject arguments. Such quirks manifest in different forms, but the identification of subjects as the locus of such quirky behavior is remarkably robust across languages. This workshop will bring together a group of established and emerging experts on the cross-linguistic landscape of subject extraction asymmetries, their theory, and implications.
