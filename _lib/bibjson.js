@@ -28,6 +28,7 @@ function cleanup(text) {
  	text = text.replace('\\&','&amp;');
 
  	text = text.replace("---",'&mdash;');
+ 	text = text.replace("--",'&ndash;');
  	
 	text = text.replace('\\VAN{Urk}', 'van Urk'); // for Coppe
 

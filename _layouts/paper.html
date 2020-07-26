@@ -27,11 +27,13 @@ layout: default
 				{% endfor %}
 			{% endfor %}
 		
+			{% if projects.size > 0 %}
 			<p class='post-meta'><strong>Project{% if projects.size > 1 %}s{% endif %}:</strong> 
 				{% for project in projects %}
 	<a class='pill' href='{{ project.url | urlescape }}'>{{ project.title | markdownify | replace: '<p>','' | replace: '</p>','' | strip }}</a> &nbsp; 
 				{% endfor %}
 			</p>
+			{% endif %}
 		{% endif %}
 		
 		{% if paper.abstract %}
