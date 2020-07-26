@@ -80,7 +80,7 @@ function linearize(orderPairs) {
 
   var linearization = [];
   var linearizeChoices = [];
-  var flatWords = [word for (word in words)];
+  var flatWords = Object.keys(words);
   while (linearization.length < flatWords.length) {
     var wordNumber = linearization.length;
   
