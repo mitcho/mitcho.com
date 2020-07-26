@@ -3,7 +3,11 @@ _site
 _hidden
 _oldsite
 _cache
+.jekyll-cache
+node_modules
 
 _sass/_graphik.scss
 _sass/_mplus.scss
 
+.DS_Store
+.Rhistory
