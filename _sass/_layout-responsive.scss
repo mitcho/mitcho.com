@@ -101,6 +101,10 @@
 			height: 130px;
 		}
 	}
+
+	.hide-on-phone {
+		display: none;
+	}
 }
 
 @include media-query($on-smallphone) {

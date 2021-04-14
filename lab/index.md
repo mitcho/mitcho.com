@@ -1,7 +1,7 @@
 ---
 layout: page
 nosidebar: yes
-title: NUS Syntax/Semantics Lab
+title: NUS Syn<span class="hide-on-phone">tax</span>/Sem<span class="hide-on-phone">antics</span> Lab
 permalink: /lab/
 ---
 
