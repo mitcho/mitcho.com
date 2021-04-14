@@ -1,5 +1,531 @@
 [
     {
+        "citationKey": "chains-lsa",
+        "entryType": "inproceedings",
+        "keywords": [
+            "copy theory of movement",
+            "reconstruction",
+            "reﬂexive binding",
+            "Binding Condition A",
+            "parasitic gaps",
+            "weak crossover",
+            "syntax"
+        ],
+        "authors": [
+            {
+                "name": "Branan, Kenyon",
+                "lastName": "Branan",
+                "displayName": "Kenyon Branan"
+            },
+            {
+                "name": "Erlewine, Michael Yoshitaka",
+                "lastName": "Erlewine",
+                "displayName": "Michael Yoshitaka Erlewine"
+            }
+        ],
+        "projects": [
+            
+        ],
+        "author": "Branan, Kenyon and Erlewine, Michael Yoshitaka",
+        "title": "Binding reconstruction and two modes of copy-chain interpretation",
+        "url": "http://journals.linguisticsociety.org/proceedings/index.php/PLSA/article/download/5008/4595",
+        "year": "2021",
+        "abstract": "We present a theory for the interpretation of Ā-movement chains at LF in the copy theory of movement where the NP restrictor of a DP Ā-movement chain is interpreted in only one copy. Such a view is motivated for English by evidence from reﬂexive binding, building on observations in Barss 1986, and its interaction with parasitic gap licensing and weak crossover effects. Our approach offers a means for understanding the classiﬁcation of Ā-movement types in Cinque 1990 and Postal 1994 in copy-theoretic terms.",
+        "booktitle": "Proceedings of LSA 6",
+        "pages": "734&ndash;745",
+        "authorsHtml": [
+            "Branan, Kenyon",
+            "Michael Yoshitaka Erlewine"
+        ],
+        "shortHtml": [
+            "Branan",
+            "Erlewine"
+        ],
+        "othersHtml": [
+            "Kenyon Branan"
+        ],
+        "yesweb": true,
+        "files": [
+            {
+                "title": "Binding reconstruction and two modes of copy-chain interpretation",
+                "event": "chains-lsa",
+                "url": "http://journals.linguisticsociety.org/proceedings/index.php/PLSA/article/download/5008/4595",
+                "type": ""
+            }
+        ]
+    },
+    {
+        "citationKey": "locality-search",
+        "entryType": "incollection",
+        "keywords": [
+            "locality",
+            "probing",
+            "minimal search",
+            "syntax"
+        ],
+        "authors": [
+            {
+                "name": "Branan, Kenyon",
+                "lastName": "Branan",
+                "displayName": "Kenyon Branan"
+            },
+            {
+                "name": "Erlewine, Michael Yoshitaka",
+                "lastName": "Erlewine",
+                "displayName": "Michael Yoshitaka Erlewine"
+            }
+        ],
+        "projects": [
+            
+        ],
+        "author": "Branan, Kenyon and Erlewine, Michael Yoshitaka",
+        "editor": "Grohmann, Kleanthes K. and Leivada, Evelina",
+        "title": "Locality and (minimal) search",
+        "url": "https://lingbuzz.net/lingbuzz/005791/current.pdf",
+        "year": "submitted",
+        "abstract": "In this chapter prepared for the forthcoming <em>Cambridge Handbook of Minimalism</em>, we attempt to explicate the procedural approach to locality, which aims to explain syntactic locality restrictions based on the behavior of a search procedure in the grammar. We discuss explicit options for the search algorithm underlying \"minimal search,\" the need to distinguish probe interaction from satisfaction, and the shape of the search space. We describe how versions of this procedural approach can derive a wide range of attested relative and absolute locality effects.",
+        "booktitle": "Cambridge Handbook of Minimalism",
+        "publisher": "Cambridge University Press",
+        "authorsHtml": [
+            "Branan, Kenyon",
+            "Michael Yoshitaka Erlewine"
+        ],
+        "shortHtml": [
+            "Branan",
+            "Erlewine"
+        ],
+        "othersHtml": [
+            "Kenyon Branan"
+        ],
+        "editors": [
+            {
+                "name": "Grohmann, Kleanthes K.",
+                "lastName": "Grohmann",
+                "displayName": "Kleanthes K. Grohmann"
+            },
+            {
+                "name": "Leivada, Evelina",
+                "lastName": "Leivada",
+                "displayName": "Evelina Leivada"
+            }
+        ],
+        "editorsHtml": [
+            "Grohmann, Kleanthes K.",
+            "Evelina Leivada"
+        ],
+        "yesweb": true,
+        "files": [
+            {
+                "title": "Locality and (minimal) search",
+                "event": "locality-search",
+                "url": "https://lingbuzz.net/lingbuzz/005791/current.pdf",
+                "type": "pdf"
+            }
+        ]
+    },
+    {
+        "citationKey": "talk:lsa2021",
+        "entryType": "talk",
+        "keywords": [
+            "A'-movement",
+            "copy theory",
+            "Condition A",
+            "reconstruction",
+            "choice function",
+            "parasitic gaps",
+            "weak crossover"
+        ],
+        "authors": [
+            {
+                "name": "Branan, Kenyon",
+                "lastName": "Branan",
+                "displayName": "Kenyon Branan"
+            },
+            {
+                "name": "Erlewine, Michael Yoshitaka",
+                "lastName": "Erlewine",
+                "displayName": "Michael Yoshitaka Erlewine"
+            }
+        ],
+        "projects": [
+            
+        ],
+        "author": "Branan, Kenyon and Erlewine, Michael Yoshitaka",
+        "title": "Binding reconstruction and the types of traces",
+        "note": "Presented at LSA 95",
+        "year": "2021",
+        "abstract": "We develop a new theory for the interpretation of movement chains at LF, resulting in different types of “trace” positions. Just as one copy in a DP-movement chain is privileged for the interpretation of its determiner (Sauerland 1998, Fox 2002), we claim that one copy in a DP-movement chain is privileged for the interpretation of its nominal restriction (NP). This choice results in some trace positions behaving as pronouns and others not. We motivate this approach with understudied and new data on binding reconstruction, parasitic gaps, and weak crossover, and their interaction in English.",
+        "handout": {
+            "source": "/Users/mitcho/Dropbox/academic/projects/b-traces/output/lsa2021/handout-lsa2021.pdf",
+            "target": "/research/handout-lsa2021.pdf",
+            "event": "handout-lsa2021"
+        },
+        "authorsHtml": [
+            "Branan, Kenyon",
+            "Michael Yoshitaka Erlewine"
+        ],
+        "shortHtml": [
+            "Branan",
+            "Erlewine"
+        ],
+        "othersHtml": [
+            "Kenyon Branan"
+        ],
+        "yesweb": true,
+        "files": [
+            {
+                "title": "Handout",
+                "event": "handout-lsa2021",
+                "url": "/research/handout-lsa2021.pdf",
+                "type": "pdf"
+            }
+        ],
+        "url": "/research/handout-lsa2021.pdf"
+    },
+    {
+        "citationKey": "burmese-antiuniqueness",
+        "entryType": "inproceedings",
+        "keywords": [
+            "Burmese",
+            "nominals",
+            "definiteness",
+            "indefiniteness",
+            "one",
+            "choice function",
+            "Non-Vacuity",
+            "semantics"
+        ],
+        "authors": [
+            {
+                "name": "Erlewine, Michael Yoshitaka",
+                "lastName": "Erlewine",
+                "displayName": "Michael Yoshitaka Erlewine"
+            },
+            {
+                "name": "Lim, Meghan",
+                "lastName": "Lim",
+                "displayName": "Meghan Lim"
+            }
+        ],
+        "projects": [
+            "burmese-one"
+        ],
+        "author": "Erlewine, Michael Yoshitaka and Lim, Meghan",
+        "editor": "Rhyne, Joseph and Lamp, Kaelyn and Dreier, Nicole and Kwon, Chloe",
+        "title": "Anti-uniqueness without articles",
+        "url": "https://journals.linguisticsociety.org/proceedings/index.php/SALT/article/download/30.430/4521",
+        "year": "2020",
+        "abstract": "We report on the expression of singular nominals in Burmese, an articleless language, from original elicitation work. Bare nouns are interpreted as singular deﬁnites, to which the numeral ‘one’ is added to form indeﬁnites. We propose that ‘one’ restricts the domain of the nominal to a singleton, and that its addition is subject to a Non-Vacuity constraint; this is the source of the anti-uniqueness inference of indeﬁnites. We furthermore investigate the availability of ‘one’ in anaphoric deﬁnites. Such behavior forms an argument that the compositional semantics of anaphoric deﬁnites does not involve contextual restriction via a situation variable, unlike unique deﬁnites.\n\n<strong>See also</strong> <a href=\"/research/burmese-indef.html\">our Triple A paper</a>, which provides a more complete description of (in)definiteness distinctions in Burmese.\n\n<strong>Associated three minute lightning talk:</strong>\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/3sz85jGM530\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+        "booktitle": "Proceedings of SALT 30",
+        "pages": "430&ndash;449",
+        "poster": {
+            "source": "/Users/mitcho/Dropbox/academic/projects/burmese-one/output/salt/poster.pdf",
+            "target": "/research/poster-burmese-antiuniqueness.pdf",
+            "event": "poster-burmese-antiuniqueness"
+        },
+        "authorsHtml": [
+            "Erlewine, Michael Yoshitaka",
+            "Meghan Lim"
+        ],
+        "shortHtml": [
+            "Erlewine",
+            "Lim"
+        ],
+        "othersHtml": [
+            "Meghan Lim"
+        ],
+        "editors": [
+            {
+                "name": "Rhyne, Joseph",
+                "lastName": "Rhyne",
+                "displayName": "Joseph Rhyne"
+            },
+            {
+                "name": "Lamp, Kaelyn",
+                "lastName": "Lamp",
+                "displayName": "Kaelyn Lamp"
+            },
+            {
+                "name": "Dreier, Nicole",
+                "lastName": "Dreier",
+                "displayName": "Nicole Dreier"
+            },
+            {
+                "name": "Kwon, Chloe",
+                "lastName": "Kwon",
+                "displayName": "Chloe Kwon"
+            }
+        ],
+        "editorsHtml": [
+            "Rhyne, Joseph",
+            "Kaelyn Lamp",
+            "Nicole Dreier",
+            "Chloe Kwon"
+        ],
+        "yesweb": true,
+        "files": [
+            {
+                "title": "Anti-uniqueness without articles",
+                "event": "burmese-antiuniqueness",
+                "url": "https://journals.linguisticsociety.org/proceedings/index.php/SALT/article/download/30.430/4521",
+                "type": ""
+            },
+            {
+                "title": "Associated poster",
+                "event": "poster-burmese-antiuniqueness",
+                "url": "/research/poster-burmese-antiuniqueness.pdf",
+                "type": "pdf"
+            }
+        ]
+    },
+    {
+        "citationKey": "burmese-indef",
+        "entryType": "inproceedings",
+        "keywords": [
+            "Burmese",
+            "nominals",
+            "definiteness",
+            "indefiniteness",
+            "one",
+            "incorporation",
+            "pseudo-incorporation",
+            "semantics"
+        ],
+        "authors": [
+            {
+                "name": "Lim, Meghan",
+                "lastName": "Lim",
+                "displayName": "Meghan Lim"
+            },
+            {
+                "name": "Erlewine, Michael Yoshitaka",
+                "lastName": "Erlewine",
+                "displayName": "Michael Yoshitaka Erlewine"
+            }
+        ],
+        "projects": [
+            "burmese-one"
+        ],
+        "author": "Lim, Meghan and Erlewine, Michael Yoshitaka",
+        "title": "Definiteness and indefiniteness in Burmese",
+        "year": "to appear",
+        "abstract": "We report on the interpretation of diﬀerent forms of singular argument nominals in Burmese, a language without articles, from original ﬁeldwork. Like in Mandarin Chinese (Jenks, 2018), bare nouns are unique deﬁnites, with demonstratives used for anaphoric deﬁnites. Indeﬁnites use the numeral ‘one.’ We develop an analysis based on Jenks’ analysis of Mandarin Chinese deﬁnites, extended with a novel proposal for ‘one’ indeﬁnites. Indeﬁnites introduce an antiuniqueness inference, which we derive from a Non-Triviality constraint rather than Maximize Presupposition à la Heim 1991, with crucial evidence from anaphoric deﬁnites with ‘one.’ We also describe the availability of bare noun indefinite objects, which we analyze as a form of (pseudo) noun incorporation.\n\n<strong>See also</strong> <a href=\"/research/burmese-antiuniqueness.html\">our companion SALT paper</a>, which further develops the analysis of &#8216;one’ indefinites\n\n<strong>Associated talk:</strong>\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/EjDbMbUd3bQ\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+        "booktitle": "Proceedings of Triple A 7",
+        "paper": {
+            "source": "/Users/mitcho/Dropbox/academic/projects/burmese-one/output/triplea-proceedings/preprint.pdf",
+            "target": "/research/burmese-indef.pdf",
+            "event": "burmese-indef"
+        },
+        "slides": {
+            "source": "/Users/mitcho/Dropbox/academic/projects/burmese-one/output/triplea/slides.pdf",
+            "target": "/research/slides-burmese-indef.pdf",
+            "event": "slides-burmese-indef"
+        },
+        "authorsHtml": [
+            "Lim, Meghan",
+            "Michael Yoshitaka Erlewine"
+        ],
+        "shortHtml": [
+            "Lim",
+            "Erlewine"
+        ],
+        "othersHtml": [
+            "Meghan Lim"
+        ],
+        "yesweb": true,
+        "files": [
+            {
+                "title": "Definiteness and indefiniteness in Burmese",
+                "event": "burmese-indef",
+                "url": "/research/burmese-indef.pdf",
+                "type": "pdf"
+            },
+            {
+                "title": "Associated slides",
+                "event": "slides-burmese-indef",
+                "url": "/research/slides-burmese-indef.pdf",
+                "type": "pdf"
+            }
+        ],
+        "url": "/research/burmese-indef.pdf"
+    },
+    {
+        "citationKey": "poster:salt2020",
+        "entryType": "talk",
+        "keywords": [
+            "Burmese",
+            "nominals",
+            "definiteness",
+            "indefiniteness",
+            "one",
+            "choice function",
+            "Non-Vacuity",
+            "semantics",
+            "hidden"
+        ],
+        "authors": [
+            {
+                "name": "Erlewine, Michael Yoshitaka",
+                "lastName": "Erlewine",
+                "displayName": "Michael Yoshitaka Erlewine"
+            },
+            {
+                "name": "Lim, Meghan",
+                "lastName": "Lim",
+                "displayName": "Meghan Lim"
+            }
+        ],
+        "projects": [
+            "one"
+        ],
+        "author": "Erlewine, Michael Yoshitaka and Lim, Meghan",
+        "title": "Anti-uniqueness without articles",
+        "note": "Poster presented at SALT 30",
+        "year": "2020",
+        "abstract": "We report on the interpretation of diﬀerent forms of singular argument nominals in Burmese, a language without articles, from original ﬁeldwork. Indeﬁnites use the numeral ‘one’ and introduce anti-uniqueness inferences. We derive this eﬀect from a novel proposal for ‘one’ indeﬁnites together with a Non-Vacuity constraint, rather than Maximize Presupposition, with crucial evidence from anaphoric deﬁnites with ‘one.’\n\n<strong>Three minute lightning talk:</strong>\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/3sz85jGM530\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+        "poster": {
+            "source": "/Users/mitcho/Dropbox/academic/projects/burmese-one/output/salt/poster.pdf",
+            "target": "/research/poster-salt2020.pdf",
+            "event": "poster-salt2020"
+        },
+        "authorsHtml": [
+            "Erlewine, Michael Yoshitaka",
+            "Meghan Lim"
+        ],
+        "shortHtml": [
+            "Erlewine",
+            "Lim"
+        ],
+        "othersHtml": [
+            "Meghan Lim"
+        ],
+        "yesweb": true,
+        "files": [
+            {
+                "title": "Poster",
+                "event": "poster-salt2020",
+                "url": "/research/poster-salt2020.pdf",
+                "type": "pdf"
+            }
+        ],
+        "url": "/research/poster-salt2020.pdf"
+    },
+    {
+        "citationKey": "talk:sicogg2020",
+        "entryType": "talk",
+        "keywords": [
+            "Austronesian",
+            "Pangasinan",
+            "Austronesian voice",
+            "probing",
+            "locality",
+            "scrambling",
+            "word order",
+            "disambiguation",
+            "syntax"
+        ],
+        "authors": [
+            {
+                "name": "Lim, Joey",
+                "lastName": "Lim",
+                "displayName": "Joey Lim"
+            },
+            {
+                "name": "Erlewine, Michael Yoshitaka",
+                "lastName": "Erlewine",
+                "displayName": "Michael Yoshitaka Erlewine"
+            }
+        ],
+        "projects": [
+            
+        ],
+        "author": "Lim, Joey and Erlewine, Michael Yoshitaka",
+        "title": "Word order and disambiguation in Pangasinan",
+        "note": "Presented at SICOGG 22",
+        "year": "2020",
+        "abstract": "Pangasinan (Austronesian; northern Philippines) has case marking and some agreement and generally free postverbal word order. However, in a particular, limited configuration where case and agreement fail to disambiguate between core arguments, their word order becomes rigid. We argue that these facts are explained by a feature-driven approach to scrambling, where scrambling probes can only target morphosyntactic features and not A&#8217;-features. This work shows that the well-known trade-off between word order rigidity and overt case/agreement is not merely a typological tendency, but can also be observed in an individual&#8217;s synchronic grammar.\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/LXVGkytDzRI\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+        "slides": {
+            "source": "/Users/mitcho/Dropbox/academic/projects/pangasinan/output/sicogg/slides-flat.pdf",
+            "target": "/research/slides-sicogg2020.pdf",
+            "event": "slides-sicogg2020"
+        },
+        "authorsHtml": [
+            "Lim, Joey",
+            "Michael Yoshitaka Erlewine"
+        ],
+        "shortHtml": [
+            "Lim",
+            "Erlewine"
+        ],
+        "othersHtml": [
+            "Joey Lim"
+        ],
+        "yesweb": true,
+        "files": [
+            {
+                "title": "Slides",
+                "event": "slides-sicogg2020",
+                "url": "/research/slides-sicogg2020.pdf",
+                "type": "pdf"
+            }
+        ],
+        "url": "/research/slides-sicogg2020.pdf"
+    },
+    {
+        "citationKey": "anti-pied-piping",
+        "entryType": "unpublished",
+        "keywords": [
+            "focus particles",
+            "focus association",
+            "anti-pied-piping",
+            "pied-piping",
+            "particle placement",
+            "cyclic Spell-Out",
+            "syntax",
+            "semantics"
+        ],
+        "authors": [
+            {
+                "name": "Branan, Kenyon",
+                "lastName": "Branan",
+                "displayName": "Kenyon Branan"
+            },
+            {
+                "name": "Erlewine, Michael Yoshitaka",
+                "lastName": "Erlewine",
+                "displayName": "Michael Yoshitaka Erlewine"
+            }
+        ],
+        "projects": [
+            "anti-pied-piping"
+        ],
+        "author": "Branan, Kenyon and Erlewine, Michael Yoshitaka",
+        "title": "Anti-pied-piping",
+        "url": "https://ling.auf.net/lingbuzz/005351/current.pdf",
+        "note": "Manuscript, National University of Singapore",
+        "year": "2020",
+        "abstract": "We document and investigate <em>anti-pied-piping</em>, a cross-linguistically widespread but understudied phenomenon where a language targets a proper subpart of the logical focus for focus morphosyntax, e.g. focus particle placement or focus movement. We develop a theory of focus particle placement which successfully generates both anti-pied-piping and pied-piping behavior, which in many cases results in a separation between the pronounced position of a focus particle and the logical position of its corresponding semantic contribution. Constraints on attested anti-pied-piping behavior and its interaction with movement show that particle placement takes place at particular, punctuated points in the derivation, in a cyclic model of syntactic structure-building. We also discuss the relation of particle placement to other processes such as stress assignment and discuss consequences for the status of focus in grammar.",
+        "authorsHtml": [
+            "Branan, Kenyon",
+            "Michael Yoshitaka Erlewine"
+        ],
+        "shortHtml": [
+            "Branan",
+            "Erlewine"
+        ],
+        "othersHtml": [
+            "Kenyon Branan"
+        ],
+        "files": [
+            {
+                "title": "Anti-pied-piping",
+                "event": "anti-pied-piping",
+                "url": "https://ling.auf.net/lingbuzz/005351/current.pdf",
+                "type": "pdf"
+            }
+        ]
+    },
+    {
         "citationKey": "talk:triplea2020-tibetan",
         "entryType": "talk",
         "keywords": [
@@ -22,6 +548,7 @@
         ],
         "author": "Erlewine, Michael Yoshitaka",
         "title": "Counterexpectation, concession, and free choice in Tibetan and beyond",
+        "note": "Invited talk at Triple A 7",
         "year": "2020",
         "abstract": "The expression <em>yin.na’ang</em> in Tibetan is (a) a discourse particle expressing counterexpection (‘however’), (b) a concessive scalar particle and (c) forms free choice items together with <em>wh</em>-words. Morphologically, <em>yin.na’ang</em> is a transparent combination of a copula, conditional ending, and <em>even</em>. In this talk, I document these uses of <em>yin.na’ang</em> from original fieldwork and propose a compositional semantics which derives this range of uses. Finally, I briefly discuss similar phenomena in Dravidian languages (Balusu 2019, 2020) and with Japanese demo, which cover the range of uses in (a–c) and also derive from similar ingredients.\n\n<a href=\"/research/tibetan-yine-nels.html\"><strong>See NELS proceedings paper</strong></a> and <a href=\"/research/tibetan-fc.html\"><strong>manuscript on universal free choice</strong></a>\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/nBIFLRFkKkc\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
         "handout": {
@@ -68,7 +595,8 @@
             "indefiniteness",
             "one",
             "choice function",
-            "semantics"
+            "semantics",
+            "hidden"
         ],
         "authors": [
             {
@@ -87,6 +615,7 @@
         ],
         "author": "Lim, Meghan and Erlewine, Michael Yoshitaka",
         "title": "Definiteness and indefiniteness in Burmese",
+        "note": "Presented at Triple A 7",
         "year": "2020",
         "abstract": "We report on the interpretation of diﬀerent forms of singular argument nominals in Burmese, a language without articles, from original ﬁeldwork. Like in Mandarin Chinese (Jenks, 2018), bare nouns are unique deﬁnites, with demonstratives used for anaphoric deﬁnites. Indeﬁnites use the numeral ‘one.’ We develop an analysis based on Jenks’ analysis of Mandarin Chinese deﬁnites, extended with a novel proposal for ‘one’ indeﬁnites. Indeﬁnites introduce an antiuniqueness inference, which we derive from a Non-Triviality constraint rather than Maximize Presupposition à la Heim 1991, with crucial evidence from anaphoric deﬁnites with ‘one.’ We also describe the availability of bare noun indefinite objects, which we analyze as a form of (pseudo) noun incorporation.\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/EjDbMbUd3bQ\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
         "slides": {
@@ -147,7 +676,7 @@
         "url": "https://ling.auf.net/lingbuzz/005211/current.pdf",
         "note": "Manuscript, National University of Singapore",
         "year": "2020",
-        "abstract": "We consider the typology of attested Ā-extraction asymmetries between core argument DPs and its consequences for the nature of probing. In particular, we question whether an Ā-probe can be required to specifically target the closest accessible DP. Such an Ā-probe specification is part of the influential Aldridge 2004, 2008 analysis of syntactically ergative extraction restrictions, but has not been widely adopted outside of work on ergative languages. In a non-ergative language, we expect the availability of such a probe to result in a subject-only Ā-extraction restriction. We reassess the evidence from asymmetries in relativization, especially Keenan and Comrie 1977, and provide new, stronger evidence for the existence of Ā-extraction limited to the closest DP argument, in non-ergative languages. We conclude that Ā-probes indeed can be specified to target the closest accessible DP and discuss analytical choices for their implementation.",
+        "abstract": "We consider the typology of attested Ā-extraction asymmetries between core argument DPs and argue that an Ā-probe can be required to specifically target the closest accessible DP. Such an Ā-probe specification is part of the influential Aldridge 2004, 2008 analysis of syntactically ergative extraction restrictions, but has not been widely adopted outside of work on ergative languages. We argue that restricted probing of this form underlies subject-only extraction behaviors in a number of non-ergative languages, including some of those in Keenan and Comrie’s (1977) typology of relativization asymmetries. We offer a concrete proposal for this form of Ā-probing and discuss further details of its implementation.",
         "authorsHtml": [
             "Branan, Kenyon",
             "Michael Yoshitaka Erlewine"
@@ -170,7 +699,7 @@
     },
     {
         "citationKey": "tibetan-fc",
-        "entryType": "unpublished",
+        "entryType": "incollection",
         "keywords": [
             "Tibetan",
             "free choice",
@@ -189,11 +718,14 @@
             "tibetan-yine"
         ],
         "author": "Erlewine, Michael Yoshitaka",
-        "title": "Universal free choice from concessive conditionals",
-        "url": "https://ling.auf.net/lingbuzz/005207/current.pdf",
-        "note": "Manuscript, National University of Singapore",
+        "editor": "Deng, Dun and Liu, Fenrong and Liu, Mingming and Westerståhl, Dag",
+        "title": "Universal free choice from concessive copular conditionals in Tibetan",
+        "url": "https://link.springer.com/chapter/10.1007/978-3-662-62843-0_2",
         "year": "2020",
-        "abstract": "I develop a new approach to universal free choice which does not prescribe universal force, but rather ensures this result through the use of a scalar particle. ‘Even’ associating with a wh-indefinite in a conditional clause will ensure that the modal/temporal operator restricted by the conditional has universal force. A pronoun referring to a referent described by this conditional will thus have wide-scope universal force, parasitic on the modal/temporal quantification. Evidence for such an approach for free choice comes from the overt morphology of universal free choice items in Tibetan, as well as similar expressions in Japanese and Dravidian languages.",
+        "abstract": "I describe the expression of free choice in Tibetan, which involves the combination of a <em>wh</em>-word, copula, conditional morphology, and a scalar ‘even’ particle. I demonstrate that the conventional semantics of these ingredients successfully combine to derive universal free choice meaning. This motivates a new approach to the compositional semantics of universal free choice, which does not prescribe its universal force. This quantiﬁcational force is parasitic on the modal/temporal operator which is restricted by the conditional; the scalar ‘even’ particle then ensures that the conditional restricts a necessity modal.",
+        "booktitle": "Monotonicity in Logic and Language",
+        "pages": "13&ndash;34",
+        "publisher": "Springer",
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
         ],
@@ -203,12 +735,40 @@
         "othersHtml": [
             
         ],
+        "editors": [
+            {
+                "name": "Deng, Dun",
+                "lastName": "Deng",
+                "displayName": "Dun Deng"
+            },
+            {
+                "name": "Liu, Fenrong",
+                "lastName": "Liu",
+                "displayName": "Fenrong Liu"
+            },
+            {
+                "name": "Liu, Mingming",
+                "lastName": "Liu",
+                "displayName": "Mingming Liu"
+            },
+            {
+                "name": "Westerståhl, Dag",
+                "lastName": "Westerståhl",
+                "displayName": "Dag Westerståhl"
+            }
+        ],
+        "editorsHtml": [
+            "Deng, Dun",
+            "Fenrong Liu",
+            "Mingming Liu",
+            "Dag Westerståhl"
+        ],
         "files": [
             {
-                "title": "Universal free choice from concessive conditionals",
+                "title": "Universal free choice from concessive copular conditionals in Tibetan",
                 "event": "tibetan-fc",
-                "url": "https://ling.auf.net/lingbuzz/005207/current.pdf",
-                "type": "pdf"
+                "url": "https://link.springer.com/chapter/10.1007/978-3-662-62843-0_2",
+                "type": ""
             }
         ]
     },
@@ -234,10 +794,13 @@
             "tibetan-yine"
         ],
         "author": "Erlewine, Michael Yoshitaka",
+        "editor": "Whitmal, Ayana and Asatryan, Mariam and Song, Yixiao",
         "title": "Counterexpectation, concession, and free choice in Tibetan",
-        "year": "to appear",
+        "year": "2020",
         "abstract": "The expression <em>yin.na’ang</em> in Tibetan is (a) a discourse particle expressing counterexpection (‘however’), (b) a concessive scalar particle (Lahiri 2010; Crnič 2011a,b) and (c) forms free choice items together with <em>wh</em>-words. Morphologically, <em>yin.na’ang</em> is a transparent combination of a copula, conditional ending, and <em>even</em>. In this talk, I document these uses of <em>yin.na’ang</em> from original fieldwork and propose a compositional semantics which derives this range of uses.",
         "booktitle": "Proceedings of NELS 50",
+        "volume": "1",
+        "pages": "227&ndash;236",
         "paper": {
             "source": "/Users/mitcho/Dropbox/academic/projects/tibetan/output-yine/nels50-proceedings/nels50-web.pdf",
             "target": "/research/tibetan-yine-nels.pdf",
@@ -257,6 +820,28 @@
         "othersHtml": [
             
         ],
+        "editors": [
+            {
+                "name": "Whitmal, Ayana",
+                "lastName": "Whitmal",
+                "displayName": "Ayana Whitmal"
+            },
+            {
+                "name": "Asatryan, Mariam",
+                "lastName": "Asatryan",
+                "displayName": "Mariam Asatryan"
+            },
+            {
+                "name": "Song, Yixiao",
+                "lastName": "Song",
+                "displayName": "Yixiao Song"
+            }
+        ],
+        "editorsHtml": [
+            "Whitmal, Ayana",
+            "Mariam Asatryan",
+            "Yixiao Song"
+        ],
         "files": [
             {
                 "title": "Counterexpectation, concession, and free choice in Tibetan",
@@ -274,8 +859,8 @@
         "url": "/research/tibetan-yine-nels.pdf"
     },
     {
-        "citationKey": "shi",
-        "entryType": "unpublished",
+        "citationKey": "shi-syntax",
+        "entryType": "incollection",
         "keywords": [
             "Mandarin Chinese",
             "shì",
@@ -298,11 +883,13 @@
             "focus-adverbs"
         ],
         "author": "Erlewine, Michael Yoshitaka",
-        "title": "Mandarin <em>shì</em> clefts and the syntax of discourse congruence",
+        "editor": "Gergel, Remus and Reich, Ingo and Speyer, Augustin",
+        "title": "Mandarin exhaustive focus <em>shì</em> and the syntax of discourse congruence",
         "url": "https://ling.auf.net/lingbuzz/005176/current.pdf",
-        "note": "Manuscript, National University of Singapore",
-        "year": "2020",
-        "abstract": "This paper investigates the syntax and semantics of the Mandarin Chinese morpheme <em>shì</em> in its focus particle use. <em>Shì</em> associates with an in-situ focus and expresses cleft semantics. I argue that <em>shì</em> is a sentential focus particle subject to a requirement to adjoin as low as possible. This makes Mandarin <em>shì</em> notable as it expresses cleft semantics without separating the focused phrase from the rest of the clause, as is cross-linguistically common in the expression of clefts.\n\nI then show that <em>shì</em> is disallowed in certain reduced clauses, unlike ‘only.’ I propose that this restriction on the distribution of <em>shì</em> is due to its semantics, together with a particular proposal for the syntax of discourse congruence: the semantics of <em>shì</em> makes reference to the Question Under Discussion (QUD), unlike ‘only,’ and access to the QUD is mediated by a functional head in the high CP periphery. <em>Shì</em> is thus unavailable in reduced clauses which do not project this high functional layer.",
+        "year": "forthcoming",
+        "abstract": "This paper describes three constraints that together govern the distribution of the exhaustive focus marker <em>shì</em> in Mandarin Chinese. First, I argue that <em>shì</em> is a sentential focus particle that is subject to a requirement to adjoin as low as possible within its clause or phase. Second, I show that <em>shì</em> requires a congruent Question Under Discussion (QUD) and demonstrate the effects of this semantic constraint on the distribution of <em>shì</em>. Third and finally, I show that there are certain reduced clauses where <em>shì</em> is completely disallowed, although other focus particles such as &#8216;only&#8217; may appear. I propose that this last restriction is a particular proposal for the syntax/semantics of discourse congruence: reference to a QUD &mdash; required by the semantics of <em>shì</em> &mdash; is mediated by a functional head in the high CP periphery. <em>Shì</em> is thus unavailable in reduced clauses which do not project this high functional layer.",
+        "booktitle": "Particles in German, English, and beyond",
+        "publisher": "John Benjamins",
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
         ],
@@ -312,10 +899,32 @@
         "othersHtml": [
             
         ],
+        "editors": [
+            {
+                "name": "Gergel, Remus",
+                "lastName": "Gergel",
+                "displayName": "Remus Gergel"
+            },
+            {
+                "name": "Reich, Ingo",
+                "lastName": "Reich",
+                "displayName": "Ingo Reich"
+            },
+            {
+                "name": "Speyer, Augustin",
+                "lastName": "Speyer",
+                "displayName": "Augustin Speyer"
+            }
+        ],
+        "editorsHtml": [
+            "Gergel, Remus",
+            "Ingo Reich",
+            "Augustin Speyer"
+        ],
         "files": [
             {
-                "title": "Mandarin <em>shì</em> clefts and the syntax of discourse congruence",
-                "event": "shi",
+                "title": "Mandarin exhaustive focus <em>shì</em> and the syntax of discourse congruence",
+                "event": "shi-syntax",
                 "url": "https://ling.auf.net/lingbuzz/005176/current.pdf",
                 "type": "pdf"
             }
@@ -443,7 +1052,8 @@
             "syntax",
             "semantics",
             "focus particle",
-            "focus"
+            "focus",
+            "hidden"
         ],
         "authors": [
             {
@@ -501,7 +1111,8 @@
             "focus",
             "Spell-Out",
             "Japanese",
-            "Kikuyu"
+            "Kikuyu",
+            "hidden"
         ],
         "authors": [
             {
@@ -762,12 +1373,15 @@
         ],
         "author": "Erlewine, Michael Yoshitaka",
         "title": "Anti-locality and subject extraction",
-        "year": "to appear",
+        "year": "2020",
         "abstract": "In many languages, A&#8217;-extraction of local subject arguments behaves differently from the extraction of other arguments, for example in triggering specialized morphosyntactic processes or being subject to additional restrictions. I argue that many such interactions are due to an anti-locality constraint on movement, which bans movement which is too short. Subject extraction is often distinguished due to the high canonical position of subjects in their clauses (e.g. Spec,TP), making their movement to the clause edge (e.g. Spec,CP) uniquely in danger of violating the Spec-to-Spec Anti-Locality constraint <a href=“/research/af.html”>(Erlewine 2016)</a>. Concretely, three subject extraction asymmetry behaviors are discussed and analyzed: complementizer-trace effects, subject anti-agreement effects, and bans on subject resumption, including the so-called Highest Subject Restriction. In each case, we observe that the special behavior associated with subject extraction (a) can be obviated by increasing the distance of movement, (b) also applies to exceptionally high non-subjects, and (c) does not correlate with other subjecthood properties. These facts are straightforwardly explained by the anti-locality-based approach to these asymmetries, but are challenging for alternative accounts.",
         "journal": "Glossa",
+        "volume": "5",
+        "number": "84",
+        "pages": "1&ndash;38",
         "paper": {
-            "target": "https://ling.auf.net/lingbuzz/004765/current.pdf",
-            "event": "current"
+            "target": "http://doi.org/10.5334/gjgl.1079",
+            "event": "gjgl"
         },
         "handout": {
             "target": "https://mitcho.com/subjex/erlewine.pdf",
@@ -785,9 +1399,9 @@
         "files": [
             {
                 "title": "Anti-locality and subject extraction",
-                "event": "current",
-                "url": "https://ling.auf.net/lingbuzz/004765/current.pdf",
-                "type": "pdf"
+                "event": "gjgl",
+                "url": "http://doi.org/10.5334/gjgl.1079",
+                "type": "1079"
             },
             {
                 "title": "Associated handout",
@@ -796,7 +1410,7 @@
                 "type": "pdf"
             }
         ],
-        "url": "https://ling.auf.net/lingbuzz/004765/current.pdf"
+        "url": "http://doi.org/10.5334/gjgl.1079"
     },
     {
         "citationKey": "talk:glowinasia2019",
@@ -936,7 +1550,7 @@
             "focus particle",
             "exhaustivity",
             "scalarity",
-            "cleft",
+            "Non-Vacuity",
             "propositional cleft",
             "focus concord",
             "kakari-musubi",
@@ -949,30 +1563,30 @@
                 "displayName": "Michael Yoshitaka Erlewine"
             },
             {
-                "name": "New, Keely Zuo-Qi",
+                "name": "New, Keely",
                 "lastName": "New",
-                "displayName": "Keely Zuo-Qi New"
+                "displayName": "Keely New"
             }
         ],
         "projects": [
             "burmese-ma"
         ],
-        "author": "Erlewine, Michael Yoshitaka and New, Keely Zuo-Qi",
+        "author": "Erlewine, Michael Yoshitaka and New, Keely",
         "title": "A variably exhaustive and scalar focus particle and pragmatic focus concord in Burmese",
         "url": "https://ling.auf.net/lingbuzz/004697/current.pdf",
         "note": "Manuscript, National University of Singapore",
-        "year": "2019",
-        "abstract": "The Burmese particle <em>hma</em> expresses exhaustivity in some contexts but a scalar, <em>even</em>-like meaning in other contexts. We propose that <em>hma</em> is uniformly a not-at-issue scalar exhaustive, with semantics similar to that proposed for English <em>it</em>-clefts in Velleman, Beaver, Destruel, Bumford, Onea, and Coppock 2012. When <em>hma</em> takes wide scope, it leads to an exhaustive, cleft interpretation which is not scale-sensitive. When <em>hma</em> takes scope under negation, the resulting expression will have a scale-sensitive felicity condition.\n\nWe also analyze the sentence-ﬁnal mood marker <em>dar</em>, as the choice of interpretation of <em>hma</em> often correlates with its presence or absence, in a manner similar to focus concord eﬀects in other languages. We propose that <em>dar</em> is a marker of propositional clefts and argue that the semantics of <em>hma</em> and the pragmatic requirements of propositional clefts together derive this focus concord eﬀect, as well as its exceptions.",
+        "year": "2021",
+        "abstract": "The Burmese particle <em>hmá</em> expresses cleft-like exhaustivity in some contexts but a scalar, <em>even</em>-like meaning in other contexts. We propose that <em>hmá</em> is uniformly a not-at-issue scalar exhaustive, with semantics similar to that proposed for English <em>it</em>-clefts in Velleman, Beaver, Destruel, Bumford, Onea, and Coppock 2012. When <em>hmá</em> takes wide scope, it leads to an exhaustive interpretation which is not scale-sensitive. When <em>hmá</em> takes scope under negation, the resulting expression will have a scale-sensitive felicity condition due to a Non-Vacuity constraint.\n\nWe also analyze the sentence-final mood marker <em>ta/da</em>, which frequently but not always appears in scalar <em>hmá</em> utterances, in a manner similar to focus concord effects in other languages. We propose that <em>ta/da</em> is a marker of propositional clefts and argue that the semantics of <em>hmá</em> and the pragmatic requirements of propositional clefts together derive this apparent focus concord effect, as well as its exceptions.",
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka",
-            "Keely Zuo-Qi New"
+            "Keely New"
         ],
         "shortHtml": [
             "Erlewine",
             "New"
         ],
         "othersHtml": [
-            "Keely Zuo-Qi New"
+            "Keely New"
         ],
         "files": [
             {
@@ -1581,11 +2195,14 @@
         ],
         "author": "Erlewine, Michael Yoshitaka and Levin, Theodore and van Urk, Coppe",
         "title": "The typology of nominal licensing in Austronesian voice system languages",
-        "url": "https://ling.auf.net/lingbuzz/004879/current.pdf",
         "year": "2020",
         "abstract": "We propose that much of the variation amongst Austronesian voice system languages in post-verbal word order and the marking of non-pivot arguments can be productively understood by considering differences in the strategies of nominal licensing (Case). We propose two parameters: (i) the accusative parameter: the language does or does not have structural accusative case; (ii) the last-resort licensing parameter: DPs without structural Case-licensing may be licensed either under adjacency with the verb or by insertion of a case marker (genitive). Toba Batak, Balinese, Nanwang Puyuma, and Katipul/Ulivelivek Puyuma exemplify the four language types predicted by these parameters. We also discuss extensions of this approach to Tagalog and Malagasy.",
         "booktitle": "Proceedings of AFLA 26",
         "pages": "71&ndash;87",
+        "paper": {
+            "target": "https://ir.lib.uwo.ca/cgi/viewcontent.cgi?article=1050&context=afla",
+            "event": "viewcontent"
+        },
         "handout": {
             "source": "/Users/mitcho/Dropbox/academic/projects/voice/afla2019-lisa/handout-2up.pdf",
             "target": "/research/handout-voice-typology.pdf",
@@ -1608,9 +2225,9 @@
         "files": [
             {
                 "title": "The typology of nominal licensing in Austronesian voice system languages",
-                "event": "voice-typology",
-                "url": "https://ling.auf.net/lingbuzz/004879/current.pdf",
-                "type": "pdf"
+                "event": "viewcontent",
+                "url": "https://ir.lib.uwo.ca/cgi/viewcontent.cgi?article=1050&context=afla",
+                "type": "cgi?article=1050&context=afla"
             },
             {
                 "title": "Associated handout",
@@ -1618,7 +2235,8 @@
                 "url": "/research/handout-voice-typology.pdf",
                 "type": "pdf"
             }
-        ]
+        ],
+        "url": "https://ir.lib.uwo.ca/cgi/viewcontent.cgi?article=1050&context=afla"
     },
     {
         "citationKey": "japanese-intervention",
@@ -1782,9 +2400,12 @@
         "author": "Erlewine, Michael Yoshitaka and Levin, Theodore",
         "title": "Philippine clitic pronouns and the lower phase edge",
         "url": "https://ling.auf.net/lingbuzz/004847/current.pdf",
-        "year": "to appear",
+        "year": "2021",
         "abstract": "Pronominal paradigms in Philippine-type languages show a robust and curious gap: in transitive clauses pivot arguments and non-pivot agents may have bound pronominal forms, appearing as second position clitics, but pronominal non-pivot themes must be full, free pronouns. This gap teaches us about the organization of the lower phase edge. As cliticization involves a syntactic dependency between the host and argument position and all syntactic dependencies are constrained by phases, the gap is explained if pivots and non-pivot agents are speciﬁers of the phase head, making them the only DPs accessible for operations from outside of the phase.",
         "journal": "Linguistic Inquiry",
+        "volume": "52",
+        "number": "2",
+        "pages": "408&ndash;425",
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka",
             "<a href=\"https://sites.google.com/site/tfranklevin/\">Theodore Levin</a>"
@@ -3138,7 +3759,7 @@
         ],
         "author": "Erlewine, Michael Yoshitaka",
         "title": "Encoding QUD congruence in Mandarin Chinese",
-        "note": "Presented at Theoretical Linguistics at Keio 2016",
+        "note": "Presented at European Association of Chinese Linguistics (EACL) 9 (2015) and Theoretical Linguistics at Keio 2016",
         "year": "2016",
         "abstract": "I report on a particle in Mandarin Chinese which grammatically encodes congruence with an accepted Question Under Discussion (QUD). This is the marker <em>shì</em> in its so-called &#8220;focus marker&#8221; use (Teng, 1979, a.o.). This results in cleft semantics as in Velleman et al. (2012). I unify the behavior of <em>shì</em> in declaratives with the understudied behavior of <em>shì</em> in questions. I discuss the syntax/semantics of QUD congruence and differences between the distribution of <em>shì</em> and &#8216;only.&#8217;",
         "handout": {

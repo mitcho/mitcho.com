@@ -10,12 +10,51 @@ The syntax/semantics reading group at NUS meets weekly during the semester. Each
 
 Announcements are sent to the `synsem` mailing list. Subscribe to `synsem` on [NUS Groups](https://groups.nus.edu.sg/NUSgroups/).
 
-## 2019--2020 Sem 2
+## 2020--2021 Sem 2
 
-We will meet **Mondays at 4pm**, -in the AS5 fifth floor reading room- **via Zoom**, unless otherwise noted. (Additional syn/sem events are also included, in bold.)
+Our regular meeting time is **Wednesdays at noon**. Additional syn/sem events are also included, in bold.
 
-| Day    | Topic/reading                                                                 |
-|--------|-------------------------------------------------------------------------------|
+| **Jan 7--10** | [LSA 2021](https://www.linguisticsociety.org/event/lsa-2021-annual-meeting) online, with talks by Joey+mitcho, Kenyon+mitcho, Ryan+colleagues, Zheng |
+| **Jan 15--16** | [Asian Junior Linguists 5](https://sites.google.com/view/ajl-5/home) online, with talks by Joey and Zheng |
+| **Jan 20, 2021, 4pm**  | Language & Linguistics cluster talk: [Brian Rabern](https://www.brianrabern.net/) |
+| Jan 27 | JJ Lim, "A configurational account of case in Khalkha Mongolian" |
+| Feb 3 | Carlson et al 2006, ["Weak definite noun phrases"](http://ling.yale.edu/sites/default/files/files/horn/CarlsonEtAl2006_WeakDefs.pdf) |
+| Feb 10 | Huang to appear, ["How Subjects and Possessors Can Obviate Phasehood"](https://www.mitpressjournals.org/doi/abs/10.1162/ling_a_00414) |
+| Feb 17 | Lee to appear, ["Strength in deontic modals as acceptability and optimality"](https://ling.auf.net/lingbuzz/005701) |
+| Feb 24 | *No meeting (recess week)* |
+| Mar 3 | Sabbagh 2016 ["Specificity and objecthood in Tagalog"](https://doi.org/10.1017/S0022226716000025) |
+| Mar 10 | Glass, ["The negatively biased Mandarin belief verb *yǐwéi*"](https://drive.google.com/open?id=13mxdOCfkiDdK5Hfd8jDhCaGcc2lpdcs0) |
+| **Mar 17, 10am**  | Language & Linguistics cluster talk: [Maria Polinsky](http://www.mariapolinsky.com/) |
+| Mar 24 | Belk, Neeleman, and Philip ms ["What divides, and what unites, right-node raising"](https://ling.auf.net/lingbuzz/005719) |
+| Mar 31 | *No meeting* |
+| Apr 7 | Ward, Sproat, and McKoon 1991 ["A pragmatic analysis of so-called anaphoric islands"](https://faculty.wcas.northwestern.edu/~ward/Language91.pdf) |
+| Apr 14 | Bruening and Al Khalaf 2019 ["No argument–adjunct asymmetry in reconstruction for Binding Condition C"](https://doi.org/10.1017/S0022226718000324) |
+| **Apr 21, 10am** | Masha Polinsky, "Variation in exceptive constructions" |
+
+## Archives
+
+### 2020--2021 Sem 1
+
+| **Aug 12--14** | [SICOGG 22](http://2020.sicogg.or.kr/) online, including talks by Kenyon, Zheng, Joey + mitcho, and distinguished alumni Jian Gang and Yosuke |
+| **Aug 17--20** | [SALT 30](https://saltconf.github.io/salt30/) online, including "poster" by mitcho + Meghan |
+| **Aug 20--22** | [AFLA 27](https://lingconf.com/afla27/), hosted by NUS but held online, including a talk by Kenyon |
+| Sep 3  | JJ on switch reference in Mongolian |
+| Sep 10 | Spathas & Michelioudakis to appear, ["States in the decomposition of verbal predicates: evidence from additive operators"](https://ling.auf.net/lingbuzz/005380) |
+| Sep 17 | Keely on plural marking in Burmese |
+| Sep 24 | Erschler to appear, ["On timing of ellipsis: Evidence from extra deletion processes"](https://ling.auf.net/lingbuzz/005248) |
+| Oct  1 | Dell 1983 ["An aspectual distinction in Tagalog"](https://www.jstor.org/stable/20172314) |
+| Oct  8 | Pietraszko ["The timing of agreement and A-movement in Ndebele"](https://ling.auf.net/lingbuzz/005254) |
+| Oct 15 | Jasinskaja & Poschmann 2018 ["Attachment in syntax and discourse: Towards an explanation for the flexible scope of non-restrictive relative clauses"](https://journals.linguisticsociety.org/proceedings/index.php/SALT/article/view/28.433) |
+| Oct 22 | Kush, Lohndal, Sprouse 2019 ["On the island sensitivity of topicalization in Norwegian: An experimental investigation"](https://sprouse.uconn.edu/papers/Kush%20et%20al.%202019.pdf) |
+| Oct 29 | Overfelt ["Nipped in the bud: Failed sprouting in QUD not-at-issue content"](https://ling.auf.net/lingbuzz/005449) |
+| Nov  5 | Florio & Nicolas ["Plurals and mereology"](https://lingbuzz.net/lingbuzz/005513) |
+| Nov 12 | Henrison on Tagalog A'-dependencies |
+| | |
+
+### 2019--2020 Sem 2
+
+<!--We will meet **Mondays at 4pm**, -in the AS5 fifth floor reading room- **via Zoom**, unless otherwise noted. (Additional syn/sem events are also included, in bold.)-->
+
 | Jan 20 | Jasbi 2016 ["Three types of indefinites in Persian"](https://journals.linguisticsociety.org/proceedings/index.php/SALT/article/view/26.244) |
 | Jan 27 | *No meeting (CNY)* |
 | **Jan 28 4pm** | Nick Huang "'Nounless' nominal expressions in Mandarin Chinese: Implications for classifier semantics and nominal syntax" |
@@ -30,16 +69,10 @@ We will meet **Mondays at 4pm**, -in the AS5 fifth floor reading room- **via Zoo
 | Mar 30 | Nissenbaum 2000 ["Investigations of covert phrasal movement"](https://dspace.mit.edu/handle/1721.1/8842), chapter 2 |
 | Apr  6 | Schlenker to appear ["Inside Out: a Note on the Hierarchical Update of Nominal Modifiers"](https://ling.auf.net/lingbuzz/004811) |
 | Apr 13 | Keely on Mandarin anti-pronominal positions |
-
-
-## Archives
+| | |
 
 ### 2019--2020 Sem 1
 
-We will meet **Thursdays at 4pm**, in the AS5 fifth floor reading room, unless otherwise noted. (Additional syn/sem events are also included, in bold.)
-
-| Day    | Topic/reading                                                                 |
-|--------|-------------------------------------------------------------------------------|
 | Aug 22 | Lyn Tieu "Suppletion in children's novel comparatives and superlatives" |
 | Aug 29 | Ippolito 2004 ["An analysis of *still*"](http://journals.linguisticsociety.org/proceedings/index.php/SALT/article/viewFile/2900/2640) |
 | Sep 5  | Jouitteau 2007 ["Listen to the sound of salience, Multichannel syntax of Q particles"](https://ling.auf.net/lingbuzz/004752) (sixth floor meeting room) |
@@ -54,11 +87,10 @@ We will meet **Thursdays at 4pm**, in the AS5 fifth floor reading room, unless o
 | Nov  7 | Lee Junwen "Exploring the curious relationship between Colloquial Singapore English 'Hor' and 'Ah'" |
 | **Nov 11, 4pm** | Coppe van Urk "Interleaving hierarchies" |
 | **Nov 13, 4pm** | Jordan Kodner "Language change as native learners' response to 'monolingual' variation" |
+| | |
 
 ### 2018--2019 Sem 2
 
-| Day    | Topic/reading                                                                 |
-|--------|-------------------------------------------------------------------------------|
 | **Jan 18 3pm** | Ethan Jerzak "Paradoxical desires" (AS3 05-23) |
 | Jan 23 | Trinh 2009 ["A constraint on copy deletion"](https://cpb-us-w2.wpmucdn.com/people.uwm.edu/dist/c/368/files/2016/11/trinh2009copy-2kt14ob.pdf) |
 | Jan 30 | *No meeting (staff meeting)*|
@@ -81,8 +113,6 @@ We will meet **Thursdays at 4pm**, in the AS5 fifth floor reading room, unless o
 
 ### 2018--2019 Sem 1
 
-| Day    | Topic/reading                                                                 |
-|--------|-------------------------------------------------------------------------------|
 | Aug 15 | mitcho on relativization in Tibetan |
 | Aug 22 | (no meeting) |
 | Aug 29 | Cardinaletti & Starke 1999 "The typology of structural deficiency: A case study of the three classes of pronouns" |
@@ -100,8 +130,6 @@ We will meet **Thursdays at 4pm**, in the AS5 fifth floor reading room, unless o
 
 ### 2017--2018 Sem 2
 
-| Day    | Topic/reading                                                                 |
-|--------|-------------------------------------------------------------------------------|
 | **Jan 17 4pm** | Hadas Kotek "Multiple sluicing, scope, and superiority" (joint work with Matt Barros) |
 | Jan 24 | Gunlogson 2002 ["Declarative questions"](https://journals.linguisticsociety.org/proceedings/index.php/SALT/article/viewFile/2860/2600) |
 | Jan 31 | Norris to appear ["Unmarked case in Estonian nominals"](https://link.springer.com/article/10.1007/s11049-017-9377-9) |
@@ -120,8 +148,6 @@ We will meet **Thursdays at 4pm**, in the AS5 fifth floor reading room, unless o
 
 ### 2017--2018 Sem 1
 
-| Day    | Topic/reading                                                                 |
-|--------|-------------------------------------------------------------------------------|
 | Aug 24 | Cole & Hermon 2005 ["Subject And Non-subject Relativization in Indonesian"](https://link-springer-com.libproxy1.nus.edu.sg/article/10.1007%2Fs10831-004-2703-3) |
 | **Fri Aug 25 4pm** | Helen Jeoung "Alternations in Indonesian C" |
 | Aug 31 | Rullmann 1994 ["Negative islands aren't islands"](http://lingserver.arts.ubc.ca/linguistics/sites/default/files/LSA94P.pdf) |
