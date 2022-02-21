@@ -1,0 +1,16 @@
+{% assign papers = (site.data.bib | where_exp: 'item', 'item.entryType == "unpublished" and item.yearint >= 2017' | sort: 'year' | reverse) %}
+{% include research-group.html title = "Selected manuscripts" papers = papers %}
+
+
+
+{% assign papers = (site.data.bib | where_exp: 'item', 'item.entryType != "talk" and item.entryType != "unpublished"' | where_exp: 'item', 'item.year == "to appear" or item.year == "forthcoming" or item.year == "accepted"'| sort: 'entryType') %}
+{% include research-group.html title = "To appear" papers = papers %}
+
+
+
+{% assign byyear = (site.data.bib | where_exp: 'item', 'item.entryType != "talk" and item.entryType != "unpublished" and item.yearint > 2000' | sort: 'year' | reverse | group_by: 'year') %}
+{% for year in byyear %}
+{% assign papers = (year.items | sort: 'entryType') %}
+{% include research-group.html title = year.name papers = papers %}
+{% endfor %}
+

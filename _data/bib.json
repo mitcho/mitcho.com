@@ -1,5 +1,242 @@
 [
     {
+        "citationKey": "talk:afla2021",
+        "entryType": "talk",
+        "keywords": [
+            "Austronesian",
+            "Pangasinan",
+            "Austronesian voice",
+            "apposition",
+            "left dislocation",
+            "word order",
+            "syntax"
+        ],
+        "authors": [
+            {
+                "name": "Lim, Joey",
+                "lastName": "Lim",
+                "displayName": "Joey Lim"
+            },
+            {
+                "name": "Erlewine, Michael Yoshitaka",
+                "lastName": "Erlewine",
+                "displayName": "Michael Yoshitaka Erlewine"
+            }
+        ],
+        "projects": [
+            
+        ],
+        "author": "Lim, Joey and Erlewine, Michael Yoshitaka",
+        "title": "Argument apposition in Pangasinan",
+        "note": "Presented at AFLA 28",
+        "year": "2021",
+        "abstract": "We investigate an understudied phenomenon in the grammar of Pangasinan (northern Philippines), termed argument “apposition” in the Benton 1971 grammar of the language, supported by original elicitation work. Benton observes that arguments in Pangasinan are frequently introduced not by a run-of-the-mill case-marked nominal, but instead by a pronoun followed by a corresponding noun phrase (which we call the “associate”) which “identif[ies] the entity represented by the pronoun” (Benton, 1971: 145). \n\nWhat is the relationship between the pronoun and the corresponding associate phrase? Based on novel evidence from binding and movement, we propose that these associates are not in regular argument positions and are built apart from their corresponding pronouns — thus similar to right dislocation/afterthoughts in other languages and supporting Benton’s “apposition” description but later syntactically integrated into and linearized within the clause.\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/zE2Zk1aiSxA\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+        "slides": {
+            "source": "/Users/mitcho/Dropbox/academic/projects/pangasinan/output/afla/afla-slides/slides-lim-erlewine.pdf",
+            "target": "/research/slides-afla2021.pdf",
+            "event": "slides-afla2021"
+        },
+        "yearint": 2021,
+        "authorsHtml": [
+            "Lim, Joey",
+            "Michael Yoshitaka Erlewine"
+        ],
+        "shortHtml": [
+            "Lim",
+            "Erlewine"
+        ],
+        "othersHtml": [
+            "Joey Lim"
+        ],
+        "yesweb": true,
+        "files": [
+            {
+                "title": "Slides",
+                "event": "slides-afla2021",
+                "url": "/research/slides-afla2021.pdf",
+                "type": "pdf"
+            }
+        ],
+        "url": "/research/slides-afla2021.pdf"
+    },
+    {
+        "citationKey": "vietnamese-qua",
+        "entryType": "unpublished",
+        "keywords": [
+            "Vietnamese",
+            "excessive",
+            "comparative",
+            "malefactive",
+            "degree constructions",
+            "multifunctionality"
+        ],
+        "authors": [
+            {
+                "name": "Erlewine, Michael Yoshitaka",
+                "lastName": "Erlewine",
+                "displayName": "Michael Yoshitaka Erlewine"
+            },
+            {
+                "name": "Nguyen, Anne",
+                "lastName": "Nguyen",
+                "displayName": "Anne Nguyen"
+            }
+        ],
+        "projects": [
+            "qua"
+        ],
+        "author": "Erlewine, Michael Yoshitaka and Nguyen, Anne",
+        "title": "Ingredients of excess: A study of Vietnamese <em>quá</em>",
+        "url": "https://lingbuzz.net/lingbuzz/006395/current.pdf",
+        "note": "Manuscript, National University of Singapore",
+        "year": "2022",
+        "abstract": "We describe the various uses of the Vietnamese morpheme <em>quá</em> which appears in excessive constructions. Unlike other degree morphemes in Vietnamese, <em>quá</em> can precede or follow its gradable predicate, and we argue that these two different uses convey excess in very different ways: pre-predicate <em>quá</em> encodes purpose-oriented excessive truth conditions, whereas post-predicate quá is a comparative which projects a not-at-issue malefactive inference. We also describe two additional, non-excessive uses of <em>quá</em> — as an intensifier with speaker commitment and in the formation of exclamatives — and argue that these uses must be distinguished from the core excessive uses. This paper thus offers a case study of a highly multifunctional morpheme, with discussion of the syntactic and semantic relationships between these different uses.",
+        "yearint": 2022,
+        "authorsHtml": [
+            "Erlewine, Michael Yoshitaka",
+            "Anne Nguyen"
+        ],
+        "shortHtml": [
+            "Erlewine",
+            "Nguyen"
+        ],
+        "othersHtml": [
+            "Anne Nguyen"
+        ],
+        "files": [
+            {
+                "title": "Ingredients of excess: A study of Vietnamese <em>quá</em>",
+                "event": "vietnamese-qua",
+                "url": "https://lingbuzz.net/lingbuzz/006395/current.pdf",
+                "type": "pdf"
+            }
+        ]
+    },
+    {
+        "citationKey": "pangasinan-neg",
+        "entryType": "article",
+        "keywords": [
+            "Pangasinan",
+            "negation",
+            "allomorphy",
+            "second-position clitics",
+            "clitic pronouns",
+            "agreement",
+            "syntax",
+            "phonology"
+        ],
+        "authors": [
+            {
+                "name": "Erlewine, Michael Yoshitaka",
+                "lastName": "Erlewine",
+                "displayName": "Michael Yoshitaka Erlewine"
+            },
+            {
+                "name": "Lim, Joey",
+                "lastName": "Lim",
+                "displayName": "Joey Lim"
+            },
+            {
+                "name": "Branan, Kenyon",
+                "lastName": "Branan",
+                "displayName": "Kenyon Branan"
+            }
+        ],
+        "projects": [
+            
+        ],
+        "author": "Erlewine, Michael Yoshitaka and Lim, Joey and Branan, Kenyon",
+        "title": "Revisiting the form of negation in Pangasinan",
+        "year": "to appear",
+        "abstract": "Standard negation in Pangasinan comes in two forms, <em>ag</em> and <em>aga</em>. Benton’s 1971 grammar of Pangasinan describes the <em>aga</em> form of negation as occurring specifically with third-singular pivot arguments, which if correct would constitute a typologically unusual instance of marked thirdsingular morphology. We argue against this characterization and instead propose that <em>aga</em> is an allomorph of <em>ag</em> historically motivated by a disyllabic word minimum requirement, with some conventionalized restrictions on its distribution. We offer an explanation for its incorrect previous descriptions and discuss similar alternations between monosyllabic and disyllabic allomorphs of negation in other Austronesian languages and consequences for the prosodic status of second-position clitics.",
+        "journal": "Oceanic Linguistics",
+        "yearint": 0,
+        "authorsHtml": [
+            "Erlewine, Michael Yoshitaka",
+            "Joey Lim",
+            "Kenyon Branan"
+        ],
+        "shortHtml": [
+            "Erlewine",
+            "Lim",
+            "Branan"
+        ],
+        "othersHtml": [
+            "Joey Lim",
+            "Kenyon Branan"
+        ],
+        "yesweb": true,
+        "files": [
+            
+        ]
+    },
+    {
+        "citationKey": "talk:focus-debate",
+        "entryType": "talk",
+        "keywords": [
+            "F-marking",
+            "focus",
+            "syntax",
+            "semantics"
+        ],
+        "authors": [
+            {
+                "name": "Branan, Kenyon",
+                "lastName": "Branan",
+                "displayName": "Kenyon Branan"
+            },
+            {
+                "name": "Erlewine, Michael Yoshitaka",
+                "lastName": "Erlewine",
+                "displayName": "Michael Yoshitaka Erlewine"
+            }
+        ],
+        "projects": [
+            
+        ],
+        "author": "Branan, Kenyon and Erlewine, Michael Yoshitaka",
+        "title": "Is there focus-marking in the syntax?",
+        "note": "GLOW 44 targeted collaborative debate",
+        "year": "2021",
+        "abstract": "Since the early 1970’s, the analysis of focus has played a central role in discussions of the architecture of grammar. Focus refers to the identiﬁcation of a part of the sentence as standing in contrast to contextually-determined alternatives (see e.g. Krifka, 2008). Interpretationally, changes in focus placement lead to diﬀerences in discourse congruence, as well as truth-conditional semantics (see e.g. Rooth, 1992). Morphophonologically, focus placement may aﬀect stress placement or result in other morphosyntactic marking. Form-meaning correspondences in focus placement naturally lead to questions of modularity. Jackendoﬀ (1972: 240) proposed the idea of F-marking: “a syntactic marker F which can be associated with any node...”, which then feeds the semantics (Rooth 1985 et seq), morphosyntax, and prosody. Now, ﬁfty years later, we revisit this question: <em>Is there really F-marking in the narrow syntax?</em>\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/96TVzTWiolQ\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+        "handout": {
+            "target": "https://glowlinguistics.org/44/wp-content/uploads/sites/8/2021/04/handout-debate-focus.pdf",
+            "event": "handout-debate-focus"
+        },
+        "slides": {
+            "target": "https://glowlinguistics.org/44/wp-content/uploads/sites/8/2021/04/slides-debate-focus.pdf",
+            "event": "slides-debate-focus"
+        },
+        "yearint": 2021,
+        "authorsHtml": [
+            "Branan, Kenyon",
+            "Michael Yoshitaka Erlewine"
+        ],
+        "shortHtml": [
+            "Branan",
+            "Erlewine"
+        ],
+        "othersHtml": [
+            "Kenyon Branan"
+        ],
+        "yesweb": true,
+        "files": [
+            {
+                "title": "Handout",
+                "event": "handout-debate-focus",
+                "url": "https://glowlinguistics.org/44/wp-content/uploads/sites/8/2021/04/handout-debate-focus.pdf",
+                "type": "pdf"
+            },
+            {
+                "title": "Slides",
+                "event": "slides-debate-focus",
+                "url": "https://glowlinguistics.org/44/wp-content/uploads/sites/8/2021/04/slides-debate-focus.pdf",
+                "type": "pdf"
+            }
+        ],
+        "url": "https://glowlinguistics.org/44/wp-content/uploads/sites/8/2021/04/handout-debate-focus.pdf"
+    },
+    {
         "citationKey": "chains-lsa",
         "entryType": "inproceedings",
         "keywords": [
@@ -33,6 +270,7 @@
         "abstract": "We present a theory for the interpretation of Ā-movement chains at LF in the copy theory of movement where the NP restrictor of a DP Ā-movement chain is interpreted in only one copy. Such a view is motivated for English by evidence from reﬂexive binding, building on observations in Barss 1986, and its interaction with parasitic gap licensing and weak crossover effects. Our approach offers a means for understanding the classiﬁcation of Ā-movement types in Cinque 1990 and Postal 1994 in copy-theoretic terms.",
         "booktitle": "Proceedings of LSA 6",
         "pages": "734&ndash;745",
+        "yearint": 2021,
         "authorsHtml": [
             "Branan, Kenyon",
             "Michael Yoshitaka Erlewine"
@@ -82,10 +320,11 @@
         "editor": "Grohmann, Kleanthes K. and Leivada, Evelina",
         "title": "Locality and (minimal) search",
         "url": "https://lingbuzz.net/lingbuzz/005791/current.pdf",
-        "year": "submitted",
+        "year": "to appear",
         "abstract": "In this chapter prepared for the forthcoming <em>Cambridge Handbook of Minimalism</em>, we attempt to explicate the procedural approach to locality, which aims to explain syntactic locality restrictions based on the behavior of a search procedure in the grammar. We discuss explicit options for the search algorithm underlying \"minimal search,\" the need to distinguish probe interaction from satisfaction, and the shape of the search space. We describe how versions of this procedural approach can derive a wide range of attested relative and absolute locality effects.",
         "booktitle": "Cambridge Handbook of Minimalism",
         "publisher": "Cambridge University Press",
+        "yearint": 0,
         "authorsHtml": [
             "Branan, Kenyon",
             "Michael Yoshitaka Erlewine"
@@ -160,6 +399,7 @@
             "target": "/research/handout-lsa2021.pdf",
             "event": "handout-lsa2021"
         },
+        "yearint": 2021,
         "authorsHtml": [
             "Branan, Kenyon",
             "Michael Yoshitaka Erlewine"
@@ -223,6 +463,7 @@
             "target": "/research/poster-burmese-antiuniqueness.pdf",
             "event": "poster-burmese-antiuniqueness"
         },
+        "yearint": 2020,
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka",
             "Meghan Lim"
@@ -321,6 +562,7 @@
             "target": "/research/slides-burmese-indef.pdf",
             "event": "slides-burmese-indef"
         },
+        "yearint": 0,
         "authorsHtml": [
             "Lim, Meghan",
             "Michael Yoshitaka Erlewine"
@@ -388,6 +630,7 @@
             "target": "/research/poster-salt2020.pdf",
             "event": "poster-salt2020"
         },
+        "yearint": 2020,
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka",
             "Meghan Lim"
@@ -449,6 +692,7 @@
             "target": "/research/slides-sicogg2020.pdf",
             "event": "slides-sicogg2020"
         },
+        "yearint": 2020,
         "authorsHtml": [
             "Lim, Joey",
             "Michael Yoshitaka Erlewine"
@@ -505,6 +749,7 @@
         "note": "Manuscript, National University of Singapore",
         "year": "2020",
         "abstract": "We document and investigate <em>anti-pied-piping</em>, a cross-linguistically widespread but understudied phenomenon where a language targets a proper subpart of the logical focus for focus morphosyntax, e.g. focus particle placement or focus movement. We develop a theory of focus particle placement which successfully generates both anti-pied-piping and pied-piping behavior, which in many cases results in a separation between the pronounced position of a focus particle and the logical position of its corresponding semantic contribution. Constraints on attested anti-pied-piping behavior and its interaction with movement show that particle placement takes place at particular, punctuated points in the derivation, in a cyclic model of syntactic structure-building. We also discuss the relation of particle placement to other processes such as stress assignment and discuss consequences for the status of focus in grammar.",
+        "yearint": 2020,
         "authorsHtml": [
             "Branan, Kenyon",
             "Michael Yoshitaka Erlewine"
@@ -560,6 +805,7 @@
             "target": "/Users/mitcho/Dropbox/academic/projects/tibetan/output-yine/triplea2020/slides.pdf",
             "event": "slides"
         },
+        "yearint": 2020,
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
         ],
@@ -623,6 +869,7 @@
             "target": "/research/slides-triplea2020-burmese.pdf",
             "event": "slides-triplea2020-burmese"
         },
+        "yearint": 2020,
         "authorsHtml": [
             "Lim, Meghan",
             "Michael Yoshitaka Erlewine"
@@ -647,14 +894,16 @@
     },
     {
         "citationKey": "closest-dp",
-        "entryType": "unpublished",
+        "entryType": "article",
         "keywords": [
-            "extraction asymmetry",
+            "extraction asymmetries",
             "relativization",
             "subjects",
             "syntactic ergativity",
             "probing",
-            "syntax"
+            "syntax",
+            "Rejang",
+            "Turkish"
         ],
         "authors": [
             {
@@ -673,10 +922,14 @@
         ],
         "author": "Branan, Kenyon and Erlewine, Michael Yoshitaka",
         "title": "Ā-probing for the closest DP",
-        "url": "https://ling.auf.net/lingbuzz/005211/current.pdf",
-        "note": "Manuscript, National University of Singapore",
-        "year": "2020",
-        "abstract": "We consider the typology of attested Ā-extraction asymmetries between core argument DPs and argue that an Ā-probe can be required to specifically target the closest accessible DP. Such an Ā-probe specification is part of the influential Aldridge 2004, 2008 analysis of syntactically ergative extraction restrictions, but has not been widely adopted outside of work on ergative languages. We argue that restricted probing of this form underlies subject-only extraction behaviors in a number of non-ergative languages, including some of those in Keenan and Comrie’s (1977) typology of relativization asymmetries. We offer a concrete proposal for this form of Ā-probing and discuss further details of its implementation.",
+        "year": "to appear",
+        "abstract": "We consider the typology of attested Ā-extraction asymmetries between core argument DPs and argue that an Ā-probe can be required to specifically target the closest accessible DP. Such an Ā-probe specification is part of the influential Aldridge 2004, 2008 analysis of syntactically ergative extraction restrictions, but has not been widely adopted outside of work on ergative languages. We argue that restricted probing of this form underlies subject-only extraction behaviors in a number of non-ergative languages, including some of those in Keenan and Comrie’s (1977) typology of relativization asymmetries. We describe the behaviors of such probes in detail and relate them to other probe-goal behaviors in recent work on composite A/Ā probes.",
+        "journal": "Linguistic Inquiry",
+        "preprint": {
+            "target": "https://ling.auf.net/lingbuzz/005211/current.pdf",
+            "event": "current"
+        },
+        "yearint": 0,
         "authorsHtml": [
             "Branan, Kenyon",
             "Michael Yoshitaka Erlewine"
@@ -690,12 +943,13 @@
         ],
         "files": [
             {
-                "title": "Ā-probing for the closest DP",
-                "event": "closest-dp",
+                "title": "Preprint",
+                "event": "current",
                 "url": "https://ling.auf.net/lingbuzz/005211/current.pdf",
                 "type": "pdf"
             }
-        ]
+        ],
+        "url": "https://ling.auf.net/lingbuzz/005211/current.pdf"
     },
     {
         "citationKey": "tibetan-fc",
@@ -726,6 +980,7 @@
         "booktitle": "Monotonicity in Logic and Language",
         "pages": "13&ndash;34",
         "publisher": "Springer",
+        "yearint": 2020,
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
         ],
@@ -811,6 +1066,7 @@
             "target": "/research/poster-tibetan-yine-nels.pdf",
             "event": "poster-tibetan-yine-nels"
         },
+        "yearint": 2020,
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
         ],
@@ -886,10 +1142,11 @@
         "editor": "Gergel, Remus and Reich, Ingo and Speyer, Augustin",
         "title": "Mandarin exhaustive focus <em>shì</em> and the syntax of discourse congruence",
         "url": "https://ling.auf.net/lingbuzz/005176/current.pdf",
-        "year": "forthcoming",
+        "year": "to appear",
         "abstract": "This paper describes three constraints that together govern the distribution of the exhaustive focus marker <em>shì</em> in Mandarin Chinese. First, I argue that <em>shì</em> is a sentential focus particle that is subject to a requirement to adjoin as low as possible within its clause or phase. Second, I show that <em>shì</em> requires a congruent Question Under Discussion (QUD) and demonstrate the effects of this semantic constraint on the distribution of <em>shì</em>. Third and finally, I show that there are certain reduced clauses where <em>shì</em> is completely disallowed, although other focus particles such as &#8216;only&#8217; may appear. I propose that this last restriction is a particular proposal for the syntax/semantics of discourse congruence: reference to a QUD &mdash; required by the semantics of <em>shì</em> &mdash; is mediated by a functional head in the high CP periphery. <em>Shì</em> is thus unavailable in reduced clauses which do not project this high functional layer.",
         "booktitle": "Particles in German, English, and beyond",
         "publisher": "John Benjamins",
+        "yearint": 0,
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
         ],
@@ -962,6 +1219,7 @@
             "target": "/research/handout-singsummer2019.pdf",
             "event": "handout-singsummer2019"
         },
+        "yearint": 2019,
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
         ],
@@ -1020,6 +1278,7 @@
             "target": "/research/slides-tibetan-austronesian.pdf",
             "event": "slides-tibetan-austronesian"
         },
+        "yearint": 2020,
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
         ],
@@ -1080,6 +1339,7 @@
             "target": "/research/handout-anti-pied-piping2019.pdf",
             "event": "handout-anti-pied-piping2019"
         },
+        "yearint": 2019,
         "authorsHtml": [
             "Branan, Kenyon",
             "Michael Yoshitaka Erlewine"
@@ -1139,6 +1399,7 @@
             "target": "/research/poster-lsa2020.pdf",
             "event": "poster-lsa2020"
         },
+        "yearint": 2020,
         "authorsHtml": [
             "Branan, Kenyon",
             "Michael Yoshitaka Erlewine"
@@ -1210,6 +1471,7 @@
             "target": "/research/handout-afla2019.pdf",
             "event": "handout-afla2019"
         },
+        "yearint": 2019,
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka",
             "<a href=\"https://sites.google.com/site/tfranklevin/\">Theodore Levin</a>",
@@ -1282,6 +1544,7 @@
             "target": "/research/slides-continuation-ldd.pdf",
             "event": "slides-continuation-ldd"
         },
+        "yearint": 2019,
         "authorsHtml": [
             "Leong, Cara Su-Yi",
             "Michael Yoshitaka Erlewine"
@@ -1344,6 +1607,7 @@
         "keywords": [
             "anti-locality",
             "subject extraction",
+            "extraction asymmetries",
             "bundling",
             "complementizer-trace effects",
             "anti-agreement effects",
@@ -1387,6 +1651,7 @@
             "target": "https://mitcho.com/subjex/erlewine.pdf",
             "event": "erlewine"
         },
+        "yearint": 2020,
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
         ],
@@ -1453,6 +1718,7 @@
             "target": "/research/slides-glowinasia2019.pdf",
             "event": "slides-glowinasia2019"
         },
+        "yearint": 2019,
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
         ],
@@ -1517,6 +1783,7 @@
             "target": "/research/slides-lsa2020.pdf",
             "event": "slides-lsa2020"
         },
+        "yearint": 2020,
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
         ],
@@ -1544,7 +1811,7 @@
     },
     {
         "citationKey": "burmese-hma",
-        "entryType": "unpublished",
+        "entryType": "article",
         "keywords": [
             "Burmese",
             "focus particle",
@@ -1573,10 +1840,13 @@
         ],
         "author": "Erlewine, Michael Yoshitaka and New, Keely",
         "title": "A variably exhaustive and scalar focus particle and pragmatic focus concord in Burmese",
-        "url": "https://ling.auf.net/lingbuzz/004697/current.pdf",
-        "note": "Manuscript, National University of Singapore",
+        "url": "https://dx.doi.org/10.3765/sp.14.7",
         "year": "2021",
-        "abstract": "The Burmese particle <em>hmá</em> expresses cleft-like exhaustivity in some contexts but a scalar, <em>even</em>-like meaning in other contexts. We propose that <em>hmá</em> is uniformly a not-at-issue scalar exhaustive, with semantics similar to that proposed for English <em>it</em>-clefts in Velleman, Beaver, Destruel, Bumford, Onea, and Coppock 2012. When <em>hmá</em> takes wide scope, it leads to an exhaustive interpretation which is not scale-sensitive. When <em>hmá</em> takes scope under negation, the resulting expression will have a scale-sensitive felicity condition due to a Non-Vacuity constraint.\n\nWe also analyze the sentence-final mood marker <em>ta/da</em>, which frequently but not always appears in scalar <em>hmá</em> utterances, in a manner similar to focus concord effects in other languages. We propose that <em>ta/da</em> is a marker of propositional clefts and argue that the semantics of <em>hmá</em> and the pragmatic requirements of propositional clefts together derive this apparent focus concord effect, as well as its exceptions.",
+        "abstract": "The Burmese particle <em>hmá</em> expresses cleft-like exhaustivity in some contexts but a scalar, <em>even</em>-like meaning in other contexts. We propose that <em>hmá</em> is uniformly a not-at-issue scalar exhaustive, with semantics similar to that proposed for English <em>it</em>-clefts in Velleman, Beaver, Destruel, Bumford, Onea, and Coppock 2012. When <em>hmá</em> takes wide scope, it leads to an exhaustive interpretation which is not scale-sensitive. When <em>hmá</em> takes scope under negation, the resulting expression will have a scale-sensitive felicity condition due to a Non-Vacuity constraint. We show that <em>hmá</em> makes reference to alternatives ordered by likelihood, but cannot use other contextual orderings such as rank-orders.\n\nWe also analyze the sentence-final mood marker <em>ta/da</em>, which frequently but not always appears in scalar <em>hmá</em> utterances, in a manner similar to focus concord effects in other languages. We propose that <em>ta/da</em> is a marker of propositional clefts and argue that the semantics of <em>hmá</em> and the pragmatic requirements of propositional clefts together derive this apparent focus concord effect, as well as its exceptions.\n",
+        "journal": "Semantics &amp; Pragmatics",
+        "volume": "14",
+        "number": "7",
+        "yearint": 2021,
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka",
             "Keely New"
@@ -1592,8 +1862,8 @@
             {
                 "title": "A variably exhaustive and scalar focus particle and pragmatic focus concord in Burmese",
                 "event": "burmese-hma",
-                "url": "https://ling.auf.net/lingbuzz/004697/current.pdf",
-                "type": "pdf"
+                "url": "https://dx.doi.org/10.3765/sp.14.7",
+                "type": "7"
             }
         ]
     },
@@ -1618,7 +1888,7 @@
             }
         ],
         "projects": [
-            
+            "qua"
         ],
         "author": "Nguyen, Anne and Erlewine, Michael Yoshitaka",
         "title": "Ingredients of excess: A study of Vietnamese <em>quá</em>",
@@ -1640,6 +1910,7 @@
             "target": "/research/slides-salt2019.pdf",
             "event": "slides-salt2019"
         },
+        "yearint": 2019,
         "authorsHtml": [
             "Nguyen, Anne",
             "Michael Yoshitaka Erlewine"
@@ -1651,7 +1922,6 @@
         "othersHtml": [
             "Anne Nguyen"
         ],
-        "yesweb": true,
         "files": [
             {
                 "title": "Poster",
@@ -1673,6 +1943,61 @@
             }
         ],
         "url": "/research/poster-salt2019.pdf"
+    },
+    {
+        "citationKey": "talk:deg2019",
+        "entryType": "talk",
+        "keywords": [
+            "Vietnamese",
+            "degrees",
+            "excessive",
+            "hidden"
+        ],
+        "authors": [
+            {
+                "name": "Nguyen, Anne",
+                "lastName": "Nguyen",
+                "displayName": "Anne Nguyen"
+            },
+            {
+                "name": "Erlewine, Michael Yoshitaka",
+                "lastName": "Erlewine",
+                "displayName": "Michael Yoshitaka Erlewine"
+            }
+        ],
+        "projects": [
+            "qua"
+        ],
+        "author": "Nguyen, Anne and Erlewine, Michael Yoshitaka",
+        "title": "Ingredients of excess: A study of Vietnamese <em>quá</em>",
+        "year": "2019",
+        "abstract": "We study the uses of the Vietnamese excessive morpheme <em>quá</em>, which is unusual in being able to precede or follow a gradable predicate, unlike other degree morphemes. Excessives canonically express that the degree of a gradable predicate is greater than what is compatible with a purpose (Meier 2003), but have also been described as introducing a malefactive inference. We that the pre- and post-predicate uses of <em>quá</em> encode these two different components of excessive meaning: one is a purpose-oriented excessive construction, whereas the other is a comparative which encodes a not-at-issue malefactive inference. We also survey additional uses of the morpheme(s) <em>quá</em> in Vietnamese.",
+        "handout": {
+            "source": "/Users/mitcho/Dropbox/academic/projects/excessive/deg/handout-deg.pdf",
+            "target": "/research/handout-deg2019.pdf",
+            "event": "handout-deg2019"
+        },
+        "yearint": 2019,
+        "authorsHtml": [
+            "Nguyen, Anne",
+            "Michael Yoshitaka Erlewine"
+        ],
+        "shortHtml": [
+            "Nguyen",
+            "Erlewine"
+        ],
+        "othersHtml": [
+            "Anne Nguyen"
+        ],
+        "files": [
+            {
+                "title": "Handout",
+                "event": "handout-deg2019",
+                "url": "/research/handout-deg2019.pdf",
+                "type": "pdf"
+            }
+        ],
+        "url": "/research/handout-deg2019.pdf"
     },
     {
         "citationKey": "poster:lsa2019",
@@ -1724,6 +2049,7 @@
             "target": "/research/handout-lsa2019.pdf",
             "event": "handout-lsa2019"
         },
+        "yearint": 2019,
         "authorsHtml": [
             "Lim, Cheryl",
             "Michael Yoshitaka Erlewine"
@@ -1793,6 +2119,7 @@
             "target": "/research/slides-lsa2019.pdf",
             "event": "slides-lsa2019"
         },
+        "yearint": 2019,
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
         ],
@@ -1846,7 +2173,7 @@
         "editor": "McCready, Elin and Nomoto, Hiroki and Takubo, Yukinori",
         "title": "A syntactic universal in a contact language: The story of Singlish <em>already</em>",
         "url": "https://ling.auf.net/lingbuzz/004317/current.pdf",
-        "year": "forthcoming",
+        "year": "to appear",
         "abstract": "This paper investigates the syntax and semantics of Singlish (Colloquial Singapore English) sentence-final <em>already</em> and its development in the contact ecology of Singapore. Bao 2005 identifies the Mandarin Chinese perfective suffix <em>-le</em> and sentence-final particle <em>le</em> as two substrate sources for Singlish <em>already</em>. In this paper, I first argue instead that sentence-final <em>le</em> — together with its cognate <em>liao/laa</em> in other Chinese languages of Singapore — is the sole substrate source for the syntax and semantics of Singlish <em>already</em>. The various interpretational effects of <em>already</em> can be derived from a uniform semantics shared with its substrate cognate particles <em>le/liau/laa</em>, together with consideration of the telicity of the predicate. I furthermore show that the syntax of <em>already</em> differs subtly from that of its substrate cognates: Singlish sentence-final <em>already</em> unambiguously scopes over the entire clause, whereas its substrate cognate particles <em>le/liau/laa</em> are in a clause-medial position. I propose that this difference can be explained through a process of reanalysis forced by the interaction of a syntactic universal, the Final-over-Final Constraint, together with independent differences between Singlish and its substrate Chinese languages.",
         "booktitle": "Discourse Particles in Asian Languages",
         "handout": {
@@ -1860,6 +2187,7 @@
             "event": "slides-already"
         },
         "publisher": "Routledge",
+        "yearint": 0,
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
         ],
@@ -1947,6 +2275,7 @@
         "booktitle": "Heading in the Right Direction: Linguistic Treats for Lisa Travis",
         "pages": "136&ndash;145",
         "publisher": "McGill Working Papers in Linguistics",
+        "yearint": 2018,
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka",
             "<a href=\"https://sites.google.com/site/tfranklevin/\">Theodore Levin</a>"
@@ -2034,6 +2363,7 @@
             "target": "/research/slides-burmese-salt.pdf",
             "event": "slides-burmese-salt"
         },
+        "yearint": 2018,
         "authorsHtml": [
             "New, Keely",
             "Michael Yoshitaka Erlewine"
@@ -2134,8 +2464,9 @@
         "title": "Bikol clefts and topics and the Austronesian extraction restriction",
         "url": "https://ling.auf.net/lingbuzz/004181/current.pdf",
         "note": "Manuscript, National University of Singapore",
-        "year": "2019",
-        "abstract": "Many Austronesian languages exhibit an extraction restriction whereby only one particular DP — the “pivot” argument, the choice of which is reflected by morphology on the verb — can be A&#8217;-extracted. We show that such extraction restrictions can vary between different A&#8217;-constructions in Bikol: local clefting is limited to the pivot, whereas topicalization can target pivots and non-pivot agents, but not other non-pivot DPs. Following the phase-theoretic, locality-based approach to such extraction asymmetries in related Austronesian languages, we propose that clefting and topicalization differ in the featural specifications of their probes, but must always attract their closest matching goal. Evidence for this approach comes from interactions between clefting, topicalization, and hanging topic left dislocation in long-distance configurations. Such data motivates the view that the classic Austronesian pivot-only extraction restriction is best characterized in terms of syntactic locality, rather than as a restriction on the grammatical function or morphological case of movement targets.",
+        "year": "2021",
+        "abstract": "Many Austronesian languages exhibit an extraction restriction whereby only one particular DP — the “pivot” argument, the choice of which is reﬂected by morphology on the verb — can be Ā-extracted. We show that such extraction restrictions can vary between different Ā-constructions in Bikol: local clefting is limited to the pivot, whereas topicalization can target pivots and non-pivot agents but not non-pivot themes of transitive verbs. Following the phase-theoretic, locality-based approach to such extraction asymmetries in related Austronesian languages, we propose that clefting and topicalization differ in the featural speciﬁcations of their probes, with clefting necessarily targeting the closest DP and topicalization simply seeking the closest topic constituent. Evidence for this approach comes from interactions between clefting, topicalization, and hanging topic left dislocation in long-distance conﬁgurations. Our study strengthens the view that the classic Austronesian pivot-only extraction restriction is best characterized in terms of syntactic locality, rather than as a restriction on the grammatical function or morphological case of movement targets.",
+        "yearint": 2021,
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka",
             "Cheryl Lim"
@@ -2208,6 +2539,7 @@
             "target": "/research/handout-voice-typology.pdf",
             "event": "handout-voice-typology"
         },
+        "yearint": 2020,
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka",
             "<a href=\"https://sites.google.com/site/tfranklevin/\">Theodore Levin</a>",
@@ -2271,6 +2603,7 @@
         "note": "Manuscript, National University of Singapore and Yale University",
         "year": "2018",
         "abstract": "Certain quantificational elements (“interveners”) have long been known to disrupt the interpretation of wh-in-situ (Hoji 1985 and many others), but the correct description of the set of interveners and the nature of intervention effects have been the subject of continued debate. We present a new generalization concerning the nature of intervener-hood in Japanese: A quantifier acts as an intervener if and only if it is scope-rigid. We follow the view that intervention effects reflect a particular LF configuration (Beck 2006 a.o.), but in contrast to previous approaches, we propose that any DP can lead to intervention if it is interpreted in a derived position above a wh-phrase at LF. Quantifiers which appear to be non-interveners are able to avoid this configuration. Intervention is limited to quantifiers interpreted in a derived position via movement, which supports the theory of intervention effects developed in Kotek 2017 as reflecting a logical incompatibility between the Predicate Abstraction rule and the computation of Rooth-Hamblin alternatives.",
+        "yearint": 2018,
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka",
             "<a href=\"http://hkotek.com/\">Hadas Kotek</a>"
@@ -2337,6 +2670,7 @@
             "target": "/research/slides-burmese-salt.pdf",
             "event": "slides-burmese-salt"
         },
+        "yearint": 2018,
         "authorsHtml": [
             "New, Keely",
             "Michael Yoshitaka Erlewine"
@@ -2399,13 +2733,13 @@
         ],
         "author": "Erlewine, Michael Yoshitaka and Levin, Theodore",
         "title": "Philippine clitic pronouns and the lower phase edge",
-        "url": "https://ling.auf.net/lingbuzz/004847/current.pdf",
         "year": "2021",
         "abstract": "Pronominal paradigms in Philippine-type languages show a robust and curious gap: in transitive clauses pivot arguments and non-pivot agents may have bound pronominal forms, appearing as second position clitics, but pronominal non-pivot themes must be full, free pronouns. This gap teaches us about the organization of the lower phase edge. As cliticization involves a syntactic dependency between the host and argument position and all syntactic dependencies are constrained by phases, the gap is explained if pivots and non-pivot agents are speciﬁers of the phase head, making them the only DPs accessible for operations from outside of the phase.",
         "journal": "Linguistic Inquiry",
         "volume": "52",
         "number": "2",
         "pages": "408&ndash;425",
+        "yearint": 2021,
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka",
             "<a href=\"https://sites.google.com/site/tfranklevin/\">Theodore Levin</a>"
@@ -2418,12 +2752,7 @@
             "<a href=\"https://sites.google.com/site/tfranklevin/\">Theodore Levin</a>"
         ],
         "files": [
-            {
-                "title": "Philippine clitic pronouns and the lower phase edge",
-                "event": "clitics",
-                "url": "https://ling.auf.net/lingbuzz/004847/current.pdf",
-                "type": "pdf"
-            }
+            
         ]
     },
     {
@@ -2463,6 +2792,7 @@
             "target": "/research/handout-bikol-afla.pdf",
             "event": "handout-bikol-afla"
         },
+        "yearint": 2018,
         "authorsHtml": [
             "Lim, Cheryl",
             "Michael Yoshitaka Erlewine"
@@ -2508,6 +2838,7 @@
             "target": "https://glowlinguistics.org/asia11/proceedings/",
             "event": "proceedings"
         },
+        "yearint": 2017,
         "editors": [
             {
                 "name": "Erlewine, Michael Yoshitaka",
@@ -2558,6 +2889,7 @@
             "target": "https://glowlinguistics.org/asia11/proceedings/",
             "event": "proceedings"
         },
+        "yearint": 2017,
         "editors": [
             {
                 "name": "Erlewine, Michael Yoshitaka",
@@ -2626,6 +2958,7 @@
             "target": "/research/slides-lsa2018-intervention.pdf",
             "event": "slides-lsa2018-intervention"
         },
+        "yearint": 2018,
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka",
             "<a href=\"http://hkotek.com/\">Hadas Kotek</a>"
@@ -2689,6 +3022,7 @@
             "target": "/research/slides-lsa2018-singlish.pdf",
             "event": "slides-lsa2018-singlish"
         },
+        "yearint": 2018,
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
         ],
@@ -2753,6 +3087,7 @@
             "target": "/research/japanese-intervention-ac.pdf",
             "event": "japanese-intervention-ac"
         },
+        "yearint": 2017,
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka",
             "<a href=\"http://hkotek.com/\">Hadas Kotek</a>"
@@ -2833,6 +3168,7 @@
             "target": "/research/japanese-intervention-lenls.pdf",
             "event": "japanese-intervention-lenls"
         },
+        "yearint": 2017,
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka",
             "<a href=\"http://hkotek.com/\">Hadas Kotek</a>"
@@ -2887,6 +3223,7 @@
             "target": "https://mitcho.com/research/subjex.html",
             "event": "subjex"
         },
+        "yearint": 2017,
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
         ],
@@ -2940,6 +3277,7 @@
         "note": "Manuscript, National University of Singapore",
         "year": "2017",
         "abstract": "Mandarin Chinese has two disjunctors, <em>háishi</em> and <em>huòzhe</em>. Alternative questions use <em>háishi</em> whereas logical, boolean disjunction is expressed with <em>huòzhe</em>. Building on previous decompositional analyses of disjunction, I propose that <em>háishi</em> spells out the junctor head J which projects its disjuncts as Roothian alternatives, whereas <em>huòzhe</em> spells out a version of the J head that must be existential closed, forming a quantifier. This account contrasts from previous work on disjunction in Mandarin, which requires <em>hàishi</em> to move at LF or which requires the two disjunctors to differ in the size of disjuncts. Evidence comes from focus intervention effects and island (in)sensitivity.\n\nI also consider environments where <em>háishi</em> and <em>huòzhe</em> are interchangeable, with disjunctive or conjunctive interpretation, which are also precisely where <em>wh</em>-phrases are used quantificationally. I offer a semantic characterization for these environments and argue against possible syntactic accounts. The distributions and interpretations of these disjunctors and <em>wh</em>-phrases in Mandarin Chinese form an argument for the two-dimensional Roothian Alternative Semantics framework over similar one-dimensional frameworks such as Hamblin semantics, from an empirical domain other than focus.",
+        "yearint": 2017,
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
         ],
@@ -2989,6 +3327,7 @@
             "target": "/research/slides-spcl2017.pdf",
             "event": "slides-spcl2017"
         },
+        "yearint": 2017,
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
         ],
@@ -3041,6 +3380,7 @@
             "target": "/research/handout-triplea2017.pdf",
             "event": "handout-triplea2017"
         },
+        "yearint": 2017,
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
         ],
@@ -3102,6 +3442,7 @@
             "target": "/research/slides-glow2017.pdf",
             "event": "slides-glow2017"
         },
+        "yearint": 2017,
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
         ],
@@ -3167,6 +3508,7 @@
             "target": "https://semanticsarchive.net/Archive/DRjNjViN/ErlewineKotek.pdf",
             "event": "ErlewineKotek"
         },
+        "yearint": 2018,
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka",
             "<a href=\"http://hkotek.com/\">Hadas Kotek</a>"
@@ -3261,6 +3603,7 @@
             "target": "https://www.linguisticsociety.org/sites/default/files/08_94.3Erlewine.pdf",
             "event": "08_94.3Erlewine"
         },
+        "yearint": 2018,
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
         ],
@@ -3316,6 +3659,7 @@
             "target": "/research/slides-focus-minimality.pdf",
             "event": "slides-focus-minimality"
         },
+        "yearint": 2016,
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
         ],
@@ -3383,6 +3727,7 @@
             "target": "/research/handout-kaqchikel-ae.pdf",
             "event": "handout-kaqchikel-ae"
         },
+        "yearint": 0,
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka",
             "<a href=\"https://sites.google.com/site/tfranklevin/\">Theodore Levin</a>"
@@ -3450,6 +3795,7 @@
             "target": "http://ling.auf.net/lingbuzz/003177/current.pdf",
             "event": "current"
         },
+        "yearint": 2017,
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
         ],
@@ -3510,6 +3856,7 @@
             "target": "/research/slides-cuhk2016.pdf",
             "event": "slides-cuhk2016"
         },
+        "yearint": 2016,
         "invited": true,
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
@@ -3581,6 +3928,7 @@
             "target": "/research/handout-sluicing-jk.pdf",
             "event": "handout-sluicing-jk"
         },
+        "yearint": 2018,
         "authorsHtml": [
             "<a href=\"https://teruyukimizuno.wordpress.com/\">Mizuno, Teruyuki</a>",
             "Michael Yoshitaka Erlewine"
@@ -3666,6 +4014,7 @@
             "target": "http://ling.auf.net/lingbuzz/003132/current.pdf",
             "event": "current"
         },
+        "yearint": 2018,
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
         ],
@@ -3716,6 +4065,7 @@
         "volume": "42",
         "number": "4",
         "pages": "837&ndash;839",
+        "yearint": 2016,
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
         ],
@@ -3772,6 +4122,7 @@
             "target": "/research/slides-talk2016-shi.pdf",
             "event": "slides-talk2016-shi"
         },
+        "yearint": 2016,
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
         ],
@@ -3843,6 +4194,7 @@
             "target": "/research/handout-tanglewood-salt.pdf",
             "event": "handout-tanglewood-salt"
         },
+        "yearint": 2016,
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka",
             "<a href=\"http://hkotek.com/\">Hadas Kotek</a>"
@@ -3946,6 +4298,7 @@
             "target": "http://ling.auf.net/lingbuzz/003068/current.pdf",
             "event": "current"
         },
+        "yearint": 2018,
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka",
             "<a href=\"http://hkotek.com/\">Hadas Kotek</a>"
@@ -4012,6 +4365,7 @@
             "event": "sluicing-lsj"
         },
         "author-ja": "水野 輝之、アーリーワイン マイケル芳貴",
+        "yearint": 2016,
         "authorsHtml": [
             "<a href=\"https://teruyukimizuno.wordpress.com/\">Mizuno, Teruyuki</a>",
             "Michael Yoshitaka Erlewine"
@@ -4078,6 +4432,7 @@
             "target": "/research/slides-batak-afla.pdf",
             "event": "slides-batak-afla"
         },
+        "yearint": 2016,
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
         ],
@@ -4182,6 +4537,7 @@
             "target": "/research/slides-chuj-nels.pdf",
             "event": "slides-chuj-nels"
         },
+        "yearint": 2016,
         "authorsHtml": [
             "<a href=\"http://hkotek.com/\">Kotek, Hadas</a>",
             "Michael Yoshitaka Erlewine"
@@ -4270,6 +4626,7 @@
             "target": "/research/handout-even-salt.pdf",
             "event": "handout-even-salt"
         },
+        "yearint": 2016,
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
         ],
@@ -4357,6 +4714,7 @@
         "volume": "55",
         "number": "1",
         "pages": "298&ndash;306",
+        "yearint": 2016,
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
         ],
@@ -4427,6 +4785,7 @@
             "target": "/research/slides-rppp-sub.pdf",
             "event": "slides-rppp-sub"
         },
+        "yearint": 2016,
         "authorsHtml": [
             "<a href=\"http://hkotek.com/\">Kotek, Hadas</a>",
             "Michael Yoshitaka Erlewine"
@@ -4518,6 +4877,7 @@
             "target": "/research/slides-focus-adverb-edges.pdf",
             "event": "slides-focus-adverb-edges"
         },
+        "yearint": 2015,
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
         ],
@@ -4591,6 +4951,7 @@
             "target": "/research/slides-chuj-wscla.pdf",
             "event": "slides-chuj-wscla"
         },
+        "yearint": 2018,
         "authorsHtml": [
             "<a href=\"http://hkotek.com/\">Kotek, Hadas</a>",
             "Michael Yoshitaka Erlewine"
@@ -4720,6 +5081,7 @@
             "target": "http://doi.org/10.5334/gjgl.174",
             "event": "gjgl"
         },
+        "yearint": 2016,
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka",
             "<a href=\"http://cms.ewha.ac.kr/user/indexSub.action?codyMenuSeq=2917484&siteId=englishe&menuUIType=top&dum=dum&prfId=3226638&command=view&prfSeq=9662215\">Isaac Gould</a>"
@@ -4788,6 +5150,7 @@
             "target": "http://ling.auf.net/lingbuzz/002739/current.pdf",
             "event": "current"
         },
+        "yearint": 2016,
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka",
             "<a href=\"http://hkotek.com/\">Hadas Kotek</a>"
@@ -4858,6 +5221,7 @@
             "target": "https://ling.auf.net/lingbuzz/003954/current.pdf",
             "event": "current"
         },
+        "yearint": 2019,
         "authorsHtml": [
             "<a href=\"http://hkotek.com/\">Kotek, Hadas</a>",
             "Michael Yoshitaka Erlewine"
@@ -4922,6 +5286,7 @@
             "target": "/research/slides-eacl2015.pdf",
             "event": "slides-eacl2015"
         },
+        "yearint": 2015,
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
         ],
@@ -4986,6 +5351,7 @@
             "target": "http://ling.auf.net/lingbuzz/002700/current.pdf",
             "event": "current"
         },
+        "yearint": 2015,
         "authorsHtml": [
             "<a href=\"http://hkotek.com/\">Kotek, Hadas</a>",
             "Michael Yoshitaka Erlewine"
@@ -5038,6 +5404,7 @@
             "target": "/research/handout-comp2010.pdf",
             "event": "handout-comp2010"
         },
+        "yearint": 2010,
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
         ],
@@ -5102,6 +5469,7 @@
             "target": "/research/slides-rppp-cls.pdf",
             "event": "slides-rppp-cls"
         },
+        "yearint": 2016,
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka",
             "<a href=\"http://hkotek.com/\">Hadas Kotek</a>"
@@ -5213,6 +5581,7 @@
             "target": "/research/minimality-focus.pdf",
             "event": "minimality-focus"
         },
+        "yearint": 2015,
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
         ],
@@ -5282,6 +5651,7 @@
             "target": "http://ling.auf.net/lingbuzz/002495/current.pdf",
             "event": "current"
         },
+        "yearint": 2017,
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
         ],
@@ -5324,6 +5694,7 @@
         "year": "2014",
         "abstract": "Recent crosslinguistic studies of comparative constructions such as Beck, Oda, and Sugisaki (2004) and Kennedy (2007) among others have not only broadened our understanding of how natural language expresses comparison, but also raised theoretical issues of how languages can differ both semantically and syntactically in what types of comparison can be expressed in what forms. The aim of this workshop is to provide an opportunity for linguists in the Cambridge area (and beyond) who are interested in this topic to share their recent findings and discuss their implications on the crosslinguistic typology of comparative constructions.",
         "publisher": "MIT Working Papers in Linguistics",
+        "yearint": 2014,
         "editors": [
             {
                 "name": "Erlewine, Michael Yoshitaka",
@@ -5380,6 +5751,7 @@
         "note": "Manuscript, McGill University",
         "year": "2015",
         "abstract": "In this paper I show that focus-sensitive adverbs in Vietnamese and Mandarin Chinese are required to be as low as possible in their phase while c-commanding their focus associate. This generalization parallels what has been proposed under one approach to German focus-sensitive particles by Jacobs (1983, 1986) and Büring and Hartmann (2001) under the banner of &#8220;Closeness,&#8221; but these analyses have been controversial. This &#8216;&#8216;as low as possible&#8221; behavior must result from the comparison of competing derivations, which I model using Optimality Theory. The fact that this requirement only holds within each phase shows that transderivational competition must be evaluated cyclically at each phase (Heck and Müller, 2001; Fanselow and Ćavar, 2001), and more generally offers a new kind of evidence for the idea of phase-based cyclic Spell Out (Chomsky, 2000, 2001).\n\nIn Vietnamese, I study the &#8216;only&#8217; operator <em>chỉ</em>. Vietnamese has a morphologically rich inventory of focus-sensitive operators which makes it clear that <em>chỉ</em> is an adverb. In Mandarin Chinese, I study the focus marker <em>shì</em> and the &#8216;only&#8217; operator <em>zhǐyǒu/zhǐ</em>. I argue that in the synchronic grammar of Mandarin, despite surface appearances, <em>zhǐyǒu</em> is an allomorph of <em>zhǐ</em> and that both <em>shì</em> and <em>zhǐyǒu/zhǐ</em> are adverbs.\n\n<strong>I am no longer pursuing publication of this paper in this form. The Vietnamese portion of this paper, without the OT presentation, is in <a href=\"http://mitcho.com/research/vietnamese-only.html\">“Vietnamese focus particles and derivation by phase”</a> in <em>JEAL</em>. See <a href=\"https://mitcho.com/research/minimality-focus.html\">“Minimality and focus-sensitive adverb placement”</a> in the <em>Proceedings of NELS 45</em> for discussion of the OT formulation.</strong>",
+        "yearint": 2015,
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
         ],
@@ -5432,6 +5804,7 @@
             "target": "/research/slides-ssila2015.pdf",
             "event": "slides-ssila2015"
         },
+        "yearint": 2015,
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
         ],
@@ -5520,6 +5893,7 @@
         "title": "Exploring the Cross-linguistic Nature of Simple and Complex Words and Expressions in Human Language Through Event-Related Potentials",
         "note": "Poster presented at Cognitive Neuroscience Society (CNS) 2014",
         "year": "2014",
+        "yearint": 2014,
         "authorsHtml": [
             "Hisagi, Miwako",
             "Michael Yoshitaka Erlewine",
@@ -5591,6 +5965,7 @@
             "target": "/research/slides-lsa2014-blocking.pdf",
             "event": "slides-lsa2014-blocking"
         },
+        "yearint": 2014,
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka",
             "<a href=\"http://hkotek.com/\">Hadas Kotek</a>"
@@ -5636,6 +6011,7 @@
         "journal": "Snippets",
         "volume": "26",
         "pages": "7&ndash;8",
+        "yearint": 2012,
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
         ],
@@ -5684,6 +6060,7 @@
             "target": "/research/sfp.pdf",
             "event": "sfp"
         },
+        "yearint": 0,
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
         ],
@@ -5735,6 +6112,7 @@
             "target": "/research/slides-ubiquity.pdf",
             "event": "slides-ubiquity"
         },
+        "yearint": 2009,
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
         ],
@@ -5789,6 +6167,7 @@
             "target": "/research/handout-teal2014.pdf",
             "event": "handout-teal2014"
         },
+        "yearint": 2014,
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
         ],
@@ -5852,6 +6231,7 @@
             "target": "http://ling.auf.net/lingbuzz/002629/current.pdf",
             "event": "current"
         },
+        "yearint": 2017,
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka",
             "<a href=\"https://sites.google.com/site/tfranklevin/\">Theodore Levin</a>",
@@ -5947,7 +6327,7 @@
             "target": "/research/handout-voice-afla.pdf",
             "event": "handout-voice-afla"
         },
-        "publisher": "Asia-Pacific Linguistics",
+        "yearint": 2015,
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka",
             "<a href=\"https://sites.google.com/site/tfranklevin/\">Theodore Levin</a>",
@@ -6029,7 +6409,7 @@
         ],
         "author": "Erlewine, Michael Yoshitaka",
         "title": "Subject marking on non-subjects in Squliq Atayal",
-        "year": "to appear",
+        "year": "2014",
         "abstract": "I investigate the distribution of the morpheme <em>qu</em> in Squliq Atayal (Formosan). <em>Qu</em> normally marks the sentence-final subject, which is cross-referenced by voice morphology on the verb. I show that <em>qu</em> can optionally mark specific, non-subject arguments in cases where the actual subject is not in sentence-final position. I propose that <em>qu</em> is a marker on topics licensed in a particular structural position (Spec,TopicP). While the subject will normally be in this position, when it is not, another [+specific] DP can occupy this position and be <em>qu</em>-marked. Consequences for theories of Austronesian voice will be discussed.",
         "booktitle": "Proceedings of the 20th Meeting of the Austronesian Formal Linguistics Association (AFLA 20)",
         "paper": {
@@ -6042,6 +6422,7 @@
             "target": "/research/handout-squliq.pdf",
             "event": "handout-squliq"
         },
+        "yearint": 2014,
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
         ],
@@ -6095,6 +6476,7 @@
         "booktitle": "A Pesky Set: Papers for David Pesetsky",
         "pages": "371&ndash;380",
         "publisher": "MIT Working Papers in Linguistics",
+        "yearint": 2017,
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
         ],
@@ -6171,6 +6553,7 @@
             "target": "/research/handout-leftward.pdf",
             "event": "handout-leftward"
         },
+        "yearint": 2014,
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
         ],
@@ -6253,6 +6636,7 @@
         "abstract": "In many Mayan languages, A-bar extraction of subjects of transitive clauses triggers a change to that verb&#8217;s morphology, known as Agent Focus. Previous researchers have assumed an exceptionless correlation between AF and the A-bar extraction of a transitive subject. In this paper new data from Kaqchikel (Mayan, Guatemala) shows that AF is a response to A-bar movement of a transitive subject that is too short. Movement of a transitive subject does not trigger AF if the movement chain is made longer by adding intervening material. An anti-locality constraint is proposed: \"Spec-to-Spec Anti-Locality,\" which bans movement between successive specifier positions. Spec-to-Spec Anti-Locality explains the full distributional pattern of AF in Kaqchikel. \n\n<strong>For full discussion, see <a href=\"http://mitcho.com/research/af.html\">“Anti-locality and optimality in Kaqchikel Agent Focus”</a> in <em>NLLT</em>.</strong>",
         "booktitle": "Proceedings of the 31st West Coast Conference on Formal Linguistics (WCCFL 31)",
         "pages": "150&ndash;159",
+        "yearint": 2014,
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
         ],
@@ -6311,6 +6695,7 @@
         "year": "2014",
         "abstract": "This dissertation investigates the consequences of overt and covert movement on association with focus. The interpretation of focus-sensitive operators such as &#8217;only&#8217; and &#8217;even&#8217; depends on the presence of a focused constituent in their scope. I document the complex conditions under which operators are able to associate with a focused constituent which has moved out of their scope. In particular, I concentrate on the ability of English &#8217;even&#8217; but not &#8217;only&#8217; to associate \"backwards\" in this configuration.\n\nI propose a theory based on the Copy Theory of movement which predicts the attested patterns of backwards association. When an operator gives the appearance of associating backwards, it is in fact associating with focus in the lower copy of the movement chain, within its scope. This is possible with &#8217;even&#8217; but not &#8217;only&#8217; due to independent differences in their compositional semantics: &#8217;only&#8217; uses focus alternatives to compute new truth conditions, whereas &#8217;even&#8217; uses the alternatives to introduce a presupposition without modifying the truth conditions. I furthermore argue that neither syntactic reconstruction nor covert movement of &#8217;even&#8217; (the scope theory) are adequate as a general solution to the problem of backwards association. This analysis supports a view where focus is represented in the narrow syntax and then interpreted at the interfaces.\n\nThe analysis is built upon a general framework for focus interpretation based on Kratzer (1991) which I apply to structures involving copy chains, combined with new facts regarding the projection behavior of the scalar inference of &#8217;even&#8217;. After presenting my proposal, I discuss its implications for the internal structure of DPs and show that it offers a new structural diagnostic for the derivational path of movement. Moreover, the inability of scope reconstruction to feed focus association in English motivates a new approach to syntactic reconstruction. The proposal developed here explains a range constraints on patterns of focus association, and more generally contributes to our understanding of the interaction of syntactic operations such as movement with the semantic and information-structural notion of focus.",
         "school": "Massachusetts Institute of Technology",
+        "yearint": 2014,
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
         ],
@@ -6365,6 +6750,7 @@
         "abstract": "This paper proposes a new kind of semantic analysis for Japanese head-internal relative clauses (HIRCs), based on new empirical observations concerning the interpretation of HIRCs with quantificational heads. The analysis involves abstraction over the domain of the HIRC&#8217;s head quantifier via null operator movement. The entire HIRC is then interpreted as a definite description, using a maximal informativeness semantics for definiteness (von Fintel, Fox, and Iatridou 2012) and an assumption about the role of context in the interpretation of referential expressions. This analysis accounts for the new data, the island sensitivity of HIRCs, and the fact that quantificational heads take scope within the HIRC. Finally, previous analyses for the semantics of Japanese HIRC are discussed in relation to the new data presented. \n\n<strong>For full discussion, see <a href=\"https://mitcho.com/research/japanese-rc.html\">“Unifying Japanese relative clauses”</a> in <em>Glossa</em>.</strong>",
         "booktitle": "Proceedings of the 31st West Coast Conference on Formal Linguistics (WCCFL 31)",
         "pages": "160&ndash;169",
+        "yearint": 2014,
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka",
             "<a href=\"http://cms.ewha.ac.kr/user/indexSub.action?codyMenuSeq=2917484&siteId=englishe&menuUIType=top&dum=dum&prfId=3226638&command=view&prfSeq=9662215\">Isaac Gould</a>"
@@ -6430,6 +6816,7 @@
             "target": "/research/slides-blocking-lsa2014.pdf",
             "event": "slides-blocking-lsa2014"
         },
+        "yearint": 2013,
         "authorsHtml": [
             "<a href=\"http://hkotek.com/\">Kotek, Hadas</a>",
             "Michael Yoshitaka Erlewine"
@@ -6469,7 +6856,8 @@
             "anti-agreement",
             "subject",
             "ergativity",
-            "competition"
+            "competition",
+            "extraction asymmetries"
         ],
         "authors": [
             {
@@ -6497,6 +6885,7 @@
             "target": "http://ling.auf.net/lingbuzz/001841/current.pdf",
             "event": "current"
         },
+        "yearint": 2016,
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
         ],
@@ -6555,6 +6944,7 @@
             "target": "http://lingbuzz.auf.net/lingbuzz/001687/current.pdf",
             "event": "current"
         },
+        "yearint": 2018,
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
         ],
@@ -6616,6 +7006,7 @@
             "target": "http://ling.auf.net/lingbuzz/001802/current.pdf",
             "event": "current"
         },
+        "yearint": 2016,
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka",
             "<a href=\"http://hkotek.com/\">Hadas Kotek</a>"
@@ -6671,6 +7062,7 @@
             "target": "/research/handout-dake.pdf",
             "event": "handout-dake"
         },
+        "yearint": 2012,
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
         ],
@@ -6720,6 +7112,7 @@
             "target": "/research/handout-glow2012.pdf",
             "event": "handout-glow2012"
         },
+        "yearint": 2012,
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
         ],
@@ -6794,6 +7187,7 @@
             "target": "/research/slides-focus-piedpiping.pdf",
             "event": "slides-focus-piedpiping"
         },
+        "yearint": 2014,
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka",
             "<a href=\"http://hkotek.com/\">Hadas Kotek</a>"
@@ -6899,6 +7293,7 @@
             "target": "/research/slides-focus-piedpiping.pdf",
             "event": "slides-focus-piedpiping"
         },
+        "yearint": 2016,
         "authorsHtml": [
             "<a href=\"http://hkotek.com/\">Kotek, Hadas</a>",
             "Michael Yoshitaka Erlewine"
@@ -6965,6 +7360,7 @@
         "booktitle": "<a href=\"http://mitwpl.mit.edu/catalog/mpel08/\">Studies in Kaqchikel Grammar</a>",
         "pages": "25&ndash;50",
         "publisher": "MIT Working Papers in Linguistics",
+        "yearint": 2013,
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
         ],
@@ -7015,6 +7411,7 @@
         "title": "Dissociating the syntax and morphological realization of Mayan Agent Focus",
         "note": "Presented at the First American International Morphology Meeting, UMass Amherst",
         "year": "2012",
+        "yearint": 2012,
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
         ],
@@ -7068,6 +7465,7 @@
             "target": "/research/handout-haishi-cls.pdf",
             "event": "handout-haishi-cls"
         },
+        "yearint": 2014,
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
         ],
@@ -7150,6 +7548,7 @@
         "title": "The verbal nature of Mandarin comparative <em>bǐ</em>",
         "year": "2008",
         "booktitle": "Proceedings of the National Conference on Linguistics 2008",
+        "yearint": 2008,
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
         ],
@@ -7196,6 +7595,7 @@
             "target": "/research/handout-bi-wccfl.pdf",
             "event": "handout-bi-wccfl"
         },
+        "yearint": 2012,
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
         ],
@@ -7286,6 +7686,7 @@
             "target": "/research/slides-isle2011.pdf",
             "event": "slides-isle2011"
         },
+        "yearint": 2011,
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
         ],
@@ -7331,6 +7732,7 @@
         "abstract": "In this paper I document the complex interactions between the Mandarin sentence-final <em>only</em> item <em>éryǐ</em> and the focus marker <em>shì</em>. Following work on Chinese Sentence-Final Particles (SFP), <em>éryǐ</em> syntactically is in the CP-domain and thus should scope above TP-level operators such as negation, and this is indeed normally the case. However, the introduction of the focus marker <em>shì</em> can force the sentence-final <em>éryǐ</em> to take scope below the TP-level negation, creating a problem for the theory of Mandarin SFP.\n\nI propose that <em>shì</em> unambiguously marks the semantic scope of Mandarin focus-sensitive operators which involve Association With Focus. I show how this analysis preserves the expected syntactic cartography while computing the correct semantic scope. A compositional syntax/semantics utilizing focus movement is also presented.\n\n<strong>This analysis is superseded by that in <a href=\"https://mitcho.com/research/sfp-fofc.html\">“Low sentence-final particles in Mandarin Chinese and the Final-over-Final Constraint”</a> in <em>JEAL</strong></em>",
         "booktitle": "The Proceedings of the 22nd North American Conference of Chinese Linguistics (NACCL 22) and the 18th Annual Meeting of the International Association of Chinese Linguistics (IACL 18)",
         "pages": "18&ndash;35",
+        "yearint": 2010,
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
         ],
@@ -7377,6 +7779,7 @@
             "target": "/research/thesis.pdf",
             "event": "thesis"
         },
+        "yearint": 2007,
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka"
         ],
