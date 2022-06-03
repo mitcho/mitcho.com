@@ -5,6 +5,7 @@ projects:
 - focus-sem
 - burmese-ma
 - tibetan-yine
+- clefts
 ---
 
 Focus particles such as *only*, *even*, and *also* relate the current utterance to other alternatives in the discourse. While particles with these three, well-studied functions are common in language of the world, their precise semantics can vary, and languages also have particles which express different meanings, or meanings which cross-cut these common categories. My own work has studied unique focus particles in Burmese and Tibetan.
@@ -17,3 +18,6 @@ In recent work, I have studied **the Tibetan particle *yin.na'ang***. *Yin.na'an
 
 {% include project-papers.html project = "tibetan-yine" %}
 
+I am also interested in the cross-linguistic syntax and semantics of *clefts* and, more generally, grammatical markers which make reference to the Question Under Discussion (QUD). This interest stems from my investigation of **the Mandarin Chinese focus marker *shì* 是**, which I argue expresses **cleft semantics without a \"cleaving\" syntax** which separates the focused pivot from its background, as an English *it*-cleft does. I show that *shì* requires the material in its scope to be congruent to an accepted QUD, supporting the view that **cleft semantics is QUD-dependent** (Velleman et al 2012), unlike other exclusives such as *only*. I also investigate the syntax and semantics of **\"cleft questions,\"** such as the English *Who is it that came last night?*, which seem to be an instance of backwards focus association as investigated in [my dissertation](/research/dissertation.html).
+
+{% include project-papers.html project = "clefts" %}
