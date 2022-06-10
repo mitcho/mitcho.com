@@ -24,6 +24,13 @@ body {
     -webkit-text-size-adjust: 100%;
 }
 
+li {
+	padding-bottom: 4pt;
+	&:last-child {
+		padding-bottom: 0pt;
+	}
+}
+
 small {
 	font-size: $small-font-size;
 }

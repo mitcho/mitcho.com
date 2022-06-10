@@ -24,6 +24,10 @@
 		margin-right: $nav-width; // to avoid collision with image
 		// todo: instead move part of the head info to the bottom of the page when too narrow.
 
+		li {
+			padding-bottom: 0pt;
+		}
+
 		a small {
 			display: inline;
 		}
@@ -74,6 +78,10 @@
 
 	.site-header {
 		margin-right: 0px;
+
+		li {
+			padding-bottom: 0pt;
+		}
 
 		h1.name, p {
 			margin-right: 120px;
