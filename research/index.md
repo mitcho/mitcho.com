@@ -4,7 +4,7 @@ layout: page
 permalink: /research/
 ---
 
-*List research [by project](/projects).*
+*See research [by project](/projects) or publications [by year](/research/cron/).*
 
 {% include research-list.html %}
 

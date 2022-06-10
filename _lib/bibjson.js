@@ -143,6 +143,13 @@ function convertItem(item) {
 			newItem[keys[i].toLowerCase()] = cleanup(item.entryTags[keys[i]], keys[i]);
 	}
 	
+	if ('year' in newItem) {
+		if (!isNaN(parseInt(newItem['year'])))
+			newItem['yearint'] = parseInt(newItem['year']);
+		else
+			newItem['yearint'] = 0;
+	}
+	
 	if (newItem.citationKey.match(/^invited:/)) {
 		newItem.citationKey = newItem.citationKey.replace(/^invited:/, 'talk:');
 		newItem.invited = true;
