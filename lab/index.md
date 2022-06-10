@@ -7,8 +7,11 @@ permalink: /lab/
 
 The Syntax/Semantics Lab at the National University of Singapore investigates linguistic theory through the study of languages of Singapore and Southeast Asia.
 
-## Members
+* Anne Nguyen, postdoc
+* Joey Lim, RA
+* Keng Ji Chow, BA 2022
 
+<!--
 <style>
 .member {
 	display: inline-block;
@@ -29,21 +32,8 @@ The Syntax/Semantics Lab at the National University of Singapore investigates li
 <br/> [Zheng Shen](https://zheng-shen.github.io/)
 
 {:.member}
-![Kenyon Branan](kenyon-320.jpg)
-[Kenyon Branan](https://sites.google.com/view/kbranan/home), postdoc
-
-{:.member}
-![Henrison Hsieh](henrison-300.jpg)
-[Henrison Hsieh](https://henrison.github.io/), postdoc
-
-<!--{:.member}
-![Ryan Walter Smith](ryan-300.jpg)
-[Ryan Walter Smith](https://ryanwaltersmith.wixsite.com/home/), postdoc (starting 2021)
--->
-
-{:.member}
-![Keely New](keely-300.jpg)
-[Keely New](https://keely.news/), RA
+![Anne Nguyen](anne-300.jpg)
+Anne Nguyen, postdoc
 
 {:.member}
 ![Joey Lim](joey-300.jpg)
@@ -53,21 +43,15 @@ Joey Lim, RA
 ![Meghan Lim](meghan-300.jpg)
 Meghan Lim, RA
 
-{:.member}
-![Justin Adhiyatma](justin-300.jpg)
-Justin Adhiyatma, RA
+-->
 
-<p class="member" style="border: 1px black dotted; height: 148px"><strong>You! (<a href="https://careers.nus.edu.sg/NUS/job/Kent-Ridge-Postdoctoral-Fellow-Kent/3900844/">We're hiring a post-doc!</a>)</strong></p>
+<!--<p class="member" style="border: 1px black dotted; height: 148px"><strong>You! (<a href="https://careers.nus.edu.sg/NUS/job/Kent-Ridge-Postdoctoral-Fellow-Kent/3900844/">We're hiring a post-doc!</a>)</strong></p>-->
 
 
 <!--
-{:.member}
-![JJ Lim](jj-300.jpg)
-JJ Lim, RA
+![Cheryl Lim](cheryl-300.jpg)
+Cheryl Lim, RA
 
-{:.member}
-![Wenkai Tay](wenkai-300.jpg)
-Wenkai Tay, RA
 -->
 
 <!--
@@ -75,16 +59,27 @@ Wenkai Tay, RA
 [*your name here*](https://linguistlist.org/issues/30/30-3799.html)
 -->
 
-## Friends and alumni
+## Alumni
+
+* [Kenyon Branan](https://sites.google.com/view/kbranan/home), postdoc 2018--2021; now at Leibniz ZAS, Berlin
+* [Tingchun (TC) Chen](https://www.tingchunchen.com/), postdoc 2018--2019; now at National Tsing Hua University, Nanda
+* [Henrison Hsieh](https://henrison.github.io/), postdoc 2021--2022; now at Hong Kong Polytechnic University
+* [Ted Levin](https://sites.google.com/site/tfranklevin/), postdoc 2017--2018; now at Apple
+* [Cara Leong](https://caraleong.com/), collaborator and advisee; now PhD student at NYU
+* [JJ Lim](https://jjlim.me), RA 2020; now PhD student at UC San Diego
+* [Keely New](https://keely.news/), RA 2019--2021; now PhD student at MIT
+* Wenkai Tay, RA 2019--2020; now PhD student at University College London
+* [Jianrong (JR) Yu](https://sites.google.com/email.arizona.edu/jianrongyu/home), postdoc 2021; now at KU Leuven
+
+
+## Friends
 
 * [Bob Beddor](https://www.bobbeddor.com/), NUS Philosophy
-* [Tingchun (TC) Chen](https://www.tingchunchen.com/), postdoc 2018--2019; now at National Tsing Hua University, Nanda
-* [Hadas Kotek](http://hkotek.com), collaborator
+* [Nick Huang](https://sites.google.com/view/znhuang/), NUS Linguistics
+* [Aine Ito](https://sites.google.com/site/aineito/home), NUS Linguistics
 * [Ethan Jerzak](https://www.ocf.berkeley.edu/~jerzak/index.html), NUS Philosophy
-* [Ted Levin](https://sites.google.com/site/tfranklevin/), postdoc 2017--2018; now at Facebook
-* [JJ Lim](https://jjlim.me), RA 2020; now PhD student at UC San Diego
-* [Yosuke Sato](https://scholar.google.com/citations?user=yS1hB4cAAAAJ), at NUS until 2018; now at [Seisen University](https://www.seisen-u.ac.jp/department/undergraduate/english/professors/sato.php)
-* Wenkai Tay, RA 2019--2020; now PhD student at University College London
+* [Hadas Kotek](http://hkotek.com), collaborator, Apple/MIT
+* [Yosuke Sato](https://sites.google.com/site/yosukesato112953/), at NUS until 2018; now at Tsuda University
 * [Shiao Wei Tham](http://profile.nus.edu.sg/fass/chstsw/), NUS Chinese Language
 * [Coppe van Urk](http://webspace.qmul.ac.uk/cvanurk/), collaborator
 

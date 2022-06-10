@@ -1,5 +1,5 @@
 ---
-title: Anti-locality and subject extraction
+title: (Anti-)locality and subject extraction
 layout: project
 projects:
 - kaqchikel

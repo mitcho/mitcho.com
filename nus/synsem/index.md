@@ -10,15 +10,35 @@ The syntax/semantics reading group at NUS meets weekly during the semester. Each
 
 Announcements are sent to the `synsem` mailing list. Subscribe to `synsem` on [NUS Groups](https://groups.nus.edu.sg/NUSgroups/).
 
-## 2020--2021 Sem 2
+## 2021--2022 Sem 1
 
-Our regular meeting time is **Wednesdays at noon**. Additional syn/sem events are also included, in bold.
+Our regular meeting time is **Wednesdays at 2pm**. Additional syn/sem events are also included, in bold.
+
+| **Aug 11--13** | [SICOGG 23](https://sites.google.com/knou.ac.kr/sicogg23/home) online, with talks by Zheng, Zheng+Meghan, JR+Ryan |
+| Aug 18 | Cinque 2005 ["Deriving Greenberg's Universal 20 and its exceptions"](https://www.mitpressjournals.org/doi/pdf/10.1162/0024389054396917) |
+| Aug 25 | Chaiphet & Jenks to appear ["Names as complex indices: On apparent Condition C violations in Thai"](https://ling.auf.net/lingbuzz/005980) |
+| Sep  1 | Cournane 2014 ["In Search of L1 Evidence for Diachronic Reanalysis: Mapping Modal Verbs"](https://doi.org/10.1080/10489223.2013.855218) |
+| Sep  8 | Krifka 2000 ["Alternatives for Aspectual Particles: Semantics of *still* and *already*"](http://journals.linguisticsociety.org/proceedings/index.php/BLS/article/download/1125/905) |
+| Sep 15 |  |
+| **Sep 22 10am** | Language & Linguistics cluster talk: [Kate Davidson](https://scholar.harvard.edu/kathryndavidson) |
+| Sep 29 |  |
+| Oct  6 |  |
+| Oct 13 |  |
+| Oct 20 |  |
+| Oct 27 |  |
+| Nov  3 |  |
+| Nov 10 |  |
+| | |
+
+## Archives
+
+### 2020--2021 Sem 2
 
 | **Jan 7--10** | [LSA 2021](https://www.linguisticsociety.org/event/lsa-2021-annual-meeting) online, with talks by Joey+mitcho, Kenyon+mitcho, Ryan+colleagues, Zheng |
 | **Jan 15--16** | [Asian Junior Linguists 5](https://sites.google.com/view/ajl-5/home) online, with talks by Joey and Zheng |
 | **Jan 20, 2021, 4pm**  | Language & Linguistics cluster talk: [Brian Rabern](https://www.brianrabern.net/) |
 | Jan 27 | JJ Lim, "A configurational account of case in Khalkha Mongolian" |
-| Feb 3 | Carlson et al 2006, ["Weak definite noun phrases"](http://ling.yale.edu/sites/default/files/files/horn/CarlsonEtAl2006_WeakDefs.pdf) |
+| Feb 3 | Carlson et al 2006 ["Weak definite noun phrases"](http://ling.yale.edu/sites/default/files/files/horn/CarlsonEtAl2006_WeakDefs.pdf) |
 | Feb 10 | Huang to appear, ["How Subjects and Possessors Can Obviate Phasehood"](https://www.mitpressjournals.org/doi/abs/10.1162/ling_a_00414) |
 | Feb 17 | Lee to appear, ["Strength in deontic modals as acceptability and optimality"](https://ling.auf.net/lingbuzz/005701) |
 | Feb 24 | *No meeting (recess week)* |
@@ -30,8 +50,7 @@ Our regular meeting time is **Wednesdays at noon**. Additional syn/sem events ar
 | Apr 7 | Ward, Sproat, and McKoon 1991 ["A pragmatic analysis of so-called anaphoric islands"](https://faculty.wcas.northwestern.edu/~ward/Language91.pdf) |
 | Apr 14 | Bruening and Al Khalaf 2019 ["No argument–adjunct asymmetry in reconstruction for Binding Condition C"](https://doi.org/10.1017/S0022226718000324) |
 | **Apr 21, 10am** | Masha Polinsky, "Variation in exceptive constructions" |
-
-## Archives
+| | |
 
 ### 2020--2021 Sem 1
 

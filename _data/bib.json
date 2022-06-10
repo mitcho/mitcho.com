@@ -1,5 +1,65 @@
 [
     {
+        "citationKey": "poster:salt2022",
+        "entryType": "talk",
+        "keywords": [
+            "scalar implicature",
+            "exh",
+            "focus particle",
+            "also",
+            "again",
+            "presupposition",
+            "English",
+            "semantics"
+        ],
+        "authors": [
+            {
+                "name": "Chow, Keng Ji",
+                "lastName": "Chow",
+                "displayName": "Keng Ji Chow"
+            },
+            {
+                "name": "Erlewine, Michael Yoshitaka",
+                "lastName": "Erlewine",
+                "displayName": "Michael Yoshitaka Erlewine"
+            }
+        ],
+        "projects": [
+            "exh-syntax"
+        ],
+        "author": "Chow, Keng Ji and Erlewine, Michael Yoshitaka",
+        "title": "Restrictions on the position of <em>exh</em>",
+        "note": "Poster presented at SALT 32",
+        "year": "2022",
+        "abstract": "The grammatical approach to scalar implicatures (SI) posits a covert operator <em>exh</em> whose semantic contribution is similar to that of an exhaustive focus particle such as <em>only</em> (Fox 2007, Chierchia et al. 2012, a.o.). While its proponents have argued for the availability of <em>exh</em> in embedded positions, constraints on its precise placement are not well understood. In this work, we argue that certain “triggers” of SI in English — unstressed <em>some</em>, disjunction, and bare numerals — require an associated <em>exh</em> to be as low as possible above the trigger. This requirement is however lexicalized, as we show that other triggers such as stressed <em>SOME</em> allow for more delayed exhaustification.\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/aw1OdJZ4zt8\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+        "poster": {
+            "source": "/Users/mitcho/Dropbox/academic/projects/exh/poster.pdf",
+            "target": "/research/poster-salt2022.pdf",
+            "event": "poster-salt2022"
+        },
+        "yearint": 2022,
+        "authorsHtml": [
+            "Chow, Keng Ji",
+            "Michael Yoshitaka Erlewine"
+        ],
+        "shortHtml": [
+            "Chow",
+            "Erlewine"
+        ],
+        "othersHtml": [
+            "Keng Ji Chow"
+        ],
+        "files": [
+            {
+                "title": "Poster",
+                "event": "poster-salt2022",
+                "url": "/research/poster-salt2022.pdf",
+                "type": "pdf"
+            }
+        ],
+        "url": "/research/poster-salt2022.pdf"
+    },
+    {
         "citationKey": "talk:afla2021",
         "entryType": "talk",
         "keywords": [
@@ -150,6 +210,10 @@
         "year": "to appear",
         "abstract": "Standard negation in Pangasinan comes in two forms, <em>ag</em> and <em>aga</em>. Benton’s 1971 grammar of Pangasinan describes the <em>aga</em> form of negation as occurring specifically with third-singular pivot arguments, which if correct would constitute a typologically unusual instance of marked thirdsingular morphology. We argue against this characterization and instead propose that <em>aga</em> is an allomorph of <em>ag</em> historically motivated by a disyllabic word minimum requirement, with some conventionalized restrictions on its distribution. We offer an explanation for its incorrect previous descriptions and discuss similar alternations between monosyllabic and disyllabic allomorphs of negation in other Austronesian languages and consequences for the prosodic status of second-position clitics.",
         "journal": "Oceanic Linguistics",
+        "preprint": {
+            "target": "https://lingbuzz.net/lingbuzz/006556/current.pdf",
+            "event": "current"
+        },
         "yearint": 0,
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka",
@@ -167,8 +231,14 @@
         ],
         "yesweb": true,
         "files": [
-            
-        ]
+            {
+                "title": "Preprint",
+                "event": "current",
+                "url": "https://lingbuzz.net/lingbuzz/006556/current.pdf",
+                "type": "pdf"
+            }
+        ],
+        "url": "https://lingbuzz.net/lingbuzz/006556/current.pdf"
     },
     {
         "citationKey": "talk:focus-debate",
@@ -270,6 +340,11 @@
         "abstract": "We present a theory for the interpretation of Ā-movement chains at LF in the copy theory of movement where the NP restrictor of a DP Ā-movement chain is interpreted in only one copy. Such a view is motivated for English by evidence from reﬂexive binding, building on observations in Barss 1986, and its interaction with parasitic gap licensing and weak crossover effects. Our approach offers a means for understanding the classiﬁcation of Ā-movement types in Cinque 1990 and Postal 1994 in copy-theoretic terms.",
         "booktitle": "Proceedings of LSA 6",
         "pages": "734&ndash;745",
+        "handout": {
+            "source": "/Users/mitcho/Dropbox/academic/projects/b-traces/output/lsa2021/handout-lsa2021.pdf",
+            "target": "/research/handout-chains-lsa.pdf",
+            "event": "handout-chains-lsa"
+        },
         "yearint": 2021,
         "authorsHtml": [
             "Branan, Kenyon",
@@ -289,6 +364,12 @@
                 "event": "chains-lsa",
                 "url": "http://journals.linguisticsociety.org/proceedings/index.php/PLSA/article/download/5008/4595",
                 "type": ""
+            },
+            {
+                "title": "Associated handout",
+                "event": "handout-chains-lsa",
+                "url": "/research/handout-chains-lsa.pdf",
+                "type": "pdf"
             }
         ]
     },
@@ -363,66 +444,6 @@
         ]
     },
     {
-        "citationKey": "talk:lsa2021",
-        "entryType": "talk",
-        "keywords": [
-            "A'-movement",
-            "copy theory",
-            "Condition A",
-            "reconstruction",
-            "choice function",
-            "parasitic gaps",
-            "weak crossover"
-        ],
-        "authors": [
-            {
-                "name": "Branan, Kenyon",
-                "lastName": "Branan",
-                "displayName": "Kenyon Branan"
-            },
-            {
-                "name": "Erlewine, Michael Yoshitaka",
-                "lastName": "Erlewine",
-                "displayName": "Michael Yoshitaka Erlewine"
-            }
-        ],
-        "projects": [
-            
-        ],
-        "author": "Branan, Kenyon and Erlewine, Michael Yoshitaka",
-        "title": "Binding reconstruction and the types of traces",
-        "note": "Presented at LSA 95",
-        "year": "2021",
-        "abstract": "We develop a new theory for the interpretation of movement chains at LF, resulting in different types of “trace” positions. Just as one copy in a DP-movement chain is privileged for the interpretation of its determiner (Sauerland 1998, Fox 2002), we claim that one copy in a DP-movement chain is privileged for the interpretation of its nominal restriction (NP). This choice results in some trace positions behaving as pronouns and others not. We motivate this approach with understudied and new data on binding reconstruction, parasitic gaps, and weak crossover, and their interaction in English.",
-        "handout": {
-            "source": "/Users/mitcho/Dropbox/academic/projects/b-traces/output/lsa2021/handout-lsa2021.pdf",
-            "target": "/research/handout-lsa2021.pdf",
-            "event": "handout-lsa2021"
-        },
-        "yearint": 2021,
-        "authorsHtml": [
-            "Branan, Kenyon",
-            "Michael Yoshitaka Erlewine"
-        ],
-        "shortHtml": [
-            "Branan",
-            "Erlewine"
-        ],
-        "othersHtml": [
-            "Kenyon Branan"
-        ],
-        "yesweb": true,
-        "files": [
-            {
-                "title": "Handout",
-                "event": "handout-lsa2021",
-                "url": "/research/handout-lsa2021.pdf",
-                "type": "pdf"
-            }
-        ],
-        "url": "/research/handout-lsa2021.pdf"
-    },
-    {
         "citationKey": "burmese-antiuniqueness",
         "entryType": "inproceedings",
         "keywords": [
@@ -455,7 +476,7 @@
         "title": "Anti-uniqueness without articles",
         "url": "https://journals.linguisticsociety.org/proceedings/index.php/SALT/article/download/30.430/4521",
         "year": "2020",
-        "abstract": "We report on the expression of singular nominals in Burmese, an articleless language, from original elicitation work. Bare nouns are interpreted as singular deﬁnites, to which the numeral ‘one’ is added to form indeﬁnites. We propose that ‘one’ restricts the domain of the nominal to a singleton, and that its addition is subject to a Non-Vacuity constraint; this is the source of the anti-uniqueness inference of indeﬁnites. We furthermore investigate the availability of ‘one’ in anaphoric deﬁnites. Such behavior forms an argument that the compositional semantics of anaphoric deﬁnites does not involve contextual restriction via a situation variable, unlike unique deﬁnites.\n\n<strong>See also</strong> <a href=\"/research/burmese-indef.html\">our Triple A paper</a>, which provides a more complete description of (in)definiteness distinctions in Burmese.\n\n<strong>Associated three minute lightning talk:</strong>\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/3sz85jGM530\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+        "abstract": "We report on the expression of singular nominals in Burmese, an articleless language, from original elicitation work. Bare nouns are interpreted as singular deﬁnites, to which the numeral ‘one’ is added to form indeﬁnites. We propose that ‘one’ restricts the domain of the nominal to a singleton, and that its addition is subject to a Non-Vacuity constraint; this is the source of the anti-uniqueness inference of indeﬁnites. We furthermore investigate the availability of ‘one’ in anaphoric deﬁnites. Such behavior forms an argument that the compositional semantics of anaphoric deﬁnites does not involve contextual restriction via a situation variable, unlike unique deﬁnites.\n\n<strong>See also</strong> <a href=\"/research/burmese-indef.html\">our Triple A paper</a>, which provides a more complete description of (in)definiteness distinctions in Burmese.\n",
         "booktitle": "Proceedings of SALT 30",
         "pages": "430&ndash;449",
         "poster": {
@@ -550,8 +571,8 @@
         "author": "Lim, Meghan and Erlewine, Michael Yoshitaka",
         "title": "Definiteness and indefiniteness in Burmese",
         "year": "to appear",
-        "abstract": "We report on the interpretation of diﬀerent forms of singular argument nominals in Burmese, a language without articles, from original ﬁeldwork. Like in Mandarin Chinese (Jenks, 2018), bare nouns are unique deﬁnites, with demonstratives used for anaphoric deﬁnites. Indeﬁnites use the numeral ‘one.’ We develop an analysis based on Jenks’ analysis of Mandarin Chinese deﬁnites, extended with a novel proposal for ‘one’ indeﬁnites. Indeﬁnites introduce an antiuniqueness inference, which we derive from a Non-Triviality constraint rather than Maximize Presupposition à la Heim 1991, with crucial evidence from anaphoric deﬁnites with ‘one.’ We also describe the availability of bare noun indefinite objects, which we analyze as a form of (pseudo) noun incorporation.\n\n<strong>See also</strong> <a href=\"/research/burmese-antiuniqueness.html\">our companion SALT paper</a>, which further develops the analysis of &#8216;one’ indefinites\n\n<strong>Associated talk:</strong>\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/EjDbMbUd3bQ\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-        "booktitle": "Proceedings of Triple A 7",
+        "abstract": "We report on the interpretation of diﬀerent forms of singular argument nominals in Burmese, a language without articles, from original ﬁeldwork. Like in Mandarin Chinese (Jenks, 2018), bare nouns are unique deﬁnites, with demonstratives used for anaphoric deﬁnites. Indeﬁnites use the numeral ‘one.’ We develop an analysis based on Jenks’ analysis of Mandarin Chinese deﬁnites, extended with a novel proposal for ‘one’ indeﬁnites. Indeﬁnites introduce an antiuniqueness inference, which we derive from a Non-Triviality constraint rather than Maximize Presupposition à la Heim 1991, with crucial evidence from anaphoric deﬁnites with ‘one.’ We also describe the availability of bare noun indefinite objects, which we analyze as a form of (pseudo) noun incorporation.\n\n<strong>See also</strong> <a href=\"/research/burmese-antiuniqueness.html\">our companion SALT paper</a>, which further develops the analysis of &#8216;one’ indefinites\n",
+        "booktitle": "Proceedings of TripleA 7",
         "paper": {
             "source": "/Users/mitcho/Dropbox/academic/projects/burmese-one/output/triplea-proceedings/preprint.pdf",
             "target": "/research/burmese-indef.pdf",
@@ -624,7 +645,7 @@
         "title": "Anti-uniqueness without articles",
         "note": "Poster presented at SALT 30",
         "year": "2020",
-        "abstract": "We report on the interpretation of diﬀerent forms of singular argument nominals in Burmese, a language without articles, from original ﬁeldwork. Indeﬁnites use the numeral ‘one’ and introduce anti-uniqueness inferences. We derive this eﬀect from a novel proposal for ‘one’ indeﬁnites together with a Non-Vacuity constraint, rather than Maximize Presupposition, with crucial evidence from anaphoric deﬁnites with ‘one.’\n\n<strong>Three minute lightning talk:</strong>\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/3sz85jGM530\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+        "abstract": "We report on the interpretation of diﬀerent forms of singular argument nominals in Burmese, a language without articles, from original ﬁeldwork. Indeﬁnites use the numeral ‘one’ and introduce anti-uniqueness inferences. We derive this eﬀect from a novel proposal for ‘one’ indeﬁnites together with a Non-Vacuity constraint, rather than Maximize Presupposition, with crucial evidence from anaphoric deﬁnites with ‘one.’\n",
         "poster": {
             "source": "/Users/mitcho/Dropbox/academic/projects/burmese-one/output/salt/poster.pdf",
             "target": "/research/poster-salt2020.pdf",
@@ -642,7 +663,6 @@
         "othersHtml": [
             "Meghan Lim"
         ],
-        "yesweb": true,
         "files": [
             {
                 "title": "Poster",
@@ -793,7 +813,7 @@
         ],
         "author": "Erlewine, Michael Yoshitaka",
         "title": "Counterexpectation, concession, and free choice in Tibetan and beyond",
-        "note": "Invited talk at Triple A 7",
+        "note": "Invited talk at TripleA 7",
         "year": "2020",
         "abstract": "The expression <em>yin.na’ang</em> in Tibetan is (a) a discourse particle expressing counterexpection (‘however’), (b) a concessive scalar particle and (c) forms free choice items together with <em>wh</em>-words. Morphologically, <em>yin.na’ang</em> is a transparent combination of a copula, conditional ending, and <em>even</em>. In this talk, I document these uses of <em>yin.na’ang</em> from original fieldwork and propose a compositional semantics which derives this range of uses. Finally, I briefly discuss similar phenomena in Dravidian languages (Balusu 2019, 2020) and with Japanese demo, which cover the range of uses in (a–c) and also derive from similar ingredients.\n\n<a href=\"/research/tibetan-yine-nels.html\"><strong>See NELS proceedings paper</strong></a> and <a href=\"/research/tibetan-fc.html\"><strong>manuscript on universal free choice</strong></a>\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/nBIFLRFkKkc\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
         "handout": {
@@ -863,7 +883,7 @@
         "title": "Definiteness and indefiniteness in Burmese",
         "note": "Presented at Triple A 7",
         "year": "2020",
-        "abstract": "We report on the interpretation of diﬀerent forms of singular argument nominals in Burmese, a language without articles, from original ﬁeldwork. Like in Mandarin Chinese (Jenks, 2018), bare nouns are unique deﬁnites, with demonstratives used for anaphoric deﬁnites. Indeﬁnites use the numeral ‘one.’ We develop an analysis based on Jenks’ analysis of Mandarin Chinese deﬁnites, extended with a novel proposal for ‘one’ indeﬁnites. Indeﬁnites introduce an antiuniqueness inference, which we derive from a Non-Triviality constraint rather than Maximize Presupposition à la Heim 1991, with crucial evidence from anaphoric deﬁnites with ‘one.’ We also describe the availability of bare noun indefinite objects, which we analyze as a form of (pseudo) noun incorporation.\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/EjDbMbUd3bQ\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+        "abstract": "We report on the interpretation of diﬀerent forms of singular argument nominals in Burmese, a language without articles, from original ﬁeldwork. Like in Mandarin Chinese (Jenks, 2018), bare nouns are unique deﬁnites, with demonstratives used for anaphoric deﬁnites. Indeﬁnites use the numeral ‘one.’ We develop an analysis based on Jenks’ analysis of Mandarin Chinese deﬁnites, extended with a novel proposal for ‘one’ indeﬁnites. Indeﬁnites introduce an antiuniqueness inference, which we derive from a Non-Triviality constraint rather than Maximize Presupposition à la Heim 1991, with crucial evidence from anaphoric deﬁnites with ‘one.’ We also describe the availability of bare noun indefinite objects, which we analyze as a form of (pseudo) noun incorporation.",
         "slides": {
             "source": "/Users/mitcho/Dropbox/academic/projects/burmese-one/output/triplea/slides.pdf",
             "target": "/research/slides-triplea2020-burmese.pdf",
@@ -1121,9 +1141,12 @@
             "Mandarin Chinese",
             "shì",
             "cleft",
-            "QUD",
             "focus",
             "focus particle",
+            "only",
+            "QUD",
+            "discourse congruence",
+            "Main Clause Phenomenon",
             "semantics",
             "syntax"
         ],
@@ -1873,7 +1896,8 @@
         "keywords": [
             "Vietnamese",
             "degrees",
-            "excessive"
+            "excessive",
+            "hidden"
         ],
         "authors": [
             {
@@ -1896,17 +1920,17 @@
         "year": "2019",
         "abstract": "We study the uses of the Vietnamese excessive morpheme <em>quá</em>, which is unusual in being able to precede or follow a gradable predicate, unlike other degree morphemes. Excessives canonically express that the degree of a gradable predicate is greater than what is compatible with a purpose (Meier 2003), but have also been described as introducing a malefactive inference. We that the pre- and post-predicate uses of <em>quá</em> encode these two different components of excessive meaning: one is a purpose-oriented excessive construction, whereas the other is a comparative which encodes a not-at-issue malefactive inference. We also survey additional uses of the morpheme(s) <em>quá</em> in Vietnamese.",
         "poster": {
-            "source": "/Users/mitcho/Dropbox/academic/projects/excessive/salt/poster-salt-web.pdf",
+            "source": "/Users/mitcho/Dropbox/academic/projects/viet-excessive/salt/poster-salt-web.pdf",
             "target": "/research/poster-salt2019.pdf",
             "event": "poster-salt2019"
         },
         "handout": {
-            "source": "/Users/mitcho/Dropbox/academic/projects/excessive/salt/handout-salt-web.pdf",
+            "source": "/Users/mitcho/Dropbox/academic/projects/viet-excessive/salt/handout-salt-web.pdf",
             "target": "/research/handout-salt2019.pdf",
             "event": "handout-salt2019"
         },
         "slides": {
-            "source": "/Users/mitcho/Dropbox/academic/projects/excessive/salt/slides-salt-web.pdf",
+            "source": "/Users/mitcho/Dropbox/academic/projects/viet-excessive/salt/slides-salt-web.pdf",
             "target": "/research/slides-salt2019.pdf",
             "event": "slides-salt2019"
         },
@@ -1973,7 +1997,7 @@
         "year": "2019",
         "abstract": "We study the uses of the Vietnamese excessive morpheme <em>quá</em>, which is unusual in being able to precede or follow a gradable predicate, unlike other degree morphemes. Excessives canonically express that the degree of a gradable predicate is greater than what is compatible with a purpose (Meier 2003), but have also been described as introducing a malefactive inference. We that the pre- and post-predicate uses of <em>quá</em> encode these two different components of excessive meaning: one is a purpose-oriented excessive construction, whereas the other is a comparative which encodes a not-at-issue malefactive inference. We also survey additional uses of the morpheme(s) <em>quá</em> in Vietnamese.",
         "handout": {
-            "source": "/Users/mitcho/Dropbox/academic/projects/excessive/deg/handout-deg.pdf",
+            "source": "/Users/mitcho/Dropbox/academic/projects/viet-excessive/deg/handout-deg.pdf",
             "target": "/research/handout-deg2019.pdf",
             "event": "handout-deg2019"
         },
@@ -2432,17 +2456,18 @@
     },
     {
         "citationKey": "bikol",
-        "entryType": "unpublished",
+        "entryType": "article",
         "keywords": [
-            "extraction asymmetries",
-            "Austronesian",
             "Bikol",
-            "Austronesian voice",
+            "Austronesian voice systems",
+            "extraction asymmetry",
+            "syntactic ergativity",
             "probing",
             "locality",
             "clefting",
             "topicalization",
-            "syntactic ergativity",
+            "resumptive pronouns",
+            "mixed chains",
             "syntax"
         ],
         "authors": [
@@ -2463,10 +2488,10 @@
         "author": "Erlewine, Michael Yoshitaka and Lim, Cheryl",
         "title": "Bikol clefts and topics and the Austronesian extraction restriction",
         "url": "https://ling.auf.net/lingbuzz/004181/current.pdf",
-        "note": "Manuscript, National University of Singapore",
-        "year": "2021",
-        "abstract": "Many Austronesian languages exhibit an extraction restriction whereby only one particular DP — the “pivot” argument, the choice of which is reﬂected by morphology on the verb — can be Ā-extracted. We show that such extraction restrictions can vary between different Ā-constructions in Bikol: local clefting is limited to the pivot, whereas topicalization can target pivots and non-pivot agents but not non-pivot themes of transitive verbs. Following the phase-theoretic, locality-based approach to such extraction asymmetries in related Austronesian languages, we propose that clefting and topicalization differ in the featural speciﬁcations of their probes, with clefting necessarily targeting the closest DP and topicalization simply seeking the closest topic constituent. Evidence for this approach comes from interactions between clefting, topicalization, and hanging topic left dislocation in long-distance conﬁgurations. Our study strengthens the view that the classic Austronesian pivot-only extraction restriction is best characterized in terms of syntactic locality, rather than as a restriction on the grammatical function or morphological case of movement targets.",
-        "yearint": 2021,
+        "year": "to appear",
+        "abstract": "Many Austronesian languages exhibit an extraction restriction whereby only one particular DP — the “pivot” argument, the choice of which is reﬂected by morphology on the verb — can be Ā-extracted. We show that such extraction restrictions can vary between different Ā-constructions in Bikol: local clefting is limited to the pivot, whereas topicalization can target pivots and non-pivot agents but not non-pivot themes of transitive verbs. Following the phase-theoretic, locality-based approach to such extraction asymmetries in related Austronesian languages, we propose that clefting and topicalization differ in the featural speciﬁcations of their probes, with clefting necessarily targeting the closest DP and topicalization simply seeking the closest topic constituent. Evidence for this approach comes from the behavior of long-distance clefting, which may target certain non-pivot arguments and involve gaps or resumptive pronouns. The inventory of different long-distance cleft types is explained by the possibility of embedded topicalization and hanging topic left dislocation feeding higher clefting. Our study strengthens the view that the classic Austronesian pivot-only extraction restriction is best characterized in terms of syntactic locality, rather than as a restriction on the grammatical function or morphological case of movement targets.",
+        "journal": "Natural Language &amp; Linguistic Theory",
+        "yearint": 0,
         "authorsHtml": [
             "Erlewine, Michael Yoshitaka",
             "Cheryl Lim"
@@ -3201,7 +3226,8 @@
             "anti-agreement",
             "that-trace",
             "resumption",
-            "highest subject restriction"
+            "highest subject restriction",
+            "hidden"
         ],
         "authors": [
             {
@@ -3632,7 +3658,8 @@
             "Vietnamese",
             "phases",
             "minimality",
-            "acquisition"
+            "acquisition",
+            "hidden"
         ],
         "authors": [
             {
@@ -3843,7 +3870,7 @@
         ],
         "author": "Erlewine, Michael Yoshitaka",
         "title": "The locus of Mandarin sentence-final particles and the Final-over-Final Constraint",
-        "note": "Presented at the Workshop on Word Order of Heads, Chinese University of Hong Kong",
+        "note": "Invited talk at the Workshop on Word Order of Heads, Chinese University of Hong Kong",
         "year": "2016",
         "abstract": "Mandarin Chinese clausal syntax can be described as strictly head-initial, with the exception of certain &#8220;particles&#8221; which are linearized at the end of the clause. Previous work on these sentence-final particles (SFPs) has assumed that all SFPs are very high, in the CP periphery. In the absence of information from linear order, I consider the semantic scope of these SFPs to determine their structural height. Using evidence from scopal interaction with negation, modals, quantificational subjects, and alternative question disjunction, I show that a subset of SFPs&mdash;specifically, sentence-final <em>le</em> and <em>éryǐ</em> &#8216;only,&#8217; both in the lowest class of SFPs (Paul, 2014, 2015)&ndash;-are in a lower, clause-medial position. I identify the position of these low SFPs as coinciding with the edge of the lower phase, traditionally identified as vP.\n\nAs SFPs are head-final heads with head-initial complements, they have been discussed as an important apparent exception to theFinal-over-Final Constraint (FOFC; Holmberg 2000; Biberauer, Holmberg, and Roberts 2014), a proposed universal on structure-building and linearization. Iargue that the very limited distribution of apparent FOFC violations should be taken to support a modification to FOFC, rather than its outright rejection (contra Paul 2015). In particular, the existence of apparent exceptions to FOFC in a clause-medialposition in addition to the CP edge motivatesthe view that FOFC holds onlywithin individual Spell-Out domains. I hypothesize that languages that previously have been shown to obey FOFC across these domains are also languages with richer verbal morphology, which can be taken to extend or suspend Spell-Out of the lower phase. Apparent exceptions to FOFC are thus predicted to be possible (a) at phase boundaries (b) in analytic languages. This helps to explain previous observations that certain sets of languages, especially with little to no verbal inflection, are more prone to heads that seem to run counter to FOFC.",
         "handout": {
@@ -4850,7 +4877,8 @@
             "Vietnamese",
             "Optimality Theory",
             "low focus",
-            "subject"
+            "subject",
+            "hidden"
         ],
         "authors": [
             {
@@ -5778,7 +5806,8 @@
             "morphology",
             "syntax",
             "Agent Focus",
-            "restructuring"
+            "restructuring",
+            "hidden"
         ],
         "authors": [
             {
@@ -5836,7 +5865,8 @@
         "keywords": [
             "experimental",
             "English",
-            "Japanese"
+            "Japanese",
+            "hidden"
         ],
         "authors": [
             {
