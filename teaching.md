@@ -4,14 +4,14 @@ layout: page
 permalink: /teaching/
 ---
 
-## Current
-
-* [EL5101 Grammatical Analysis](/nus/gram2021/)
-* [EL4203 Semantics](/nus/sem2021/)
+<!--## Current
 
 ## Previous
+-->
 
 NUS:
+* [2021--2022 Sem 1 EL5101 Grammatical Analysis](/nus/gram2021/)
+* [2021--2022 Sem 1 EL4203 Semantics](/nus/sem2021/)
 * [2020--2021 Sem 2 GET1036 The Logic of Language](/nus/lol/)
 * [2020--2021 Sem 1 Advanced Semantics](/nus/advsem2021/)
 * [2020--2021 Sem 1 EL5101 Grammatical Analysis](/nus/gram2020/)
