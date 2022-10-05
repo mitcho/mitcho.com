@@ -17,7 +17,7 @@ plugins:
 disqusid: "http://mitcho.com"
 
 # Permalinks
-permalink: /blog/:title/
+permalink: /blog/:title:output_ext
 
 # Markdown
 kramdown:
