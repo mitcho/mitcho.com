@@ -2,6 +2,7 @@
 layout: page
 nosidebar: yes
 title: McGill Fall 2014 "Questions, focus, and friends"
+permalink: /mcgill/focus-wh/
 ---
 
 <style>

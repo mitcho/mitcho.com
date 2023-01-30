@@ -1,7 +1,8 @@
 ---
 layout: page
 nosidebar: yes
-title: EL3212 Field Methods in Linguistics 2016
+title: EL3212 Field Methods in Linguistics 2016 (Nepali)
+permalink: /nus/field2016/
 copy:
 - /Users/mitcho/Dropbox/academic/teaching/2016 field methods EL3212/syllabus/syllabus.pdf
 - /Users/mitcho/Dropbox/academic/teaching/2016 field methods EL3212/handouts/handout*.pdf

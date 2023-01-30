@@ -2,6 +2,7 @@
 layout: page
 nosidebar: yes
 title: Syntax/semantics reading group at NUS
+permalink: /nus/synsem/
 ---
 
 The syntax/semantics reading group at NUS meets weekly during the semester. Each week we choose a paper to read and discuss, or someone will share their work in progress.

@@ -2,6 +2,7 @@
 layout: page
 nosidebar: yes
 title: EL4203 Semantics 2016–2017 Sem 2
+permalink: /nus/sem2017spring/
 copy:
 - /Users/mitcho/Dropbox/academic/teaching/2017 spring semantics EL4203/syllabus/syllabus.pdf
 - /Users/mitcho/Dropbox/academic/teaching/2017 spring semantics EL4203/ps/ps*.pdf

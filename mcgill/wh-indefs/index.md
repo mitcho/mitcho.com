@@ -2,6 +2,7 @@
 layout: page
 nosidebar: yes
 title: McGill Whinter 2015 Wh-indefinites reading group
+permalink: /mcgill/wh-indefs/
 ---
 
 <style>

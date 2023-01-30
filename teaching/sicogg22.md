@@ -2,6 +2,7 @@
 layout: page
 nosidebar: yes
 title: Lectures on focus
+permalink: /teaching/sicogg22/
 copy:
 - /Users/mitcho/Dropbox/academic/teaching/2020 sicogg/notes/handout.pdf
 ---

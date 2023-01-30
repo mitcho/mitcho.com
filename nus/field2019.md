@@ -2,6 +2,7 @@
 layout: page
 nosidebar: yes
 title: EL4212 Field Methods in Linguistics 2019 (Burmese)
+permalink: /nus/field2019/
 copy:
 - /Users/mitcho/Dropbox/academic/teaching/2019 field methods EL4212/syllabus/syllabus.pdf
 - /Users/mitcho/Dropbox/academic/teaching/2019 field methods EL4212/handouts/handout*.pdf

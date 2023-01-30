@@ -1,6 +1,7 @@
 ---
 layout: page
 title: GET1036 The Logic of Language
+permalink: /nus/lol/
 copy:
 - /Users/mitcho/Dropbox/academic/teaching/2019 LOL/syllabus/syllabus.pdf
 ---

@@ -2,6 +2,7 @@
 layout: page
 nosidebar: yes
 title: Advanced Semantics 2021
+permalink: /nus/advsem2021/
 ---
 
 Advanced Semantics was an informal reading group organized for students seeking further training in formal semantics. The overall thread this semester was the study of phenomena at the boundary of semantics and pragmatics.

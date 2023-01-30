@@ -2,6 +2,7 @@
 layout: page
 nosidebar: yes
 title: EL3212 Field Methods in Linguistics 2017 (Kristang)
+permalink: /nus/field2017/
 copy:
 - /Users/mitcho/Dropbox/academic/teaching/2017 field methods EL3212/syllabus/syllabus.pdf
 - /Users/mitcho/Dropbox/academic/teaching/2017 field methods EL3212/handouts/handout*.pdf
