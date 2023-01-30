@@ -7,11 +7,12 @@ permalink: /lab/
 
 The Syntax/Semantics Lab at the National University of Singapore investigates linguistic theory through the study of languages of Singapore and Southeast Asia.
 
-* Anne Nguyen, postdoc
-* Joey Lim, RA
-* Keng Ji Chow, BA 2022
-
 <!--
+* Anne Nguyen, postdoc
+* [Alexander Smith](https://www.austronesianist.com/), postdoc
+* Carly Sommerlot, postdoc
+-->
+
 <style>
 .member {
 	display: inline-block;
@@ -36,23 +37,16 @@ The Syntax/Semantics Lab at the National University of Singapore investigates li
 Anne Nguyen, postdoc
 
 {:.member}
-![Joey Lim](joey-300.jpg)
-Joey Lim, RA
+![Alexander Smith](alex-300.jpg)
+[Alexander Smith](https://austronesianist.com), postdoc
 
 {:.member}
-![Meghan Lim](meghan-300.jpg)
-Meghan Lim, RA
+![Carly Sommerlot](carly-300.jpg)
+[Carly Sommerlot](https://sites.google.com/view/cjsommerlot), postdoc
 
--->
+
 
 <!--<p class="member" style="border: 1px black dotted; height: 148px"><strong>You! (<a href="https://careers.nus.edu.sg/NUS/job/Kent-Ridge-Postdoctoral-Fellow-Kent/3900844/">We're hiring a post-doc!</a>)</strong></p>-->
-
-
-<!--
-![Cheryl Lim](cheryl-300.jpg)
-Cheryl Lim, RA
-
--->
 
 <!--
 {:.member}
@@ -62,7 +56,7 @@ Cheryl Lim, RA
 ## Alumni
 
 * [Kenyon Branan](https://sites.google.com/view/kbranan/home), postdoc 2018--2021; now at Leibniz ZAS, Berlin
-* [Tingchun (TC) Chen](https://www.tingchunchen.com/), postdoc 2018--2019; now at National Tsing Hua University, Nanda
+* [Tingchun (TC) Chen](https://www.tingchunchen.com/), postdoc 2018--2019; now at National Tsing Hua University
 * [Henrison Hsieh](https://henrison.github.io/), postdoc 2021--2022; now at Hong Kong Polytechnic University
 * [Ted Levin](https://sites.google.com/site/tfranklevin/), postdoc 2017--2018; now at Apple
 * [Cara Leong](https://caraleong.com/), collaborator and advisee; now PhD student at NYU
@@ -70,7 +64,6 @@ Cheryl Lim, RA
 * [Keely New](https://keely.news/), RA 2019--2021; now PhD student at MIT
 * Wenkai Tay, RA 2019--2020; now PhD student at University College London
 * [Jianrong (JR) Yu](https://sites.google.com/email.arizona.edu/jianrongyu/home), postdoc 2021; now at KU Leuven
-
 
 ## Friends
 
@@ -89,6 +82,7 @@ Cheryl Lim, RA
 
 ## Events
 
+* 2022: [The second Singapore Summer Meeting](https://mitcho.com/singsummer2022/)
 * 2021: [The eighth TripleA meeting for semantic fieldworkers](https://lingconf.com/triplea8/)
 * 2021: [Austronesian Formal Linguistics Association (AFLA) 28](https://lingconf.com/afla28) with our friends at [McGill](https://www.mcgill.ca/linguistics/)
 * 2020: [Austronesian Formal Linguistics Association (AFLA) 27](https://lingconf.com/afla27)
@@ -102,6 +96,7 @@ Cheryl Lim, RA
 
 Our work is supported by NUS and the Singapore Ministry of Education through the following grants, among others:
 
+* "History and syntax of the languages of Borneo" (MOE Tier 2, 2022--2025)
 * "The Architecture of Grammar and Discourse" (NUS Presidential Young Professorship research funds)
 * "Subjecthood in Southeast Asia: Description and theory" (MOE Tier 2, 2018--2021)
 * "Current Issues in Comparative Minimalist Syntax through Asian Perspectives" (MOE Tier 1, 2017--2018)

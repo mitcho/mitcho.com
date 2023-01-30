@@ -23,6 +23,7 @@ MA theses advised at the National University of Singapore:
 
 Selected BA honours theses advised at the National University of Singapore:
 * CHOW Keng Ji, 2021: [Presuppositions, Implicatures and the Scope of Exhaustification](chow2021.pdf)
+	* Resulting publication: [Restrictions on the position of *exh*](/research/exh-salt.html)
 * Joey Lim, 2020: [Clitic doubling, the double nominative construction, and word order in Pangasinan](lim2020.pdf)
 * TAN Yan Er, 2020: [On the semantics of *somemore* in Colloquial Singapore English](tan2020.pdf)
 * Meghan Lim, 2019: [(In)definite marking in Burmese](lim2019.pdf)
