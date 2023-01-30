@@ -6,6 +6,7 @@ projects:
 - atayal
 - batak
 - voice-non-subject
+coauthors: Ted Levin, Coppe van Urk, a.o.
 
 ---
 
