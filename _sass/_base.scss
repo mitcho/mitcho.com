@@ -52,7 +52,7 @@ h1, h2, h3, h4, h5, h6,
 p, blockquote, pre,
 ul, ol, dl, figure,
 %vertical-rhythm {
-    margin-bottom: $spacing-unit / 2;
+    margin-bottom: calc($spacing-unit / 2);
 	&:last-child {
 		margin-bottom: 0px;
 	}
@@ -178,7 +178,7 @@ a {
 blockquote {
     color: $grey-color;
     border-left: 4px solid $grey-color-light;
-    padding-left: $spacing-unit / 2;
+    padding-left: calc($spacing-unit / 2);
     > :last-child {
         margin-bottom: 0;
     }
@@ -290,7 +290,7 @@ del {
 	}
 
 	&.small {
-		background-size: 16px 16px;
+		background-size: 16px 16px !important;
 		padding: 0px 2px;
 		width: 17px;
 		display: inline-block;
@@ -303,15 +303,20 @@ del {
 	}
 
 	&.pdf {
-		background-image: url(pdf.png);
+		background-image: url(noun-pdf.png);
+		background-size: 32px;
 	}
 	&.zip {
-		background-image: url(zip.png);
+		background-image: url(noun-zip.png);
+		background-size: 32px;
 	}
-	&.rss {
-		background-image: url(rss.png);
+	&.doi {
+		background-image: url(doi.png);
+		background-size: 32px;
 	}
 }
+
+
 
 
 .research-group li {
