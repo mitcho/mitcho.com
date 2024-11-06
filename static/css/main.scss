@@ -1,66 +1,19 @@
 ---
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
+@use "sass:color";
+// Import partials from `sass_dir` (defaults to `_sass`)
+
+@use "vars" as *;
+@use "base";
+@use "layout";
+@use "layout-responsive";
+@use "syntax-highlighting";
+@use "nosidebar";
+
 @charset "utf-8";
 
 @import url("https://fonts.googleapis.com/css?family=Open Sans:300italic,700italic,300,700");
-
-// Our variables
-$base-font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-$base-font-size:   13px;
-$small-font-size:  $base-font-size * 0.875;
-$base-line-height: 1.6;
-$pill-height:      $small-font-size * 1.25;
-
-$spacing-unit:     30px;
-
-$text-color:       #444;
-$heading-color:    #222;
-$background-color: #fff;
-
-$brand-color:      #39c;
-$visited-color:    #069;
-
-$grey-color:       #828282;
-$grey-color-light: #eee;
-$grey-color-dark:  darken($grey-color, 25%);
-$code-bg-color:    #fcfcff;
-
-// Width of the content area
-$content-width:    800px;
-$nav-width:        270px;
-$body-padding:     20px;
-$col-padding:      30px;
-$small-padding:    20px;
-
-$on-phone:         480px;
-$on-tablet:        960px;
-$on-smallphone:    380px;
-
-
-// Using media queries with like this:
-// @include media-query($on-palm) {
-//     .wrapper {
-//         padding-right: $spacing-unit / 2;
-//         padding-left: $spacing-unit / 2;
-//     }
-// }
-@mixin media-query($device) {
-    @media screen and (max-width: $device) {
-        @content;
-    }
-}
-
-
-
-// Import partials from `sass_dir` (defaults to `_sass`)
-@import
-        "base",
-        "layout",
-        "layout-responsive",
-        "syntax-highlighting",
-        "nosidebar"
-;
 
 [lang=ja] {
 	font-family: "Hiragino Sans", sans-serif;

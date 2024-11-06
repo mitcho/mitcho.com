@@ -1,0 +1,47 @@
+@use "sass:color";
+
+// Our variables
+$base-font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+$base-font-size:   13px;
+$small-font-size:  $base-font-size * 0.875;
+$base-line-height: 1.6;
+$pill-height:      $small-font-size * 1.25;
+
+$spacing-unit:     30px;
+
+$text-color:       #444;
+$heading-color:    #222;
+$background-color: #fff;
+
+$brand-color:      #39c;
+$visited-color:    #069;
+
+$grey-color:       #828282;
+$grey-color-light: #eee;
+$grey-color-dark:  color.adjust($grey-color, $lightness: 25%);
+$code-bg-color:    #fcfcff;
+
+// Width of the content area
+$content-width:    800px;
+$nav-width:        270px;
+$body-padding:     20px;
+$col-padding:      30px;
+$small-padding:    20px;
+
+$on-phone:         480px;
+$on-tablet:        960px;
+$on-smallphone:    380px;
+
+
+// Using media queries with like this:
+// @include media-query($on-palm) {
+//     .wrapper {
+//         padding-right: calc($spacing-unit / 2);
+//         padding-left: calc($spacing-unit / 2);
+//     }
+// }
+@mixin media-query($device) {
+    @media screen and (max-width: $device) {
+        @content;
+    }
+}

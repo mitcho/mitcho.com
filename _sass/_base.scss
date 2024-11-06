@@ -1,3 +1,6 @@
+@use "sass:color";
+@use "vars" as *;
+
 /**
  * Reset some basic elements
  */
@@ -111,15 +114,15 @@ h1, h2, h3, h4, h5, h6 {
 
 h1, h1 a, h1.name a {
 	font-size: 28px;
-	color: darken($text-color, 30%);
+	color: color.adjust($text-color, $lightness: -30%);
 }
 
 h2, h2 a {
-	color: darken($text-color, 20%);
+	color: color.adjust($text-color, $lightness: -20%);
 }
 
 h3, h4, h5, h6 {
-	color: darken($text-color, 10%);
+	color: color.adjust($text-color, $lightness: -10%);
 }
 
 h1.name span {
@@ -143,7 +146,7 @@ a {
 	}
 
     &:visited {
-        color: darken($brand-color, 15%);
+        color: color.adjust($brand-color, $lightness: -15%);
     }
 }
 
@@ -156,7 +159,7 @@ a {
 .pill {
 	font-size: $small-font-size;
 	color: $grey-color;
-	background-color: lighten($brand-color, 45%);
+	background-color: color.adjust($brand-color, $lightness: 45%);
 	display: inline-block;
 	text-decoration: none;
 	border-radius: 6px;
@@ -167,7 +170,7 @@ a {
 	
 	&:hover, &:focus, &:active {
 		color: $grey-color-dark;
-		background-color: lighten($brand-color, 35%);
+		background-color: color.adjust($brand-color, $lightness: 35%);
 	}
 }
 
