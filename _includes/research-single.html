@@ -48,13 +48,12 @@
 {% endif %}
 
 {% if paper.booktitle != null and paper.entryType != 'book' %}
-<em>{{paper.booktitle}}</em>{{pages}}.
+<em>{{paper.booktitle}}</em>{% if paper.volume != null %}, volume {{paper.volume}}{% endif %}{{pages}}.
 {% endif %}
 
 {% if paper.entryType == 'book' %}
 {{ paper.publisher }}.
 {% endif %}
-
 
 {% if paper.note != null %}
 {{paper.note}}.
@@ -70,4 +69,8 @@
 
 {% if paper.entryType == 'mastersthesis' %}
 {{paper.school}} MA thesis.
+{% endif %}
+
+{% if paper.doi != null %}
+DOI: <a href='https://doi.org/{{paper.doi | uri_escape}}'>{{paper.doi}}</a>
 {% endif %}
