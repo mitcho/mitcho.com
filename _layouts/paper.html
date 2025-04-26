@@ -42,10 +42,12 @@ layout: default
 
 		{% include files.html files=paper.files %}
 
+		{% if paper.keywords.size > 0 %}
 		<p class='post-meta'><strong>Keywords:</strong> 
 		{% for keyword in paper.keywords %}
 			<a class='pill' href='//google.com/search?q={{ keyword | prepend: '"' | append: '"' | uri_escape }}%20site:mitcho.com%20inurl:/research/%20filetype:html'>{{ keyword }}</a>
 		{% endfor %}
 		</p>
+		{% endif %}
 	</article>
 </div>
