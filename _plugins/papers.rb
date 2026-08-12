@@ -28,10 +28,10 @@ module Jekyll
           target = File.join(site.dest, data['paper'][type]['target'])
           
 #           if !self.site.config["incremental"] || self.site.regenerator.modified?(source)
-            FileUtils.cp(source, target)
             if self.site.config.verbose
-              puts "cp #{source} #{target}"
+              puts "cp '#{source}' '#{data['paper'][type]['target']}'"
             end
+            FileUtils.cp(source, target)
 #             self.site.regenerator.add(source)
 #           end
         end

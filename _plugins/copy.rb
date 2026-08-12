@@ -11,11 +11,12 @@ module Jekyll
 
 #             if !page.site.config["incremental"] || @regenerator.modified?(source)
               target = File.join(page.site.dest, page.dir, File.basename(source))
-              FileUtils.cp(source, target)
               if page.site.config.verbose
-                puts "cp #{source} #{target}"
+                puts "cp '#{source}' '#{File.join(page.dir, File.basename(source))}'"
+#                 puts File.size(source)
 #                 @regenerator.add(source)
               end
+              FileUtils.cp(source, target)
 #             end
           end
         end
