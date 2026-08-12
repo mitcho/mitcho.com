@@ -1,0 +1,17 @@
+
+
+{% assign papers = (site.data.bib | where_exp: "paper", "paper.projects.size == 0" | sort: "year") %}
+{% include research-group.html title='Uncategorized' papers = papers number='asc' %}
+
+
+<h2>Hidden</h2>
+
+{% assign papers = (site.data.bib | where_exp: "paper", "paper.keywords contains 'hidden'" | sort: "year") %}
+
+<ol class='research-group'>
+{% for paper in papers %}
+	<li>{% include research-single.html paper = paper projectlink = true short = true %}</li>
+{% endfor %}
+</ol>
+
+
