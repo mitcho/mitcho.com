@@ -9,11 +9,8 @@
     href: "/erlewine-cv.pdf"
     event: "cv"
 
-- title: "lab"
-  href: "/lab"
-
-- title: "students"
-  href: "/students"
+- title: "advisees"
+  href: "/advisees"
 
 - title: "teaching"
   href: "/teaching"
@@ -24,6 +21,3 @@
 - title: "insta"
   href: "https://instagram.com/mitcho"
 
-- title: "twitter (inactive)"
-  href: "https://twitter.com/themitcho"
-  

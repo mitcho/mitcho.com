@@ -9,7 +9,7 @@ url: "http://mitcho.com" # the base hostname & protocol for your site
 markdown:    kramdown
 highlighter: pygments
 exclude:     ["_hidden"]
-timezone:    America/New_York
+timezone:    Europe/Helsinki
 plugins:
   - jekyll-redirect-from
   - jemoji
