@@ -1,5 +1,5 @@
 ---
-title: Non-interrogative uses of *wh*-words
+title: Non-interrogative uses of question words
 layout: project
 projects:
 - wh
