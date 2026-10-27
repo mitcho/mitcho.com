@@ -37,7 +37,7 @@ Current PhD students:
 
 Dissertations advised as chair or committee member (actively engaged in the thesis project):
 
-* [Ka Fai Yip](https://kafai-yip.github.io/), Yale, 2026: *Doubling down on Exclusivity: Issues at the Syntax-semantics Interface*
+* [Ka Fai Yip](https://kafai-yip.github.io/), Yale, 2026: [*Doubling down on Exclusivity: Issues at the Syntax-semantics Interface*](https://ling.auf.net/lingbuzz/010255)
 * [Daniel Aremu](https://aremudaniel90.wixsite.com/linguist-dan), Goethe University Frankfurt, 2025 (as second supervisor): [*Focus sensitivity in Mabia and Yoruboid*](https://lingbuzz.net/lingbuzz/009653/)
 * Anne Nguyen, NUS, 2021 (as chair): [*Formal analysis of the Vietnamese sentence-final particle cơ*](nguyen2021.pdf)
 	* Resulting publication: ["A scalar semantics for the Vietnamese sentence-final particle *cơ*"](https://www.taylorfrancis.com/chapters/edit/10.4324/9781351057752-10/scalar-semantics-vietnamese-sentence-final-particle-c%C6%A1-anne-nguyen)
@@ -45,7 +45,7 @@ Dissertations advised as chair or committee member (actively engaged in the thes
 
 Selected dissertations for which I served as reviewer / defense panel member (after the thesis was substantially written):
 
-* Magdalena Lohninger, Vienna, 2025: *Patterns in Chaos: Composite A'/A Probes*
+* Magdalena Lohninger, Vienna, 2025: [*Patterns in Chaos: Composite A'/A Probes*](https://ling.auf.net/lingbuzz/010340)
 * James Gray, ANU, 2023: [*Topics in Pintupi-Luritja syntax and semantics*](https://doi.org/10.25911/KV2M-AF51)
 
 

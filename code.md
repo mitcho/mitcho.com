@@ -13,15 +13,15 @@ permalink: /code/
 * **[colloq](https://github.com/mitcho/colloq):** software I maintained at MIT Linguistics for nominating and voting on colloquium speakers, now open-sourced
 * **[The Antisymmetrizer](/blog/antisymmetrizer/):** an online tool which linearizes trees according to the Linear Correspondance Axiom (Kayne, 1994)
 
-In a past life, I was a coder most active in the WordPress and Mozilla (Firefox) spaces. I have now essentially retired from professional coding to focus on my [academic work][1], but still maintain personal connections with these communities. From time to time I also consult and advise startups on language technology issues.
+See also [my academic research projects with corpus and computational aspects](/projects/comp.md).
 
-My most popular open-source project was the [Yet Another Related Posts Plugin][3] for WordPress and I also contributed for years to WordPress Core. I was also a core developer for the experimental natural language interface [Mozilla Ubiquity][5] (described in [this paper](https://mitcho.com/research/ubiquity.html)) and the [Tab Groups][6] feature in Firefox. Notable previous clients and employers include [Automattic][7], [Mozilla][8], [Gameloft][9], [MIT][10], [the University of Chicago][11], [Vlingo][12] (now part of Nuance), and [JDRF][13].
+In a past life, I was a programmer most active in the WordPress and Mozilla (Firefox) spaces. I moved away from professional coding to focus on my academic research, but still maintain personal connections with these communities.
 
- [1]: /academic
+My most popular open-source project was the [Yet Another Related Posts Plugin][3] for WordPress and I also contributed for years to WordPress Core. I was also a lead developer of the experimental natural language interface [Mozilla Ubiquity][5] (described in [this paper](https://mitcho.com/research/ubiquity.html)) and the early Tab Groups (aka "Panorama") feature in Firefox. Notable previous clients and employers include [Automattic][7], [Mozilla][8], [Gameloft][9], [MIT][10], [the University of Chicago][11], [Vlingo][12] (now part of Microsoft), and [JDRF][13].
+
  [2]: http://github.com/mitcho
  [3]: http://yarpp.org
  [5]: https://mozillalabs.com/ubiquity
- [6]: https://support.mozilla.com/en-US/kb/what-are-tab-groups
  [7]: http://automattic.com
  [8]: http://mozilla.com
  [9]: http://gameloft.com

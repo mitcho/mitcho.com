@@ -1,7 +1,7 @@
 ---
 layout: page
 nosidebar: yes
-title: SICOGG 22: Lectures on focus
+title: Lectures on focus, SICOGG 22
 permalink: /teaching/sicogg22/
 copy:
 - /Users/mitcho/Dropbox/academic/teaching/2020 sicogg/notes/handout.pdf
