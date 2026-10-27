@@ -15,7 +15,7 @@ layout: default
 		{% for project in site.data.projects %}
 			{% assign projects = site.pages | where_exp:"page","page.projects contains project" %}
 			{% for link in projects %}
-<h3><a href='{{ link.url | urlescape }}'>{{ link.title | markdownify | replace: '<p>','' | replace: '</p>','' }}</a></h3>
+<h3><a href='{{ link.url | urlescape }}'>{{ link.title | markdownify | replace: '<p>','' | replace: '</p>','' }}</a><!--{% if link.coauthors %} <span style="font-weight: 300">with {{link.coauthors}}{% endif %}--></h3>
 			{% endfor %}
 		{% endfor %}
 	</article>
