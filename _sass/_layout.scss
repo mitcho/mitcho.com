@@ -41,6 +41,8 @@
 	#image {
 		width: $nav-width;
 		height: calc(150px / 270px * $nav-width);
+		object-fit: cover;
+		object-position: center;
 	}
 	#image-sq {
 		display: none;
