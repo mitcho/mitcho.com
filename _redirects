@@ -1,0 +1,75 @@
+# Cloudflare Pages _redirects
+# Deploy this file at the root of the published output directory.
+
+# Main redirects
+/academic/erlewine-cv.pdf /erlewine-cv.pdf 301
+/academic /research/ 301
+/photos https://secure.flickr.com/photos/themitcho 301
+/academic/antisymmetry /blog/antisymmetrizer/ 301
+/code/hookpress https://wordpress.org/plugins/hookpress/ 301
+
+# Publication and handout redirects
+/academic/erlewine-afla20-preprint.pdf /research/squliq.pdf 301
+/academic/erlewine-cls48-preprint.pdf /research/haishi.pdf 301
+/academic/erlewine-naccl25-preprint.pdf /research/sfp.pdf 301
+/academic/elu-afla21-preprint.pdf /research/voice-afla.pdf 301
+/academic/erlewine-sigir.pdf /research/ubiquity.pdf 301
+/academic/erlewine-sigir-slides.pdf /research/slides-ubiquity.pdf 301
+/focus-traces-draft.pdf /research/dissertation.html 301
+/academic/erlewine-thesis.pdf /research/thesis.pdf 301
+/academic/erlewine-wccfl29-preprint.pdf https://www.lingref.com/cpp/wccfl/29/paper2687.pdf 301
+/academic/erlewine-wccfl31-preprint.pdf https://www.lingref.com/cpp/wccfl/31/paper3017.pdf 301
+/academic/erlewine-gould-wccfl31-preprint.pdf https://www.lingref.com/cpp/wccfl/31/paper3018.pdf 301
+/academic/handout-20101014.pdf /research/handout-haishi.pdf 301
+/academic/handout-20110422.pdf /research/handout-bi-wccfl.pdf 301
+/academic/handout-20110908.pdf /research/handout-dake.pdf 301
+/academic/handout-afla2013.pdf /research/handout-squliq.pdf 301
+/academic/handout-afla2014.pdf /research/handout-voice-afla.pdf 301
+/academic/handout-cls2012.pdf /research/handout-haishi.pdf 301
+/academic/handout-glow2012.pdf /research/handout-glow2012.pdf 301
+/academic/handout-naccl25.pdf /research/handout-sfp.pdf 301
+/academic/handout-nels2012.pdf /research/handout-focus-piedpiping.pdf 301
+/academic/slides-nels2012.pdf /research/slides-focus-piedpiping.pdf 301
+/academic/handout-sub2013.pdf /research/handout-leftward.pdf 301
+/academic/handout-teal2014.pdf /research/handout-teal9.pdf 301
+/academic/slides-isle2.pdf /research/slides-isle2.pdf 301
+/academic/slides-lsa2014-blocking.pdf /research/slides-blocking-lsa2014.pdf 301
+/academic/erlewine-dissertation.pdf https://ling.auf.net/lingbuzz/002210/current.pdf 301
+
+# Rename
+/research/rppp.pdf /research/rppp-cls.pdf 301
+
+# 2017 talk migration
+/research/handout-af-restructuring.pdf /research/handout-ssila2015.pdf 301
+/research/slides-af-restructuring.pdf /research/slides-ssila2015.pdf 301
+/research/slides-already.pdf /research/slides-spcl2017.pdf 301
+/research/handout-batak-glow.pdf /research/handout-glow2017.pdf 301
+/research/slides-batak-glow.pdf /research/slides-glow2017.pdf 301
+/research/slides-blocking-lsa2014.pdf /research/slides-lsa2014-blocking.pdf 301
+/research/slides-isle2.pdf /research/slides-isle2011.pdf 301
+/research/handout-manang.pdf /research/handout-triplea2017.pdf 301
+/research/handout-sfp.pdf /research/handout-cuhk2016.pdf 301
+/research/slides-sfp.pdf /research/slides-cuhk2016.pdf 301
+/research/handout-shi-eacl.pdf /research/handout-eacl2015.pdf 301
+/research/slides-shi-eacl.pdf /research/slides-eacl2015.pdf 301
+/research/handout-shi-keio.pdf /research/handout-talk2016-shi.pdf 301
+/research/slides-shi-keio.pdf /research/slides-talk2016-shi.pdf 301
+/research/handout-teal9.pdf /research/handout-teal2014.pdf 301
+/research/handout-comp.pdf /research/handout-comp2010.pdf 301
+
+# Legacy WordPress media paths
+/blog/wp-content/* /static/:splat 301
+
+# consolidate NUS regular teaching to only 2021 courses:
+/nus/gram2016 /nus/gram2021/ 301
+/nus/gram2017 /nus/gram2021/ 301
+/nus/gram2019 /nus/gram2021/ 301
+/nus/gram2020 /nus/gram2021/ 301
+/nus/gram2025 /nus/gram2021/ 301
+/nus/sem2016 /nus/sem2021/ 301
+/nus/sem2017 /nus/sem2021/ 301
+/nus/sem2017spring /nus/sem2021/ 301
+/nus/sem2019 /nus/sem2021/ 301
+/nus/sem2021 /nus/sem2021/ 301
+/nus/sem2025 /nus/sem2021/ 301
+

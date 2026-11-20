@@ -1,12 +1,7 @@
-#! /bin/bash
-# deploy script
+#!/bin/bash
 
-echo "Deploying to server..."
-rsync -rzcp --chmod=a+r --delete _stagingsite/ root@mitcho.com:/var/www/mitcho.com/html
-echo "Deploy complete!"
-
-echo "Updating redirects file"
-rsync -zcp --chmod=a+r _stagingsite/redirects.conf root@mitcho.com:/var/www/mitcho.com/conf/redirects.conf
-echo "Kicking nginx"
-ssh root@mitcho.com 'service nginx configtest'
-ssh root@mitcho.com 'service nginx reload'
+pushd _stagingsite || exit 1
+git add -f .
+git commit -m "$(date +%Y-%m-%d)"
+git push --force
+popd

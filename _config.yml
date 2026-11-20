@@ -15,6 +15,9 @@ plugins:
   - jekyll-redirect-from
   - jemoji
 
+include:
+    - _redirects
+
 disqusid: "http://mitcho.com"
 
 # Permalinks
